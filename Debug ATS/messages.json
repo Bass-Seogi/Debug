@@ -23808,7 +23808,7 @@
 		"description": "Id: aca_msg_book1_3_03_check3\nGroup: Book 1 Scenario 3_03"
 	},
 	"aca_msg_book1_3_03_check4": {
-		"message": "이 회전은 저그 핸들 절차로 접근하는 것이 가장 좋습니다. 교차로에 진입하기 전에 넓게 스윙하세요.<br><br><font face=/font/big_bold.font>저그 핸들 회전을 하십시오. </font>",
+		"message": "이 회전은 저그 핸들 절차로 접근하는 것이 가장 좋습니다. 교차로에 진입하기 전에 넓게 회전하세요.<br><br><font face=/font/big_bold.font>저그 핸들 회전을 하십시오. </font>",
 		"description": "Id: aca_msg_book1_3_03_check4\nGroup: Book 1 Scenario 3_03"
 	},
 	"aca_msg_book1_3_03_check5": {
@@ -24652,7 +24652,7 @@
 		"description": "Id: aca_msg_book1_3_11_cutscene5\nGroup: Book 1 Scenario 3_11"
 	},
 	"aca_msg_book1_3_11_cutscene6": {
-		"message": "트레일러가 이미 출구 안쪽에서 떨어져 있으므로 회전교차로를 빠져나가는 것은 꽤 쉽습니다. 출구에서 넓게 스윙하면 트레일러가 잘 따라올 것입니다.",
+		"message": "트레일러가 이미 출구 안쪽에서 떨어져 있으므로 회전교차로를 빠져나가는 것은 꽤 쉽습니다. 출구에서 넓게 회전하면 트레일러가 잘 따라올 것입니다.",
 		"description": "Id: aca_msg_book1_3_11_cutscene6\nGroup: Book 1 Scenario 3_11"
 	},
 	"aca_msg_book1_3_11_cutscene7": {
@@ -25020,7 +25020,7 @@
 		"description": "Id: aca_msg_book1_3_15_cutscene12\nGroup: Book 1 Scenario 3_15"
 	},
 	"aca_msg_book1_3_15_cutscene13": {
-		"message": "회전 전에 넓게 스윙하고 교차로 깊게 진입한 후 재빨리 방향을 바꾸십시오. 다시 한번, 회전을 가능한 한 넓게 유지하려면 장해물에 최대한 가까이 있는 것이 이상적입니다.",
+		"message": "회전 전에 넓게 회전하고 교차로 깊게 진입한 후 재빨리 방향을 바꾸십시오. 다시 한번, 회전을 가능한 한 넓게 유지하려면 장해물에 최대한 가까이 있는 것이 이상적입니다.",
 		"description": "Id: aca_msg_book1_3_15_cutscene13\nGroup: Book 1 Scenario 3_15"
 	},
 	"aca_msg_book1_3_15_cutscene14": {
@@ -25128,7 +25128,7 @@
 		"description": "Id: aca_msg_book1_3_16_backward\nGroup: Book 1 Scenario 3_16"
 	},
 	"aca_msg_book1_3_16_check1": {
-		"message": "트레일러를 옆에 있는 트럭 쪽으로 옮기기 시작합니다. 준비가 되면 트레일러를 주차 공간으로 돌립니다. 트레일러의 꼬리 스윙을 고려하는 것을 잊지 마세요.<br><br><font face=/font/big_bold.font>주차 공간으로 돌립니다. </font>",
+		"message": "트레일러를 옆에 있는 트럭 쪽으로 옮기기 시작합니다. 준비가 되면 트레일러를 주차 공간으로 돌립니다. 트레일러의 꼬리 회전을 고려하는 것을 잊지 마세요.<br><br><font face=/font/big_bold.font>주차 공간으로 돌립니다. </font>",
 		"description": "Id: aca_msg_book1_3_16_check1\nGroup: Book 1 Scenario 3_16"
 	},
 	"aca_msg_book1_3_16_stop": {
@@ -25268,7 +25268,7 @@
 		"description": "Id: aca_msg_book1_3_18_cutscene02\nGroup: Book 1 Scenario 3_18"
 	},
 	"aca_msg_book1_3_18_cutscene03": {
-		"message": "공간이 적으므로 타이밍이 더 중요합니다. 적절한 시기에 트레일러를 돌리고 트랙터와 트레일러 바퀴를 살펴보며 어디로 갈지 확인하세요. 꼬리 스윙을 염두에 두고 잭나이프 하지 않도록 기억하세요. 트레일러를 계속 밀어주십시오.",
+		"message": "공간이 적으므로 타이밍이 더 중요합니다. 적절한 시기에 트레일러를 돌리고 트랙터와 트레일러 바퀴를 살펴보며 어디로 갈지 확인하세요. 꼬리 회전을 염두에 두고 잭나이프 하지 않도록 기억하세요. 트레일러를 계속 밀어주십시오.",
 		"description": "Id: aca_msg_book1_3_18_cutscene03\nGroup: Book 1 Scenario 3_18"
 	},
 	"aca_msg_book1_3_18_cutscene04": {
