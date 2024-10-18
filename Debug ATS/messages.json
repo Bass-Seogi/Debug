@@ -22800,7 +22800,7 @@
 		"description": "Id: aca_msg_book1_2_02_check2\nGroup: Book 1 Scenario 2_02"
 	},
 	"aca_msg_book1_2_02_check3": {
-		"message": "@@aca_msg_book1_2_02_check3_img@@ <br>코스는 90도 회전을 통해 앞으로 계속됩니다.<br><br>회전하기 전에 왼쪽에 유지하고, 코너 깊숙이 운전하고 빠르고 날카롭게 회전합니다. 안쪽 트래픽콘에 부딪히지 않도록 주의해야 됩니다.<br><br><font face=/font/big_bold.font>앞으로 운전하고 회전하십시오. </font>",
+		"message": "@@aca_msg_book1_2_02_check3_img@@ <br>코스는 90도 회전을 통해 앞으로 계속됩니다.<br><br>회전하기 전에 왼쪽에 유지하고, 코너 깊게 운전하고 빠르고 날카롭게 회전합니다. 안쪽 트래픽콘에 부딪히지 않도록 주의해야 됩니다.<br><br><font face=/font/big_bold.font>앞으로 운전하고 회전하십시오. </font>",
 		"description": "Id: aca_msg_book1_2_02_check3\nGroup: Book 1 Scenario 2_02"
 	},
 	"aca_msg_book1_2_02_check4": {
@@ -23448,7 +23448,7 @@
 		"description": "Id: aca_msg_book1_2_09_cutscene6\nGroup: Book 1 Scenario 2_09"
 	},
 	"aca_msg_book1_2_09_cutscene7": {
-		"message": "바퀴를 똑바로 세우고 트럭을 주차 공간의 중앙에 놓습니다.<br>주차하고 트럭을 고정하십시오.",
+		"message": "앞바퀴를 정렬 하고 트럭을 주차 공간의 중앙에 놓습니다.<br>주차하고 트럭을 고정하십시오.",
 		"description": "Id: aca_msg_book1_2_09_cutscene7\nGroup: Book 1 Scenario 2_09"
 	},
 	"aca_msg_book1_2_09_start": {
@@ -23472,7 +23472,7 @@
 		"description": "Id: aca_msg_book1_2_09_backward\nGroup: Book 1 Scenario 2_09"
 	},
 	"aca_msg_book1_2_09_stop": {
-		"message": "적절할 때 트럭을 곧게 펴기 시작하십시오. 연석을 넘어 운전하지 마세요!<br><br><font face=/font/big_bold.font>트럭을 해당 지점에 맞춰 정렬하십시오. </font>",
+		"message": "적절할 때 트럭을 정렬 하기 시작하십시오. 연석을 넘어 운전하지 마세요!<br><br><font face=/font/big_bold.font>트럭을 해당 지점에 맞춰 정렬하십시오. </font>",
 		"description": "Id: aca_msg_book1_2_09_stop\nGroup: Book 1 Scenario 2_09"
 	},
 	"aca_msg_book1_2_09_end": {
@@ -24208,7 +24208,7 @@
 		"description": "Id: aca_msg_book1_3_06_forward\nGroup: Book 1 Scenario 3_06"
 	},
 	"aca_msg_book1_3_06_check1": {
-		"message": "주차 공간을 지나 트레일러를 표시된 구역에 맞춘 다음 트랙터를 해당 장소로 가져와서 곧게 펴십시오.<br><br><font face=/font/big_bold.font>지정된 구역에 주차하십시오. </font>",
+		"message": "주차 공간을 지나 트레일러를 표시된 구역에 맞춘 다음 트랙터를 해당 장소로 가져와서 정렬 하십시오.<br><br><font face=/font/big_bold.font>지정된 구역에 주차하십시오. </font>",
 		"description": "Id: aca_msg_book1_3_06_check1\nGroup: Book 1 Scenario 3_06"
 	},
 	"aca_msg_book1_3_06_stop": {
@@ -24436,7 +24436,7 @@
 		"description": "Id: aca_msg_book1_3_08_check1\nGroup: Book 1 Scenario 3_08"
 	},
 	"aca_msg_book1_3_08_stop": {
-		"message": "<font face=/font/big_bold.font>주차 장소에 접근하면 트랙터를 트레일러 앞으로 가져와서 곧게 펴십시오.<color value=@@clr_txt@@><br><br>지정된 구역으로 이동하십시오. </font>",
+		"message": "<font face=/font/big_bold.font>주차 장소에 접근하면 트랙터를 트레일러 앞으로 가져와서 정렬하십시오.<color value=@@clr_txt@@><br><br>지정된 구역으로 이동하십시오. </font>",
 		"description": "Id: aca_msg_book1_3_08_stop\nGroup: Book 1 Scenario 3_08"
 	},
 	"aca_msg_book1_3_08_end": {
@@ -24560,7 +24560,7 @@
 		"description": "Id: aca_msg_book1_3_10_cutscene4\nGroup: Book 1 Scenario 3_10"
 	},
 	"aca_msg_book1_3_10_cutscene5": {
-		"message": "트레일러가 주차 장소에 들어가면 트럭을 곧게 펴기 시작합니다.",
+		"message": "트레일러가 주차 장소에 들어가면 트럭을 정렬하기 시작합니다.",
 		"description": "Id: aca_msg_book1_3_10_cutscene5\nGroup: Book 1 Scenario 3_10"
 	},
 	"aca_msg_book1_3_10_cutscene6": {
@@ -25000,7 +25000,7 @@
 		"description": "Id: aca_msg_book1_3_15_cutscene07\nGroup: Book 1 Scenario 3_15"
 	},
 	"aca_msg_book1_3_15_cutscene08": {
-		"message": "교차로까지 깊숙이 진입한 후 빠르게 오른쪽으로 급회전하십시오.",
+		"message": "교차로까지 깊게 진입한 후 빠르게 오른쪽으로 급회전하십시오.",
 		"description": "Id: aca_msg_book1_3_15_cutscene08\nGroup: Book 1 Scenario 3_15"
 	},
 	"aca_msg_book1_3_15_cutscene09": {
@@ -25020,7 +25020,7 @@
 		"description": "Id: aca_msg_book1_3_15_cutscene12\nGroup: Book 1 Scenario 3_15"
 	},
 	"aca_msg_book1_3_15_cutscene13": {
-		"message": "회전 전에 넓게 스윙하고 교차로 깊숙이 진입한 후 재빨리 방향을 바꾸십시오. 다시 한번, 회전을 가능한 한 넓게 유지하려면 장해물에 최대한 가까이 있는 것이 이상적입니다.",
+		"message": "회전 전에 넓게 스윙하고 교차로 깊게 진입한 후 재빨리 방향을 바꾸십시오. 다시 한번, 회전을 가능한 한 넓게 유지하려면 장해물에 최대한 가까이 있는 것이 이상적입니다.",
 		"description": "Id: aca_msg_book1_3_15_cutscene13\nGroup: Book 1 Scenario 3_15"
 	},
 	"aca_msg_book1_3_15_cutscene14": {
@@ -25044,7 +25044,7 @@
 		"description": "Id: aca_msg_book1_3_15_check2\nGroup: Book 1 Scenario 3_15"
 	},
 	"aca_msg_book1_3_15_check3": {
-		"message": "왼쪽으로의 공간이 제한적이므로 트레일러가 연석에서 떨어지지 않도록 교차로까지 깊숙이 운전해야 합니다.<br><br><font face=/font/big_bold.font>버튼 후크 회전을 하십시오. </font>",
+		"message": "왼쪽으로의 공간이 제한적이므로 트레일러가 연석에서 떨어지지 않도록 교차로까지 깊게 운전해야 합니다.<br><br><font face=/font/big_bold.font>버튼 후크 회전을 하십시오. </font>",
 		"description": "Id: aca_msg_book1_3_15_check3\nGroup: Book 1 Scenario 3_15"
 	},
 	"aca_msg_book1_3_15_check4": {
