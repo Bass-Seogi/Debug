@@ -336,7 +336,7 @@
 		"description": "Id: costs_list\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
 	},
 	"ats_diamond_apple_blossom": {
-		"message": "디아모드 애플 블러썸",
+		"message": "다이아몬드 애플 블러썸",
 		"description": "Id: diamond_apple_blossom\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
 	},
 	"ats_dreamcatcher": {
@@ -347,9 +347,17 @@
 		"message": "비상 삼각대",
 		"description": "Id: emergency_triangles\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
 	},
+	"ats_ear_mufflers": {
+		"message": "귀 머플러",
+		"description": "Id: ear_mufflers\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
 	"ats_expenses_list": {
 		"message": "지출품의서",
 		"description": "Id: expenses_list\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_first_sign": {
+		"message": "퍼스트 사인",
+		"description": "Id: first_sign\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
 	},
 	"ats_fishing_bag": {
 		"message": "낚시 가방",
@@ -462,6 +470,10 @@
 	"ats_mountain_goat_plush": {
 		"message": "산양 봉제 인형",
 		"description": "Id: mountain_goat_plush\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_owl_mug": {
+		"message": "OWL 머그잔",
+		"description": "Id: owl_mug\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
 	},
 	"ats_peppermints": {
 		"message": "페퍼민트",
