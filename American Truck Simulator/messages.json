@@ -21764,15 +21764,15 @@
 		"description": "Id: aca_engine_off_1\nGroup: Hint messages shown in game."
 	},
 	"aca_engine_off_2": {
-		"message": "엔진을 작동시키려면 $KEY$를 누르십시오.",
+		"message": "엔진을 작동시키려면 $KEY$을(를) 누르십시오.",
 		"description": "Id: aca_engine_off_2\nGroup: Hint messages shown in game."
 	},
 	"aca_electronics_off_1": {
-		"message": "점화 꺼짐",
+		"message": "점화장치 꺼짐",
 		"description": "Id: aca_electronics_off_1\nGroup: Hint messages shown in game."
 	},
 	"aca_electronics_off_2": {
-		"message": "$KEY$을(를) 눌러 점화를 켜세요.",
+		"message": "$KEY$을(를) 눌러 점화장치를 켜세요.",
 		"description": "Id: aca_electronics_off_2\nGroup: Hint messages shown in game."
 	},
 	"aca_book_inaccessible": {
@@ -21804,7 +21804,7 @@
 		"description": "Id: aca_book_book1_title\nGroup: Books general."
 	},
 	"aca_book_book1_desc": {
-		"message": "기본 기능과 제어, 트레일러 조종까지 트럭 운전의 기본 사항을 배워보세요.",
+		"message": "기본 기능과 제어, 트레일러로 기동하는 방법까지 트럭 운전의 기본을 배워보세요.",
 		"description": "Id: aca_book_book1_desc\nGroup: Books general."
 	},
 	"aca_book_book2_title": {
@@ -21852,7 +21852,7 @@
 		"description": "Id: aca_chapter_book1_3_title\nGroup: Chapters general"
 	},
 	"aca_chapter_book1_3_desc": {
-		"message": "다양한 상황에서 트레일러에 연결하고 조종하는 방법을 배우세요.",
+		"message": "트레일러를 연결하고 다양한 상황을 헤쳐나가는 방법을 알아보세요.",
 		"description": "Id: aca_chapter_book1_3_desc\nGroup: Chapters general"
 	},
 	"aca_chapter_book1_3_completed": {
@@ -21912,11 +21912,11 @@
 		"description": "Id: aca_goal_no_collision\nGroup: Scenarios general"
 	},
 	"aca_goal_follow_instr_fail": {
-		"message": "지침을 따르지 못했습니다",
+		"message": "지침을 따르지 않았습니다",
 		"description": "Id: aca_goal_follow_instr_fail\nGroup: Scenarios general"
 	},
 	"aca_msg_follow_instr_fail": {
-		"message": "지침을 따르지 못했습니다.<br><br><font face=/font/big_bold.font>더 많은 옵션을 보려면 @@imv_nrm_menu@@를 누르십시오. </font>",
+		"message": "지침을 따르지 않았습니다.<br><br><font face=/font/big_bold.font>더 많은 옵션을 보려면 @@imv_nrm_menu@@을(를) 누르십시오. </font>",
 		"description": "Id: aca_msg_follow_instr_fail\nGroup: Scenarios general"
 	},
 	"aca_goal_follow_instr_speed": {
@@ -21948,11 +21948,11 @@
 		"description": "Id: aca_msg_book1_intro_cutscene04\nGroup: Book 1 intro"
 	},
 	"aca_msg_book1_intro_cutscene05": {
-		"message": "우리는 여러분이 다양한 상황을 안전하게 헤쳐나갈 수 있도록 돕는 습관을 심어줄 것입니다,",
+		"message": "다양한 상황을 안전하게 탐색하는 데 도움이 되는 습관을 심어줄 수 있도록 도와드리겠습니다.",
 		"description": "Id: aca_msg_book1_intro_cutscene05\nGroup: Book 1 intro"
 	},
 	"aca_msg_book1_intro_cutscene06": {
-		"message": "그리고 트럭을 효과적으로 조종하기 위해 사용 가능한 공간을 현명하게 사용하는 방법을 가르쳐드립니다.",
+		"message": "그리고 트럭을 효과적으로 조종하기 위해 주어진 공간을 현명하게 사용하는 방법을 가르쳐드립니다.",
 		"description": "Id: aca_msg_book1_intro_cutscene06\nGroup: Book 1 intro"
 	},
 	"aca_msg_book1_intro_cutscene07": {
@@ -21980,7 +21980,7 @@
 		"description": "Id: aca_goal_book1_1_01_check_adj\nGroup: Book 1 Scenario 1_01"
 	},
 	"aca_msg_book1_1_01_cutscene1": {
-		"message": "첫 번째 수업에 오신 것을 환영합니다!<br>먼저, 트럭을 도로 주행에 대비해 준비하는 방법부터 알아보겠습니다.",
+		"message": "첫 번째 수업에 오신 것을 환영합니다!<br>먼저, 도로 주행에 대비해 준비하는 방법부터 알아보겠습니다.",
 		"description": "Id: aca_msg_book1_1_01_cutscene1\nGroup: Book 1 Scenario 1_01"
 	},
 	"aca_msg_book1_1_01_cutscene2": {
@@ -22044,11 +22044,11 @@
 		"description": "Id: adj_tut_set_seat_and_back_adj\nGroup: Book 1 Scenario 1_01"
 	},
 	"adj_tut_open_mirrors_intro": {
-		"message": "@@adj_tut_open_mirrors_intro_img@@<br>트럭에는 큰 사각지대가 많으므로 운전자가 최대한 많이 볼 수 있도록 여러 개의 외부 거울이 장착되어 있습니다. <br><br>이러한 거울을 적절히 조정하면 주변을 최대한 잘 볼 수 있습니다.<br><br>계속하려면 <font face=/font/big_bold.font>@@adj_mirrors@@</font>를 여십시오.",
+		"message": "@@adj_tut_open_mirrors_intro_img@@<br>트럭에는 큰 사각지대가 많으므로 운전자가 최대한 많이 볼 수 있도록 여러 개의 외부 거울이 장착되어 있습니다. <br><br>이러한 거울을 적절히 조정하면 주변을 최대한 잘 볼 수 있습니다.<br><br>계속하려면 <font face=/font/big_bold.font>@@adj_mirrors@@</font>을(를) 여십시오.",
 		"description": "Id: adj_tut_open_mirrors_intro\nGroup: Book 1 Scenario 1_01"
 	},
 	"adj_tut_set_mirrors_t1_1_adj": {
-		"message": "@@adj_tut_set_mirrors_t1_1_adj_img@@<br>주 미러는 트럭과 트레일러 측면의 공간을 덮습니다.<br><br>주 미러의 올바른 위치를 조정하려면 차량 양쪽의 차량을 참고로 사용하세요.<br><br><font face=/font/big_bold.font>계속하려면 @@imv_nrm_selectfcs@@를 누르십시오.</font>",
+		"message": "@@adj_tut_set_mirrors_t1_1_adj_img@@<br>주 미러는 트럭과 트레일러 측면의 공간을 덮습니다.<br><br>주 미러의 올바른 위치를 조정하려면 차량 양쪽의 차량을 참고로 사용하세요.<br><br><font face=/font/big_bold.font>계속하려면 @@imv_nrm_selectfcs@@을(를) 누르십시오.</font>",
 		"description": "Id: adj_tut_set_mirrors_t1_1_adj\nGroup: Book 1 Scenario 1_01"
 	},
 	"adj_tut_set_mirrors_t1_2_adj": {
@@ -22108,7 +22108,7 @@
 		"description": "Id: adj_tut_close_adj\nGroup: Book 1 Scenario 1_01"
 	},
 	"adj_tut_open_con": {
-		"message": "운전석에서 보이는 전망이 만족스러운지, 그리고 거울을 통해 트럭 주변 상황을 잘 볼 수 있는지 한 번 더 살펴보세요.<br><br>만약 마음에 들지 않으면 @@adjust_link_t@@ 구성 메뉴에서 거울을 다시 조정할 수 있습니다. <br><br><font face=/font/big_bold.font>첫 번째 시나리오를 종료하려면 @@imv_nrm_activate@@를 누르십시오. </font>",
+		"message": "운전석에서 보이는 전망이 만족스러운지, 그리고 거울을 통해 트럭 주변 상황을 잘 볼 수 있는지 한 번 더 살펴보세요.<br><br>만약 마음에 들지 않으면 @@adjust_link_t@@ 구성 메뉴에서 거울을 다시 조정할 수 있습니다. <br><br><font face=/font/big_bold.font>첫 번째 시나리오를 종료하려면 @@imv_nrm_activate@@을(를) 누르십시오. </font>",
 		"description": "Id: adj_tut_open_con\nGroup: Book 1 Scenario 1_01"
 	},
 	"aca_scenario_book1_1_02_title": {
@@ -22152,7 +22152,7 @@
 		"description": "Id: aca_msg_book1_1_02_cutscene3\nGroup: Book 1 Scenario 1_02"
 	},
 	"aca_msg_book1_1_02_seat": {
-		"message": "가고 있는 곳을 보는 것은 안전하고 전문적인 운전의 핵심 기반입니다. 현재 시트 위치가 마음에 들지 않으면 @@adjust_link_t@@에서 변경할 수 있습니다(일시 중지 메뉴를 통해 액세스).<br><br><font face=/font/big_bold.font>준비가 되면 @@imv_nrm_activate@@로 확인하십시오. </font>",
+		"message": "가고 있는 곳을 보는 것은 안전하고 전문적인 운전의 핵심 기반입니다. 현재 시트 위치가 마음에 들지 않으면 @@adjust_link_t@@에서 변경할 수 있습니다(일시 중지 메뉴를 통해 액세스).<br><br><font face=/font/big_bold.font>준비가 되면 @@imv_nrm_activate@@(으)로 확인하십시오. </font>",
 		"description": "Id: aca_msg_book1_1_02_seat\nGroup: Book 1 Scenario 1_02"
 	},
 	"aca_msg_book1_1_02_look_back": {
@@ -22172,15 +22172,15 @@
 		"description": "Id: aca_msg_book1_1_02_look_around\nGroup: Book 1 Scenario 1_02"
 	},
 	"aca_msg_book1_1_02_cam_top": {
-		"message": "<font face=/font/big_bold.font>@@imv_nrm_camcycle@@을 다시 누르면 다음 카메라로 전환할 수 있습니다. </font>",
+		"message": "<font face=/font/big_bold.font>@@imv_nrm_camcycle@@을(를) 다시 누르면 다음 카메라로 전환할 수 있습니다. </font>",
 		"description": "Id: aca_msg_book1_1_02_cam_top\nGroup: Book 1 Scenario 1_02"
 	},
 	"aca_msg_book1_1_02_cam_cabin": {
-		"message": "탑-다운 카메라 기능은 트럭 주변 상황을 훌륭한 개요를 보여주어 좁은 공간에서 주차하고 운전하는 것을 크게 간소화합니다.<br><br><font face=/font/big_bold.font>@@imv_nrm_camcycle@@을 눌러 다음 카메라로 전환하십시오. </font>",
+		"message": "탑-다운 카메라 기능은 트럭 주변 상황을 훌륭한 개요를 보여주어 좁은 공간에서 주차하고 운전하는 것을 크게 간소화합니다.<br><br><font face=/font/big_bold.font>@@imv_nrm_camcycle@@을(를) 눌러 다음 카메라로 전환하십시오. </font>",
 		"description": "Id: aca_msg_book1_1_02_cam_cabin\nGroup: Book 1 Scenario 1_02"
 	},
 	"aca_msg_book1_1_02_cam_window": {
-		"message": "지붕 카메라는 트럭 바로 앞 도로를 큰 방해 없이 선명하게 보여줍니다.<br><br><font face=/font/big_bold.font>@@imv_nrm_camcycle@@을 눌러 지금 살펴볼 마지막 카메라로 전환하십시오. </font>",
+		"message": "지붕 카메라는 트럭 바로 앞 도로를 큰 방해 없이 선명하게 보여줍니다.<br><br><font face=/font/big_bold.font>@@imv_nrm_camcycle@@을(를) 눌러 지금 살펴볼 마지막 카메라로 전환하십시오. </font>",
 		"description": "Id: aca_msg_book1_1_02_cam_window\nGroup: Book 1 Scenario 1_02"
 	},
 	"aca_msg_book1_1_02_cam_interior": {
@@ -22200,7 +22200,7 @@
 		"description": "Id: aca_scenario_book1_1_03_desc\nGroup: Book 1 Scenario 1_03"
 	},
 	"aca_goal_book1_1_03_electrics": {
-		"message": "점화 켜기",
+		"message": "점화장치 켜기",
 		"description": "Id: aca_goal_book1_1_03_electrics\nGroup: Book 1 Scenario 1_03"
 	},
 	"aca_goal_book1_1_03_start": {
@@ -22216,7 +22216,7 @@
 		"description": "Id: aca_goal_book1_1_03_brake\nGroup: Book 1 Scenario 1_03"
 	},
 	"aca_goal_book1_1_03_gear": {
-		"message": "기어로 전환",
+		"message": "기어 변속",
 		"description": "Id: aca_goal_book1_1_03_gear\nGroup: Book 1 Scenario 1_03"
 	},
 	"aca_goal_book1_1_03_park_br_off": {
