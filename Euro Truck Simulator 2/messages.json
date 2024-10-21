@@ -25788,7 +25788,7 @@
 		"description": "Id: aca_msg_book1_2_06_cutscene08\nGroup: Book 1 Scenario 2_06"
 	},
 	"aca_msg_book1_2_06_cutscene09": {
-		"message": "도로 표시를 따라 뒤로 가서 오른쪽으로 가십시오.",
+		"message": "도로 표시를 따라 뒤 오른쪽으로 가십시오.",
 		"description": "Id: aca_msg_book1_2_06_cutscene09\nGroup: Book 1 Scenario 2_06"
 	},
 	"aca_msg_book1_2_06_cutscene10": {
@@ -25852,7 +25852,7 @@
 		"description": "Id: aca_msg_book1_2_06_check5\nGroup: Book 1 Scenario 2_06"
 	},
 	"aca_msg_book1_2_06_reverse": {
-		"message": "뒤쪽과 오른쪽 구역으로 후진합니다. 도로에는 당신을 도울 화살표가 있습니다.<br><br><font face=/font/big_bold.font>다음 구역으로 후진하십시오. </font>",
+		"message": "뒤 오른쪽 구역으로 후진합니다. 도로에는 당신을 도울 화살표가 있습니다.<br><br><font face=/font/big_bold.font>다음 구역으로 후진하십시오. </font>",
 		"description": "Id: aca_msg_book1_2_06_reverse\nGroup: Book 1 Scenario 2_06"
 	},
 	"aca_msg_book1_2_06_check6": {

@@ -23208,7 +23208,7 @@
 		"description": "Id: aca_msg_book1_2_06_check4\nGroup: Book 1 Scenario 2_06"
 	},
 	"aca_msg_book1_2_06_check5": {
-		"message": "뒤쪽 오른쪽으로 후진하세요.<br><br><font face=/font/big_bold.font>후진을 시작하십시오. </font>",
+		"message": "뒤 오른쪽 구역으로 후진합니다.<br><br><font face=/font/big_bold.font>후진을 시작하십시오. </font>",
 		"description": "Id: aca_msg_book1_2_06_check5\nGroup: Book 1 Scenario 2_06"
 	},
 	"aca_msg_book1_2_06_reverse": {
@@ -25552,7 +25552,7 @@
 		"description": "Id: aca_msg_book1_3_19_check09\nGroup: Book 1 Scenario 3_19"
 	},
 	"aca_msg_book1_3_19_check10": {
-		"message": "후진하여 왼쪽 뒤의 코스를 따라가세요.<br><br><font face=/font/big_bold.font>후진을 시작하십시오.</font>",
+		"message": "후진하여 뒤 왼쪽에 코스를 따라가세요.<br><br><font face=/font/big_bold.font>후진을 시작하십시오.</font>",
 		"description": "Id: aca_msg_book1_3_19_check10\nGroup: Book 1 Scenario 3_19"
 	},
 	"aca_msg_book1_3_19_check11": {
