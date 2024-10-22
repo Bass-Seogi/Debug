@@ -14383,6 +14383,10 @@
 		"message": "체크 무늬 담요",
 		"description": "Id: blanket_square\nGroup: Toys and toy sets\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
+	"booing_ghost": {
+		"message": "야유하는 유령",
+		"description": "Id: booing_ghost\nGroup: Toys and toy sets\nGroup: Upgrade accesories\nGroup: Input wizard"
+	},
 	"book": {
 		"message": "책",
 		"description": "Id: book\nGroup: Toys and toy sets\nGroup: Upgrade accesories\nGroup: Input wizard"
@@ -14586,6 +14590,10 @@
 	"goodyear_weekend_bag": {
 		"message": "Goodyear 위켄드 백",
 		"description": "Id: goodyear_weekend_bag\nGroup: Toys and toy sets\nGroup: Upgrade accesories\nGroup: Input wizard"
+	},
+	"grumpy_ghost": {
+		"message": "심술쟁이 유령",
+		"description": "Id: grumpy_ghost\nGroup: Toys and toy sets\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"hand_bag": {
 		"message": "핸드백",
@@ -15558,6 +15566,10 @@
 	"low_bumper": {
 		"message": "낮은 범퍼",
 		"description": "Id: low_bumper\nName specification of low bumper\nGroup: Upgrade accesories\nGroup: Input wizard"
+	},
+	"camera": {
+		"message": "카메라",
+		"description": "Id: camera\nCamera type accessory (eg. mirror variant)\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"custom_color": {
 		"message": "사용자 지정 색상",
@@ -24520,7 +24532,7 @@
 		"description": "Id: aca_chapter_book1_4_desc\nGroup: Chapters general"
 	},
 	"aca_chapter_book1_4_completed": {
-		"message": "@@aca_chapter3_finished_img@@<br><br><font face=/font/big.font><font face=/font/big.font>축하합니다!<br>챕터 4를 마쳤습니다: @@aca_chapter_book1_4_title@@.<br><br>트레일러로 후진하는 법과<br>다양한 주차 기술을 배웠습니다.</font><br><br>",
+		"message": "@@aca_chapter3_finished_img@@<br><br><font face=/font/big.font>축하합니다!<br>챕터 4를 마쳤습니다: @@aca_chapter_book1_4_title@@.<br><br>트레일러로 후진하는 법과<br>다양한 주차 기술을 배웠습니다.</font><br><br>",
 		"description": "Id: aca_chapter_book1_4_completed\nGroup: Chapters general"
 	},
 	"aca_chapter_book1_5_title": {
@@ -24676,15 +24688,15 @@
 		"description": "Id: adj_tut_open_adj_gamepad\nGroup: Book 1 Scenario 1_01"
 	},
 	"adj_tut_open_adj": {
-		"message": "게임 플레이 중에 @@adjust_link_t@@를 표시하려면 $OPEN_ADJUSTER$을(를) 입력하세요.",
+		"message": "게임 플레이 중에 '@@adjust_link_t@@'를 표시하려면 $OPEN_ADJUSTER$을(를) 입력하세요.",
 		"description": "Id: adj_tut_open_adj\nGroup: Book 1 Scenario 1_01"
 	},
 	"adj_tut_open_seat": {
-		"message": "먼저 운전석과 스티어링 휠을 조정해 보겠습니다.<br><br>계속하려면 <font face=/font/big_bold.font>@@adj_seats@@</font>를 여십시오.",
+		"message": "먼저 운전석과 스티어링 휠을 조정해 보겠습니다.<br><br><font face=/font/big_bold.font>계속하려면 '@@adj_seats@@'을(를) 여십시오.</font>",
 		"description": "Id: adj_tut_open_seat\nGroup: Book 1 Scenario 1_01"
 	},
 	"adj_tut_open_mirrors": {
-		"message": "<font face=/font/big_bold.font>@@adj_mirrors@@</font>를 열어 미러 설정을 구성하십시오. ",
+		"message": "<font face=/font/big_bold.font>@@adj_mirrors@@을(를) 열어 미러 설정을 구성하십시오.</font>",
 		"description": "Id: adj_tut_open_mirrors\nGroup: Book 1 Scenario 1_01"
 	},
 	"adj_tut_open_adj_intro": {
@@ -24696,7 +24708,7 @@
 		"description": "Id: adj_tut_set_seat_and_back_adj\nGroup: Book 1 Scenario 1_01"
 	},
 	"adj_tut_open_mirrors_intro": {
-		"message": "@@adj_tut_open_mirrors_intro_img@@<br>트럭에는 큰 사각지대가 많으므로 운전자가 최대한 많이 볼 수 있도록 여러 개의 외부 거울이 장착되어 있습니다. <br><br>이러한 거울을 적절히 조정하면 주변을 최대한 잘 볼 수 있습니다.<br><br>계속하려면 <font face=/font/big_bold.font>@@adj_mirrors@@</font>을(를) 여십시오.",
+		"message": "@@adj_tut_open_mirrors_intro_img@@<br>트럭에는 큰 사각지대가 많으므로 운전자가 최대한 많이 볼 수 있도록 여러 개의 외부 거울이 장착되어 있습니다. <br><br>이러한 거울을 적절히 조정하면 주변을 최대한 잘 볼 수 있습니다.<br><br>계속하려면 <font face=/font/big_bold.font>'@@adj_mirrors@@'</font>을(를) 여십시오.",
 		"description": "Id: adj_tut_open_mirrors_intro\nGroup: Book 1 Scenario 1_01"
 	},
 	"adj_tut_set_mirrors_t1_1_adj": {
@@ -24704,7 +24716,7 @@
 		"description": "Id: adj_tut_set_mirrors_t1_1_adj\nGroup: Book 1 Scenario 1_01"
 	},
 	"adj_tut_set_mirrors_t1_2_adj": {
-		"message": "다이어그램에 표시된 대로 미러를 올바른 위치에 설정합니다.",
+		"message": "<font face=/font/big_bold.font>다이어그램에 표시된 대로 미러를 올바른 위치에 설정합니다.</font>",
 		"description": "Id: adj_tut_set_mirrors_t1_2_adj\nGroup: Book 1 Scenario 1_01"
 	},
 	"adj_tut_set_mirrors_t1_2_adj_preview": {
@@ -24712,7 +24724,7 @@
 		"description": "Id: adj_tut_set_mirrors_t1_2_adj_preview\nGroup: Book 1 Scenario 1_01"
 	},
 	"adj_tut_set_mirrors_t1_2_adj_moved": {
-		"message": "같은 방식으로 이 미러의 위치를 조정합니다.",
+		"message": "<font face=/font/big_bold.font>같은 방식으로 이 거울의 위치도 조정하십시오.</font>",
 		"description": "Id: adj_tut_set_mirrors_t1_2_adj_moved\nGroup: Book 1 Scenario 1_01"
 	},
 	"adj_tut_set_mirrors_t1_2_adj_moved_preview": {
@@ -24724,7 +24736,7 @@
 		"description": "Id: adj_tut_set_mirrors_t1_3_adj\nGroup: Book 1 Scenario 1_01"
 	},
 	"adj_tut_set_mirrors_t1_4_adj": {
-		"message": "다이어그램에 표시된 대로 미러를 올바른 위치에 설정합니다.",
+		"message": "<font face=/font/big_bold.font>다이어그램에 표시된 대로 미러를 올바른 위치에 설정합니다.</font>",
 		"description": "Id: adj_tut_set_mirrors_t1_4_adj\nGroup: Book 1 Scenario 1_01"
 	},
 	"adj_tut_set_mirrors_t1_4_adj_preview": {
@@ -24732,7 +24744,7 @@
 		"description": "Id: adj_tut_set_mirrors_t1_4_adj_preview\nGroup: Book 1 Scenario 1_01"
 	},
 	"adj_tut_set_mirrors_t1_4_adj_moved": {
-		"message": "같은 방식으로 이 미러의 위치를 조정합니다.",
+		"message": "<font face=/font/big_bold.font>같은 방식으로 이 거울의 위치도 조정하십시오.</font>",
 		"description": "Id: adj_tut_set_mirrors_t1_4_adj_moved\nGroup: Book 1 Scenario 1_01"
 	},
 	"adj_tut_set_mirrors_t1_4_adj_moved_preview": {
@@ -24748,7 +24760,7 @@
 		"description": "Id: adj_tut_close_adj\nGroup: Book 1 Scenario 1_01"
 	},
 	"adj_tut_open_con": {
-		"message": "운전석에서 보이는 전망이 만족스러운지, 그리고 거울을 통해 트럭 주변 상황을 잘 볼 수 있는지 한 번 더 살펴보세요.<br><br>만약 마음에 들지 않으면 @@adjust_link_t@@ 구성 메뉴에서 거울을 다시 조정할 수 있습니다. <br><br><font face=/font/big_bold.font>첫 번째 시나리오를 종료하려면 @@imv_nrm_activate@@을(를) 누르십시오. </font>",
+		"message": "운전에서 보이는 풍경이 만족스러운지 그리고 거울이 트럭 주변에서 일어나는 일을 잘 볼 수 있는지 확인하기 위해 주변을 한 번 더 살펴보세요.<br><br>뭔가 마음에 들지 않으면 '@@adjust_link_t@@' 구성 메뉴에서 거울을 다시 조정할 수 있습니다. <br><br><font face=/font/big_bold.font>첫 번째 시나리오를 종료하려면 @@imv_nrm_activate@@을(를) 누르세요.</font> @@aca_goal_tip@@ 팝업 사이드 미러를 표시하거나 숨기려면 일시 중지 메뉴에서 '@@adjust_link_t@@' — '@@adj_ui_mirrors@@'로 이동하세요. 팝업 사이드 미러를 사용하면 조수석 쪽을 더 쉽게 볼 수 있습니다.",
 		"description": "Id: adj_tut_open_con\nGroup: Book 1 Scenario 1_01"
 	},
 	"aca_scenario_book1_1_02_title": {
@@ -24792,7 +24804,7 @@
 		"description": "Id: aca_msg_book1_1_02_cutscene3\nGroup: Book 1 Scenario 1_02"
 	},
 	"aca_msg_book1_1_02_seat": {
-		"message": "가고 있는 곳을 보는 것은 안전하고 전문적인 운전의 핵심 기반입니다. 현재 시트 위치가 마음에 들지 않으면 @@adjust_link_t@@에서 변경할 수 있습니다(일시 중지 메뉴를 통해 액세스).<br><br><font face=/font/big_bold.font>준비가 되면 @@imv_nrm_activate@@(으)로 확인하십시오. </font>",
+		"message": "가고 있는 곳을 보는 것은 안전하고 전문적인 운전의 핵심 기반입니다. 현재 시트 위치가 마음에 들지 않으면 '@@adjust_link_t@@'에서 변경할 수 있습니다(일시 중지 메뉴를 통해 액세스).<br><br><font face=/font/big_bold.font>준비가 되면 @@imv_nrm_activate@@(으)로 확인하십시오. </font>",
 		"description": "Id: aca_msg_book1_1_02_seat\nGroup: Book 1 Scenario 1_02"
 	},
 	"aca_msg_book1_1_02_look_back": {
@@ -24816,11 +24828,11 @@
 		"description": "Id: aca_msg_book1_1_02_cam_top\nGroup: Book 1 Scenario 1_02"
 	},
 	"aca_msg_book1_1_02_cam_cabin": {
-		"message": "탑-다운 카메라 기능은 트럭 주변 상황을 훌륭한 개요를 보여주어 좁은 공간에서 주차하고 운전하는 것을 크게 간소화합니다.<br><br><font face=/font/big_bold.font>@@imv_nrm_camcycle@@을(를) 눌러 다음 카메라로 전환하십시오. </font>",
+		"message": "탑-다운 카메라 기능은 트럭 주변 상황을 훌륭한 개요를 보여주어 좁은 공간에서 주차하고 운전하는 것을 크게 간소화합니다.<br><br><font face=/font/big_bold.font>@@imv_nrm_camcycle@@을(를) 눌러 다음 카메라로 전환하십시오.</font>",
 		"description": "Id: aca_msg_book1_1_02_cam_cabin\nGroup: Book 1 Scenario 1_02"
 	},
 	"aca_msg_book1_1_02_cam_window": {
-		"message": "지붕 카메라는 트럭 바로 앞 도로를 큰 방해 없이 선명하게 보여줍니다.<br><br><font face=/font/big_bold.font>@@imv_nrm_camcycle@@을(를) 눌러 지금 살펴볼 마지막 카메라로 전환하십시오. </font>",
+		"message": "지붕 카메라는 트럭 바로 앞 도로를 큰 방해 없이 선명하게 보여줍니다.<br><br><font face=/font/big_bold.font>@@imv_nrm_camcycle@@을(를) 눌러 지금 살펴볼 마지막 카메라로 전환하십시오.</font>",
 		"description": "Id: aca_msg_book1_1_02_cam_window\nGroup: Book 1 Scenario 1_02"
 	},
 	"aca_msg_book1_1_02_cam_interior": {
@@ -24976,11 +24988,11 @@
 		"description": "Id: aca_msg_book1_1_03_gear_n_arcade\nGroup: Book 1 Scenario 1_03"
 	},
 	"aca_msg_book1_1_03_gear_n_automatic": {
-		"message": "<font face=/font/big_bold.font>@@imv_nrm_geardown@@을 눌러 중립으로 전환하십시오.",
+		"message": "<font face=/font/big_bold.font>@@imv_nrm_geardown@@을 눌러 중립으로 전환하십시오. </font>",
 		"description": "Id: aca_msg_book1_1_03_gear_n_automatic\nGroup: Book 1 Scenario 1_03"
 	},
 	"aca_msg_book1_1_03_gear_n_manual": {
-		"message": "<font face=/font/big_bold.font>@@imv_nrm_geardown@@을 눌러 중립으로 전환하십시오.",
+		"message": "<font face=/font/big_bold.font>@@imv_nrm_geardown@@을 눌러 중립으로 전환하십시오. </font>",
 		"description": "Id: aca_msg_book1_1_03_gear_n_manual\nGroup: Book 1 Scenario 1_03"
 	},
 	"aca_msg_book1_1_03_gear_n_direct": {
@@ -25060,7 +25072,7 @@
 		"description": "Id: aca_msg_book1_1_04_start\nGroup: Book 1 Scenario 1_04"
 	},
 	"aca_msg_book1_1_04_look_mirror": {
-		"message": "주변이 깨끗한지 확인하기 위해 거울을 확인합니다. 거울의 위치가 만족스럽지 않으면 @@adjust_link_t@@에서 조정할 수 있습니다.<br><br><font face=/font/big_bold.font>조수석 쪽 거울을 보십시오.</font>@@aca_goal_tip@@ 차량 내부에 있어야 합니다.",
+		"message": "주변이 깨끗한지 확인하기 위해 거울을 확인합니다. 거울의 위치가 만족스럽지 않으면 '@@adjust_link_t@@'에서 조정할 수 있습니다.<br><br><font face=/font/big_bold.font>조수석 쪽 거울을 보십시오.</font>@@aca_goal_tip@@ 차량 내부에 있어야 합니다.",
 		"description": "Id: aca_msg_book1_1_04_look_mirror\nGroup: Book 1 Scenario 1_04"
 	},
 	"aca_msg_book1_1_04_look_back": {
@@ -25340,11 +25352,11 @@
 		"description": "Id: aca_msg_book1_2_01_summary\nGroup: Book 1 Scenario 2_01"
 	},
 	"aca_msg_book1_2_01_mirror": {
-		"message": "거울을 사용하여 트럭의 양쪽을 모두 볼 수 있도록 하십시오.<br><br>조수석 쪽의 경우, 전방 미러와 사이드 미러는 방향을 잡는 데 매우 유용합니다.<br><br><font face=/font/big_bold.font>확인하려면 @@imv_nrm_activate@@를 누르세요.</font>@@aca_goal_tip@@ 조수석 쪽 거울을 더 쉽게 보려면 @@imv_nrm_showmirrors@@를 누르거나(또는 일시 중지 메뉴에서 @@adjust_link_t@@로 이동) 화면 거울을 표시하거나 숨길 수 있습니다.",
+		"message": "거울을 사용하여 트럭의 양쪽을 모두 볼 수 있도록 하세요.<br><br>조수석 쪽의 경우, 앞 거울과 옆 거울은 방향을 잡는 데 매우 유용합니다.<br><br><font face=/font/big_bold.font>확인하려면 @@imv_nrm_activate@@를 누르십시오.</font>",
 		"description": "Id: aca_msg_book1_2_01_mirror\nGroup: Book 1 Scenario 2_01"
 	},
 	"aca_msg_book1_2_01_start": {
-		"message": "필요하다면 @@adjust_link_t@@에서 거울을 조정합니다(일시 정지 메뉴를 통해 접근).<br><br><font face=/font/big_bold.font>출발을 준비하십시오. </font>",
+		"message": "필요하다면 '@@adjust_link_t@@'에서 거울을 조정합니다(일시 정지 메뉴를 통해 접근).<br><br><font face=/font/big_bold.font>출발을 준비하십시오. </font>",
 		"description": "Id: aca_msg_book1_2_01_start\nGroup: Book 1 Scenario 2_01"
 	},
 	"aca_msg_book1_2_01_start_fail": {
@@ -25504,7 +25516,7 @@
 		"description": "Id: aca_msg_book1_2_03_mirror\nGroup: Book 1 Scenario 2_03"
 	},
 	"aca_msg_book1_2_03_mirror_msg": {
-		"message": "전방 미러는 트럭 앞의 사각지대를 볼 수 있게 해줍니다. 운전을 안전하고 정확하게 하는 데 도움이 될 수 있습니다.<br><br>조정에 만족하지 않으면 @@adjust_link_t@@(일시 중지 메뉴를 통해 액세스 가능)을 열어 원하는 대로 조정합니다.<br><br><font face=/font/big_bold.font>계속하려면 @@imv_nrm_activate@@를 누르십시오. </font>",
+		"message": "전방 미러는 트럭 앞의 사각지대를 볼 수 있게 해줍니다. 운전을 안전하고 정확하게 하는 데 도움이 될 수 있습니다.<br><br>조정에 만족하지 않으면 '@@adjust_link_t@@'(일시 중지 메뉴를 통해 액세스 가능)을 열어 원하는 대로 조정합니다.<br><br><font face=/font/big_bold.font>계속하려면 @@imv_nrm_activate@@을(를) 누르십시오. </font>",
 		"description": "Id: aca_msg_book1_2_03_mirror_msg\nGroup: Book 1 Scenario 2_03"
 	},
 	"aca_msg_book1_2_03_start": {
@@ -25584,7 +25596,7 @@
 		"description": "Id: aca_msg_book1_2_04_mirror\nGroup: Book 1 Scenario 2_04"
 	},
 	"aca_msg_book1_2_04_start": {
-		"message": "사이드 미러는 운전자가 볼 수 없는 조수석 쪽 영역을 커버합니다. 트럭에서 가장 문제가 되는 사각지대 중 ​​하나입니다. 미러 각도가 마음에 들지 않으면 @@adjust_link_t@@에서 조정할 수 있습니다.<br><br><font face=/font/big_bold.font>출발을 준비하십시오. </font>",
+		"message": "사이드 미러는 운전자가 볼 수 없는 조수석 쪽 영역을 커버합니다. 트럭에서 가장 문제가 되는 사각지대 중 ​​하나입니다. 미러 각도가 마음에 들지 않으면 '@@adjust_link_t@@'에서 조정할 수 있습니다.<br><br><font face=/font/big_bold.font>출발을 준비하십시오. </font>",
 		"description": "Id: aca_msg_book1_2_04_start\nGroup: Book 1 Scenario 2_04"
 	},
 	"aca_msg_book1_2_04_start_fail": {
