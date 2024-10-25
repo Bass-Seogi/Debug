@@ -2391,6 +2391,22 @@
 		"message": "울트라",
 		"description": "Id: ultra_t\nThe ultra quality setting capitalized\nGroup: Combo box choices used for various option parameters.\nNote that only subset of the choices (e.g. Low, Medium, High) might be used by any specific option."
 	},
+	"speed_instant": {
+		"message": "인스턴트",
+		"description": "Id: speed_instant\nInstant speed setting value.\nGroup: Combo box choices used for various option parameters.\nNote that only subset of the choices (e.g. Low, Medium, High) might be used by any specific option."
+	},
+	"speed_fast": {
+		"message": "빠름",
+		"description": "Id: speed_fast\nFast speed setting value.\nGroup: Combo box choices used for various option parameters.\nNote that only subset of the choices (e.g. Low, Medium, High) might be used by any specific option."
+	},
+	"speed_medium": {
+		"message": "보통",
+		"description": "Id: speed_medium\nMedium speed setting value.\nGroup: Combo box choices used for various option parameters.\nNote that only subset of the choices (e.g. Low, Medium, High) might be used by any specific option."
+	},
+	"speed_slow": {
+		"message": "느림",
+		"description": "Id: speed_slow\nSlow speed setting value.\nGroup: Combo box choices used for various option parameters.\nNote that only subset of the choices (e.g. Low, Medium, High) might be used by any specific option."
+	},
 	"reset_defaults": {
 		"message": "기본값으로 되돌림",
 		"description": "Id: reset_defaults\nButton which applies the default configuration to the state controlled by screen."
@@ -2614,6 +2630,14 @@
 	"default_audio_driver": {
 		"message": "- 시스템 기본 드라이버 -",
 		"description": "Id: default_audio_driver\nText for 'system default driver' option.\nGroup: Options/Audio\nScreen used to configure audio related options."
+	},
+	"voice_detection_enable": {
+		"message": "음성 감지",
+		"description": "Id: voice_detection_enable\nCheckbox enabling the voice detection.\nGroup: Options/Audio\nScreen used to configure audio related options."
+	},
+	"voice_detection_sensititvity": {
+		"message": "음성 감지 감도",
+		"description": "Id: voice_detection_sensititvity\nSlider controlling the sensitivity of voice detection.\nGroup: Options/Audio\nScreen used to configure audio related options."
 	},
 	"master_volume_op_tooltip": {
 		"message": "게임의 전반적인 볼륨을 조정합니다.",
@@ -3347,6 +3371,14 @@
 		"message": "인테리어 카메라 수평 잠금",
 		"description": "Id: cam_horizon_lock_factor\nSlider for interior camera horizon locking.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
+	"cam_auto_center_delay": {
+		"message": "자동 카메라 센터링 딜레이",
+		"description": "Id: cam_auto_center_delay\nDropdown for camera auto centering delay.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
+	},
+	"cam_auto_move_speed": {
+		"message": "카메라 센터링 속도",
+		"description": "Id: cam_auto_move_speed\nDropdown for camera auto centering speed.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
+	},
 	"trailer_parking_difficulty": {
 		"message": "주차 난이도",
 		"description": "Id: trailer_parking_difficulty\nDroplist for parking difficulty selection\nGroup: Parking difficulty droplist\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
@@ -3622,6 +3654,14 @@
 	"cam_horizon_lock_factor_op_tooltip": {
 		"message": "차량 움직임에 따라 내부 카메라의 롤링 허용량을 변경합니다.",
 		"description": "Id: cam_horizon_lock_factor_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
+	},
+	"cam_auto_center_delay_op_tooltip": {
+		"message": "카메라가 자동으로 중앙으로 돌아오기 전 지연 시간을 설정합니다. 이 기능을 활성화하려면 차량이 무시할 수 없는 속도로 움직여야 합니다. 앞으로 움직일 때는 내부 및 추격 카메라에만 적용되고, 뒤로 움직일 때는 카메라를 기울이는 데만 적용됩니다.",
+		"description": "Id: cam_auto_center_delay_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
+	},
+	"cam_auto_move_speed_op_tooltip": {
+		"message": "카메라가 원래 위치로 돌아가는 속도를 선택합니다.",
+		"description": "Id: cam_auto_move_speed_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"language_op_tooltip": {
 		"message": "게임 전반에 걸쳐 표시될 언어를 선택합니다.",
@@ -4002,6 +4042,10 @@
 	"o_im_lift_axle_trailer": {
 		"message": "트레일러 액슬 리프트/드롭",
 		"description": "Id: o_im_lift_axle_trailer\nGroup: Names of various functionalities.\nGroup: Options/Keyboard\nScreen used to configure keyboard related options."
+	},
+	"o_im_slide_axle_manual": {
+		"message": "수동 트레일러 액슬 조정 토글",
+		"description": "Id: o_im_slide_axle_manual\nGroup: Names of various functionalities.\nGroup: Options/Keyboard\nScreen used to configure keyboard related options."
 	},
 	"o_im_front_susp_up": {
 		"message": "전방 서스펜션 업",
@@ -4530,6 +4574,10 @@
 	"o_im_lift_axle_trailer_op_tooltip": {
 		"message": "가변축이 장착된 트레일러의 축을 들거나 내리기 위한 버튼을 지정합니다.",
 		"description": "Id: o_im_lift_axle_trailer_op_tooltip\nGroup: Tooltips.\nGroup: Options/Keyboard\nScreen used to configure keyboard related options."
+	},
+	"o_im_slide_axle_manual_op_tooltip": {
+		"message": "트레일러에 슬라이딩 액슬/탠덤이 있는 경우 수동 액슬/탠덤 조정 모드를 전환하는 버튼을 할당합니다. 수동 조정 모드는 트레일러 휠을 제동하고 액슬/탠덤을 섀시에서 분리하므로 트럭을 움직여 액슬/탠덤 위치를 조정할 수 있습니다.<br><br>할당 해제 시 액슬은 현재 상황에 맞게 자동으로 이동합니다.",
+		"description": "Id: o_im_slide_axle_manual_op_tooltip\nGroup: Tooltips.\nGroup: Options/Keyboard\nScreen used to configure keyboard related options."
 	},
 	"o_im_diff_lock_op_tooltip": {
 		"message": "차동 장치를 잠그거나 해제하기 위한 버튼을 지정합니다.",
@@ -16339,6 +16387,14 @@
 		"message": "트럭이 없기 때문에 사진을 찍을 수 없습니다! 트럭을 구매하거나 당신의 회사에서 가져오십시오.",
 		"description": "Id: photo_no_drive\nGroup: Message box shown on press of the Photo mode button when the player does not have any truck."
 	},
+	"photo_mode_quit_t": {
+		"message": "포토 모드 종료",
+		"description": "Id: photo_mode_quit_t\nMessage box title. Please keep in upper case where possible.\nGroup: Message box prompting the user to confirm exit from photo mode."
+	},
+	"photo_mode_ask_quit": {
+		"message": "포토 모드를 종료하시겠습니까?",
+		"description": "Id: photo_mode_ask_quit\nGroup: Message box prompting the user to confirm exit from photo mode."
+	},
 	"screenshot_man": {
 		"message": "스크린샷 관리자",
 		"description": "Id: screenshot_man\nwindow title\nGroup: Screenshot manager"
@@ -17988,7 +18044,7 @@
 		"description": "Id: northern_lights\nGroup: Desktop backgrounds names"
 	},
 	"under_bridge": {
-		"message": "Under the Bridge",
+		"message": "언더 더 브리지",
 		"description": "Id: under_bridge\nGroup: Desktop backgrounds names"
 	},
 	"hangar": {
@@ -22903,6 +22959,10 @@
 		"message": "시스템",
 		"description": "Id: desktop_menu_category_system\nGroup: Desktop menu categories."
 	},
+	"desktop_menu_category_leave": {
+		"message": "떠나기",
+		"description": "Id: desktop_menu_category_leave\nGroup: Desktop menu categories."
+	},
 	"burger_menu_header": {
 		"message": "메뉴",
 		"description": "Id: burger_menu_header\nGroup: Menu upper bar"
@@ -23391,6 +23451,14 @@
 		"message": "카셀 도심",
 		"description": "Id: de_cut_kassel\nGoogle maps: https://maps.app.goo.gl/63rmZQrFnfn1pKpr6\nGroup: Names of viewpoint cutscenes"
 	},
+	"de_cut_berlin": {
+		"message": "베를린 도심",
+		"description": "Id: de_cut_berlin\nGoogle maps: https://maps.app.goo.gl/p2EoBdfr1GiK3vPV9\nGroup: Names of viewpoint cutscenes"
+	},
+	"de_cut_dresden": {
+		"message": "드레스덴 도심",
+		"description": "Id: de_cut_dresden\nGoogle maps: https://maps.app.goo.gl/6yb4uxwRXXciAKm37\nGroup: Names of viewpoint cutscenes"
+	},
 	"ch_cut_geneve": {
 		"message": "제네바",
 		"description": "Id: ch_cut_geneve\nGoogle maps: https://maps.app.goo.gl/DZc5UKdH7aw882q59\nGroup: Names of viewpoint cutscenes"
@@ -23803,6 +23871,30 @@
 		"message": "브레멘의 현대 미술 박물관",
 		"description": "Id: landmark_gakbremen\nGroup: Names of landmarks"
 	},
+	"landmark_iccberlin": {
+		"message": "ICC 베를린",
+		"description": "Id: landmark_iccberlin\nGroup: Names of landmarks"
+	},
+	"landmark_speyer": {
+		"message": "슈파이어 브리지",
+		"description": "Id: landmark_speyer\nGroup: Names of landmarks"
+	},
+	"landmark_hypohaus": {
+		"message": "뮌헨 행정 건물",
+		"description": "Id: landmark_hypohaus\nGroup: Names of landmarks"
+	},
+	"landmark_leipzigbahn": {
+		"message": "라이프치히 중앙역",
+		"description": "Id: landmark_leipzigbahn\nGroup: Names of landmarks"
+	},
+	"landmark_begerburg": {
+		"message": "베거부르크",
+		"description": "Id: landmark_begerburg\nGroup: Names of landmarks"
+	},
+	"landmark_dresdenmill": {
+		"message": "드레스덴 밀",
+		"description": "Id: landmark_dresdenmill\nGroup: Names of landmarks"
+	},
 	"landmark_schonbrunn": {
 		"message": "쇤브룬 궁전",
 		"description": "Id: landmark_schonbrunn\nGroup: Names of landmarks"
@@ -24188,7 +24280,7 @@
 		"description": "Id: landmark_bihac\nGroup: Names of landmarks"
 	},
 	"landmark_mostar": {
-		"message": "모스타르의 올드 브릿지",
+		"message": "모스타르의 올드 브리지",
 		"description": "Id: landmark_mostar\nGroup: Names of landmarks"
 	},
 	"landmark_uzice": {
@@ -24460,7 +24552,7 @@
 		"description": "Id: aca_book_disclaimer_topbar\nGroup: Books general."
 	},
 	"aca_book_disclaimer": {
-		"message": "<color value=@@clr_sel@@><font face=/font/big_bold.font>드라이빙 아카데미는 운전실 내 교육을 대체하기 위한 것이 아닙니다.</font><br><br><color value=@@clr_txt@@>실제로 트럭을 운전해 보기 전에 공인 트럭 교육 기관에서 교육을 받는 것을 적극 권장합니다.<br><br>드라이빙 아카데미를 통해 운전실 내 운전자 교육을 보완하고자 하는 교육 기관은 academy@scssoft.com으로 문의하시기 바랍니다.",
+		"message": "<color value=@@clr_sel@@><font face=/font/big_bold.font>드라이빙 아카데미는 운전실 교육을 대체하기 위한 것이 아닙니다.</font><br><br><color value=@@clr_txt@@>실제로 트럭을 운전해 보기 전에 공인 트럭 교육 기관에서 교육을 받는 것을 적극 권장합니다.<br><br>드라이빙 아카데미를 통해 캡 내 운전자 교육을 보완하고자 하는 교육 기관은 academy@scssoft.com으로 문의하시기 바랍니다.",
 		"description": "Id: aca_book_disclaimer\nGroup: Books general."
 	},
 	"aca_book_book1_title": {
@@ -25160,7 +25252,7 @@
 		"description": "Id: aca_scenario_book1_1_05_title\nGroup: Book 1 Scenario 1_05"
 	},
 	"aca_scenario_book1_1_05_desc": {
-		"message": "이 시나리오에서는 주변을 깨끗하게 유지하고 다른 도로 이용자에게 예측 가능한 운전을 하는 데 도움이 되는 트럭의 기본 제어 장치에 대해 알아보겠습니다.<br><br>악천후에 좋은 가시성을 유지하기 위한 와이퍼의 사용법과 조명 및 방향 지시등의 제어 방법을 배우게 됩니다.",
+		"message": "이 시나리오에서는 주변을 깨끗하게 유지하고 다른 도로 이용자에게 예측 가능한 운전을 하는 데 도움이 되는 트럭의 기본 제어 장치에 대해 알아보겠습니다.<br><br>악천후에 좋은 가시성을 유지하기 위한 와이퍼의 사용법과 조명 및 방향지시등의 제어 방법을 배우게 됩니다.",
 		"description": "Id: aca_scenario_book1_1_05_desc\nGroup: Book 1 Scenario 1_05"
 	},
 	"aca_goal_book1_1_05_start": {
@@ -25208,7 +25300,7 @@
 		"description": "Id: aca_msg_book1_1_05_cutscene2\nGroup: Book 1 Scenario 1_05"
 	},
 	"aca_msg_book1_1_05_cutscene3": {
-		"message": "우리는 방향 지시등과 비상등을 조작할 것입니다.",
+		"message": "우리는 방향지시등과 비상등을 조작할 것입니다.",
 		"description": "Id: aca_msg_book1_1_05_cutscene3\nGroup: Book 1 Scenario 1_05"
 	},
 	"aca_msg_book1_1_05_cutscene4": {
@@ -25216,7 +25308,7 @@
 		"description": "Id: aca_msg_book1_1_05_cutscene4\nGroup: Book 1 Scenario 1_05"
 	},
 	"aca_msg_book1_1_05_start": {
-		"message": "다양한 유형의 조명을 사용하는 방법과 와이퍼를 제어하는 ​​방법을 살펴보겠습니다.<br><br>하향등과 상향등은 앞길을 잘 볼 수 있도록 합니다. 방향 지시등과 비상등은 다른 도로 사용자가 귀하의 기동을 예상할 수 있도록 사용됩니다.<br><br>와이퍼는 앞유리를 물과 기타 이물질로부터 깨끗하게 유지하는 데 사용됩니다.<font face=/font/big_bold.font><br><br>엔진을 시동하지만 주차 브레이크는 풀지 마십시오. </font>",
+		"message": "다양한 유형의 조명을 사용하는 방법과 와이퍼를 제어하는 ​​방법을 살펴보겠습니다.<br><br>하향등과 상향등은 앞길을 잘 볼 수 있도록 합니다. 방향지시등과 비상등은 다른 도로 사용자가 귀하의 기동을 예상할 수 있도록 사용됩니다.<br><br>와이퍼는 앞유리를 물과 기타 이물질로부터 깨끗하게 유지하는 데 사용됩니다.<font face=/font/big_bold.font><br><br>엔진을 시동하지만 주차 브레이크는 풀지 마십시오. </font>",
 		"description": "Id: aca_msg_book1_1_05_start\nGroup: Book 1 Scenario 1_05"
 	},
 	"aca_msg_book1_1_05_parking": {
@@ -25248,7 +25340,7 @@
 		"description": "Id: aca_msg_book1_1_05_rblinker_on\nGroup: Book 1 Scenario 1_05"
 	},
 	"aca_msg_book1_1_05_rblinker_off": {
-		"message": "@@aca_msg_book1_1_05_rblinker_off_img@@<br>대시보드에서 오른쪽 신호 표시등이 깜빡입니다. 동시에, 트럭 오른쪽 방향 지시등이 깜빡입니다.<font face=/font/big_bold.font><br><br>이제 @@imv_nrm_rblinker@@를 눌러 오른쪽 방향지시등을 끄십시오. </font>",
+		"message": "@@aca_msg_book1_1_05_rblinker_off_img@@<br>대시보드에서 오른쪽 신호 표시등이 깜빡입니다. 동시에, 트럭 오른쪽 방향지시등이 깜빡입니다.<font face=/font/big_bold.font><br><br>이제 @@imv_nrm_rblinker@@를 눌러 오른쪽 방향지시등을 끄십시오. </font>",
 		"description": "Id: aca_msg_book1_1_05_rblinker_off\nGroup: Book 1 Scenario 1_05"
 	},
 	"aca_msg_book1_1_05_hazard_on": {
@@ -25256,7 +25348,7 @@
 		"description": "Id: aca_msg_book1_1_05_hazard_on\nGroup: Book 1 Scenario 1_05"
 	},
 	"aca_msg_book1_1_05_hazard_off": {
-		"message": "@@aca_msg_book1_1_05_hazard_off_img@@<br>두 방향 지시등이 깜박이며 비상등이 켜져 있음을 나타냅니다. 동시에, 방향 지시등이 트럭 양쪽에서 깜박입니다.<br><br>비상등은 일반적으로 트럭이 기술적 또는 기계적 문제로 인해 도로변과 같이 정상적으로 정지하지 않는 곳에 정지했을 때 사용됩니다. 또한 뒤따르는 운전자에게 앞에 정지한 차량을 경고하는 데 사용할 수도 있습니다.<font face=/font/big_bold.font><br><br>이제 @@imv_nrm_flasher4way@@을 눌러 비상등을 끕니다. </font>",
+		"message": "@@aca_msg_book1_1_05_hazard_off_img@@<br>두 방향지시등이 깜박이며 비상등이 켜져 있음을 나타냅니다. 동시에, 방향지시등이 트럭 양쪽에서 깜박입니다.<br><br>비상등은 일반적으로 트럭이 기술적 또는 기계적 문제로 인해 도로변과 같이 정상적으로 정지하지 않는 곳에 정지했을 때 사용됩니다. 또한 뒤따르는 운전자에게 앞에 정지한 차량을 경고하는 데 사용할 수도 있습니다.<font face=/font/big_bold.font><br><br>이제 @@imv_nrm_flasher4way@@을 눌러 비상등을 끕니다. </font>",
 		"description": "Id: aca_msg_book1_1_05_hazard_off\nGroup: Book 1 Scenario 1_05"
 	},
 	"aca_msg_book1_1_05_wipers_on": {

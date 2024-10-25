@@ -1675,13 +1675,9 @@
 		"message": "45ft, 후방",
 		"description": "Id: tr_single_45_rear\nGroup: Trailer configurations"
 	},
-	"ats_tr_single_45_slide_front": {
-		"message": "45ft, 슬라이딩 탠덤, 전방",
-		"description": "Id: tr_single_45_slide_front\nGroup: Trailer configurations"
-	},
-	"ats_tr_single_45_slide_rear": {
-		"message": "45ft, 슬라이딩 탠덤, 후방",
-		"description": "Id: tr_single_45_slide_rear\nGroup: Trailer configurations"
+	"ats_tr_single_45_slide": {
+		"message": "45 ft, 슬라이딩 탠덤",
+		"description": "Id: tr_single_45_slide\nGroup: Trailer configurations"
 	},
 	"ats_tr_single_45_spread": {
 		"message": "45ft, 스프레드",
@@ -1707,13 +1703,9 @@
 		"message": "48ft, 후방",
 		"description": "Id: tr_single_48_rear\nGroup: Trailer configurations"
 	},
-	"ats_tr_single_48_slide_front": {
-		"message": "48ft, 슬라이딩 탠덤, 전방",
-		"description": "Id: tr_single_48_slide_front\nGroup: Trailer configurations"
-	},
-	"ats_tr_single_48_slide_rear": {
-		"message": "48ft, 슬라이딩 탠덤, 후방",
-		"description": "Id: tr_single_48_slide_rear\nGroup: Trailer configurations"
+	"ats_tr_single_48_slide": {
+		"message": "48 ft, 슬라이딩 탠덤",
+		"description": "Id: tr_single_48_slide\nGroup: Trailer configurations"
 	},
 	"ats_tr_single_48_spread": {
 		"message": "48ft, 스프레드",
@@ -1763,13 +1755,9 @@
 		"message": "53ft, 후방",
 		"description": "Id: tr_single_53_rear\nGroup: Trailer configurations"
 	},
-	"ats_tr_single_53_slide_front": {
-		"message": "53ft, 슬라이딩 탠덤, 전방",
-		"description": "Id: tr_single_53_slide_front\nGroup: Trailer configurations"
-	},
-	"ats_tr_single_53_slide_rear": {
-		"message": "53ft, 슬라이딩 탠덤, 후방",
-		"description": "Id: tr_single_53_slide_rear\nGroup: Trailer configurations"
+	"ats_tr_single_53_slide": {
+		"message": "53 ft, 슬라이딩 탠덤",
+		"description": "Id: tr_single_53_slide\nGroup: Trailer configurations"
 	},
 	"ats_tr_single_53_spread": {
 		"message": "53ft, 스프레드",
