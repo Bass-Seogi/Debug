@@ -4572,7 +4572,7 @@
 		"description": "Id: o_im_lift_axle_trailer_op_tooltip\nGroup: Tooltips.\nGroup: Options/Keyboard\nScreen used to configure keyboard related options."
 	},
 	"o_im_slide_axle_manual_op_tooltip": {
-		"message": "트레일러에 슬라이딩 액슬/탠덤이 있는 경우 수동 액슬/탠덤 조정 모드를 전환하는 버튼을 할당합니다. 수동 조정 모드는 트레일러 휠을 제동하고 액슬/탠덤을 섀시에서 분리하므로 트럭을 움직여 액슬/탠덤 위치를 조정할 수 있습니다.<br><br>할당 해제 시 액슬은 현재 상황에 맞게 자동으로 이동합니다.",
+		"message": "트레일러에 슬라이딩 액슬/탠덤이 있는 경우 수동 액슬/탠덤 조정 모드를 전환하는 버튼을 할당합니다. 수동 조정 모드는 트레일러 휠을 제동하고 액슬/탠덤을 샤시에서 분리하므로 트럭을 움직여 액슬/탠덤 위치를 조정할 수 있습니다.<br><br>할당 해제 시 액슬은 현재 상황에 맞게 자동으로 이동합니다.",
 		"description": "Id: o_im_slide_axle_manual_op_tooltip\nGroup: Tooltips.\nGroup: Options/Keyboard\nScreen used to configure keyboard related options."
 	},
 	"o_im_diff_lock_op_tooltip": {
@@ -21194,6 +21194,30 @@
 	"landmark_ca_sc_light": {
 		"message": "산타크루즈 등대 포인트",
 		"description": "Id: landmark_ca_sc_light\nGroup: Names of landmarks."
+	},
+	"landmark_ca_sddwntown": {
+		"message": "샌디에이고 스카이라인",
+		"description": "Id: landmark_ca_sddwntown\nGroup: Names of landmarks."
+	},
+	"landmark_ca_coronadob": {
+		"message": "코로나도 브리지",
+		"description": "Id: landmark_ca_coronadob\nGroup: Names of landmarks."
+	},
+	"landmark_ca_stmonicap": {
+		"message": "샌타모니카 부두",
+		"description": "Id: landmark_ca_stmonicap\nGroup: Names of landmarks."
+	},
+	"landmark_ca_vincent_b": {
+		"message": "빈센트 토마스 브리지",
+		"description": "Id: landmark_ca_vincent_b\nGroup: Names of landmarks."
+	},
+	"landmark_ca_ladwntown": {
+		"message": "로스앤젤레스 스카이라인",
+		"description": "Id: landmark_ca_ladwntown\nGroup: Names of landmarks."
+	},
+	"landmark_ca_barstow_s": {
+		"message": "바스토 역",
+		"description": "Id: landmark_ca_barstow_s\nGroup: Names of landmarks."
 	},
 	"landmark_nv_reno_skyl": {
 		"message": "리노 스카이라인",

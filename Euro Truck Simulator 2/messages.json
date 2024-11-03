@@ -4576,7 +4576,7 @@
 		"description": "Id: o_im_lift_axle_trailer_op_tooltip\nGroup: Tooltips.\nGroup: Options/Keyboard\nScreen used to configure keyboard related options."
 	},
 	"o_im_slide_axle_manual_op_tooltip": {
-		"message": "트레일러에 슬라이딩 액슬/탠덤이 있는 경우 수동 액슬/탠덤 조정 모드를 전환하는 버튼을 할당합니다. 수동 조정 모드는 트레일러 휠을 제동하고 액슬/탠덤을 섀시에서 분리하므로 트럭을 움직여 액슬/탠덤 위치를 조정할 수 있습니다.<br><br>할당 해제 시 액슬은 현재 상황에 맞게 자동으로 이동합니다.",
+		"message": "트레일러에 슬라이딩 액슬/탠덤이 있는 경우 수동 액슬/탠덤 조정 모드를 전환하는 버튼을 할당합니다. 수동 조정 모드는 트레일러 휠을 제동하고 액슬/탠덤을 샤시에서 분리하므로 트럭을 움직여 액슬/탠덤 위치를 조정할 수 있습니다.<br><br>할당 해제 시 액슬은 현재 상황에 맞게 자동으로 이동합니다.",
 		"description": "Id: o_im_slide_axle_manual_op_tooltip\nGroup: Tooltips.\nGroup: Options/Keyboard\nScreen used to configure keyboard related options."
 	},
 	"o_im_diff_lock_op_tooltip": {

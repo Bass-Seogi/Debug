@@ -2019,6 +2019,14 @@
 		"message": "일반 도어, 윈드 디플렉터",
 		"description": "Id: standard_door_aero\nGroup: Trailer only accessories"
 	},
+	"ats_rollup_door": {
+		"message": "롤 업 도어",
+		"description": "Id: rollup_door\nGroup: Trailer only accessories"
+	},
+	"ats_rollup_door_lift_gate": {
+		"message": "롤 업 도어, 리프트 게이트",
+		"description": "Id: rollup_door_lift_gate\nGroup: Trailer only accessories"
+	},
 	"ats_wooden_deck": {
 		"message": "나무 데크",
 		"description": "Id: wooden_deck\nGroup: Trailer only accessories"
