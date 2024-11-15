@@ -24956,7 +24956,7 @@
 		"description": "Id: aca_goal_book1_1_03_look_mirror\nGroup: Book 1 Scenario 1_03"
 	},
 	"aca_goal_book1_1_03_brake": {
-		"message": "서비스 브레이크 작동",
+		"message": "풋 브레이크 작동",
 		"description": "Id: aca_goal_book1_1_03_brake\nGroup: Book 1 Scenario 1_03"
 	},
 	"aca_goal_book1_1_03_gear": {
@@ -25012,11 +25012,11 @@
 		"description": "Id: aca_msg_book1_1_03_start\nGroup: Book 1 Scenario 1_03"
 	},
 	"aca_msg_book1_1_03_look_mirror": {
-		"message": "이제 엔진을 시동했으므로 움직임을 시작하기 전에 주변을 확인하는 것이 중요합니다.<br><br><font face=/font/big_bold.font>트럭 주변과 운전석과 조수석 사이드 미러를 둘러보아 트럭 주변이 안전한지 확인하세요.</font>@@aca_goal_tip@@ 차량 내부에 있어야 합니다.",
+		"message": "이제 엔진을 시동했으므로 움직이기 전에 주변을 확인하는 것이 중요합니다.<br><br><font face=/font/big_bold.font>트럭 주변과 운전석과 조수석 사이드 미러를 둘러보아 트럭 주변이 안전한지 확인하세요.</font>@@aca_goal_tip@@ 차량 내부에 있어야 합니다.",
 		"description": "Id: aca_msg_book1_1_03_look_mirror\nGroup: Book 1 Scenario 1_03"
 	},
 	"aca_msg_book1_1_03_brake": {
-		"message": "당연한 것처럼 보일 수 있지만 움직임을 시작하기 전에 멈추는 방법을 알아야 합니다.<br><br><font face=/font/big_bold.font>$input backward$를 사용하여 서비스 브레이크를 활성화합니다. </font>",
+		"message": "당연한 것처럼 보일 수 있지만 움직이기 전에 멈추는 방법을 알아야 합니다.<br><br><font face=/font/big_bold.font>$input backward$를 사용하여 풋 브레이크를 활성화합니다. </font>",
 		"description": "Id: aca_msg_book1_1_03_brake\nGroup: Book 1 Scenario 1_03"
 	},
 	"aca_msg_book1_1_03_gear_arcade": {
@@ -25032,7 +25032,7 @@
 		"description": "Id: aca_msg_book1_1_03_gear_manual\nGroup: Book 1 Scenario 1_03"
 	},
 	"aca_msg_book1_1_03_gear_direct": {
-		"message": "다음으로, 주행 방향을 바꾸는 방법을 알아보겠습니다.<br><br>기어 스틱과 클러치를 사용하면 실제 수동 변속기와 같은 물리적 기어 변속 느낌을 경험할 수 있습니다.<br><br>클러치와 서비스 브레이크를 완전히 밟습니다. <font face=/font/big_bold.font>기어 스틱을 사용하여 1단 기어를 넣습니다. <color value=@@clr_txt@@>클러치와 서비스 브레이크를 완전히 밟습니다.</font>",
+		"message": "다음으로, 주행 방향을 바꾸는 방법을 알아보겠습니다.<br><br>기어 스틱과 클러치를 사용하면 실제 수동 변속기와 같은 물리적 기어 변속 느낌을 경험할 수 있습니다.<br><br>클러치와 풋 브레이크를 완전히 밟습니다. <font face=/font/big_bold.font>기어 스틱을 사용하여 1단 기어를 넣습니다. <color value=@@clr_txt@@>클러치와 풋 브레이크를 완전히 밟습니다.</font>",
 		"description": "Id: aca_msg_book1_1_03_gear_direct\nGroup: Book 1 Scenario 1_03"
 	},
 	"aca_msg_book1_1_03_park_br_off": {
@@ -25052,23 +25052,23 @@
 		"description": "Id: aca_msg_book1_1_03_forward_manual\nGroup: Book 1 Scenario 1_03"
 	},
 	"aca_msg_book1_1_03_forward_direct": {
-		"message": "이제 트럭은 앞으로 나아갈 준비가 되었습니다. 이동을 시작하고 점선을 건넙니다.<br><br><font face=/font/big_bold.font>서비스 브레이크를 풀고, 클러치를 서서히 풀어서 클러치를 작동시키면서 동시에 가속 페달을 사용하여 RPM을 높여 트럭이 멈추지 않도록 합니다. 클러치가 완전히 풀리면 필요에 따라 가속하고 변속할 수 있습니다. </font>",
+		"message": "이제 트럭은 앞으로 나아갈 준비가 되었습니다. 이동을 시작하고 점선을 건넙니다.<br><br><font face=/font/big_bold.font>풋 브레이크를 놓고, 클러치를 서서히 놓아서 클러치를 작동시키면서 동시에 가속 페달을 사용하여 RPM을 높여 트럭이 멈추지 않도록 합니다. 클러치가 완전히 풀리면 필요에 따라 가속하고 변속할 수 있습니다. </font>",
 		"description": "Id: aca_msg_book1_1_03_forward_direct\nGroup: Book 1 Scenario 1_03"
 	},
 	"aca_msg_book1_1_03_stop_arcade": {
-		"message": "서비스 브레이크를 사용하여 멈춥니다.<br><br><font face=/font/big_bold.font>$input backward$를 사용하여 트럭을 멈추 십시오. </font>",
+		"message": "풋 브레이크를 사용하여 멈춥니다.<br><br><font face=/font/big_bold.font>$input backward$를 사용하여 트럭을 멈추 십시오. </font>",
 		"description": "Id: aca_msg_book1_1_03_stop_arcade\nGroup: Book 1 Scenario 1_03"
 	},
 	"aca_msg_book1_1_03_stop_automatic": {
-		"message": "서비스 브레이크를 사용하여 멈춥니다.<br><br><font face=/font/big_bold.font>$input backward$를 사용하여 트럭을 멈추 십시오. </font>",
+		"message": "풋 브레이크를 사용하여 멈춥니다.<br><br><font face=/font/big_bold.font>$input backward$를 사용하여 트럭을 멈추 십시오. </font>",
 		"description": "Id: aca_msg_book1_1_03_stop_automatic\nGroup: Book 1 Scenario 1_03"
 	},
 	"aca_msg_book1_1_03_stop_manual": {
-		"message": "서비스 브레이크를 사용하여 멈춥니다.<br><br><font face=/font/big_bold.font>$input backward$를 사용하여 트럭을 멈추 십시오. </font>",
+		"message": "풋 브레이크를 사용하여 멈춥니다.<br><br><font face=/font/big_bold.font>$input backward$를 사용하여 트럭을 멈추 십시오. </font>",
 		"description": "Id: aca_msg_book1_1_03_stop_manual\nGroup: Book 1 Scenario 1_03"
 	},
 	"aca_msg_book1_1_03_stop_direct": {
-		"message": "멈출 때가 되면 클러치를 완전히 밟은 다음 <font face=/font/big_bold.font>서비스 브레이크를 사용하여 트럭을 멈추십시오.<color value=@@clr_txt@@> 기어 스틱을 사용하여 기어를 중립으로 바꾼 다음 클러치를 놓아도 됩니다. </font>",
+		"message": "멈출 때가 되면 클러치를 완전히 밟은 다음 <font face=/font/big_bold.font>풋 브레이크를 사용하여 트럭을 멈추십시오.<color value=@@clr_txt@@> 기어 스틱을 사용하여 기어를 중립으로 바꾼 다음 클러치를 놓아도 됩니다. </font>",
 		"description": "Id: aca_msg_book1_1_03_stop_direct\nGroup: Book 1 Scenario 1_03"
 	},
 	"aca_msg_book1_1_03_park_br_on": {
@@ -25152,7 +25152,7 @@
 		"description": "Id: aca_msg_book1_1_04_cutscene2\nGroup: Book 1 Scenario 1_04"
 	},
 	"aca_msg_book1_1_04_cutscene3": {
-		"message": "엔진을 시동하고, 후진 기어로 전환하고 움직이기 시작하십시오.",
+		"message": "엔진을 시동하고, 후진 기어로 전환하고 움직이십시오.",
 		"description": "Id: aca_msg_book1_1_04_cutscene3\nGroup: Book 1 Scenario 1_04"
 	},
 	"aca_msg_book1_1_04_cutscene4": {
@@ -25208,19 +25208,19 @@
 		"description": "Id: aca_msg_book1_1_04_backward_direct\nGroup: Book 1 Scenario 1_04"
 	},
 	"aca_msg_book1_1_04_stop_arcade": {
-		"message": "<font face=/font/big_bold.font>서비스 브레이크를 사용하여 트럭을 멈추십시오: $input forward$ </font>",
+		"message": "<font face=/font/big_bold.font>풋 브레이크를 사용하여 트럭을 멈추십시오: $input forward$ </font>",
 		"description": "Id: aca_msg_book1_1_04_stop_arcade\nGroup: Book 1 Scenario 1_04"
 	},
 	"aca_msg_book1_1_04_stop_automatic": {
-		"message": "<font face=/font/big_bold.font>서비스 브레이크를 사용하여 트럭을 멈추십시오: $input backward$ </font>",
+		"message": "<font face=/font/big_bold.font>풋 브레이크를 사용하여 트럭을 멈추십시오: $input backward$ </font>",
 		"description": "Id: aca_msg_book1_1_04_stop_automatic\nGroup: Book 1 Scenario 1_04"
 	},
 	"aca_msg_book1_1_04_stop_manual": {
-		"message": "<font face=/font/big_bold.font>서비스 브레이크를 사용하여 트럭을 멈추십시오: $input backward$ </font>",
+		"message": "<font face=/font/big_bold.font>풋 브레이크를 사용하여 트럭을 멈추십시오: $input backward$ </font>",
 		"description": "Id: aca_msg_book1_1_04_stop_manual\nGroup: Book 1 Scenario 1_04"
 	},
 	"aca_msg_book1_1_04_stop_direct": {
-		"message": "<font face=/font/big_bold.font>클러치를 완전히 밟은 후 서비스 브레이크를 사용하여 트럭을 멈추십시오. </font>",
+		"message": "<font face=/font/big_bold.font>클러치를 완전히 밟은 후 풋 브레이크를 사용하여 트럭을 멈추십시오. </font>",
 		"description": "Id: aca_msg_book1_1_04_stop_direct\nGroup: Book 1 Scenario 1_04"
 	},
 	"aca_msg_book1_1_04_park_br_on": {
@@ -26408,7 +26408,7 @@
 		"description": "Id: aca_msg_book1_3_02_cutscene10\nGroup: Book 1 Scenario 3_02"
 	},
 	"aca_msg_book1_3_02_start": {
-		"message": "이 운전에서는 내리막길을 내려가는 동안 서비스 브레이크를 사용하는 방법을 익힐 수 있습니다. 이 훈련의 목적은 뒤에 있는 무게를 인식하고 차량의 제동 거리에 어떤 영향을 미치는지 알아내는 것입니다.<br><br><font face=/font/big_bold.font>출발을 준비하십시오. </font>",
+		"message": "이 운전에서는 내리막길을 내려가는 동안 풋 브레이크를 사용하는 방법을 익힐 수 있습니다. 이 훈련의 목적은 뒤에 있는 무게를 인식하고 차량의 제동 거리에 어떤 영향을 미치는지 알아내는 것입니다.<br><br><font face=/font/big_bold.font>출발을 준비하십시오. </font>",
 		"description": "Id: aca_msg_book1_3_02_start\nGroup: Book 1 Scenario 3_02"
 	},
 	"aca_msg_book1_3_02_forward": {

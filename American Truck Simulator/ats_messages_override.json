@@ -2019,14 +2019,6 @@
 		"message": "일반 도어, 윈드 디플렉터",
 		"description": "Id: standard_door_aero\nGroup: Trailer only accessories"
 	},
-	"ats_rollup_door": {
-		"message": "롤 업 도어",
-		"description": "Id: rollup_door\nGroup: Trailer only accessories"
-	},
-	"ats_rollup_door_lift_gate": {
-		"message": "롤 업 도어, 리프트 게이트",
-		"description": "Id: rollup_door_lift_gate\nGroup: Trailer only accessories"
-	},
 	"ats_wooden_deck": {
 		"message": "나무 데크",
 		"description": "Id: wooden_deck\nGroup: Trailer only accessories"
@@ -2166,6 +2158,10 @@
 	"ats_billings": {
 		"message": "빌링스",
 		"description": "Id: billings\nGroup: Names of cities"
+	},
+	"ats_blythe": {
+		"message": "블라이스",
+		"description": "Id: blythe\nGroup: Names of cities"
 	},
 	"ats_boise": {
 		"message": "보이시",
@@ -2491,6 +2487,10 @@
 		"message": "아이다호폴스",
 		"description": "Id: idaho_falls\nGroup: Names of cities"
 	},
+	"ats_indio": {
+		"message": "인디오",
+		"description": "Id: indio\nGroup: Names of cities"
+	},
 	"ats_jackpot": {
 		"message": "잭팟",
 		"description": "Id: jackpot\nGroup: Names of cities"
@@ -2642,6 +2642,10 @@
 	"ats_modesto": {
 		"message": "머데스토",
 		"description": "Id: modesto\nGroup: Names of cities"
+	},
+	"ats_mojave": {
+		"message": "모하비",
+		"description": "Id: mojave\nGroup: Names of cities"
 	},
 	"ats_montrose": {
 		"message": "몬트로즈",
