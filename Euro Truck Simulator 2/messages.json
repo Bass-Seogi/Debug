@@ -3376,8 +3376,8 @@
 		"description": "Id: cam_auto_center_delay\nDropdown for camera auto centering delay.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"cam_auto_move_speed": {
-		"message": "카메라 센터링 속도",
-		"description": "Id: cam_auto_move_speed\nDropdown for camera auto centering speed.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
+		"message": "카메라 이동 속도",
+		"description": "Id: cam_auto_move_speed\nDropdown for automatic camera movement speed.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"trailer_parking_difficulty": {
 		"message": "주차 난이도",
@@ -3660,7 +3660,7 @@
 		"description": "Id: cam_auto_center_delay_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"cam_auto_move_speed_op_tooltip": {
-		"message": "카메라가 원래 위치로 돌아가는 속도를 선택합니다.",
+		"message": "카메라 이동 속도를 설정합니다. 자동 카메라 센터링 및 내부 카메라 사전 설정 간 전환에 사용됩니다.",
 		"description": "Id: cam_auto_move_speed_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"language_op_tooltip": {
@@ -16387,14 +16387,6 @@
 		"message": "트럭이 없기 때문에 사진을 찍을 수 없습니다! 트럭을 구매하거나 당신의 회사에서 가져오십시오.",
 		"description": "Id: photo_no_drive\nGroup: Message box shown on press of the Photo mode button when the player does not have any truck."
 	},
-	"photo_mode_quit_t": {
-		"message": "포토 모드 종료",
-		"description": "Id: photo_mode_quit_t\nMessage box title. Please keep in upper case where possible.\nGroup: Message box prompting the user to confirm exit from photo mode."
-	},
-	"photo_mode_ask_quit": {
-		"message": "포토 모드를 종료하시겠습니까?",
-		"description": "Id: photo_mode_ask_quit\nGroup: Message box prompting the user to confirm exit from photo mode."
-	},
 	"screenshot_man": {
 		"message": "스크린샷 관리자",
 		"description": "Id: screenshot_man\nwindow title\nGroup: Screenshot manager"
@@ -23751,6 +23743,50 @@
 		"message": "프로쿠플레",
 		"description": "Id: blkw_cut_prokuplje\nGoogle maps: https://goo.gl/maps/fLExaFrXeqix44EL7\nGroup: Names of viewpoint cutscenes"
 	},
+	"gr_cut_piraeus": {
+		"message": "아테네의 피레우스 항구",
+		"description": "Id: gr_cut_piraeus\nGoogle maps: https://maps.app.goo.gl/rrezMJmaRQJrGusz5\nGroup: Names of viewpoint cutscenes"
+	},
+	"gr_cut_kavala": {
+		"message": "카발라 마리나",
+		"description": "Id: gr_cut_kavala\nGoogle maps: https://maps.app.goo.gl/y4KXs1M8t92GGLkcA\nGroup: Names of viewpoint cutscenes"
+	},
+	"gr_cut_kalabaka": {
+		"message": "칼라바카와 메테오라",
+		"description": "Id: gr_cut_kalabaka\nGoogle maps: https://maps.app.goo.gl/2jsCt2HR8utFz8UGA\nGroup: Names of viewpoint cutscenes"
+	},
+	"gr_cut_monastery": {
+		"message": "아기오스 넥타리오스 수도원",
+		"description": "Id: gr_cut_monastery\nGoogle maps: https://maps.app.goo.gl/f6Jd39T5mkqZ5Si26\nGroup: Names of viewpoint cutscenes"
+	},
+	"gr_cut_beach": {
+		"message": "팔리라키 해변",
+		"description": "Id: gr_cut_beach\nGoogle maps: https://maps.app.goo.gl/hxjRxYaBMoTLJFjr8\nGroup: Names of viewpoint cutscenes"
+	},
+	"gr_cut_lixouri": {
+		"message": "릭수리",
+		"description": "Id: gr_cut_lixouri\nGoogle maps: https://maps.app.goo.gl/MdDXR2QhvpDshAtS6\nGroup: Names of viewpoint cutscenes"
+	},
+	"gr_cut_corinth": {
+		"message": "코린트 운하",
+		"description": "Id: gr_cut_corinth\nGoogle maps: https://maps.app.goo.gl/SYLNRy6CxNTTR86G9\nGroup: Names of viewpoint cutscenes"
+	},
+	"gr_cut_souda": {
+		"message": "수다 항구",
+		"description": "Id: gr_cut_souda\nGoogle maps: https://maps.app.goo.gl/NCY3PvpUivTVX5e96\nGroup: Names of viewpoint cutscenes"
+	},
+	"gr_cut_hotel": {
+		"message": "레스보스 호텔 리조트",
+		"description": "Id: gr_cut_hotel\nGoogle maps: https://maps.app.goo.gl/gz2WaEx1mUnT4mqAA\nGroup: Names of viewpoint cutscenes"
+	},
+	"gr_cut_polyfytos": {
+		"message": "폴리피토스 호수 다리 ",
+		"description": "Id: gr_cut_polyfytos\nGoogle maps: https://maps.app.goo.gl/GeLSmSqUGZHVcsXE9\nGroup: Names of viewpoint cutscenes"
+	},
+	"gr_cut_cement": {
+		"message": "테살로니키 시멘트 플랜트",
+		"description": "Id: gr_cut_cement\nGoogle maps: https://maps.app.goo.gl/tHu9Ad8AQKku7Dck6\nGroup: Names of viewpoint cutscenes"
+	},
 	"lofots_xmas": {
 		"message": "노스스타 빌리지",
 		"description": "Id: lofots_xmas\nGroup: Names of viewpoint cutscenes"
@@ -24327,6 +24363,50 @@
 		"message": "스코페 쇼핑몰",
 		"description": "Id: landmark_skopje\nGroup: Names of landmarks"
 	},
+	"landmark_meteora": {
+		"message": "메테오라",
+		"description": "Id: landmark_meteora\nGroup: Names of landmarks"
+	},
+	"landmark_kavala": {
+		"message": "카발라 요새",
+		"description": "Id: landmark_kavala\nGroup: Names of landmarks"
+	},
+	"landmark_kalamata": {
+		"message": "칼라마타의 자유의 여신상",
+		"description": "Id: landmark_kalamata\nGroup: Names of landmarks"
+	},
+	"landmark_thessaloniki": {
+		"message": "테살로니키 시외버스 정류장",
+		"description": "Id: landmark_thessaloniki\nGroup: Names of landmarks"
+	},
+	"landmark_athens": {
+		"message": "해운부 및 섬 정책부",
+		"description": "Id: landmark_athens\nGroup: Names of landmarks"
+	},
+	"landmark_kallithea": {
+		"message": "칼리티아 스프링스",
+		"description": "Id: landmark_kallithea\nGroup: Names of landmarks"
+	},
+	"landmark_patras": {
+		"message": "리오-안티리오 브리지",
+		"description": "Id: landmark_patras\nGroup: Names of landmarks"
+	},
+	"landmark_mytilene": {
+		"message": "미틸레네 성",
+		"description": "Id: landmark_mytilene\nGroup: Names of landmarks"
+	},
+	"landmark_heraklion": {
+		"message": "헤라클리온의 성모 마리아 교회",
+		"description": "Id: landmark_heraklion\nGroup: Names of landmarks"
+	},
+	"landmark_argostoli": {
+		"message": "아르고스톨리의 성모 마리아 교회",
+		"description": "Id: landmark_argostoli\nGroup: Names of landmarks"
+	},
+	"landmark_lamia": {
+		"message": "라미아의 성 트리폰 교회",
+		"description": "Id: landmark_lamia\nGroup: Names of landmarks"
+	},
 	"aca_cutscene_quit_info": {
 		"message": "<color value=@@clr_txt@@>건너뛰기 ($KEY$<color value=@@clr_txt@@>)",
 		"description": "Id: aca_cutscene_quit_info\nInfo text showing how to control cutscene.\nGroup: Game localization"
@@ -24479,13 +24559,37 @@
 		"message": "시나리오 결과",
 		"description": "Id: aca_replay_title\nGroup: Academy replay screen.\nScreen shown at the end of scenario."
 	},
-	"aca_replay_show_controls_info": {
-		"message": "<color value=@@clr_txt@@>컨트롤 보기 (@@imv_nrm_replayhidec@@<color value=@@clr_txt@@>)   뒤로 ($KEY$<color value=@@clr_txt@@>)",
-		"description": "Id: aca_replay_show_controls_info\nGroup: Academy replay screen.\nScreen shown at the end of scenario."
+	"aca_replay_hidectrls": {
+		"message": "컨트롤 윈도우 숨기기",
+		"description": "Id: aca_replay_hidectrls\nGroup: Academy replay screen.\nScreen shown at the end of scenario."
 	},
-	"aca_replay_hide_controls_info": {
-		"message": "<color value=@@clr_txt@@>컨트롤 숨기기 (@@imv_nrm_replayhidec@@<color value=@@clr_txt@@>)   뒤로 ($KEY$<color value=@@clr_txt@@>)",
-		"description": "Id: aca_replay_hide_controls_info\nGroup: Academy replay screen.\nScreen shown at the end of scenario."
+	"aca_move_bcamera": {
+		"message": "카메라 이동",
+		"description": "Id: aca_move_bcamera\nGroup: Academy replay screen.\nScreen shown at the end of scenario."
+	},
+	"aca_zoom_bcamera": {
+		"message": "카메라 줌",
+		"description": "Id: aca_zoom_bcamera\nGroup: Academy replay screen.\nScreen shown at the end of scenario."
+	},
+	"aca_replay_back": {
+		"message": "이전",
+		"description": "Id: aca_replay_back\nGroup: Academy replay screen.\nScreen shown at the end of scenario."
+	},
+	"aca_control_replay": {
+		"message": "컨트롤 리플레이",
+		"description": "Id: aca_control_replay\nGroup: Academy replay screen.\nScreen shown at the end of scenario."
+	},
+	"aca_pause_replay": {
+		"message": "일시정지",
+		"description": "Id: aca_pause_replay\nGroup: Academy replay screen.\nScreen shown at the end of scenario."
+	},
+	"aca_unpause_replay": {
+		"message": "일시 정지 해제",
+		"description": "Id: aca_unpause_replay\nGroup: Academy replay screen.\nScreen shown at the end of scenario."
+	},
+	"aca_replay_showctrls": {
+		"message": "컨트롤 보기",
+		"description": "Id: aca_replay_showctrls\nGroup: Academy replay screen.\nScreen shown at the end of scenario."
 	},
 	"aca_paused_title": {
 		"message": "시나리오 진행 상황",
@@ -24530,6 +24634,10 @@
 	"aca_electronics_off_2": {
 		"message": "$KEY$을(를) 눌러 점화장치를 켜세요.",
 		"description": "Id: aca_electronics_off_2\nGroup: Hint messages shown in game."
+	},
+	"aca_modded_book": {
+		"message": "Mod",
+		"description": "Id: aca_modded_book\nGroup: Books general."
 	},
 	"aca_book_inaccessible": {
 		"message": "새로운 콘텐츠가 곧 나옵니다. 계속 지켜봐 주세요.",
@@ -25300,7 +25408,7 @@
 		"description": "Id: aca_msg_book1_1_05_cutscene2\nGroup: Book 1 Scenario 1_05"
 	},
 	"aca_msg_book1_1_05_cutscene3": {
-		"message": "우리는 방향지시등과 비상등을 조작할 것입니다.",
+		"message": "좌회전 신호와 우회전 신호를 작동해 보겠습니다.",
 		"description": "Id: aca_msg_book1_1_05_cutscene3\nGroup: Book 1 Scenario 1_05"
 	},
 	"aca_msg_book1_1_05_cutscene4": {
@@ -28362,98 +28470,6 @@
 	"aca_msg_book1_3_20_end": {
 		"message": "<font face=/font/big_bold.font>트럭을 고정하고 엔진을 끄십시오. </font>",
 		"description": "Id: aca_msg_book1_3_20_end\nGroup: Book 1 Scenario 3_20"
-	},
-	"aca_scenario_book1_3_21_title": {
-		"message": "운전면허증 완료",
-		"description": "Id: aca_scenario_book1_3_21_title\nGroup: Book 1 Scenario 3_21"
-	},
-	"aca_scenario_book1_3_21_desc": {
-		"message": "운전면허증 책자를 완성했습니다.",
-		"description": "Id: aca_scenario_book1_3_21_desc\nGroup: Book 1 Scenario 3_21"
-	},
-	"aca_goal_book1_3_21_start": {
-		"message": "시작하기",
-		"description": "Id: aca_goal_book1_3_21_start\nGroup: Book 1 Scenario 3_21"
-	},
-	"aca_goal_book1_3_21_forward": {
-		"message": "앞으로 나아가기",
-		"description": "Id: aca_goal_book1_3_21_forward\nGroup: Book 1 Scenario 3_21"
-	},
-	"aca_goal_book1_3_21_park1": {
-		"message": "오프셋 기동",
-		"description": "Id: aca_goal_book1_3_21_park1\nGroup: Book 1 Scenario 3_21"
-	},
-	"aca_goal_book1_3_21_park2": {
-		"message": "대각선 주차",
-		"description": "Id: aca_goal_book1_3_21_park2\nGroup: Book 1 Scenario 3_21"
-	},
-	"aca_goal_book1_3_21_park3": {
-		"message": "주차장을 통해 운전",
-		"description": "Id: aca_goal_book1_3_21_park3\nGroup: Book 1 Scenario 3_21"
-	},
-	"aca_goal_book1_3_21_park4": {
-		"message": "평행 주차",
-		"description": "Id: aca_goal_book1_3_21_park4\nGroup: Book 1 Scenario 3_21"
-	},
-	"aca_goal_book1_3_21_park5": {
-		"message": "최종 주차",
-		"description": "Id: aca_goal_book1_3_21_park5\nGroup: Book 1 Scenario 3_21"
-	},
-	"aca_goal_book1_3_21_stop": {
-		"message": "정지",
-		"description": "Id: aca_goal_book1_3_21_stop\nGroup: Book 1 Scenario 3_21"
-	},
-	"aca_goal_book1_3_21_end": {
-		"message": "트럭 고정하기",
-		"description": "Id: aca_goal_book1_3_21_end\nGroup: Book 1 Scenario 3_21"
-	},
-	"aca_msg_book1_3_21_cutscene01": {
-		"message": "시험을 성공적으로 마치고 필요한 모든 기술을 습득했습니다.<br><br><font face=/font/big_bold.font>잘하셨습니다!</font>",
-		"description": "Id: aca_msg_book1_3_21_cutscene01\nGroup: Book 1 Scenario 3_21"
-	},
-	"aca_msg_book1_3_21_cutscene02": {
-		"message": "당신은 길에서 더 많은 도전에 맞설 준비가 되었습니다.<br>모험은 이제 막 시작되었습니다...",
-		"description": "Id: aca_msg_book1_3_21_cutscene02\nGroup: Book 1 Scenario 3_21"
-	},
-	"aca_msg_book1_3_21_start": {
-		"message": "조심하고 서두르지 않도록 기억하세요. 첫 시도에서 못하더라도 괜찮습니다, 중요한 것은 트럭이나 주변 사람들에게 피해를 주지 않는 것입니다. <font face=/font/big_bold.font><br><br>출발을 준비하십시오. </font>",
-		"description": "Id: aca_msg_book1_3_21_start\nGroup: Book 1 Scenario 3_21"
-	},
-	"aca_msg_book1_3_21_forward": {
-		"message": "<font face=/font/big_bold.font>시험의 첫 번째 부분으로 넘어가겠습니다.</font>",
-		"description": "Id: aca_msg_book1_3_21_forward\nGroup: Book 1 Scenario 3_21"
-	},
-	"aca_msg_book1_3_21_park1": {
-		"message": "첫 번째 과제는 오프셋 주차 기동을 시연하는 것입니다. 트레일러로 후진해야 하는 지점은 왼쪽에 있습니다.<br><br><font face=/font/big_bold.font>오프셋 주차 기동을 수행합니다.</font>",
-		"description": "Id: aca_msg_book1_3_21_park1\nGroup: Book 1 Scenario 3_21"
-	},
-	"aca_msg_book1_3_21_park2": {
-		"message": "다음 과제는 정지한 트럭 줄에 후진하는 것입니다. 다른 트럭과 부딪히지 않도록 조심하세요!<br><br><font face=/font/big_bold.font>대각선 주차 기동을 수행하십시오.</font>",
-		"description": "Id: aca_msg_book1_3_21_park2\nGroup: Book 1 Scenario 3_21"
-	},
-	"aca_msg_book1_3_21_park3": {
-		"message": "주차 공간으로 계속 가세요. 예상치 못한 상황에 주의하세요.<br><br><font face=/font/big_bold.font>계속 운행하십시오.</font>",
-		"description": "Id: aca_msg_book1_3_21_park3\nGroup: Book 1 Scenario 3_21"
-	},
-	"aca_msg_book1_3_21_park4": {
-		"message": "이제 앞쪽 연석 옆에 있는 두 트럭 사이에 평행 주차를 시도해 보세요.<br><br><font face=/font/big_bold.font>평행 주차 기동을 수행해 보십시오.</font>",
-		"description": "Id: aca_msg_book1_3_21_park4\nGroup: Book 1 Scenario 3_21"
-	},
-	"aca_msg_book1_3_21_park5": {
-		"message": "왼쪽으로 마지막 주차 기동! 원하는 대로 접근해도 됩니다.<br><br><font face=/font/big_bold.font>지정된 구역으로 후진합니다.</font>",
-		"description": "Id: aca_msg_book1_3_21_park5\nGroup: Book 1 Scenario 3_21"
-	},
-	"aca_msg_book1_3_21_park6": {
-		"message": "거의 끝났습니다. 테스트 구역을 떠나 트럭을 주차하세요.<br><br><font face=/font/big_bold.font>왼쪽의 테스트 구역을 나가십시오.</font>",
-		"description": "Id: aca_msg_book1_3_21_park6\nGroup: Book 1 Scenario 3_21"
-	},
-	"aca_msg_book1_3_21_stop": {
-		"message": "다른 트럭과 함께 오른쪽에 트럭을 주차할 수 있습니다.<br><br><font face=/font/big_bold.font>지정된 구역에서 멈추십시오. </font>",
-		"description": "Id: aca_msg_book1_3_21_stop\nGroup: Book 1 Scenario 3_21"
-	},
-	"aca_msg_book1_3_21_end": {
-		"message": "<font face=/font/big_bold.font>트럭을 고정하고 엔진을 끄십시오. </font>",
-		"description": "Id: aca_msg_book1_3_21_end\nGroup: Book 1 Scenario 3_21"
 	},
 	"aca_scenario_book1_3_22_title": {
 		"message": "트레일러를 이용한 평행 주차",

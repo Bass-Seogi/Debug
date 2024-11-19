@@ -21839,13 +21839,37 @@
 		"message": "시나리오 결과",
 		"description": "Id: aca_replay_title\nGroup: Academy replay screen.\nScreen shown at the end of scenario."
 	},
-	"aca_replay_show_controls_info": {
-		"message": "<color value=@@clr_txt@@>컨트롤 보기 (@@imv_nrm_replayhidec@@<color value=@@clr_txt@@>)   뒤로 ($KEY$<color value=@@clr_txt@@>)",
-		"description": "Id: aca_replay_show_controls_info\nGroup: Academy replay screen.\nScreen shown at the end of scenario."
+	"aca_replay_hidectrls": {
+		"message": "컨트롤 윈도우 숨기기",
+		"description": "Id: aca_replay_hidectrls\nGroup: Academy replay screen.\nScreen shown at the end of scenario."
 	},
-	"aca_replay_hide_controls_info": {
-		"message": "<color value=@@clr_txt@@>컨트롤 숨기기 (@@imv_nrm_replayhidec@@<color value=@@clr_txt@@>)   뒤로 ($KEY$<color value=@@clr_txt@@>)",
-		"description": "Id: aca_replay_hide_controls_info\nGroup: Academy replay screen.\nScreen shown at the end of scenario."
+	"aca_move_bcamera": {
+		"message": "카메라 이동",
+		"description": "Id: aca_move_bcamera\nGroup: Academy replay screen.\nScreen shown at the end of scenario."
+	},
+	"aca_zoom_bcamera": {
+		"message": "카메라 줌",
+		"description": "Id: aca_zoom_bcamera\nGroup: Academy replay screen.\nScreen shown at the end of scenario."
+	},
+	"aca_replay_back": {
+		"message": "이전",
+		"description": "Id: aca_replay_back\nGroup: Academy replay screen.\nScreen shown at the end of scenario."
+	},
+	"aca_control_replay": {
+		"message": "컨트롤 리플레이",
+		"description": "Id: aca_control_replay\nGroup: Academy replay screen.\nScreen shown at the end of scenario."
+	},
+	"aca_pause_replay": {
+		"message": "일시정지",
+		"description": "Id: aca_pause_replay\nGroup: Academy replay screen.\nScreen shown at the end of scenario."
+	},
+	"aca_unpause_replay": {
+		"message": "일시 정지 해제",
+		"description": "Id: aca_unpause_replay\nGroup: Academy replay screen.\nScreen shown at the end of scenario."
+	},
+	"aca_replay_showctrls": {
+		"message": "컨트롤 보기",
+		"description": "Id: aca_replay_showctrls\nGroup: Academy replay screen.\nScreen shown at the end of scenario."
 	},
 	"aca_paused_title": {
 		"message": "시나리오 진행 상황",
