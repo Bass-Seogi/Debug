@@ -8435,6 +8435,10 @@
 		"message": "오염 물질",
 		"description": "Id: cn_contamin\nGroup: Names of individual cargos."
 	},
+	"cn_cotton_harvester": {
+		"message": "목화 수확기",
+		"description": "Id: cn_cotton_harvester\nGroup: Names of individual cargos."
+	},
 	"cn_covid_vaccine": {
 		"message": "코로나19 백신",
 		"description": "Id: cn_covid_vaccine\nGroup: Names of individual cargos."
@@ -8535,13 +8539,13 @@
 		"message": "홈 액세서리",
 		"description": "Id: cn_home_acc\nGroup: Names of individual cargos."
 	},
-	"cn_household_appl": {
-		"message": "가전 제품",
-		"description": "Id: cn_household_appl\nGroup: Names of individual cargos."
-	},
 	"cn_hot_chem": {
 		"message": "고온 화학약품",
 		"description": "Id: cn_hot_chem\nGroup: Names of individual cargos."
+	},
+	"cn_household_appl": {
+		"message": "가전 제품",
+		"description": "Id: cn_household_appl\nGroup: Names of individual cargos."
 	},
 	"cn_hwaste": {
 		"message": "의료 폐기물",
@@ -8730,6 +8734,10 @@
 	"cn_roadroller": {
 		"message": "로드 롤러",
 		"description": "Id: cn_roadroller\nGroup: Names of individual cargos."
+	},
+	"cn_rough_terrain_forklift": {
+		"message": "험지형 지게차",
+		"description": "Id: cn_rough_terrain_forklift\nGroup: Names of individual cargos."
 	},
 	"cn_sand": {
 		"message": "모래",

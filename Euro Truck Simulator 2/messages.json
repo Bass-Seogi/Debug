@@ -8531,6 +8531,10 @@
 		"message": "오염 물질",
 		"description": "Id: cn_contamin\nGroup: Names of individual cargos."
 	},
+	"cn_cotton_harvester": {
+		"message": "목화 수확기",
+		"description": "Id: cn_cotton_harvester\nGroup: Names of individual cargos."
+	},
 	"cn_covid_vaccine": {
 		"message": "코로나19 백신",
 		"description": "Id: cn_covid_vaccine\nGroup: Names of individual cargos."
@@ -8659,13 +8663,17 @@
 		"message": "홈 액세서리",
 		"description": "Id: cn_home_acc\nGroup: Names of individual cargos."
 	},
-	"cn_household_appl": {
-		"message": "가전 제품",
-		"description": "Id: cn_household_appl\nGroup: Names of individual cargos."
+	"cn_horse_trailer": {
+		"message": "말 트레일러",
+		"description": "Id: cn_horse_trailer\nGroup: Names of individual cargos."
 	},
 	"cn_hot_chem": {
 		"message": "고온 화학약품",
 		"description": "Id: cn_hot_chem\nGroup: Names of individual cargos."
+	},
+	"cn_household_appl": {
+		"message": "가전 제품",
+		"description": "Id: cn_household_appl\nGroup: Names of individual cargos."
 	},
 	"cn_hwaste": {
 		"message": "의료 폐기물",
@@ -8759,6 +8767,18 @@
 		"message": "강철 빔",
 		"description": "Id: cn_metal_beams\nGroup: Names of individual cargos."
 	},
+	"cn_mobile_crusher": {
+		"message": "모바일 크러셔",
+		"description": "Id: cn_mobile_crusher\nGroup: Names of individual cargos."
+	},
+	"cn_mobile_screener": {
+		"message": "모바일 스크리너",
+		"description": "Id: cn_mobile_screener\nGroup: Names of individual cargos."
+	},
+	"cn_mobile_stacker": {
+		"message": "모바일 스태커",
+		"description": "Id: cn_mobile_stacker\nGroup: Names of individual cargos."
+	},
 	"cn_motorcycles": {
 		"message": "오토바이",
 		"description": "Id: cn_motorcycles\nGroup: Names of individual cargos."
@@ -8843,6 +8863,10 @@
 		"message": "휘발유",
 		"description": "Id: cn_petrol\nGroup: Names of individual cargos."
 	},
+	"cn_pickups": {
+		"message": "픽업",
+		"description": "Id: cn_pickups\nGroup: Names of individual cargos."
+	},
 	"cn_pink_ribbon_goods": {
 		"message": "핑크 리본 굿즈",
 		"description": "Id: cn_pink_ribbon_goods\nGroup: Names of individual cargos."
@@ -8910,6 +8934,10 @@
 	"cn_roadroller": {
 		"message": "로드 롤러",
 		"description": "Id: cn_roadroller\nGroup: Names of individual cargos."
+	},
+	"cn_rough_terrain_forklift": {
+		"message": "험지형 지게차",
+		"description": "Id: cn_rough_terrain_forklift\nGroup: Names of individual cargos."
 	},
 	"cn_sand": {
 		"message": "모래",
@@ -9050,6 +9078,10 @@
 	"cn_wallpan": {
 		"message": "벽 패널",
 		"description": "Id: cn_wallpan\nGroup: Names of individual cargos."
+	},
+	"cn_water_tank": {
+		"message": "물탱크",
+		"description": "Id: cn_water_tank\nGroup: Names of individual cargos."
 	},
 	"cn_wheel_loader": {
 		"message": "휠 로더",
@@ -12327,6 +12359,14 @@
 		"message": "안코나",
 		"description": "Id: ancona\nGroup: Names of cities"
 	},
+	"argostoli": {
+		"message": "아르고스톨리",
+		"description": "Id: argostoli\nGroup: Names of cities"
+	},
+	"athens": {
+		"message": "아테네",
+		"description": "Id: athens\nGroup: Names of cities"
+	},
 	"bacau": {
 		"message": "바커우",
 		"description": "Id: bacau\nGroup: Names of cities"
@@ -12514,6 +12554,14 @@
 	"cernavoda": {
 		"message": "체르나보더",
 		"description": "Id: cernavoda\nGroup: Names of cities"
+	},
+	"chania": {
+		"message": "하니아",
+		"description": "Id: chania\nGroup: Names of cities"
+	},
+	"chios": {
+		"message": "키오스",
+		"description": "Id: chios\nGroup: Names of cities"
 	},
 	"civaux": {
 		"message": "시보",
@@ -12731,6 +12779,10 @@
 		"message": "헬싱키",
 		"description": "Id: helsinki\nGroup: Names of cities"
 	},
+	"heraklion": {
+		"message": "이라클리오",
+		"description": "Id: heraklion\nGroup: Names of cities"
+	},
 	"hirtshals": {
 		"message": "히르트스할스",
 		"description": "Id: hirtshals\nGroup: Names of cities"
@@ -12751,6 +12803,10 @@
 		"message": "이아시",
 		"description": "Id: iasi\nGroup: Names of cities"
 	},
+	"igoumenitsa": {
+		"message": "이구메니차",
+		"description": "Id: igoumenitsa\nGroup: Names of cities"
+	},
 	"ijmuiden": {
 		"message": "에이마위던",
 		"description": "Id: ijmuiden\nGroup: Names of cities"
@@ -12759,6 +12815,10 @@
 		"message": "인스브루크",
 		"description": "Id: innsbruck\nGroup: Names of cities"
 	},
+	"ioannina": {
+		"message": "요아니나",
+		"description": "Id: ioannina\nGroup: Names of cities"
+	},
 	"istanbul": {
 		"message": "이스탄불",
 		"description": "Id: istanbul\nGroup: Names of cities"
@@ -12766,6 +12826,10 @@
 	"jonkoping": {
 		"message": "옌셰핑",
 		"description": "Id: jonkoping\nGroup: Names of cities"
+	},
+	"kalamata": {
+		"message": "칼라마타",
+		"description": "Id: kalamata\nGroup: Names of cities"
 	},
 	"kalmar": {
 		"message": "칼마르",
@@ -12791,29 +12855,33 @@
 		"message": "칼스크로나",
 		"description": "Id: karlskrona\nGroup: Names of cities"
 	},
-	"katowice": {
-		"message": "카토비체",
-		"description": "Id: katowice\nGroup: Names of cities"
-	},
 	"kassel": {
 		"message": "카셀",
 		"description": "Id: kassel\nGroup: Names of cities"
+	},
+	"katowice": {
+		"message": "카토비체",
+		"description": "Id: katowice\nGroup: Names of cities"
 	},
 	"kaunas": {
 		"message": "카우나스",
 		"description": "Id: kaunas\nGroup: Names of cities"
 	},
+	"kavala": {
+		"message": "카발라",
+		"description": "Id: kavala\nGroup: Names of cities"
+	},
 	"kiel": {
 		"message": "킬",
 		"description": "Id: kiel\nGroup: Names of cities"
 	},
-	"klagenfurt_am_worthersee": {
-		"message": "클라겐푸르트 암 뵈르테제",
-		"description": "Id: klagenfurt_am_worthersee\nGroup: Names of cities"
-	},
 	"klagenfurt": {
 		"message": "클라겐푸르트",
 		"description": "Id: klagenfurt\nGroup: Names of cities"
+	},
+	"klagenfurt_am_worthersee": {
+		"message": "클라겐푸르트 암 뵈르테제",
+		"description": "Id: klagenfurt_am_worthersee\nGroup: Names of cities"
 	},
 	"klaipeda": {
 		"message": "클라이페다",
@@ -12870,6 +12938,14 @@
 	"lahti": {
 		"message": "라티",
 		"description": "Id: lahti\nGroup: Names of cities"
+	},
+	"lamia": {
+		"message": "라미아",
+		"description": "Id: lamia\nGroup: Names of cities"
+	},
+	"larissa": {
+		"message": "라리사",
+		"description": "Id: larissa\nGroup: Names of cities"
 	},
 	"la_rochelle": {
 		"message": "라로셀",
@@ -12930,6 +13006,10 @@
 	"livorno": {
 		"message": "리보르노",
 		"description": "Id: livorno\nGroup: Names of cities"
+	},
+	"lixouri": {
+		"message": "릭수리",
+		"description": "Id: lixouri\nGroup: Names of cities"
 	},
 	"ljubljana": {
 		"message": "류블랴나",
@@ -13022,6 +13102,10 @@
 	"milano": {
 		"message": "밀라노",
 		"description": "Id: milano\nGroup: Names of cities"
+	},
+	"mitilini": {
+		"message": "미틸리니",
+		"description": "Id: mitilini\nGroup: Names of cities"
 	},
 	"montpellier": {
 		"message": "몽펠리에",
@@ -13171,6 +13255,10 @@
 		"message": "패르누",
 		"description": "Id: parnu\nGroup: Names of cities"
 	},
+	"patras": {
+		"message": "파트라",
+		"description": "Id: patras\nGroup: Names of cities"
+	},
 	"pecs": {
 		"message": "페치",
 		"description": "Id: pecs\nGroup: Names of cities"
@@ -13182,6 +13270,10 @@
 	"pescara": {
 		"message": "페스카라",
 		"description": "Id: pescara\nGroup: Names of cities"
+	},
+	"piraeus": {
+		"message": "피레아스",
+		"description": "Id: piraeus\nGroup: Names of cities"
 	},
 	"pirdop": {
 		"message": "피르도프",
@@ -13270,6 +13362,10 @@
 	"rezekne": {
 		"message": "레제크네",
 		"description": "Id: rezekne\nGroup: Names of cities"
+	},
+	"rhodes": {
+		"message": "로도스",
+		"description": "Id: rhodes\nGroup: Names of cities"
 	},
 	"riga": {
 		"message": "리가",
@@ -13463,6 +13559,10 @@
 		"message": "테루엘",
 		"description": "Id: teruel\nGroup: Names of cities"
 	},
+	"thessaloniki": {
+		"message": "테살로니키",
+		"description": "Id: thessaloniki\nGroup: Names of cities"
+	},
 	"timisoara": {
 		"message": "티미쇼아라",
 		"description": "Id: timisoara\nGroup: Names of cities"
@@ -13490,6 +13590,10 @@
 	"trieste": {
 		"message": "트리에스테",
 		"description": "Id: trieste\nGroup: Names of cities"
+	},
+	"trikala": {
+		"message": "트리칼라",
+		"description": "Id: trikala\nGroup: Names of cities"
 	},
 	"turku": {
 		"message": "투르쿠",
@@ -15341,11 +15445,15 @@
 	},
 	"duty": {
 		"message": "Duty",
-		"description": "Id: duty\nBasic truck accesory general\nGroup: Upgrade accesories\nGroup: Input wizard"
+		"description": "Id: duty\nBasic truck accesory\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"duty_paint": {
 		"message": "Duty 페인트",
 		"description": "Id: duty_paint\nBasic but paintable truck accesory\nGroup: Upgrade accesories\nGroup: Input wizard"
+	},
+	"heavy_duty": {
+		"message": "헤비 듀티",
+		"description": "Id: heavy_duty\nHeavy duty truck accesory\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"classic": {
 		"message": "클래식",
@@ -15353,7 +15461,7 @@
 	},
 	"stock": {
 		"message": "순정",
-		"description": "Id: stock\nStock truck accesory general\nGroup: Upgrade accesories\nGroup: Input wizard"
+		"description": "Id: stock\nStock truck accesory\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"stock1": {
 		"message": "순정 I",

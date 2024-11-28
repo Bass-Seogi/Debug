@@ -771,6 +771,10 @@
 		"message": "붐 리프트",
 		"description": "Id: cn_boom_lift\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
+	"ats_cn_borates": {
+		"message": "붕산염",
+		"description": "Id: cn_borates\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
 	"ats_cn_bottles": {
 		"message": "빈 병",
 		"description": "Id: cn_bottles\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
@@ -826,10 +830,6 @@
 	"ats_cn_const_houses": {
 		"message": "컨테이너 주택",
 		"description": "Id: cn_const_houses\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
-	},
-	"ats_cn_cotton_harvester": {
-		"message": "목화 수확기",
-		"description": "Id: cn_cotton_harvester\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_cn_cotton_lint": {
 		"message": "목화 린트",
@@ -1070,10 +1070,6 @@
 	"ats_cn_recreational_vehicle": {
 		"message": "레크리에이션 차량",
 		"description": "Id: cn_recreational_vehicle\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
-	},
-	"ats_cn_rough_terrain_forklift": {
-		"message": "험지형 지게차",
-		"description": "Id: cn_rough_terrain_forklift\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_cn_salt": {
 		"message": "소금",
