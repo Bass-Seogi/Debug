@@ -24248,7 +24248,7 @@
 		"description": "Id: aca_msg_book1_3_05_cutscene06\nGroup: Book 1 Scenario 3_05"
 	},
 	"aca_msg_book1_3_05_cutscene07": {
-		"message": "@@aca_msg_book1_3_05_cutscene07_img@@<br>트레일러를 돌리려면 트레일러를 이동하려는 방향인 <color value=@@clr_sel@@> 반대 <color value=@@clr_txt@@> 방향으로 트랙터를 조종해야 합니다.",
+		"message": "@@aca_msg_book1_3_05_cutscene07_img@@<br>트레일러를 돌리려면 트레일러를 이동하려는 방향의 <color value=@@clr_sel@@> 반대 <color value=@@clr_txt@@> 방향으로 트랙터를 조종해야 합니다.",
 		"description": "Id: aca_msg_book1_3_05_cutscene07\nGroup: Book 1 Scenario 3_05"
 	},
 	"aca_msg_book1_3_05_cutscene08": {

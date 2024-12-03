@@ -8707,6 +8707,10 @@
 		"message": "납",
 		"description": "Id: cn_lead\nGroup: Names of individual cargos."
 	},
+	"cn_limonades": {
+		"message": "레모네이드",
+		"description": "Id: cn_limonades\nGroup: Names of individual cargos."
+	},
 	"cn_limestone": {
 		"message": "석회암",
 		"description": "Id: cn_limestone\nGroup: Names of individual cargos."
@@ -9638,10 +9642,6 @@
 	"cn_lavender": {
 		"message": "라벤더",
 		"description": "Id: cn_lavender\nGroup: Names of individual cargos."
-	},
-	"cn_limonades": {
-		"message": "레모네이드",
-		"description": "Id: cn_limonades\nGroup: Names of individual cargos."
 	},
 	"cn_medical_equipment": {
 		"message": "의료기기",
@@ -14627,6 +14627,10 @@
 		"message": "돈키호테의 풍차",
 		"description": "Id: don_quixotes_windmill\nGroup: Toys and toy sets\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
+	"donkey": {
+		"message": "당나귀",
+		"description": "Id: donkey\nGroup: Toys and toy sets\nGroup: Upgrade accesories\nGroup: Input wizard"
+	},
 	"electric_cooling_box": {
 		"message": "전기 아이스박스",
 		"description": "Id: electric_cooling_box\nGroup: Toys and toy sets\nGroup: Upgrade accesories\nGroup: Input wizard"
@@ -14890,6 +14894,10 @@
 	"krone_pennant": {
 		"message": "Krone 페넌트",
 		"description": "Id: krone_pennant\nGroup: Toys and toy sets\nGroup: Upgrade accesories\nGroup: Input wizard"
+	},
+	"little_owl": {
+		"message": "작은 올빼미",
+		"description": "Id: little_owl\nGroup: Toys and toy sets\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"magazines": {
 		"message": "잡지",
@@ -15546,6 +15554,10 @@
 	"alu": {
 		"message": "알루미늄",
 		"description": "Id: alu\nAluminium mirror, doorhandle or other accessory\nGroup: Upgrade accesories\nGroup: Input wizard"
+	},
+	"silver": {
+		"message": "실버",
+		"description": "Id: silver\nSilver mirror, doorhandle, badge or other accessory\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"steel": {
 		"message": "강철",
@@ -27020,7 +27032,7 @@
 		"description": "Id: aca_msg_book1_3_05_cutscene06\nGroup: Book 1 Scenario 3_05"
 	},
 	"aca_msg_book1_3_05_cutscene07": {
-		"message": "@@aca_msg_book1_3_05_cutscene07_img@@<br>트레일러를 돌리려면 트레일러를 이동하려는 방향인 <color value=@@clr_sel@@> 반대 <color value=@@clr_txt@@> 방향으로 트랙터를 조종해야 합니다.",
+		"message": "@@aca_msg_book1_3_05_cutscene07_img@@<br>트레일러를 돌리려면 트레일러를 이동하려는 방향의 <color value=@@clr_sel@@> 반대 <color value=@@clr_txt@@> 방향으로 트랙터를 조종해야 합니다.",
 		"description": "Id: aca_msg_book1_3_05_cutscene07\nGroup: Book 1 Scenario 3_05"
 	},
 	"aca_msg_book1_3_05_cutscene08": {
@@ -28264,7 +28276,7 @@
 		"description": "Id: aca_goal_book1_3_19_check09\nGroup: Book 1 Scenario 3_19"
 	},
 	"aca_goal_book1_3_19_check10": {
-		"message": "경사를 내려가다",
+		"message": "경사를 내려가기",
 		"description": "Id: aca_goal_book1_3_19_check10\nGroup: Book 1 Scenario 3_19"
 	},
 	"aca_goal_book1_3_19_check11": {
