@@ -723,6 +723,10 @@
 		"message": "전면 흙받이",
 		"description": "Id: f_mudflap\nA couple of mudflaps on the front of the trucks bumper\nGroup: Various accessory slots or accessory names."
 	},
+	"f_turn_light": {
+		"message": "전방 방향지시등",
+		"description": "Id: f_turn_light\nGroup: Various accessory slots or accessory names."
+	},
 	"f_window": {
 		"message": "윈드실드",
 		"description": "Id: f_window\nGroup: Various accessory slots or accessory names."
@@ -5979,6 +5983,38 @@
 		"message": "출발지 업체는 다른 지역에 있으며 현 위치에서 너무 멀리 떨어져있습니다.<br><br>그래도 이 화물을 배차받으시겠습니까?",
 		"description": "Id: mp_job_quick_travel_other_land\nGroup: XMAS event\nGroup: Options/Eye tracking\nScreen used to configure eye tracking related options"
 	},
+	"xmas_cargo_pickup": {
+		"message": "분실된 화물을 회수하려면 다음 키를 누르십시오:",
+		"description": "Id: xmas_cargo_pickup\nGroup: XMAS event\nGroup: Options/Eye tracking\nScreen used to configure eye tracking related options"
+	},
+	"xmass_missing_cargo_load_title": {
+		"message": "분실된 화물",
+		"description": "Id: xmass_missing_cargo_load_title\nGroup: XMAS event\nGroup: Options/Eye tracking\nScreen used to configure eye tracking related options"
+	},
+	"xmas_missing_cargo_title": {
+		"message": "분실된 화물을 찾기",
+		"description": "Id: xmas_missing_cargo_title\nGroup: XMAS event\nGroup: Options/Eye tracking\nScreen used to configure eye tracking related options"
+	},
+	"xmas_missing_cargo_text": {
+		"message": "윈터랜드에 도움이 필요합니다!<br>어제의 눈보라로 선물 포장 화물이 분실되었습니다. 지도를 불러와 화물을 찾고, <offset vshift=-3><img src=/material/ui/map/missing_cargo.mat width=23 height=23><offset vshift=3> 아이콘을 검색하세요.<br><br>트레일러로 운전하여<br>경로 관리자의 지시에 따라 화물을 싣습니다.",
+		"description": "Id: xmas_missing_cargo_text\nGroup: XMAS event\nGroup: Options/Eye tracking\nScreen used to configure eye tracking related options"
+	},
+	"xmas_cargo_acquired": {
+		"message": "적재된 화물 누락",
+		"description": "Id: xmas_cargo_acquired\nGroup: XMAS event\nGroup: Options/Eye tracking\nScreen used to configure eye tracking related options"
+	},
+	"xmas_unique_depots_goal": {
+		"message": "독특한 저장소",
+		"description": "Id: xmas_unique_depots_goal\nGroup: XMAS event\nGroup: Options/Eye tracking\nScreen used to configure eye tracking related options"
+	},
+	"xmas_total_deliveries_goal": {
+		"message": "총 운송 횟수",
+		"description": "Id: xmas_total_deliveries_goal\nGroup: XMAS event\nGroup: Options/Eye tracking\nScreen used to configure eye tracking related options"
+	},
+	"set_navigation_to_missing_cargo": {
+		"message": "분실된 화물에 웨이포인트를 설정하십시오",
+		"description": "Id: set_navigation_to_missing_cargo\nGroup: XMAS event\nGroup: Options/Eye tracking\nScreen used to configure eye tracking related options"
+	},
 	"eye_autopause_settings": {
 		"message": "자동 정지",
 		"description": "Id: eye_autopause_settings\nHader of the section.\nGroup: Configuration of autopause.\nGroup: Options/Eye tracking\nScreen used to configure eye tracking related options"
@@ -8338,6 +8374,10 @@
 	"cn_beverages": {
 		"message": "음료수",
 		"description": "Id: cn_beverages\nGroup: Names of individual cargos."
+	},
+	"cn_boric_acid": {
+		"message": "붕산",
+		"description": "Id: cn_boric_acid\nGroup: Names of individual cargos."
 	},
 	"cn_bulldozer": {
 		"message": "불도저",

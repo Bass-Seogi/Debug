@@ -23,10 +23,6 @@
 		"message": "버그 디플렉터",
 		"description": "Id: deflector\nGroup: Various accessory slots or accessory names."
 	},
-	"ats_f_turn_light": {
-		"message": "전방 턴 라이트",
-		"description": "Id: f_turn_light\nGroup: Various accessory slots or accessory names."
-	},
 	"ats_filter_cover": {
 		"message": "필터 커버",
 		"description": "Id: filter_cover\nGroup: Various accessory slots or accessory names."

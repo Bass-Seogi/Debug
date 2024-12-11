@@ -723,6 +723,10 @@
 		"message": "전면 흙받이",
 		"description": "Id: f_mudflap\nA couple of mudflaps on the front of the trucks bumper\nGroup: Various accessory slots or accessory names."
 	},
+	"f_turn_light": {
+		"message": "전방 방향지시등",
+		"description": "Id: f_turn_light\nGroup: Various accessory slots or accessory names."
+	},
 	"f_window": {
 		"message": "윈드실드",
 		"description": "Id: f_window\nGroup: Various accessory slots or accessory names."
@@ -11091,6 +11095,10 @@
 		"message": "태그리프트",
 		"description": "Id: taglift\nType of lifted axle - rear\"\nGroup: Content of information box with information about truck.\nThe line name is aligned to the left edge of the box and the value is aligned to the right side.\nGroup: Truck dealer screen"
 	},
+	"steer": {
+		"message": "조향가능",
+		"description": "Id: steer\nSteerable type of chassis/axle\"\nGroup: Content of information box with information about truck.\nThe line name is aligned to the left edge of the box and the value is aligned to the right side.\nGroup: Truck dealer screen"
+	},
 	"td_info_cab": {
 		"message": "캐빈:",
 		"description": "Id: td_info_cab\nType of cabin. For example \"Cabin:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Privilege\"\nGroup: Content of information box with information about truck.\nThe line name is aligned to the left edge of the box and the value is aligned to the right side.\nGroup: Truck dealer screen"
@@ -15563,6 +15571,10 @@
 		"message": "강철",
 		"description": "Id: steel\nSteel bumper or other accessory\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
+	"led": {
+		"message": "LED",
+		"description": "Id: led\nLED light or LED decorated item or other accessory\nGroup: Upgrade accesories\nGroup: Input wizard"
+	},
 	"plastic_modern": {
 		"message": "플라스틱 모던",
 		"description": "Id: plastic_modern\nModernized plastic mirror, doorhandle or other accessory\nGroup: Upgrade accesories\nGroup: Input wizard"
@@ -15594,6 +15606,22 @@
 	"premium": {
 		"message": "프리미엄",
 		"description": "Id: premium\nPremium version of the interior or accesory\nGroup: Upgrade accesories\nGroup: Input wizard"
+	},
+	"dynamic": {
+		"message": "역동적",
+		"description": "Id: dynamic\nSpecific (or fancy) name of the interior or accesory\nGroup: Upgrade accesories\nGroup: Input wizard"
+	},
+	"progressive": {
+		"message": "점진적",
+		"description": "Id: progressive\nSpecific (or fancy) name of the interior or accesory\nGroup: Upgrade accesories\nGroup: Input wizard"
+	},
+	"robust": {
+		"message": "견고함",
+		"description": "Id: robust\nSpecific (or fancy) name of the interior or accesory\nGroup: Upgrade accesories\nGroup: Input wizard"
+	},
+	"leather": {
+		"message": "가죽",
+		"description": "Id: leather\nSpecific (or fancy) name of the interior or accesory\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"exclusive": {
 		"message": "고급형",
@@ -15642,6 +15670,54 @@
 	"light_chrome": {
 		"message": "라이트 크롬",
 		"description": "Id: light_chrome\nSmall accesory lights for bottom truck grills\nGroup: Upgrade accesories\nGroup: Input wizard"
+	},
+	"active_space": {
+		"message": "활성 공간",
+		"description": "Id: active_space\nSpecific name of the interior or accesory (eg Iveco cabin)\nGroup: Upgrade accesories\nGroup: Input wizard"
+	},
+	"glossy": {
+		"message": "광택",
+		"description": "Id: glossy\nSpecific (or fancy) name of the interior or accesory\nGroup: Upgrade accesories\nGroup: Input wizard"
+	},
+	"shiny_glossy": {
+		"message": "빛나고 광택",
+		"description": "Id: shiny_glossy\nSpecific (or fancy) name of the interior or accesory\nGroup: Upgrade accesories\nGroup: Input wizard"
+	},
+	"copper": {
+		"message": "구리",
+		"description": "Id: copper\nSpecific (or fancy) name of the interior or accesory\nGroup: Upgrade accesories\nGroup: Input wizard"
+	},
+	"gun_metal": {
+		"message": "건 메탈",
+		"description": "Id: gun_metal\nSpecific (or fancy) name of the interior or accesory\nGroup: Upgrade accesories\nGroup: Input wizard"
+	},
+	"gun_metal_lines": {
+		"message": "건 메탈 라인",
+		"description": "Id: gun_metal_lines\nSpecific (or fancy) name of the interior or accesory\nGroup: Upgrade accesories\nGroup: Input wizard"
+	},
+	"carbon": {
+		"message": "카본",
+		"description": "Id: carbon\nSpecific (or fancy) name of the interior or accesory\nGroup: Upgrade accesories\nGroup: Input wizard"
+	},
+	"body_color_streams": {
+		"message": "바디 컬러 스트림",
+		"description": "Id: body_color_streams\nSpecific (or fancy) name of the interior or accesory\nGroup: Upgrade accesories\nGroup: Input wizard"
+	},
+	"full_body_color": {
+		"message": "풀 바디 컬러",
+		"description": "Id: full_body_color\nSpecific (or fancy) name of the interior or accesory\nGroup: Upgrade accesories\nGroup: Input wizard"
+	},
+	"production_optional": {
+		"message": "생산 선택",
+		"description": "Id: production_optional\nSpecific (or fancy) name of the interior or accesory\nGroup: Upgrade accesories\nGroup: Input wizard"
+	},
+	"production_standard": {
+		"message": "생산 일반",
+		"description": "Id: production_standard\nSpecific (or fancy) name of the interior or accesory\nGroup: Upgrade accesories\nGroup: Input wizard"
+	},
+	"top_optional": {
+		"message": "탑 선택",
+		"description": "Id: top_optional\nSpecific (or fancy) name of the interior or accesory\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"badge_380": {
 		"message": "배지 380",
@@ -20598,6 +20674,38 @@
 	"xmas19_back": {
 		"message": "돌아가기",
 		"description": "Id: xmas19_back\nGroup: X-mas event"
+	},
+	"xmas_cargo_pickup": {
+		"message": "분실된 화물을 회수하려면 다음 키를 누르십시오:",
+		"description": "Id: xmas_cargo_pickup\nGroup: X-mas event"
+	},
+	"xmass_missing_cargo_load_title": {
+		"message": "분실된 화물",
+		"description": "Id: xmass_missing_cargo_load_title\nGroup: X-mas event"
+	},
+	"xmas_missing_cargo_title": {
+		"message": "분실된 화물을 찾기",
+		"description": "Id: xmas_missing_cargo_title\nGroup: X-mas event"
+	},
+	"xmas_missing_cargo_text": {
+		"message": "윈터랜드에 도움이 필요합니다!<br>어제의 눈보라로 선물 포장 화물이 분실되었습니다. 지도를 불러와 화물을 찾고, <offset vshift=-3><img src=/material/ui/map/missing_cargo.mat width=23 height=23><offset vshift=3> 아이콘을 검색하세요.<br><br>트레일러로 운전하여<br>경로 관리자의 지시에 따라 화물을 싣습니다.",
+		"description": "Id: xmas_missing_cargo_text\nGroup: X-mas event"
+	},
+	"xmas_cargo_acquired": {
+		"message": "적재된 화물 누락",
+		"description": "Id: xmas_cargo_acquired\nGroup: X-mas event"
+	},
+	"xmas_unique_depots_goal": {
+		"message": "독특한 저장소",
+		"description": "Id: xmas_unique_depots_goal\nGroup: X-mas event"
+	},
+	"xmas_total_deliveries_goal": {
+		"message": "총 운송 횟수",
+		"description": "Id: xmas_total_deliveries_goal\nGroup: X-mas event"
+	},
+	"set_navigation_to_missing_cargo": {
+		"message": "분실된 화물에 웨이포인트를 설정하십시오",
+		"description": "Id: set_navigation_to_missing_cargo\nGroup: X-mas event"
 	},
 	"mp_unknown_player": {
 		"message": "알 수 없음",
