@@ -8484,7 +8484,7 @@
 		"description": "Id: cn_christmas_crackers\nGroup: Names of individual cargos."
 	},
 	"cn_christmas_decorations": {
-		"message": "크리스마스 장식",
+		"message": "크리스마스 데코레이션",
 		"description": "Id: cn_christmas_decorations\nGroup: Names of individual cargos."
 	},
 	"cn_christmas_ornaments": {
@@ -14591,6 +14591,14 @@
 		"message": "치와와 보블 헤드",
 		"description": "Id: chihuahua_bobblehead\nGroup: Toys and toy sets\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
+	"christmas_bells": {
+		"message": "크리스마스 벨",
+		"description": "Id: christmas_bells\nGroup: Toys and toy sets\nGroup: Upgrade accesories\nGroup: Input wizard"
+	},
+	"christmas_hat_and_mittens": {
+		"message": "크리스마스 모자와 벙어리 장갑",
+		"description": "Id: christmas_hat_and_mittens\nGroup: Toys and toy sets\nGroup: Upgrade accesories\nGroup: Input wizard"
+	},
 	"christmas_sweater": {
 		"message": "크리스마스 스웨터",
 		"description": "Id: christmas_sweater\nGroup: Toys and toy sets\nGroup: Upgrade accesories\nGroup: Input wizard"
@@ -14668,8 +14676,12 @@
 		"description": "Id: fender_cover\nGroup: Toys and toy sets\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"festive_chocolates": {
-		"message": "축제 초콜릿",
+		"message": "페스티브 초콜릿",
 		"description": "Id: festive_chocolates\nGroup: Toys and toy sets\nGroup: Upgrade accesories\nGroup: Input wizard"
+	},
+	"festive_gingerbread_stamps": {
+		"message": "페스티브 진저브레드 스탬프",
+		"description": "Id: festive_gingerbread_stamps\nGroup: Toys and toy sets\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"festive_mug": {
 		"message": "페스티브 머그잔",
@@ -14919,6 +14931,10 @@
 		"message": "지도",
 		"description": "Id: map\nGroup: Toys and toy sets\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
+	"marigolds_chocolates": {
+		"message": "메리골드 초콜릿",
+		"description": "Id: marigolds_chocolates\nGroup: Toys and toy sets\nGroup: Upgrade accesories\nGroup: Input wizard"
+	},
 	"matterhorn": {
 		"message": "마터호른",
 		"description": "Id: matterhorn\nGroup: Toys and toy sets\nGroup: Upgrade accesories\nGroup: Input wizard"
@@ -15162,6 +15178,10 @@
 	"weekend_bag": {
 		"message": "위켄드 백",
 		"description": "Id: weekend_bag\nGroup: Toys and toy sets\nGroup: Upgrade accesories\nGroup: Input wizard"
+	},
+	"white_deer": {
+		"message": "흰 사슴",
+		"description": "Id: white_deer\nGroup: Toys and toy sets\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"wielton_cap": {
 		"message": "Wielton 모자",
@@ -20688,7 +20708,7 @@
 		"description": "Id: xmas_missing_cargo_title\nGroup: X-mas event"
 	},
 	"xmas_missing_cargo_text": {
-		"message": "윈터랜드에 도움이 필요합니다!<br>어제의 눈보라로 선물 포장 화물이 분실되었습니다. 지도를 불러와 화물을 찾고, <offset vshift=-3><img src=/material/ui/map/missing_cargo.mat width=23 height=23><offset vshift=3> 아이콘을 검색하세요.<br><br>트레일러로 운전하여<br>경로 관리자의 지시에 따라 화물을 싣습니다.",
+		"message": "윈터랜드에 도움이 필요합니다!<br><br>어제의 눈보라로 선물 팩 배송물이 분실되었습니다. 마지막으로 알려진 위치는 지도에 <offset vshift=-3><img src=/material/ui/map/missing_cargo.mat width=23 height=23><offset vshift=3> 아이콘으로 표시되어 있습니다.<br><br>트레일러로 운전하여 경로 안내자의 지시에 따라 픽업하십시오.",
 		"description": "Id: xmas_missing_cargo_text\nGroup: X-mas event"
 	},
 	"xmas_cargo_acquired": {
