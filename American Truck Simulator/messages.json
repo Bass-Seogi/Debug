@@ -5992,11 +5992,11 @@
 		"description": "Id: xmass_missing_cargo_load_title\nGroup: XMAS event\nGroup: Options/Eye tracking\nScreen used to configure eye tracking related options"
 	},
 	"xmas_missing_cargo_title": {
-		"message": "분실된 화물을 찾기",
+		"message": "분실된 화물 찾기",
 		"description": "Id: xmas_missing_cargo_title\nGroup: XMAS event\nGroup: Options/Eye tracking\nScreen used to configure eye tracking related options"
 	},
 	"xmas_missing_cargo_text": {
-		"message": "윈터랜드에 도움이 필요합니다!<br><br>어제의 눈보라로 선물 팩 배송물이 분실되었습니다. 마지막으로 알려진 위치는 지도에 <offset vshift=-3><img src=/material/ui/map/missing_cargo.mat width=23 height=23><offset vshift=3> 아이콘으로 표시되어 있습니다.<br><br>트레일러로 운전하여 경로 안내자의 지시에 따라 픽업하십시오.",
+		"message": "윈터랜드에 도움이 필요합니다!<br><br>어제 눈보라로 선물 팩 배송물이 분실되었습니다. 마지막으로 알려진 위치는 <offset vshift=-3><img src=/material/ui/map/missing_cargo.mat width=23 height=23><offset vshift=3> 지도에 아이콘으로 표시되어 있습니다.<br><br>트레일러로 운전하여 경로 관리자의 지시에 따라 픽업하십시오.",
 		"description": "Id: xmas_missing_cargo_text\nGroup: XMAS event\nGroup: Options/Eye tracking\nScreen used to configure eye tracking related options"
 	},
 	"xmas_cargo_acquired": {
