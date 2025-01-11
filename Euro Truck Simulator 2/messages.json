@@ -5740,7 +5740,7 @@
 		"description": "Id: eye_head_mode_direct\nType of head tracking mode\nGroup: Configuration of extended view options.\nGroup: Options/Eye tracking\nScreen used to configure eye tracking related options"
 	},
 	"eye_head_mode_dynamic": {
-		"message": "역동적",
+		"message": "다이나믹",
 		"description": "Id: eye_head_mode_dynamic\nType of head tracking mode\nGroup: Configuration of extended view options.\nGroup: Options/Eye tracking\nScreen used to configure eye tracking related options"
 	},
 	"eye_gaze_view_responsiveness": {
@@ -15636,15 +15636,15 @@
 		"description": "Id: premium\nPremium version of the interior or accesory\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"dynamic": {
-		"message": "역동적",
+		"message": "다이나믹",
 		"description": "Id: dynamic\nSpecific (or fancy) name of the interior or accesory\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"progressive": {
-		"message": "점진적",
+		"message": "프로그레시브",
 		"description": "Id: progressive\nSpecific (or fancy) name of the interior or accesory\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"robust": {
-		"message": "견고함",
+		"message": "로버스트",
 		"description": "Id: robust\nSpecific (or fancy) name of the interior or accesory\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"leather": {
@@ -18384,7 +18384,7 @@
 		"description": "Id: dynamic_cargo_unload_progress\nGroup: Trailer ownership"
 	},
 	"dynamic_cargo_job_button_hint": {
-		"message": "(역동적)",
+		"message": "(다이나믹)",
 		"description": "Id: dynamic_cargo_job_button_hint\nGroup: Trailer ownership"
 	},
 	"cargo_market_t": {
@@ -25416,7 +25416,7 @@
 		"description": "Id: aca_msg_book1_1_03_forward_manual\nGroup: Book 1 Scenario 1_03"
 	},
 	"aca_msg_book1_1_03_forward_direct": {
-		"message": "이제 트럭은 앞으로 나아갈 준비가 되었습니다. 이동을 시작하고 점선을 건넙니다.<br><br><font face=/font/big_bold.font>풋 브레이크를 놓고, 클러치를 서서히 놓아서 클러치를 작동시키면서 동시에 가속 페달을 사용하여 RPM을 높여 트럭이 멈추지 않도록 합니다. 클러치가 완전히 풀리면 필요에 따라 가속하고 변속할 수 있습니다. </font>",
+		"message": "이제 트럭은 앞으로 나아갈 준비가 되었습니다. 이동을 시작하고 점선을 건넙니다.<br><br><font face=/font/big_bold.font>풋 브레이크를 놓고, 클러치를 서서히 놓아서 작동시키면서 동시에 가속 페달을 사용하여 RPM을 높여 트럭이 멈추지 않도록 합니다. 클러치가 완전히 풀리면 필요에 따라 가속하고 변속할 수 있습니다. </font>",
 		"description": "Id: aca_msg_book1_1_03_forward_direct\nGroup: Book 1 Scenario 1_03"
 	},
 	"aca_msg_book1_1_03_stop_arcade": {
@@ -26392,7 +26392,7 @@
 		"description": "Id: aca_goal_book1_2_08_forward\nGroup: Book 1 Scenario 2_08"
 	},
 	"aca_goal_book1_2_08_check1": {
-		"message": "점진적으로 좌회전하기",
+		"message": "점진적 좌회전",
 		"description": "Id: aca_goal_book1_2_08_check1\nGroup: Book 1 Scenario 2_08"
 	},
 	"aca_goal_book1_2_08_check2": {

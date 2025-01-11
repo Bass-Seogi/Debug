@@ -5732,7 +5732,7 @@
 		"description": "Id: eye_head_mode_direct\nType of head tracking mode\nGroup: Configuration of extended view options.\nGroup: Options/Eye tracking\nScreen used to configure eye tracking related options"
 	},
 	"eye_head_mode_dynamic": {
-		"message": "역동적",
+		"message": "다이나믹",
 		"description": "Id: eye_head_mode_dynamic\nType of head tracking mode\nGroup: Configuration of extended view options.\nGroup: Options/Eye tracking\nScreen used to configure eye tracking related options"
 	},
 	"eye_gaze_view_responsiveness": {
@@ -15724,7 +15724,7 @@
 		"description": "Id: dynamic_cargo_unload_progress\nGroup: Trailer ownership"
 	},
 	"dynamic_cargo_job_button_hint": {
-		"message": "(역동적)",
+		"message": "(다이나믹)",
 		"description": "Id: dynamic_cargo_job_button_hint\nGroup: Trailer ownership"
 	},
 	"cargo_market_t": {
@@ -22524,7 +22524,7 @@
 		"description": "Id: aca_msg_book1_1_03_forward_manual\nGroup: Book 1 Scenario 1_03"
 	},
 	"aca_msg_book1_1_03_forward_direct": {
-		"message": "이제 트럭은 앞으로 나아갈 준비가 되었습니다. 이동을 시작하고 점선을 건넙니다.<br><br><font face=/font/big_bold.font>풋 브레이크를 놓고, 클러치를 서서히 놓아서 클러치를 작동시키면서 동시에 가속 페달을 사용하여 RPM을 높여 트럭이 멈추지 않도록 합니다. 클러치가 완전히 풀리면 필요에 따라 가속하고 변속할 수 있습니다. </font>",
+		"message": "이제 트럭은 앞으로 나아갈 준비가 되었습니다. 이동을 시작하고 점선을 건넙니다.<br><br><font face=/font/big_bold.font>풋 브레이크를 놓고, 클러치를 서서히 놓아서 작동시키면서 동시에 가속 페달을 사용하여 RPM을 높여 트럭이 멈추지 않도록 합니다. 클러치가 완전히 풀리면 필요에 따라 가속하고 변속할 수 있습니다. </font>",
 		"description": "Id: aca_msg_book1_1_03_forward_direct\nGroup: Book 1 Scenario 1_03"
 	},
 	"aca_msg_book1_1_03_stop_arcade": {
