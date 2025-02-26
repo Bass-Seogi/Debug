@@ -3348,7 +3348,7 @@
 		"description": "Id: steer_cam_rotation_factor\nSlider for steering based camera rotation multiplier.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"steer_cam_rotation_reverse": {
-		"message": "스티어링 카메라 회전 (반전)",
+		"message": "후진 시 스티어링 카메라 회전",
 		"description": "Id: steer_cam_rotation_reverse\nDroplist for steering based camera rotation modes when reversing.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"blinker_cam_rotation": {
