@@ -408,15 +408,15 @@
 		"description": "Id: truck_diag_warning_minor_dmg\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
 	},
 	"truck_diag_tooltip_integrity_wear": {
-		"message": "영구 마모:",
+		"message": "유지 보수:",
 		"description": "Id: truck_diag_tooltip_integrity_wear\nLabel of integrity wear in tooltip.\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
 	},
 	"truck_diag_tooltip_integrity_wear_note": {
-		"message": "차량 전체의 전반적인 노후화 및 마모를 나타냅니다. 전체 복원으로 해결합니다.",
+		"message": "차량 전체에 걸친 체계적 노화와 지속적인 마모 증가를 나타냅니다. 전체 복구로 수정되었습니다.",
 		"description": "Id: truck_diag_tooltip_integrity_wear_note\nExplanation of integrity wear in tooltip.\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
 	},
 	"truck_diag_tooltip_wear_unfixable": {
-		"message": "부품 마모:",
+		"message": "평균 마모:",
 		"description": "Id: truck_diag_tooltip_wear_unfixable\nLabel of unfixable wear in tooltip.\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
 	},
 	"truck_diag_tooltip_wear_unfixable_note": {
@@ -1700,7 +1700,7 @@
 		"description": "Id: profile_distance\nSuffixed with distance in miles or km to indicate total distance driven by the profile. For example \"Distance driven: 10 mi\"\nGroup: Profile selection."
 	},
 	"continue_game": {
-		"message": "업무 계속하기",
+		"message": "업무 진행하기",
 		"description": "Id: continue_game\nButton which selects profile and continues in game.\nGroup: Profile selection."
 	},
 	"use_selected_profile": {
@@ -8980,7 +8980,7 @@
 		"description": "Id: cn_electric_wiring\nGroup: Names of individual cargos."
 	},
 	"cn_empty_barrels": {
-		"message": "빈 배럴통",
+		"message": "빈 통",
 		"description": "Id: cn_empty_barrels\nGroup: Names of individual cargos."
 	},
 	"cn_empty_palettes": {
@@ -9387,13 +9387,21 @@
 		"message": "콤팩트 발전기 JCB G100RS",
 		"description": "Id: cn_compact_generators_jcb_g100rs\nGroup: Names of cargo for DLC JCB"
 	},
-	"cn_excavator_jcb_19ce_dumpster_jcb_htd5e": {
-		"message": "미니 굴착기 JCB 19C-E, 쓰레기 수거함 JCB HTD-5E",
-		"description": "Id: cn_excavator_jcb_19ce_dumpster_jcb_htd5e\nGroup: Names of cargo for DLC JCB"
+	"cn_dumpster_jcb_htd5e": {
+		"message": "전기 덤프스터 JCB HTD-5E",
+		"description": "Id: cn_dumpster_jcb_htd5e\nGroup: Names of cargo for DLC JCB"
+	},
+	"cn_excavator_jcb_19ce": {
+		"message": "전기 미니 굴착기 JCB 19C-E",
+		"description": "Id: cn_excavator_jcb_19ce\nGroup: Names of cargo for DLC JCB"
 	},
 	"cn_excavator_jcb_245xr": {
 		"message": "굴착기 JCB 245XR",
 		"description": "Id: cn_excavator_jcb_245xr\nGroup: Names of cargo for DLC JCB"
+	},
+	"cn_powerpack_jcb_125qe": {
+		"message": "Powerpack JCB 1.25QE",
+		"description": "Id: cn_powerpack_jcb_125qe\nGroup: Names of cargo for DLC JCB"
 	},
 	"cn_tractor_jcb_fastrac_4220": {
 		"message": "트랙터 JCB Fastrac 4220",
@@ -10896,7 +10904,7 @@
 		"description": "Id: td_info_odometer\nTruck odometer value.\nGroup: Used truck dealer"
 	},
 	"td_info_integrity_wear": {
-		"message": "영구 마모:",
+		"message": "유지 보수:",
 		"description": "Id: td_info_integrity_wear\nIntegrity wear of truck.\nGroup: Used truck dealer"
 	},
 	"td_info_wear_unfixable": {
@@ -10932,11 +10940,11 @@
 		"description": "Id: used_truck_dealer_explanation_state_5\nExplanation of 5-star state.\nGroup: Used truck dealer wear explanation"
 	},
 	"used_truck_dealer_explanation_integrity_wear_title": {
-		"message": "영구 마모",
+		"message": "유지 보수",
 		"description": "Id: used_truck_dealer_explanation_integrity_wear_title\nCaption of integrity wear section.\nGroup: Used truck dealer wear explanation"
 	},
 	"used_truck_dealer_explanation_integrity_wear_text": {
-		"message": "차량 전체의 전반적인 노후화 및 마모를 나타냅니다. 전체 복원으로 해결합니다.",
+		"message": "차량 전체에 걸친 체계적 노화와 지속적인 마모 증가를 나타냅니다. 전체 복구로 수정되었습니다.",
 		"description": "Id: used_truck_dealer_explanation_integrity_wear_text\nExplanation integrity wear.\nGroup: Used truck dealer wear explanation"
 	},
 	"used_truck_dealer_explanation_wear_unfixable_title": {
@@ -11495,6 +11503,14 @@
 		"message": "오른쪽 보조거울",
 		"description": "Id: right_small\nCheckbox selecting small mirror on the right side.\nGroup: Mirrors Adjuster\nWindow for tweaking orientation of the mirrors."
 	},
+	"mirror_camera_zoom": {
+		"message": "줌",
+		"description": "Id: mirror_camera_zoom\nGroup: Mirrors Adjuster\nWindow for tweaking orientation of the mirrors."
+	},
+	"mirror_camera_rotate": {
+		"message": "카메라 회전",
+		"description": "Id: mirror_camera_rotate\nGroup: Mirrors Adjuster\nWindow for tweaking orientation of the mirrors."
+	},
 	"light_setting_t": {
 		"message": "라이트 조정",
 		"description": "Id: light_setting_t\nTitle of the window. Please keep in upper case where possible.\nGroup: Light Adjuster\nWindow for tweaking state of various lights."
@@ -11534,6 +11550,42 @@
 	"seat_adj_t": {
 		"message": "시트 조정",
 		"description": "Id: seat_adj_t\nTitle of the window. Please keep in upper case where possible.\nGroup: Seat Adjuster\nWindow for tweaking seat position."
+	},
+	"seat_tilt": {
+		"message": "기울이기",
+		"description": "Id: seat_tilt\nCheckbox selecting head tilt.\nGroup: Seat Adjuster\nWindow for tweaking seat position."
+	},
+	"seat_pan": {
+		"message": "시점 이동",
+		"description": "Id: seat_pan\nCheckbox selecting head pan.\nGroup: Seat Adjuster\nWindow for tweaking seat position."
+	},
+	"seat_rotate": {
+		"message": "회전",
+		"description": "Id: seat_rotate\nCheckbox selecting head rotation.\nGroup: Seat Adjuster\nWindow for tweaking seat position."
+	},
+	"seat_position": {
+		"message": "시트 위치",
+		"description": "Id: seat_position\nCheckbox selecting seat position.\nGroup: Seat Adjuster\nWindow for tweaking seat position."
+	},
+	"seat_fov": {
+		"message": "FOV",
+		"description": "Id: seat_fov\nCheckbox selecting fov.\nGroup: Seat Adjuster\nWindow for tweaking seat position."
+	},
+	"steering_tilt": {
+		"message": "스티어링 기울이기",
+		"description": "Id: steering_tilt\nCheckbox selecting steering wheel tilt.\nGroup: Seat Adjuster\nWindow for tweaking seat position."
+	},
+	"steering_telescope": {
+		"message": "스티어링 텔레스코프",
+		"description": "Id: steering_telescope\nCheckbox selecting steering wheel telescoping.\nGroup: Seat Adjuster\nWindow for tweaking seat position."
+	},
+	"reset_defaults_single": {
+		"message": "선택 초기화",
+		"description": "Id: reset_defaults_single\nButton which applies the default configuration for only selected option controlled by screen.\nGroup: Adjuster common\nCommon strings used in windows tweaking seat, mirror and lights."
+	},
+	"reset_defaults_all": {
+		"message": "모두 초기화",
+		"description": "Id: reset_defaults_all\nButton which applies the default configuration to the state controlled by screen.\nGroup: Adjuster common\nCommon strings used in windows tweaking seat, mirror and lights."
 	},
 	"exit": {
 		"message": "패널 닫기",
@@ -12659,6 +12711,18 @@
 		"message": "현재 선택된 시프터 위치와 토글 버튼은 관련 컨트롤 옆 하단에 표시됩니다. 설정을 변경하려면 해당 버튼을 클릭한 후 원하는 위치로 시프터를 이동한 다음 다시 중립 위치로 이동하십시오.",
 		"description": "Id: hshifter_gb_setup_desc2\nGroup: H-Shifter gearbox setup page\nGroup: Input wizard"
 	},
+	"cone_of_academy": {
+		"message": "콘 오브 아카데미",
+		"description": "Id: cone_of_academy\nGroup: Toys and toy sets\nGroup: Upgrade accesories\nGroup: Input wizard"
+	},
+	"cone_of_proficiency": {
+		"message": "콘 오브 프로피션시",
+		"description": "Id: cone_of_proficiency\nGroup: Toys and toy sets\nGroup: Upgrade accesories\nGroup: Input wizard"
+	},
+	"cone_of_excellence": {
+		"message": "콘 오브 엑설런스",
+		"description": "Id: cone_of_excellence\nGroup: Toys and toy sets\nGroup: Upgrade accesories\nGroup: Input wizard"
+	},
 	"blanket_beige": {
 		"message": "베이지색 담요",
 		"description": "Id: blanket_beige\nGroup: Toys and toy sets\nGroup: Upgrade accesories\nGroup: Input wizard"
@@ -12750,6 +12814,10 @@
 	"cup_holder_closed": {
 		"message": "컵 홀더 (닫힘)",
 		"description": "Id: cup_holder_closed\nCup holder pin set name\nGroup: Toys and toy sets\nGroup: Upgrade accesories\nGroup: Input wizard"
+	},
+	"cupids_dice": {
+		"message": "큐피드의 주사위",
+		"description": "Id: cupids_dice\nGroup: Toys and toy sets\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"dashboard": {
 		"message": "대시보드",
@@ -12946,6 +13014,10 @@
 	"michelin_notebook": {
 		"message": "Michelin 공책",
 		"description": "Id: michelin_notebook\nGroup: Toys and toy sets\nGroup: Upgrade accesories\nGroup: Input wizard"
+	},
+	"neon_heart": {
+		"message": "네온 하트",
+		"description": "Id: neon_heart\nGroup: Toys and toy sets\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"notebook": {
 		"message": "노트북",
@@ -14300,7 +14372,7 @@
 		"description": "Id: mod_category_sound\nGroup: Mod categories"
 	},
 	"mod_category_paint_job": {
-		"message": "스킨",
+		"message": "도색",
 		"description": "Id: mod_category_paint_job\nGroup: Mod categories"
 	},
 	"mod_category_cargo_pack": {
@@ -15526,6 +15598,14 @@
 	"new_inventory_items_help": {
 		"message": "새로운 스팀 보관함 아이템이 감지되었습니다.",
 		"description": "Id: new_inventory_items_help\nThe help text for new inventory items dialog.\nGroup: Strings related to Steam inventory feature."
+	},
+	"new_academy_rewards_t": {
+		"message": "새로운 아카데미 보상",
+		"description": "Id: new_academy_rewards_t\nTitle of the window displaying list of the new academy rewards.\nGroup: Strings related to Steam inventory feature."
+	},
+	"new_academy_rewards_help": {
+		"message": "새로운 아카데미 보상 아이템이 감지되었습니다.",
+		"description": "Id: new_academy_rewards_help\nThe help text for new academy reward items dialog.\nGroup: Strings related to Steam inventory feature."
 	},
 	"vehicle_accessory": {
 		"message": "차량 액세서리",
@@ -20652,7 +20732,7 @@
 		"description": "Id: ca_cut_borax\nGroup: Names of point of interest cutscenes."
 	},
 	"ca_cut_santa_monica": {
-		"message": "샌타모니카",
+		"message": "산타모니카",
 		"description": "Id: ca_cut_santa_monica\nGroup: Names of point of interest cutscenes."
 	},
 	"ca_cut_port_of_long_beach": {
@@ -20742,6 +20822,74 @@
 	"id_cut_midvale": {
 		"message": "미드베일 힐 휴게소",
 		"description": "Id: id_cut_midvale\nGoogle maps link: https://goo.gl/maps/DQnij98FGpb97hmv5\nGroup: Names of point of interest cutscenes."
+	},
+	"mo_cut_ozark": {
+		"message": "오자크 레이크",
+		"description": "Id: mo_cut_ozark\nGroup: Names of point of interest cutscenes."
+	},
+	"mo_cut_national_forest": {
+		"message": "마크 트웨인 국유림",
+		"description": "Id: mo_cut_national_forest\nGroup: Names of point of interest cutscenes."
+	},
+	"mo_cut_farms": {
+		"message": "하이랜드 팜스",
+		"description": "Id: mo_cut_farms\nGroup: Names of point of interest cutscenes."
+	},
+	"mo_cut_underground": {
+		"message": "캔자스시티 언더그라운드",
+		"description": "Id: mo_cut_underground\nGroup: Names of point of interest cutscenes."
+	},
+	"mo_cut_sedalia": {
+		"message": "세달리아",
+		"description": "Id: mo_cut_sedalia\nGroup: Names of point of interest cutscenes."
+	},
+	"mo_cut_louis": {
+		"message": "세인트루이스",
+		"description": "Id: mo_cut_louis\nGroup: Names of point of interest cutscenes."
+	},
+	"mo_cut_kansas_city_mo": {
+		"message": "캔자스시티",
+		"description": "Id: mo_cut_kansas_city_mo\nGroup: Names of point of interest cutscenes."
+	},
+	"mo_cut_jefferson_city": {
+		"message": "제퍼슨시티",
+		"description": "Id: mo_cut_jefferson_city\nGroup: Names of point of interest cutscenes."
+	},
+	"mo_cut_joplin": {
+		"message": "조플린",
+		"description": "Id: mo_cut_joplin\nGroup: Names of point of interest cutscenes."
+	},
+	"mo_cut_springfield": {
+		"message": "스프링필드",
+		"description": "Id: mo_cut_springfield\nGroup: Names of point of interest cutscenes."
+	},
+	"mo_cut_kirksville": {
+		"message": "커크스빌",
+		"description": "Id: mo_cut_kirksville\nGroup: Names of point of interest cutscenes."
+	},
+	"mo_cut_columbia": {
+		"message": "콜롬비아",
+		"description": "Id: mo_cut_columbia\nGroup: Names of point of interest cutscenes."
+	},
+	"mo_cut_cape_girardeau": {
+		"message": "케이프지라도",
+		"description": "Id: mo_cut_cape_girardeau\nGroup: Names of point of interest cutscenes."
+	},
+	"mo_cut_joseph": {
+		"message": "성 요셉",
+		"description": "Id: mo_cut_joseph\nGroup: Names of point of interest cutscenes."
+	},
+	"mo_cut_maryville": {
+		"message": "메리빌",
+		"description": "Id: mo_cut_maryville\nGroup: Names of point of interest cutscenes."
+	},
+	"mo_cut_rolla": {
+		"message": "랄라",
+		"description": "Id: mo_cut_rolla\nGroup: Names of point of interest cutscenes."
+	},
+	"mo_cut_poplar_bluff": {
+		"message": "포플러 블러프",
+		"description": "Id: mo_cut_poplar_bluff\nGroup: Names of point of interest cutscenes."
 	},
 	"mt_cut_city_of_butte": {
 		"message": "뷰트",
@@ -21276,7 +21424,7 @@
 		"description": "Id: landmark_ca_coronadob\nGroup: Names of landmarks."
 	},
 	"landmark_ca_stmonicap": {
-		"message": "샌타모니카 부두",
+		"message": "산타모니카 부두",
 		"description": "Id: landmark_ca_stmonicap\nGroup: Names of landmarks."
 	},
 	"landmark_ca_vincent_b": {
@@ -21512,7 +21660,7 @@
 		"description": "Id: landmark_mt_black_fal\nGroup: Names of landmarks."
 	},
 	"landmark_mt_capitol": {
-		"message": "헬레나 - 몬태나 주정사",
+		"message": "헬레나 - 몬태나 주청사",
 		"description": "Id: landmark_mt_capitol\nGroup: Names of landmarks."
 	},
 	"landmark_mt_flat_lake": {
@@ -21759,6 +21907,46 @@
 		"message": "역사적인 워싱턴 컨트리 법원",
 		"description": "Id: landmark_ar_wccourt\nGroup: Names of landmarks."
 	},
+	"landmark_mo_gatway_ar": {
+		"message": "게이트웨이 아치",
+		"description": "Id: landmark_mo_gatway_ar\nGroup: Names of landmarks."
+	},
+	"landmark_mo_kansas_ci": {
+		"message": "셀레스텔 센터",
+		"description": "Id: landmark_mo_kansas_ci\nGroup: Names of landmarks."
+	},
+	"landmark_mo_stjoph_st": {
+		"message": "저니 웨스트 조각품",
+		"description": "Id: landmark_mo_stjoph_st\nGroup: Names of landmarks."
+	},
+	"landmark_mo_kirksvill": {
+		"message": "아데어 카운티 법원",
+		"description": "Id: landmark_mo_kirksvill\nGroup: Names of landmarks."
+	},
+	"landmark_mo_columbhal": {
+		"message": "리처드 H. 제시 홀 박사",
+		"description": "Id: landmark_mo_columbhal\nGroup: Names of landmarks."
+	},
+	"landmark_mo_jeffe_cap": {
+		"message": "미주리 주청사",
+		"description": "Id: landmark_mo_jeffe_cap\nGroup: Names of landmarks."
+	},
+	"landmark_mo_roll_cen": {
+		"message": "헤이버너 센터",
+		"description": "Id: landmark_mo_roll_cen\nGroup: Names of landmarks."
+	},
+	"landmark_mo_popbl_crt": {
+		"message": "버틀러 카운티 법원 II",
+		"description": "Id: landmark_mo_popbl_crt\nGroup: Names of landmarks."
+	},
+	"landmark_mo_capgi_crt": {
+		"message": "케이프지라도 시청",
+		"description": "Id: landmark_mo_capgi_crt\nGroup: Names of landmarks."
+	},
+	"landmark_mo_joplin_li": {
+		"message": "공익 회사",
+		"description": "Id: landmark_mo_joplin_li\nGroup: Names of landmarks."
+	},
 	"aca_cutscene_quit_info": {
 		"message": "<color value=@@clr_txt@@>건너뛰기 ($KEY$<color value=@@clr_txt@@>)",
 		"description": "Id: aca_cutscene_quit_info\nInfo text showing how to control cutscene.\nGroup: Game localization"
@@ -21802,6 +21990,10 @@
 	"aca_chapter": {
 		"message": "챕터",
 		"description": "Id: aca_chapter\nGroup: Academy scenario screen"
+	},
+	"aca_best_run_t": {
+		"message": "베스트 드라이브",
+		"description": "Id: aca_best_run_t\nGroup: Academy scenario screen"
 	},
 	"aca_scenario_success": {
 		"message": "완료",
@@ -21896,7 +22088,7 @@
 		"description": "Id: aca_scenario_selection\nGroup: Academy finish screen.\nScreen shown at the end of scenario."
 	},
 	"aca_restart_scenario": {
-		"message": "다시 시작",
+		"message": "재시작",
 		"description": "Id: aca_restart_scenario\nRestart button.\nGroup: Academy finish screen.\nScreen shown at the end of scenario."
 	},
 	"aca_show_replay": {
@@ -21955,6 +22147,14 @@
 		"message": "규칙",
 		"description": "Id: aca_rules_t\nGroup: Academy paused screen.\nScreen shown when game is paused."
 	},
+	"aca_rules_goals_t": {
+		"message": "합격 조건",
+		"description": "Id: aca_rules_goals_t\nGroup: Academy paused screen.\nScreen shown when game is paused."
+	},
+	"aca_bonuses_t": {
+		"message": "보너스 조건",
+		"description": "Id: aca_bonuses_t\nGroup: Academy paused screen.\nScreen shown when game is paused."
+	},
 	"aca_stop_scenario_confirm": {
 		"message": "이 시나리오를 종료하시겠습니까?<br><br>현재 진행 상황이 손실됩니다!",
 		"description": "Id: aca_stop_scenario_confirm\nConfirm to end the scenario.\nGroup: Academy paused screen.\nScreen shown when game is paused."
@@ -21986,6 +22186,10 @@
 	"aca_electronics_off_2": {
 		"message": "$KEY$을(를) 눌러 점화장치를 켜세요.",
 		"description": "Id: aca_electronics_off_2\nGroup: Hint messages shown in game."
+	},
+	"aca_scenario_briefing_t": {
+		"message": "시나리오 브리핑",
+		"description": "Id: aca_scenario_briefing_t\nGroup: Hint messages shown in game."
 	},
 	"aca_modded_book": {
 		"message": "Mod",
@@ -22111,8 +22315,16 @@
 		"message": "시나리오 실패",
 		"description": "Id: aca_scenario_failed_t\nGroup: Scenarios general"
 	},
+	"aca_scenario_failed_quick_restart_imp": {
+		"message": "빠른 재시작을 위해 $KEY$를 누르십시오",
+		"description": "Id: aca_scenario_failed_quick_restart_imp\nGroup: Scenarios general"
+	},
+	"aca_scenario_failed_more_options_imp": {
+		"message": "더 많은 옵션을 보려면 @@imv_nrm_menu@@를 누르십시오",
+		"description": "Id: aca_scenario_failed_more_options_imp\nGroup: Scenarios general"
+	},
 	"aca_scenario_failed_desc": {
-		"message": "운전 중 실수를 했기 때문에 시나리오를 완료할 수 없습니다.<br><br><font face=/font/big_bold.font>더 많은 옵션을 보려면 @@imv_nrm_menu@@을(를) 누르십시오</font>",
+		"message": "운전 중 실수를 하여 시나리오를 완료할 수 없습니다.",
 		"description": "Id: aca_scenario_failed_desc\nGroup: Scenarios general"
 	},
 	"aca_goal_follow_path": {

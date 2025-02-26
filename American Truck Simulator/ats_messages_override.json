@@ -852,7 +852,7 @@
 		"description": "Id: cn_dryfruit\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_cn_dumpster": {
-		"message": "쓰레기 수거함",
+		"message": "덤프스터",
 		"description": "Id: cn_dumpster\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_cn_fertilizer_spreader": {
@@ -1298,6 +1298,42 @@
 	"ats_tn_tub_grinder": {
 		"message": "목재 파쇄기",
 		"description": "Id: tn_tub_grinder\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_tn_lodeking_brilliance": {
+		"message": "Lodeking Brilliance",
+		"description": "Id: tn_lodeking_brilliance\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_tn_lodeking_distinction": {
+		"message": "Lodeking Distinction",
+		"description": "Id: tn_lodeking_distinction\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_tn_lodeking_forceline": {
+		"message": "Lodeking Forceline",
+		"description": "Id: tn_lodeking_forceline\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_tn_lodeking_prestige": {
+		"message": "Lodeking Prestige",
+		"description": "Id: tn_lodeking_prestige\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_tn_lodeking_renown": {
+		"message": "Lodeking Renown",
+		"description": "Id: tn_lodeking_renown\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_tn_prestige_brilliance": {
+		"message": "Prestige Brilliance",
+		"description": "Id: tn_prestige_brilliance\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_tn_prestige_distinction": {
+		"message": "Prestige Distinction",
+		"description": "Id: tn_prestige_distinction\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_tn_prestige_forceline": {
+		"message": "Lodeking Forceline",
+		"description": "Id: tn_prestige_forceline\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_tn_prestige_renown": {
+		"message": "Prestige Renown",
+		"description": "Id: tn_prestige_renown\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_tt_ico_adr_1": {
 		"message": "유해물질 1등급",

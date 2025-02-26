@@ -1708,7 +1708,7 @@
 		"description": "Id: profile_distance\nSuffixed with distance in miles or km to indicate total distance driven by the profile. For example \"Distance driven: 10 mi\"\nGroup: Profile selection."
 	},
 	"continue_game": {
-		"message": "업무 계속하기",
+		"message": "업무 진행하기",
 		"description": "Id: continue_game\nButton which selects profile and continues in game.\nGroup: Profile selection."
 	},
 	"use_selected_profile": {
@@ -9200,7 +9200,7 @@
 		"description": "Id: cn_electric_wiring\nGroup: Names of individual cargos."
 	},
 	"cn_empty_barrels": {
-		"message": "빈 배럴통",
+		"message": "빈 통",
 		"description": "Id: cn_empty_barrels\nGroup: Names of individual cargos."
 	},
 	"cn_empty_palettes": {
@@ -9612,11 +9612,11 @@
 		"description": "Id: cn_diesel_generators\nGroup: Names of individual cargos."
 	},
 	"cn_empty_wine_barrels": {
-		"message": "빈 와인통",
+		"message": "빈 와인 통",
 		"description": "Id: cn_empty_wine_barrels\nGroup: Names of individual cargos."
 	},
 	"cn_empty_wine_bottles": {
-		"message": "빈 와인병",
+		"message": "빈 와인 병",
 		"description": "Id: cn_empty_wine_bottles\nGroup: Names of individual cargos."
 	},
 	"cn_excavated_soil": {
@@ -9776,7 +9776,7 @@
 		"description": "Id: cn_compact_generators_jcb_g100rs\nGroup: Names of cargo for DLC JCB"
 	},
 	"cn_excavator_jcb_19ce_dumpster_jcb_htd5e": {
-		"message": "미니 굴착기 JCB 19C-E, 쓰레기 수거함 JCB HTD-5E",
+		"message": "미니 굴착기 JCB 19C-E, 덤프스터 JCB HTD-5E",
 		"description": "Id: cn_excavator_jcb_19ce_dumpster_jcb_htd5e\nGroup: Names of cargo for DLC JCB"
 	},
 	"cn_excavator_jcb_245xr": {
@@ -15736,15 +15736,15 @@
 		"description": "Id: full_body_color\nSpecific (or fancy) name of the interior or accesory\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"production_optional": {
-		"message": "생산 선택",
+		"message": "프로덕션 선택",
 		"description": "Id: production_optional\nSpecific (or fancy) name of the interior or accesory\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"production_standard": {
-		"message": "생산 일반",
+		"message": "프로덕션 일반",
 		"description": "Id: production_standard\nSpecific (or fancy) name of the interior or accesory\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"top_optional": {
-		"message": "탑 선택",
+		"message": "탑 옵션",
 		"description": "Id: top_optional\nSpecific (or fancy) name of the interior or accesory\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"badge_380": {
@@ -16920,7 +16920,7 @@
 		"description": "Id: mod_category_sound\nGroup: Mod categories"
 	},
 	"mod_category_paint_job": {
-		"message": "스킨",
+		"message": "도색",
 		"description": "Id: mod_category_paint_job\nGroup: Mod categories"
 	},
 	"mod_category_cargo_pack": {
@@ -24800,7 +24800,7 @@
 		"description": "Id: aca_scenario_selection\nGroup: Academy finish screen.\nScreen shown at the end of scenario."
 	},
 	"aca_restart_scenario": {
-		"message": "다시 시작",
+		"message": "재시작",
 		"description": "Id: aca_restart_scenario\nRestart button.\nGroup: Academy finish screen.\nScreen shown at the end of scenario."
 	},
 	"aca_show_replay": {
