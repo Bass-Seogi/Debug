@@ -4092,7 +4092,7 @@
 		"description": "Id: o_im_lights\nGroup: Names of various functionalities.\nGroup: Options/Keyboard\nScreen used to configure keyboard related options."
 	},
 	"o_im_hb_light": {
-		"message": "상향등 전조등",
+		"message": "상향 전조등",
 		"description": "Id: o_im_hb_light\nGroup: Names of various functionalities.\nGroup: Options/Keyboard\nScreen used to configure keyboard related options."
 	},
 	"o_im_beacon": {
@@ -22996,15 +22996,15 @@
 		"description": "Id: aca_msg_book1_1_05_parking\nGroup: Book 1 Scenario 1_05"
 	},
 	"aca_msg_book1_1_05_low_beam": {
-		"message": "@@aca_msg_book1_1_05_low_beam_img@@<br>차폭등은 전면, 측면 및 후면 마커등을 비춥니다. 조명이 어두운 곳에 주차했을 때 다른 운전자에게 보이도록 하기 위해 사용됩니다.<font face=/font/big_bold.font><br><br>@@imv_nrm_light@@를 눌러 하향등 전조등으로 전환합니다. </font>",
+		"message": "@@aca_msg_book1_1_05_low_beam_img@@<br>차폭등은 전면, 측면 및 후면 마커등을 비춥니다. 조명이 어두운 곳에 주차했을 때 다른 운전자에게 보이도록 하기 위해 사용됩니다.<font face=/font/big_bold.font><br><br>@@imv_nrm_light@@를 눌러 하향 전조등으로 전환합니다. </font>",
 		"description": "Id: aca_msg_book1_1_05_low_beam\nGroup: Book 1 Scenario 1_05"
 	},
 	"aca_msg_book1_1_05_high_beam_on": {
-		"message": "@@aca_msg_book1_1_05_high_beam_on_img@@<br>하향등 전조등은 앞의 도로를 비추고 조명이 어두운 상황에서 차량의 가시성을 높여줍니다.<font face=/font/big_bold.font><br><br>@@imv_nrm_hblight@@를 사용하여 상향등 전조등으로 전환하십시오. </font>",
+		"message": "@@aca_msg_book1_1_05_high_beam_on_img@@<br>하향 전조등은 앞의 도로를 비추고 조명이 어두운 상황에서 차량의 가시성을 높여줍니다.<font face=/font/big_bold.font><br><br>@@imv_nrm_hblight@@를 사용하여 상향 전조등으로 전환하십시오. </font>",
 		"description": "Id: aca_msg_book1_1_05_high_beam_on\nGroup: Book 1 Scenario 1_05"
 	},
 	"aca_msg_book1_1_05_high_beam_off": {
-		"message": "@@aca_msg_book1_1_05_high_beam_off_img@@<br>상향등 전조등은 조명이 어두울 때 도로를 더 멀리 볼 수 있게 해줍니다.<br><br>하지만 다른 도로 이용자, 특히 반대편에서 오는 차량의 눈부심을 유발할 수 있으므로 사용할 때는 주의하세요. 다른 운전자에게 다가갈 때는 반드시 상향등을 끄십시오.<font face=/font/big_bold.font><br><br>@@imv_nrm_hblight@@를 사용하여 상향등 전조등을 끕니다. </font>",
+		"message": "@@aca_msg_book1_1_05_high_beam_off_img@@<br>상향 전조등은 조명이 어두울 때 도로를 더 멀리 볼 수 있게 해줍니다.<br><br>하지만 다른 도로 이용자, 특히 반대편에서 오는 차량의 눈부심을 유발할 수 있으므로 사용할 때는 주의하세요. 다른 운전자에게 다가갈 때는 반드시 상향등을 끄십시오.<font face=/font/big_bold.font><br><br>@@imv_nrm_hblight@@를 사용하여 상향 전조등을 끕니다. </font>",
 		"description": "Id: aca_msg_book1_1_05_high_beam_off\nGroup: Book 1 Scenario 1_05"
 	},
 	"aca_msg_book1_1_05_lblinker_on": {
