@@ -515,9 +515,17 @@
 		"message": "버거 세트",
 		"description": "Id: stack_of_burgers\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
 	},
+	"ats_striking_mule": {
+		"message": "스트라이킹 노새",
+		"description": "Id: striking_mule\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
 	"ats_tiger_salamander": {
 		"message": "호랑이도롱뇽",
 		"description": "Id: tiger_salamander\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_tom_hopper": {
+		"message": "톰 호퍼",
+		"description": "Id: tom_hopper\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
 	},
 	"ats_usa_cap": {
 		"message": "USA 모자",
@@ -574,6 +582,10 @@
 	"ats_protector_pillow": {
 		"message": "프로텍터 베개",
 		"description": "Id: protector_pillow\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_show_me_pillow": {
+		"message": "쇼미 베개",
+		"description": "Id: show_me_pillow\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
 	},
 	"ats_star_pillow": {
 		"message": "별 모양 베개",
@@ -1154,10 +1166,6 @@
 	"ats_cn_vegetable": {
 		"message": "야채",
 		"description": "Id: cn_vegetable\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
-	},
-	"ats_cn_wagon": {
-		"message": "철도차량",
-		"description": "Id: cn_wagon\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_cn_waste_paper": {
 		"message": "폐지",
@@ -2074,6 +2082,10 @@
 	"ats_kansas": {
 		"message": "캔자스",
 		"description": "Id: kansas\nGroup: Names of countries/states"
+	},
+	"ats_missouri": {
+		"message": "미주리",
+		"description": "Id: missouri\nGroup: Names of countries/states"
 	},
 	"ats_montana": {
 		"message": "몬태나",

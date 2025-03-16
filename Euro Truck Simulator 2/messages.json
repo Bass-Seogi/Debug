@@ -8415,6 +8415,10 @@
 		"message": "음료수",
 		"description": "Id: cn_beverages\nGroup: Names of individual cargos."
 	},
+	"cn_boric_acid": {
+		"message": "붕산",
+		"description": "Id: cn_boric_acid\nGroup: Names of individual cargos."
+	},
 	"cn_brake_pads": {
 		"message": "브레이크 패드",
 		"description": "Id: cn_brake_pads\nGroup: Names of individual cargos."
@@ -8582,6 +8586,10 @@
 	"cn_ethane": {
 		"message": "에탄",
 		"description": "Id: cn_ethane\nGroup: Names of individual cargos."
+	},
+	"cn_excavated_soil": {
+		"message": "굴착토",
+		"description": "Id: cn_excavated_soil\nGroup: Names of individual cargos."
 	},
 	"cn_excavator": {
 		"message": "굴착기",
@@ -8995,6 +9003,10 @@
 		"message": "사각 배관",
 		"description": "Id: cn_square_tubing\nGroup: Names of individual cargos."
 	},
+	"cn_stones": {
+		"message": "바위",
+		"description": "Id: cn_stones\nGroup: Names of individual cargos."
+	},
 	"cn_sugar": {
 		"message": "설탕",
 		"description": "Id: cn_sugar\nGroup: Names of individual cargos."
@@ -9087,6 +9099,10 @@
 		"message": "통기 수갱",
 		"description": "Id: cn_vent_tube\nGroup: Names of individual cargos."
 	},
+	"cn_wagon": {
+		"message": "철도차량",
+		"description": "Id: cn_wagon\nGroup: Names of individual cargos."
+	},
 	"cn_wallpan": {
 		"message": "벽 패널",
 		"description": "Id: cn_wallpan\nGroup: Names of individual cargos."
@@ -9095,29 +9111,49 @@
 		"message": "물탱크",
 		"description": "Id: cn_water_tank\nGroup: Names of individual cargos."
 	},
+	"cn_wheat": {
+		"message": "밀",
+		"description": "Id: cn_wheat\nGroup: Names of individual cargos."
+	},
 	"cn_wheel_loader": {
 		"message": "휠 로더",
 		"description": "Id: cn_wheel_loader\nGroup: Names of individual cargos."
+	},
+	"cn_windmill_engine": {
+		"message": "풍력발전기 나셀",
+		"description": "Id: cn_windmill_engine\nGroup: Names of individual cargos."
+	},
+	"cn_windmill_tube": {
+		"message": "풍력발전기 기둥",
+		"description": "Id: cn_windmill_tube\nGroup: Names of individual cargos."
 	},
 	"cn_work_clothes": {
 		"message": "작업복",
 		"description": "Id: cn_work_clothes\nGroup: Names of individual cargos."
 	},
+	"cn_wood_bark": {
+		"message": "나무 껍질",
+		"description": "Id: cn_wood_bark\nGroup: Names of individual cargos."
+	},
 	"cn_wshavings": {
 		"message": "대팻밥",
 		"description": "Id: cn_wshavings\nGroup: Names of individual cargos."
+	},
+	"cn_wooden_beams": {
+		"message": "나무 기둥",
+		"description": "Id: cn_wooden_beams\nGroup: Names of individual cargos."
 	},
 	"cn_yogurt": {
 		"message": "요구르트",
 		"description": "Id: cn_yogurt\nGroup: Names of individual cargos."
 	},
-	"cn_helicopter": {
-		"message": "헬리콥터 - 1808TX",
-		"description": "Id: cn_helicopter\nGroup: Names of individual cargos."
-	},
 	"cn_driller": {
 		"message": "드릴러 - D-50",
 		"description": "Id: cn_driller\nGroup: Names of individual cargos."
+	},
+	"cn_helicopter": {
+		"message": "헬리콥터 - 1808TX",
+		"description": "Id: cn_helicopter\nGroup: Names of individual cargos."
 	},
 	"cn_roller": {
 		"message": "롤러 - DYNA CC-2200",
@@ -9399,26 +9435,6 @@
 		"message": "트럭 - 볼보",
 		"description": "Id: cn_volvo_trucks\nGroup: Names of individual cargos."
 	},
-	"cn_wheat": {
-		"message": "밀",
-		"description": "Id: cn_wheat\nGroup: Names of individual cargos."
-	},
-	"cn_windmill_engine": {
-		"message": "풍력발전기 나셀",
-		"description": "Id: cn_windmill_engine\nGroup: Names of individual cargos."
-	},
-	"cn_windmill_tube": {
-		"message": "풍력발전기 기둥",
-		"description": "Id: cn_windmill_tube\nGroup: Names of individual cargos."
-	},
-	"cn_wood_bark": {
-		"message": "나무 껍질",
-		"description": "Id: cn_wood_bark\nGroup: Names of individual cargos."
-	},
-	"cn_wooden_beams": {
-		"message": "나무 기둥",
-		"description": "Id: cn_wooden_beams\nGroup: Names of individual cargos."
-	},
 	"cn_almond": {
 		"message": "아몬드",
 		"description": "Id: cn_almond\nGroup: Names of individual cargos."
@@ -9559,10 +9575,6 @@
 		"message": "바질",
 		"description": "Id: cn_basil\nGroup: Names of individual cargos."
 	},
-	"cn_boric_acid": {
-		"message": "붕산",
-		"description": "Id: cn_boric_acid\nGroup: Names of individual cargos."
-	},
 	"cn_bottled_carbonated_water": {
 		"message": "탄산수",
 		"description": "Id: cn_bottled_carbonated_water\nGroup: Names of individual cargos."
@@ -9618,10 +9630,6 @@
 	"cn_empty_wine_bottles": {
 		"message": "빈 와인 병",
 		"description": "Id: cn_empty_wine_bottles\nGroup: Names of individual cargos."
-	},
-	"cn_excavated_soil": {
-		"message": "굴착토",
-		"description": "Id: cn_excavated_soil\nGroup: Names of individual cargos."
 	},
 	"cn_fuel_oil": {
 		"message": "연료유",
@@ -9703,41 +9711,37 @@
 		"message": "철끈",
 		"description": "Id: cn_steel_cord\nGroup: Names of individual cargos."
 	},
-	"cn_stones": {
-		"message": "바위",
-		"description": "Id: cn_stones\nGroup: Names of individual cargos."
-	},
 	"cn_racing_comp": {
 		"message": "경주용 부품",
 		"description": "Id: cn_racing_comp\nGroup: Names of individual cargos."
 	},
 	"cn_asph_miller": {
 		"message": "아스팔트 밀러 - AM 0880",
-		"description": "Id: cn_asph_miller\nGroup: Names of cargo for DLC Overweight"
+		"description": "Id: cn_asph_miller\nGroup: Names of cargo for DLC Heavy Cargo"
 	},
 	"cn_cable_reel": {
 		"message": "공업용 케이블 릴",
-		"description": "Id: cn_cable_reel\nGroup: Names of cargo for DLC Overweight"
+		"description": "Id: cn_cable_reel\nGroup: Names of cargo for DLC Heavy Cargo"
 	},
 	"cn_dozer": {
 		"message": "크롤러 도저 - Z35K",
-		"description": "Id: cn_dozer\nGroup: Names of cargo for DLC Overweight"
+		"description": "Id: cn_dozer\nGroup: Names of cargo for DLC Heavy Cargo"
 	},
 	"cn_locomotive": {
 		"message": "기관차 - Vossloh G6",
-		"description": "Id: cn_locomotive\nGroup: Names of cargo for DLC Overweight"
+		"description": "Id: cn_locomotive\nGroup: Names of cargo for DLC Heavy Cargo"
 	},
 	"cn_metal_center": {
 		"message": "금속 센터링",
-		"description": "Id: cn_metal_center\nGroup: Names of cargo for DLC Overweight"
+		"description": "Id: cn_metal_center\nGroup: Names of cargo for DLC Heavy Cargo"
 	},
 	"cn_mobile_crane": {
 		"message": "모바일 크레인 - UTM SD-833",
-		"description": "Id: cn_mobile_crane\nGroup: Names of cargo for DLC Overweight"
+		"description": "Id: cn_mobile_crane\nGroup: Names of cargo for DLC Heavy Cargo"
 	},
 	"cn_transformator": {
 		"message": "변압기 - PK900",
-		"description": "Id: cn_transformator\nGroup: Names of cargo for DLC Overweight"
+		"description": "Id: cn_transformator\nGroup: Names of cargo for DLC Heavy Cargo"
 	},
 	"cn_articulated_hauler_volvo_a25g": {
 		"message": "굴절식 하울러 Volvo A25G",
@@ -14591,14 +14595,6 @@
 		"message": "콘 오브 아카데미",
 		"description": "Id: cone_of_academy\nGroup: Toys and toy sets\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
-	"cone_of_proficiency": {
-		"message": "콘 오브 프로피션시",
-		"description": "Id: cone_of_proficiency\nGroup: Toys and toy sets\nGroup: Upgrade accesories\nGroup: Input wizard"
-	},
-	"cone_of_excellence": {
-		"message": "콘 오브 엑설런스",
-		"description": "Id: cone_of_excellence\nGroup: Toys and toy sets\nGroup: Upgrade accesories\nGroup: Input wizard"
-	},
 	"beech_rocking_horse": {
 		"message": "너도밤나무 흔들 목마",
 		"description": "Id: beech_rocking_horse\nGroup: Toys and toy sets\nGroup: Upgrade accesories\nGroup: Input wizard"
@@ -18250,14 +18246,6 @@
 	"new_inventory_items_help": {
 		"message": "새로운 스팀 보관함 아이템이 감지되었습니다.",
 		"description": "Id: new_inventory_items_help\nThe help text for new inventory items dialog.\nGroup: Strings related to Steam inventory feature."
-	},
-	"new_academy_rewards_t": {
-		"message": "새로운 아카데미 보상",
-		"description": "Id: new_academy_rewards_t\nTitle of the window displaying list of the new academy rewards.\nGroup: Strings related to Steam inventory feature."
-	},
-	"new_academy_rewards_help": {
-		"message": "새로운 아카데미 보상 아이템이 감지되었습니다.",
-		"description": "Id: new_academy_rewards_help\nThe help text for new academy reward items dialog.\nGroup: Strings related to Steam inventory feature."
 	},
 	"vehicle_accessory": {
 		"message": "차량 액세서리",
@@ -24758,6 +24746,18 @@
 	"aca_change_profile_t": {
 		"message": "떠나기 @@driving_academy_allcaps@@",
 		"description": "Id: aca_change_profile_t\nTitle of message box shown before really leaving profile to profile selection. Please keep in upper case where possible.\nGroup: Game localization"
+	},
+	"new_academy_rewards_t": {
+		"message": "새로운 보상이 잠금 해제되었습니다",
+		"description": "Id: new_academy_rewards_t\nTitle of the window displaying list of the new academy rewards.\nGroup: Academy reward texts."
+	},
+	"new_academy_rewards_help": {
+		"message": "@@driving_academy@@의 진행 상황에 따라 새로운 항목이 추가되었습니다. $profile_name$ 경력에 적용 가능합니다.",
+		"description": "Id: new_academy_rewards_help\nThe help text for new academy reward items dialog.\nGroup: Academy reward texts."
+	},
+	"aca_reward_locked": {
+		"message": "<color value=@@clr_sel@@>@@driving_academy@@에서 구매 가능",
+		"description": "Id: aca_reward_locked\nText in truck configurator when accessory is locked.\nGroup: Academy reward texts."
 	},
 	"aca_book_title": {
 		"message": "@@driving_academy_allcaps@@ 라이브러리",
