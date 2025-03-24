@@ -1,0 +1,3126 @@
+{
+	"ats_airdam": {
+		"message": "에어 댐",
+		"description": "Id: airdam\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_b_mudflap": {
+		"message": "범퍼 흙받이",
+		"description": "Id: b_mudflap\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_bckpanel": {
+		"message": "백 패널 아이템",
+		"description": "Id: bckpanel\nInterior accessories placed on the back panel of the truck cabin\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_cabflares": {
+		"message": "캐빈 라이트",
+		"description": "Id: cabflares\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_cabdefl": {
+		"message": "캐빈 디플렉터",
+		"description": "Id: cabdefl\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_deflector": {
+		"message": "버그 디플렉터",
+		"description": "Id: deflector\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_filter_cover": {
+		"message": "필터 커버",
+		"description": "Id: filter_cover\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_filters": {
+		"message": "에어필터",
+		"description": "Id: filters\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_fl_mirror": {
+		"message": "전방 미러",
+		"description": "Id: fl_mirror\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_flag_f_l": {
+		"message": "전방 깃발",
+		"description": "Id: flag_f_l\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_flag_f_r": {
+		"message": "전방 깃발",
+		"description": "Id: flag_f_r\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_flag_r_l": {
+		"message": "후방 깃발",
+		"description": "Id: flag_r_l\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_flag_r_r": {
+		"message": "후방 깃발",
+		"description": "Id: flag_r_r\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_fr_mirror": {
+		"message": "전방 미러",
+		"description": "Id: fr_mirror\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_grill": {
+		"message": "그릴",
+		"description": "Id: grill\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_headache_r": {
+		"message": "헤드에이크 랙",
+		"description": "Id: headache_r\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_hndrail": {
+		"message": "핸드레일",
+		"description": "Id: hndrail\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_horns": {
+		"message": "경적",
+		"description": "Id: horns\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_hood": {
+		"message": "후드",
+		"description": "Id: hood\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_int_trim": {
+		"message": "인테리어 트림",
+		"description": "Id: int_trim\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_lampbar": {
+		"message": "램프 바",
+		"description": "Id: lampbar\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_lghfender": {
+		"message": "펜더 보호대",
+		"description": "Id: lghfender\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_mudflaps": {
+		"message": "머드플랩",
+		"description": "Id: mudflaps\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_mudguard": {
+		"message": "머드가드",
+		"description": "Id: mudguard\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_ornament": {
+		"message": "장식품",
+		"description": "Id: ornament\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_rear_cab": {
+		"message": "캐빈 후방",
+		"description": "Id: rear_cab\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_rear2_cab": {
+		"message": "캐빈 후방",
+		"description": "Id: rear2_cab\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_roof_window": {
+		"message": "지붕 윈도우",
+		"description": "Id: roof_window\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_s_logo": {
+		"message": "사이드 로고",
+		"description": "Id: s_logo\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_set_cabinet": {
+		"message": "캐비닛 세트",
+		"description": "Id: set_cabinet\nLarge Pin for sets of small pins of the cabinet accessories\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_sideflares": {
+		"message": "캡 패널",
+		"description": "Id: sideflares\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_slp_hndl": {
+		"message": "도어 핸들",
+		"description": "Id: slp_hndl\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_slp_vent": {
+		"message": "벤트",
+		"description": "Id: slp_vent\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_topflares": {
+		"message": "루프 슬리퍼 라이트",
+		"description": "Id: topflares\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_toyback": {
+		"message": "슬리퍼 플로어 아이템",
+		"description": "Id: toyback\nInterior accessories placed on the floor of the sleeper cabin\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_toybig": {
+		"message": "플로어 아이템",
+		"description": "Id: toybig\nInterior accessories placed on the floor of the truck cabin\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_toydash": {
+		"message": "대시보드 스토리지 아이템",
+		"description": "Id: toydash\nInterior accessories placed on the floor in storage in dashboard\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_toysofa": {
+		"message": "소파 아이템",
+		"description": "Id: toysofa\nInterior accessories placed on the floor of the sleeper sofa\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_toytable": {
+		"message": "테이블 아이템",
+		"description": "Id: toytable\nInterior accessories placed on the table in back of the truck cabin\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_wing": {
+		"message": "터보 윙",
+		"description": "Id: wing\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_aero": {
+		"message": "에어로",
+		"description": "Id: aero\nSpecific accesory name (eg. Freightliner Cascadia)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_aero2": {
+		"message": "에어로 II",
+		"description": "Id: aero2\nSpecific accesory name (eg. Freightliner Cascadia)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_aero_paint": {
+		"message": "에어로 페인트",
+		"description": "Id: aero_paint\nSpecific accesory name (eg. Freightliner Cascadia)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_aerox": {
+		"message": "에어로 X",
+		"description": "Id: aerox\nSpecific accesory name (eg. Freightliner Cascadia)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_alu_tank": {
+		"message": "알루미늄 탱크",
+		"description": "Id: alu_tank\nAluminium tank accessory (water, fuel, etc)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_cabinet": {
+		"message": "캐비닛",
+		"description": "Id: cabinet\nDefault cabinet pins set name\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_chrom_tank": {
+		"message": "크롬 탱크",
+		"description": "Id: chrom_tank\nChromed tank accessory (water, fuel, etc)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_chrome_pipeguard": {
+		"message": "크롬 파이프 가드",
+		"description": "Id: chrome_pipeguard\nPipeguard accessory name\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_d_shape": {
+		"message": "D-쉐이프",
+		"description": "Id: d_shape\nD-shaped tank accessory (water, fuel, etc)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_drl": {
+		"message": "주간주행등",
+		"description": "Id: drl\nDaytime running lights\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_elite": {
+		"message": "엘리트",
+		"description": "Id: elite\nSpecific accesory name (eg. Freightliner Cascadia)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_fog_lights": {
+		"message": "안개등",
+		"description": "Id: fog_lights\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_hvac": {
+		"message": "HVAC",
+		"description": "Id: hvac\nSpecific accesory name (eg. Freightliner Cascadia)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_paint_pipeguard": {
+		"message": "도색된 파이프 가드",
+		"description": "Id: paint_pipeguard\nPipeguard accessory name\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_amber_sunflower": {
+		"message": "호박색 해바라기",
+		"description": "Id: amber_sunflower\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_american_football_ball": {
+		"message": "미식축구공",
+		"description": "Id: american_football_ball\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_armadillo_plush": {
+		"message": "봉제 아르마딜로",
+		"description": "Id: armadillo_plush\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_ats_bag": {
+		"message": "ATS 가방",
+		"description": "Id: ats_bag\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_ats_cap": {
+		"message": "ATS 모자",
+		"description": "Id: ats_cap\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_ats_game_box": {
+		"message": "ATS 게임박스",
+		"description": "Id: ats_game_box\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_ats_lunch_box": {
+		"message": "ATS 도시락",
+		"description": "Id: ats_lunch_box\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_ats_mug": {
+		"message": "ATS 머그잔",
+		"description": "Id: ats_mug\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_ats_truck_bag": {
+		"message": "ATS 트럭 가방",
+		"description": "Id: ats_truck_bag\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_autonomous_tractor_plush": {
+		"message": "자율 트랙터 봉제 인형",
+		"description": "Id: autonomous_tractor_plush\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_baseball_ball": {
+		"message": "야구공",
+		"description": "Id: baseball_ball\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_baseball_bat": {
+		"message": "야구방망이",
+		"description": "Id: baseball_bat\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_bee": {
+		"message": "꿀벌",
+		"description": "Id: bee\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_black_ats_mug": {
+		"message": "검은색 ATS 머그잔",
+		"description": "Id: black_ats_mug\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_black_swallowtail": {
+		"message": "제비나비",
+		"description": "Id: black_swallowtail\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_blanket_stars": {
+		"message": "별 무늬 담요",
+		"description": "Id: blanket_stars\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_box_turtle": {
+		"message": "상자거북",
+		"description": "Id: box_turtle\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_burger": {
+		"message": "버거",
+		"description": "Id: burger\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_can": {
+		"message": "캔",
+		"description": "Id: can\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_can_pack": {
+		"message": "캔 팩",
+		"description": "Id: can_pack\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_can_sixpack": {
+		"message": "캔 식스팩",
+		"description": "Id: can_sixpack\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_cans": {
+		"message": "캔",
+		"description": "Id: cans\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_car_perfume": {
+		"message": "차량용 방향제",
+		"description": "Id: car_perfume\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_cardbox": {
+		"message": "택배 상자",
+		"description": "Id: cardbox\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_carrier": {
+		"message": "음료수 캐리어",
+		"description": "Id: carrier\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_chainsaw_toy": {
+		"message": "전기톱 장난감",
+		"description": "Id: chainsaw_toy\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_chewing_gums": {
+		"message": "껌",
+		"description": "Id: chewing_gums\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_coffee_cup": {
+		"message": "커피 컵",
+		"description": "Id: coffee_cup\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_costs_list": {
+		"message": "연료 사용 기록",
+		"description": "Id: costs_list\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_diamond_apple_blossom": {
+		"message": "다이아몬드 애플 블러썸",
+		"description": "Id: diamond_apple_blossom\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_dreamcatcher": {
+		"message": "드림캐처",
+		"description": "Id: dreamcatcher\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_emergency_triangles": {
+		"message": "비상 삼각대",
+		"description": "Id: emergency_triangles\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_ear_mufflers": {
+		"message": "귀 머플러",
+		"description": "Id: ear_mufflers\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_expenses_list": {
+		"message": "지출품의서",
+		"description": "Id: expenses_list\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_first_sign": {
+		"message": "퍼스트 사인",
+		"description": "Id: first_sign\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_fishing_bag": {
+		"message": "낚시 가방",
+		"description": "Id: fishing_bag\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_giant_salamander_sticker": {
+		"message": "자이언트 샐러맨더 스티커",
+		"description": "Id: giant_salamander_sticker\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_goalkeeper_mask": {
+		"message": "골키퍼 마스크",
+		"description": "Id: goalkeeper_mask\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_guitar": {
+		"message": "기타",
+		"description": "Id: guitar\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_guitar_case": {
+		"message": "기타 케이스",
+		"description": "Id: guitar_case\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_hat": {
+		"message": "모자",
+		"description": "Id: hat\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_harvester": {
+		"message": "하베스터",
+		"description": "Id: harvester\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_hockey_stick": {
+		"message": "하키 스틱",
+		"description": "Id: hockey_stick\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_holy_field_blanket": {
+		"message": "홀리 필드 담요",
+		"description": "Id: holy_field_blanket\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_honey_bee": {
+		"message": "꿀벌",
+		"description": "Id: honey_bee\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_honey_bee_plush": {
+		"message": "봉제 꿀벌",
+		"description": "Id: honey_bee_plush\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_idaho_nights_air_freshener": {
+		"message": "아이다호의 밤 방향제",
+		"description": "Id: idaho_nights_air_freshener\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_idaho_spuds_sticker": {
+		"message": "아이다호 감자 스티커",
+		"description": "Id: idaho_spuds_sticker\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_kw_airfreshener": {
+		"message": "Kenworth 방향제",
+		"description": "Id: kw_airfreshener\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_kw_cancooler": {
+		"message": "Kenworth 캔 쿨러",
+		"description": "Id: kw_cancooler\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_kw_contrast_cap": {
+		"message": "Kenworth 콘트라스트 캡",
+		"description": "Id: kw_contrast_cap\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_kw_dufflebag": {
+		"message": "Kenworth 더플 백",
+		"description": "Id: kw_dufflebag\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_kw_keychain": {
+		"message": "Kenworth 키 체인",
+		"description": "Id: kw_keychain\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_kw_retro_cap": {
+		"message": "Kenworth 레트로 캡",
+		"description": "Id: kw_retro_cap\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_kw_tumbler": {
+		"message": "Kenworth 20온즈 레드 텀블러",
+		"description": "Id: kw_tumbler\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_kw_100y_airfresh": {
+		"message": "Kenworth 100주년 방향제",
+		"description": "Id: kw_100y_airfresh\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_kw_100y_cap": {
+		"message": "Kenworth 100주년 모자",
+		"description": "Id: kw_100y_cap\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_kw_100y_tumbler": {
+		"message": "Kenworth 100주년 20온즈 램블러 텀블러",
+		"description": "Id: kw_100y_tumbler\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_laundry_box": {
+		"message": "빨래 바구니",
+		"description": "Id: laundry_box\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_lunchbox": {
+		"message": "도시락",
+		"description": "Id: lunchbox\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_lone_star_longhorn": {
+		"message": "론스타 롱혼",
+		"description": "Id: lone_star_longhorn\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_mammoth_archie": {
+		"message": "매머드 아치",
+		"description": "Id: mammoth_archie\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_mountain_goat_plush": {
+		"message": "산양 봉제 인형",
+		"description": "Id: mountain_goat_plush\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_owl_mug": {
+		"message": "OWL 머그잔",
+		"description": "Id: owl_mug\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_peppermints": {
+		"message": "페퍼민트",
+		"description": "Id: peppermints\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_plush_donut": {
+		"message": "봉제 도넛",
+		"description": "Id: plush_donut\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_plush_lion": {
+		"message": "봉제 사자",
+		"description": "Id: plush_lion\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_power_inverter": {
+		"message": "파워 인버터",
+		"description": "Id: power_inverter\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_propeller": {
+		"message": "프로펠러",
+		"description": "Id: propeller\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_sapphire_meadowlark": {
+		"message": "사파이어 들종다리",
+		"description": "Id: sapphire_meadowlark\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_scarecrow_bobblehead": {
+		"message": "허수아비 보블 헤드",
+		"description": "Id: scarecrow_bobblehead\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_shoes": {
+		"message": "신발",
+		"description": "Id: shoes\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_spearmints": {
+		"message": "스피어민트",
+		"description": "Id: spearmints\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_sport_sunglasses": {
+		"message": "스포츠 선글라스",
+		"description": "Id: sport_sunglasses\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_stack_of_burgers": {
+		"message": "버거 세트",
+		"description": "Id: stack_of_burgers\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_striking_mule": {
+		"message": "스트라이킹 노새",
+		"description": "Id: striking_mule\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_tiger_salamander": {
+		"message": "호랑이도롱뇽",
+		"description": "Id: tiger_salamander\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_tom_hopper": {
+		"message": "톰 호퍼",
+		"description": "Id: tom_hopper\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_usa_cap": {
+		"message": "USA 모자",
+		"description": "Id: usa_cap\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_usa_flag": {
+		"message": "USA 국기",
+		"description": "Id: usa_flag\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_usa_flag_cap": {
+		"message": "USA 국기 모자",
+		"description": "Id: usa_flag_cap\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_ventilator": {
+		"message": "선풍기",
+		"description": "Id: ventilator\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_walnut_rocking_horse": {
+		"message": "호두나무 흔들 목마",
+		"description": "Id: walnut_rocking_horse\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_white_tailed_deer": {
+		"message": "흰 꼬리 사슴",
+		"description": "Id: white_tailed_deer\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_wooden_bowl_of_chips": {
+		"message": "감자칩을 담은 나무 그릇",
+		"description": "Id: wooden_bowl_of_chips\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_wotr_cap": {
+		"message": "WoTr 모자",
+		"description": "Id: wotr_cap\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_wyo_bison": {
+		"message": "옥 들소",
+		"description": "Id: wyo_bison\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_wyo_dino": {
+		"message": "봉제 트리케라톱스",
+		"description": "Id: wyo_dino\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_ats_pillow": {
+		"message": "ATS 베개",
+		"description": "Id: ats_pillow\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_heart_pillow": {
+		"message": "하트 무늬 베개",
+		"description": "Id: heart_pillow\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_kiss_me_pillow": {
+		"message": "Kiss Me 베개",
+		"description": "Id: kiss_me_pillow\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_protector_pillow": {
+		"message": "프로텍터 베개",
+		"description": "Id: protector_pillow\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_show_me_pillow": {
+		"message": "쇼미 베개",
+		"description": "Id: show_me_pillow\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_star_pillow": {
+		"message": "별 모양 베개",
+		"description": "Id: star_pillow\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_truck_yeah_pillow": {
+		"message": "Truck Yeah 베개",
+		"description": "Id: truck_yeah_pillow\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_usa_flag_pillow": {
+		"message": "USA 국기 베개",
+		"description": "Id: usa_flag_pillow\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_usa_shield_pillow": {
+		"message": "USA 방패 베개",
+		"description": "Id: usa_shield_pillow\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_ats_fragrance_tag": {
+		"message": "ATS 방향제",
+		"description": "Id: ats_fragrance_tag\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_cactus_fragrance_tag": {
+		"message": "선인장 방향제",
+		"description": "Id: cactus_fragrance_tag\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_lemon_fragrance_tag": {
+		"message": "레몬 방향제",
+		"description": "Id: lemon_fragrance_tag\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_maple_leaf_fragrance_tag": {
+		"message": "단풍잎 방향제",
+		"description": "Id: maple_leaf_fragrance_tag\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_orange_fragrance_tag": {
+		"message": "오렌지 방향제",
+		"description": "Id: orange_fragrance_tag\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_usa_fragrance_tag": {
+		"message": "USA 방향제",
+		"description": "Id: usa_fragrance_tag\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_blue_plush_cube": {
+		"message": "파란색 봉제 주사위",
+		"description": "Id: blue_plush_cube\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_red_plush_cube": {
+		"message": "빨간색 봉제 주사위",
+		"description": "Id: red_plush_cube\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_double_plush_cube": {
+		"message": "더블 봉제 주사위",
+		"description": "Id: double_plush_cube\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_alien_head": {
+		"message": "에일리언 헤드",
+		"description": "Id: alien_head\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_cowboy_head": {
+		"message": "카우보이 헤드",
+		"description": "Id: cowboy_head\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_pirate_head": {
+		"message": "파이럿 헤드",
+		"description": "Id: pirate_head\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_eagle_sticker": {
+		"message": "독수리 스티커",
+		"description": "Id: eagle_sticker\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_goodyear_logo_sticker": {
+		"message": "Goodyear 로고 스티커",
+		"description": "Id: goodyear_logo_sticker\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_goodyear_old_logo_sticker": {
+		"message": "Goodyear 예전 로고 스티커",
+		"description": "Id: goodyear_old_logo_sticker\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_guitar_sticker": {
+		"message": "기타 스티커",
+		"description": "Id: guitar_sticker\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_hat_sticker": {
+		"message": "모자 스티커",
+		"description": "Id: hat_sticker\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_maple_sirup_sticker": {
+		"message": "메이플 시럽 스티커",
+		"description": "Id: maple_sirup_sticker\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_steering_wheel_sticker": {
+		"message": "스티어링 휠 스티커",
+		"description": "Id: steering_wheel_sticker\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_taco_sticker": {
+		"message": "타코 스티커",
+		"description": "Id: taco_sticker\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_truck_sticker": {
+		"message": "트럭 스티커",
+		"description": "Id: truck_sticker\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_usa_country_sticker": {
+		"message": "USA 컨트리 스티커",
+		"description": "Id: usa_country_sticker\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_usa_flag_sticker": {
+		"message": "USA 국기 스티커",
+		"description": "Id: usa_flag_sticker\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_weigh_illegal_trailer": {
+		"message": "당신의 트럭과 트레일러의 조합은 이 지역에서 불법입니다!",
+		"description": "Id: weigh_illegal_trailer\nAdviser text\nGroup: Messages shown in the route adviser.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_adr": {
+		"message": "유해물질 화물",
+		"description": "Id: adr\nGroup: Names of individual skills which can be improved.\nGroup: Skills screen\nAllows the player to use gained experience points to improve various skills.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_mechanical": {
+		"message": "연비",
+		"description": "Id: mechanical\nGroup: Names of individual skills which can be improved.\nGroup: Skills screen\nAllows the player to use gained experience points to improve various skills.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cargo_type_adr": {
+		"message": "유해물질",
+		"description": "Id: cargo_type_adr\nGroup: Cargo types.\nGroup: Skills screen\nAllows the player to use gained experience points to improve various skills.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_skill_adr_title": {
+		"message": "위험물 운송 교육",
+		"description": "Id: skill_adr_title\nGroup: Information about individual hazard classes.\nGroup: Skills screen\nAllows the player to use gained experience points to improve various skills.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_skill_adr_info": {
+		"message": "위험물을 운송하기 위해서는 전문적인 훈련이 필요합니다. 힘들여 모은 스킬 포인트를 사용해 U.S.DOT 위험물 인증서를 취득하고 이를 이용해 수익을 올리십시오.",
+		"description": "Id: skill_adr_info\nGroup: Information about individual hazard classes.\nGroup: Skills screen\nAllows the player to use gained experience points to improve various skills.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_skill_mechanical_title": {
+		"message": "연비",
+		"description": "Id: skill_mechanical_title\nGroup: Information about individual ranks of \"Fuel Economy\" skill.\nGroup: Skills screen\nAllows the player to use gained experience points to improve various skills.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_skill_mechanical_info": {
+		"message": "연료 절감 기술을 익히면 연료 소모량을 줄이는 데 도움이 됩니다.",
+		"description": "Id: skill_mechanical_info\nGroup: Information about individual ranks of \"Fuel Economy\" skill.\nGroup: Skills screen\nAllows the player to use gained experience points to improve various skills.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_adr_bonus": {
+		"message": "유해물질 운송 보너스",
+		"description": "Id: adr_bonus\nGroup: Individual possible components of the reward.\nGroup: Job completed screen\nShown after completion of job.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_adr_class": {
+		"message": "유해물질 등급",
+		"description": "Id: adr_class\nGroup: Individual possible components of the reward.\nGroup: Job completed screen\nShown after completion of job.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_air_condition": {
+		"message": "에어컨 유닛",
+		"description": "Id: cn_air_condition\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_aircraft_engine": {
+		"message": "항공기 엔진",
+		"description": "Id: cn_aircraft_engine\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_aircraft_wing": {
+		"message": "항공기 날개",
+		"description": "Id: cn_aircraft_wing\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_almond_boxes": {
+		"message": "아몬드 박스",
+		"description": "Id: cn_almond_boxes\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_crawler_tractor": {
+		"message": "무한궤도 트랙터",
+		"description": "Id: cn_crawler_tractor\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_auger_wagon": {
+		"message": "오거 왜건",
+		"description": "Id: cn_auger_wagon\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_autonomous_tractor": {
+		"message": "자율 트랙터",
+		"description": "Id: cn_autonomous_tractor\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_beet_harvester": {
+		"message": "비트 하베스터",
+		"description": "Id: cn_beet_harvester\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_big_tires": {
+		"message": "빅 타이어",
+		"description": "Id: cn_big_tires\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_boat": {
+		"message": "보트",
+		"description": "Id: cn_boat\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_boom_lift": {
+		"message": "붐 리프트",
+		"description": "Id: cn_boom_lift\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_borates": {
+		"message": "붕산염",
+		"description": "Id: cn_borates\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_bottles": {
+		"message": "빈 병",
+		"description": "Id: cn_bottles\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_bromine": {
+		"message": "브로민",
+		"description": "Id: cn_bromine\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_bus_hood": {
+		"message": "버스 후드",
+		"description": "Id: cn_bus_hood\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_butter": {
+		"message": "버터",
+		"description": "Id: cn_butter\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_buttermilk": {
+		"message": "버터밀크",
+		"description": "Id: cn_buttermilk\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_cable": {
+		"message": "케이블",
+		"description": "Id: cn_cable\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_cable_reel": {
+		"message": "케이블 릴",
+		"description": "Id: cn_cable_reel\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_cans": {
+		"message": "캔",
+		"description": "Id: cn_cans\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_cattle_equipment": {
+		"message": "소 장비",
+		"description": "Id: cn_cattle_equipment\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_circuit_breakers": {
+		"message": "서킷 브레이커",
+		"description": "Id: cn_circuit_breakers\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_clamshell_bucket": {
+		"message": "클램셀 버킷",
+		"description": "Id: cn_clamshell_bucket\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_colors": {
+		"message": "페인트",
+		"description": "Id: cn_colors\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_concrete_barrier": {
+		"message": "콘크리트 배리어",
+		"description": "Id: cn_concrete_barrier\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_concrete_tubes": {
+		"message": "콘크리트 튜브",
+		"description": "Id: cn_concrete_tubes\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_const_houses": {
+		"message": "컨테이너 주택",
+		"description": "Id: cn_const_houses\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_cotton_lint": {
+		"message": "목화 린트",
+		"description": "Id: cn_cotton_lint\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_cotton_seed": {
+		"message": "목화씨",
+		"description": "Id: cn_cotton_seed\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_crude_oil": {
+		"message": "원유",
+		"description": "Id: cn_crude_oil\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_curtains": {
+		"message": "커튼",
+		"description": "Id: cn_curtains\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_disc_harrows": {
+		"message": "디스크 하로우즈",
+		"description": "Id: cn_disc_harrows\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_dryfruit": {
+		"message": "말린 과일",
+		"description": "Id: cn_dryfruit\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_dumpster": {
+		"message": "덤프스터",
+		"description": "Id: cn_dumpster\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_fertilizer_spreader": {
+		"message": "비료 살포기",
+		"description": "Id: cn_fertilizer_spreader\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_fertilizer_tank": {
+		"message": "비료 탱크",
+		"description": "Id: cn_fertilizer_tank\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_forage_harvester": {
+		"message": "목초 수확기",
+		"description": "Id: cn_forage_harvester\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_forwarder": {
+		"message": "포워더",
+		"description": "Id: cn_forwarder\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_frac_tank": {
+		"message": "프락 탱크",
+		"description": "Id: cn_frac_tank\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_frozen_fruits": {
+		"message": "냉동 과일",
+		"description": "Id: cn_frozen_fruits\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_frozen_vegetable": {
+		"message": "냉동 야채",
+		"description": "Id: cn_frozen_vegetable\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_fruits": {
+		"message": "과일",
+		"description": "Id: cn_fruits\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_fruit_juice": {
+		"message": "과일 주스",
+		"description": "Id: cn_fruit_juice\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_garbage_truck": {
+		"message": "쓰레기 트럭",
+		"description": "Id: cn_garbage_truck\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_generator_set": {
+		"message": "발전기 세트",
+		"description": "Id: cn_generator_set\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_glass": {
+		"message": "유리",
+		"description": "Id: cn_glass\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_glass_racks": {
+		"message": "유리 랙",
+		"description": "Id: cn_glass_racks\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_grain": {
+		"message": "곡물",
+		"description": "Id: cn_grain\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_harvester": {
+		"message": "하베스터",
+		"description": "Id: cn_harvester\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_hay": {
+		"message": "건초 더미",
+		"description": "Id: cn_hay\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_heavy_bulldozer": {
+		"message": "대형 불도저",
+		"description": "Id: cn_heavy_bulldozer\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_house_prefabs": {
+		"message": "프리패브 주택",
+		"description": "Id: cn_house_prefabs\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_industrial_pallets": {
+		"message": "공업용 파레트",
+		"description": "Id: cn_industrial_pallets\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_insulation_panels": {
+		"message": "절연 패널",
+		"description": "Id: cn_insulation_panels\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_jet_engine_inlet_cowl": {
+		"message": "제트 엔진 흡입구 카울",
+		"description": "Id: cn_jet_engine_inlet_cowl\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_kenworth_t680": {
+		"message": "Kenworth 트럭",
+		"description": "Id: cn_kenworth_t680\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_knuckleboom_loader": {
+		"message": "너클붐 로더",
+		"description": "Id: cn_knuckleboom_loader\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_lift_truck": {
+		"message": "리프트 트럭",
+		"description": "Id: cn_lift_truck\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_lift_truck_chassis": {
+		"message": "리프트 트럭 샤시",
+		"description": "Id: cn_lift_truck_chassis\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_log_harvester": {
+		"message": "통나무 벌목기계",
+		"description": "Id: cn_log_harvester\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_log_loader": {
+		"message": "통나무 로더",
+		"description": "Id: cn_log_loader\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_log_stacker": {
+		"message": "통나무 스태커",
+		"description": "Id: cn_log_stacker\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_lye": {
+		"message": "가성소다",
+		"description": "Id: cn_lye\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_maize": {
+		"message": "옥수수",
+		"description": "Id: cn_maize\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_mbt": {
+		"message": "모바일 배리어",
+		"description": "Id: cn_mbt\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_meat": {
+		"message": "고기",
+		"description": "Id: cn_meat\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_metro_wagon": {
+		"message": "지하철 철도차량",
+		"description": "Id: cn_metro_wagon\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_milling_machine": {
+		"message": "밀링 머신",
+		"description": "Id: cn_milling_machine\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_mix_tank": {
+		"message": "믹스 탱크",
+		"description": "Id: cn_mix_tank\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_mobile_air_compressor": {
+		"message": "모바일 에어 컴프레서",
+		"description": "Id: cn_mobile_air_compressor\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_mobile_crane": {
+		"message": "전지형 크레인",
+		"description": "Id: cn_mobile_crane\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_moor_buoy": {
+		"message": "계선 부표",
+		"description": "Id: cn_moor_buoy\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_mortar": {
+		"message": "회반죽",
+		"description": "Id: cn_mortar\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_moving_containers": {
+		"message": "무빙 컨테이너",
+		"description": "Id: cn_moving_containers\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_mulcher": {
+		"message": "제초기",
+		"description": "Id: cn_mulcher\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_oil_pipes": {
+		"message": "오일 파이프",
+		"description": "Id: cn_oil_pipes\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_packed_lumber": {
+		"message": "포장된 제재목",
+		"description": "Id: cn_packed_lumber\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_paper": {
+		"message": "종이",
+		"description": "Id: cn_paper\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_pelleted_animal_food": {
+		"message": "뭉친 가축 사료",
+		"description": "Id: cn_pelleted_animal_food\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_peterbilt_579": {
+		"message": "Peterbilt 트럭",
+		"description": "Id: cn_peterbilt_579\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_planter": {
+		"message": "파종기",
+		"description": "Id: cn_planter\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_plows": {
+		"message": "쟁기",
+		"description": "Id: cn_plows\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_power_generator": {
+		"message": "동력 발전기",
+		"description": "Id: cn_power_generator\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_pumpjack": {
+		"message": "펌프잭",
+		"description": "Id: cn_pumpjack\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_rails": {
+		"message": "레일",
+		"description": "Id: cn_rails\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_railcar_mover": {
+		"message": "철도차량 이동장치",
+		"description": "Id: cn_railcar_mover\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_rawmilk": {
+		"message": "미살균 우유",
+		"description": "Id: cn_rawmilk\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_recreational_vehicle": {
+		"message": "레크리에이션 차량",
+		"description": "Id: cn_recreational_vehicle\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_salt": {
+		"message": "소금",
+		"description": "Id: cn_salt\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_school_bus": {
+		"message": "스쿨버스",
+		"description": "Id: cn_school_bus\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_scrap_cars": {
+		"message": "폐차",
+		"description": "Id: cn_scrap_cars\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_scraper": {
+		"message": "스크레이퍼",
+		"description": "Id: cn_scraper\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_silane": {
+		"message": "실레인",
+		"description": "Id: cn_silane\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_skidder": {
+		"message": "스키더",
+		"description": "Id: cn_skidder\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_soda_ash": {
+		"message": "소다회",
+		"description": "Id: cn_soda_ash\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_soybean": {
+		"message": "콩",
+		"description": "Id: cn_soybean\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_space_container": {
+		"message": "스페이스 컨테이너",
+		"description": "Id: cn_space_container\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_sprayer": {
+		"message": "분무기",
+		"description": "Id: cn_sprayer\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_square_baler": {
+		"message": "사각베일러",
+		"description": "Id: cn_square_baler\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_stumper": {
+		"message": "스텀퍼",
+		"description": "Id: cn_stumper\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_sugar_beet": {
+		"message": "사탕무",
+		"description": "Id: cn_sugar_beet\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_talc_powder": {
+		"message": "활석 분말",
+		"description": "Id: cn_talc_powder\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_tamping_machine": {
+		"message": "탬핑 머신",
+		"description": "Id: cn_tamping_machine\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_telescopic_handler": {
+		"message": "텔레스코픽 핸들러",
+		"description": "Id: cn_telescopic_handler\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_transformer": {
+		"message": "변압기",
+		"description": "Id: cn_transformer\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_trees": {
+		"message": "나무",
+		"description": "Id: cn_trees\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_tub_grinder": {
+		"message": "목재 파쇄기",
+		"description": "Id: cn_tub_grinder\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_utility_poles": {
+		"message": "전신주",
+		"description": "Id: cn_utility_poles\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_utility_terrain_vehicle": {
+		"message": "유틸리티 지형 차량",
+		"description": "Id: cn_utility_terrain_vehicle\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_vegetable": {
+		"message": "야채",
+		"description": "Id: cn_vegetable\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_waste_paper": {
+		"message": "폐지",
+		"description": "Id: cn_waste_paper\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_westernstar_49x": {
+		"message": "Western Star 트럭",
+		"description": "Id: cn_westernstar_49x\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_wood_chipper": {
+		"message": "나무 파쇄기",
+		"description": "Id: cn_wood_chipper\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_yard_truck": {
+		"message": "야드 트럭",
+		"description": "Id: cn_yard_truck\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_house": {
+		"message": "턴키 하우스 자재",
+		"description": "Id: cn_house\nName of the cargo of big house.\nGroup: Special transport cargo names\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_ovs_helicopter": {
+		"message": "수송용 헬리콥터",
+		"description": "Id: cn_ovs_helicopter\nName of the cargo of transport helicopter helicopter.\nGroup: Special transport cargo names\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_haul_truck_hull": {
+		"message": "하울 트럭 차체",
+		"description": "Id: cn_haul_truck_hull\nName of the cargo of hull part for haul truck.\nGroup: Special transport cargo names\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_haul_truck": {
+		"message": "하울 트럭 샤시",
+		"description": "Id: cn_haul_truck\nName of the cargo of haul truck.\nGroup: Special transport cargo names\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_loader_truck": {
+		"message": "언더그라운드 로더",
+		"description": "Id: cn_loader_truck\nName of the cargo of underground loader truck.\nGroup: Special transport cargo names\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_aircondition": {
+		"message": "대형 공조장치",
+		"description": "Id: cn_aircondition\nName of the cargo of big air condition complex.\nGroup: Special transport cargo names\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_lattice": {
+		"message": "대형 건설자재",
+		"description": "Id: cn_lattice\nName of the cargo of some construction - need to be properly named after the model is done.\nGroup: Special transport cargo names\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_windblade": {
+		"message": "풍력 터빈 블레이드",
+		"description": "Id: cn_windblade\nName of the cargo of wind power plant's windblade.\nGroup: Special transport cargo names\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_tn_acid": {
+		"message": "산성 탱크 트레일러",
+		"description": "Id: tn_acid\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_tn_acid_long": {
+		"message": "산성 탱크 장축 트레일러",
+		"description": "Id: tn_acid_long\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_tn_blade_hauler": {
+		"message": "블레이드 하울러",
+		"description": "Id: tn_blade_hauler\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_tn_bottom_dump": {
+		"message": "하부 개폐식 덤프 트레일러",
+		"description": "Id: tn_bottom_dump\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_tn_car": {
+		"message": "차량 트랜스포터",
+		"description": "Id: tn_car\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_tn_cement": {
+		"message": "벌크 시멘트 트레일러",
+		"description": "Id: tn_cement\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_tn_chemical": {
+		"message": "화학약품 탱크 트레일러",
+		"description": "Id: tn_chemical\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_tn_chemical_long": {
+		"message": "화학약품 탱크 장축 트레일러",
+		"description": "Id: tn_chemical_long\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_tn_dry_bulk": {
+		"message": "드라이 벌크 트레일러",
+		"description": "Id: tn_dry_bulk\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_tn_dump": {
+		"message": "덤프 트레일러",
+		"description": "Id: tn_dump\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_tn_flatbed": {
+		"message": "평판 트레일러",
+		"description": "Id: tn_flatbed\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_tn_frac_tank": {
+		"message": "프락 탱크",
+		"description": "Id: tn_frac_tank\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_tn_fuel": {
+		"message": "연료 탱크 트레일러",
+		"description": "Id: tn_fuel\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_tn_fuel_long": {
+		"message": "연료 탱크 장축 트레일러",
+		"description": "Id: tn_fuel_long\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_tn_gas": {
+		"message": "가스 탱크 트레일러",
+		"description": "Id: tn_gas\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_tn_gas_long": {
+		"message": "가스 탱크 장축 트레일러",
+		"description": "Id: tn_gas_long\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_tn_home_transporter": {
+		"message": "홈 트랜스포터",
+		"description": "Id: tn_home_transporter\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_tn_knuckle_boom": {
+		"message": "너클붐 로더",
+		"description": "Id: tn_knuckle_boom\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_tn_lowboy_boat": {
+		"message": "로우보이 보트 트레일러",
+		"description": "Id: tn_lowboy_boat\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_tn_scs_lowboy": {
+		"message": "로우보이 연장형 트레일러",
+		"description": "Id: tn_scs_lowboy\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_tn_mbt1_barrier": {
+		"message": "모바일 배리어 트레일러",
+		"description": "Id: tn_mbt1_barrier\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_tn_tub_grinder": {
+		"message": "목재 파쇄기",
+		"description": "Id: tn_tub_grinder\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_tn_lodeking_brilliance": {
+		"message": "Lodeking Brilliance",
+		"description": "Id: tn_lodeking_brilliance\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_tn_lodeking_distinction": {
+		"message": "Lodeking Distinction",
+		"description": "Id: tn_lodeking_distinction\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_tn_lodeking_forceline": {
+		"message": "Lodeking Forceline",
+		"description": "Id: tn_lodeking_forceline\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_tn_lodeking_prestige": {
+		"message": "Lodeking Prestige",
+		"description": "Id: tn_lodeking_prestige\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_tn_lodeking_renown": {
+		"message": "Lodeking Renown",
+		"description": "Id: tn_lodeking_renown\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_tn_prestige_brilliance": {
+		"message": "Prestige Brilliance",
+		"description": "Id: tn_prestige_brilliance\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_tn_prestige_distinction": {
+		"message": "Prestige Distinction",
+		"description": "Id: tn_prestige_distinction\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_tn_prestige_forceline": {
+		"message": "Lodeking Forceline",
+		"description": "Id: tn_prestige_forceline\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_tn_prestige_renown": {
+		"message": "Prestige Renown",
+		"description": "Id: tn_prestige_renown\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_tt_ico_adr_1": {
+		"message": "유해물질 1등급",
+		"description": "Id: tt_ico_adr_1\nGroup: Tooltip texts for job offer icons\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_tt_ico_adr_2": {
+		"message": "유해물질 2등급",
+		"description": "Id: tt_ico_adr_2\nGroup: Tooltip texts for job offer icons\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_tt_ico_adr_3": {
+		"message": "유해물질 3등급",
+		"description": "Id: tt_ico_adr_3\nGroup: Tooltip texts for job offer icons\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_tt_ico_adr_4": {
+		"message": "유해물질 4등급",
+		"description": "Id: tt_ico_adr_4\nGroup: Tooltip texts for job offer icons\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_tt_ico_adr_5": {
+		"message": "유해물질 5등급",
+		"description": "Id: tt_ico_adr_5\nGroup: Tooltip texts for job offer icons\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_tt_ico_adr_6": {
+		"message": "유해물질 6등급",
+		"description": "Id: tt_ico_adr_6\nGroup: Tooltip texts for job offer icons\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_tt_ico_adr_8": {
+		"message": "유해물질 8등급",
+		"description": "Id: tt_ico_adr_8\nGroup: Tooltip texts for job offer icons\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_lvl_name2": {
+		"message": "노동자",
+		"description": "Id: lvl_name2\nGroup: Names of individual experience tiers of the driver.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_lvl_name3": {
+		"message": "기업가",
+		"description": "Id: lvl_name3\nGroup: Names of individual experience tiers of the driver.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_lvl_name4": {
+		"message": "전문가",
+		"description": "Id: lvl_name4\nGroup: Names of individual experience tiers of the driver.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_lvl_name6": {
+		"message": "기술의 18휠즈",
+		"description": "Id: lvl_name6\nGroup: Names of individual experience tiers of the driver.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_tdsel_dealer_big": {
+		"message": "쇼룸",
+		"description": "Id: tdsel_dealer_big\nMap legend\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_profile_sel_t": {
+		"message": "프로필 관리자",
+		"description": "Id: profile_sel_t\nTitle of the screen. Please keep in upper case where possible.\nGroup: Profile selection.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_agri_check_title": {
+		"message": "농업 검사소",
+		"description": "Id: agri_check_title\ntitle of the feature\nGroup: Agriculture checks.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_agri_check_ahead": {
+		"message": "농업 검사를 앞두고 있습니다. 감속할 준비를 하십시오.",
+		"description": "Id: agri_check_ahead\nprepare the player for an upcoming check\nGroup: Agriculture checks.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_agri_check_stop": {
+		"message": "농업 검사를 시작하려면 정차 후 다음 키를 누르십시오:",
+		"description": "Id: agri_check_stop\nstop the vehicle\nGroup: Agriculture checks.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_agri_check_wait": {
+		"message": "검사가 진행 중입니다.",
+		"description": "Id: agri_check_wait\nchecking/waiting\nGroup: Agriculture checks.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_agri_check_pass": {
+		"message": "검사가 완료되었습니다. 계속 운행할 수 있습니다.",
+		"description": "Id: agri_check_pass\ninspection passed\nGroup: Agriculture checks.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_offence_avoid_inspection": {
+		"message": "검사임에도 정차하지 않았습니다.",
+		"description": "Id: offence_avoid_inspection\ninspection skipped\nGroup: Agriculture checks.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_thanks_using_cimarron": {
+		"message": "시마론 턴파이크를 이용해 주셔서 감사합니다.",
+		"description": "Id: thanks_using_cimarron\nGroup: Tollgate messages.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_thanks_using_turner": {
+		"message": "터너 턴파이크를 이용해 주셔서 감사합니다.",
+		"description": "Id: thanks_using_turner\nGroup: Tollgate messages.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_thanks_using_indian": {
+		"message": "인디언 네이션 턴파이크를 이용해 주셔서 감사합니다.",
+		"description": "Id: thanks_using_indian\nGroup: Tollgate messages.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_thanks_using_bailey": {
+		"message": "H. E. 베일리 턴파이크를 이용해 주셔서 감사합니다.",
+		"description": "Id: thanks_using_bailey\nGroup: Tollgate messages.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_thanks_using_rogers": {
+		"message": "윌 로저스 턴파이크를 이용해 주셔서 감사합니다.",
+		"description": "Id: thanks_using_rogers\nGroup: Tollgate messages.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_bulkfeed": {
+		"message": "벌크 피드",
+		"description": "Id: bulkfeed\nGroup: Trailer body type names (short/preview variant)."
+	},
+	"ats_curtainside": {
+		"message": "슬라이딩 방수포",
+		"description": "Id: curtainside\nGroup: Trailer body type names (short/preview variant)."
+	},
+	"ats_chipvan": {
+		"message": "칩 밴",
+		"description": "Id: chipvan\nGroup: Trailer body type names (short/preview variant)."
+	},
+	"ats_dropdeck": {
+		"message": "드롭 데크",
+		"description": "Id: dropdeck\nGroup: Trailer body type names (short/preview variant)."
+	},
+	"ats_dryvan": {
+		"message": "드라이 밴",
+		"description": "Id: dryvan\nGroup: Trailer body type names (short/preview variant)."
+	},
+	"ats_hopper": {
+		"message": "호퍼",
+		"description": "Id: hopper\nGroup: Trailer body type names (short/preview variant)."
+	},
+	"ats_lowbed": {
+		"message": "로우베드",
+		"description": "Id: lowbed\nGroup: Trailer body type names (short/preview variant)."
+	},
+	"ats_lowboy": {
+		"message": "로우보이",
+		"description": "Id: lowboy\nGroup: Trailer body type names (short/preview variant)."
+	},
+	"ats_silo": {
+		"message": "드라이 벌크",
+		"description": "Id: silo\nGroup: Trailer body type names (short/preview variant)."
+	},
+	"ats_body_cargo_types_bulkfeed": {
+		"message": "벌크 피드 원료",
+		"description": "Id: body_cargo_types_bulkfeed\nGroup: Trailer cargo based on body type (tooltip usage)"
+	},
+	"ats_body_cargo_types_chipvan": {
+		"message": "경량 벌크 원료",
+		"description": "Id: body_cargo_types_chipvan\nGroup: Trailer cargo based on body type (tooltip usage)"
+	},
+	"ats_body_cargo_types_dropdeck": {
+		"message": "건설 장비, 기계, 자재 및 높은 화물",
+		"description": "Id: body_cargo_types_dropdeck\nGroup: Trailer cargo based on body type (tooltip usage)"
+	},
+	"ats_body_cargo_types_hopper": {
+		"message": "곡물 & 벌크 원료",
+		"description": "Id: body_cargo_types_hopper\nGroup: Trailer cargo based on body type (tooltip usage)"
+	},
+	"ats_single": {
+		"message": "싱글",
+		"description": "Id: single\nGroup: Trailer chain type names (short/preview variant)."
+	},
+	"ats_double": {
+		"message": "더블",
+		"description": "Id: double\nGroup: Trailer chain type names (short/preview variant)."
+	},
+	"ats_bdouble": {
+		"message": "B-더블",
+		"description": "Id: bdouble\nGroup: Trailer chain type names (short/preview variant)."
+	},
+	"ats_rmdouble": {
+		"message": "R.M. 더블",
+		"description": "Id: rmdouble\nGroup: Trailer chain type names (short/preview variant)."
+	},
+	"ats_tpdouble": {
+		"message": "T.P. 더블",
+		"description": "Id: tpdouble\nGroup: Trailer chain type names (short/preview variant)."
+	},
+	"ats_triple": {
+		"message": "트리플",
+		"description": "Id: triple\nGroup: Trailer chain type names (short/preview variant)."
+	},
+	"ats_chain_single": {
+		"message": "싱글",
+		"description": "Id: chain_single\nGroup: Trailer chain type names (long variant)"
+	},
+	"ats_chain_double": {
+		"message": "더블",
+		"description": "Id: chain_double\nGroup: Trailer chain type names (long variant)"
+	},
+	"ats_chain_staa_double": {
+		"message": "STAA 더블",
+		"description": "Id: chain_staa_double\nGroup: Trailer chain type names (long variant)"
+	},
+	"ats_chain_b_double": {
+		"message": "B-더블",
+		"description": "Id: chain_b_double\nGroup: Trailer chain type names (long variant)"
+	},
+	"ats_chain_rm_double": {
+		"message": "로키 마운틴 더블",
+		"description": "Id: chain_rm_double\nGroup: Trailer chain type names (long variant)"
+	},
+	"ats_chain_tp_double": {
+		"message": "턴 파이크 더블",
+		"description": "Id: chain_tp_double\nGroup: Trailer chain type names (long variant)"
+	},
+	"ats_chain_triple": {
+		"message": "트리플",
+		"description": "Id: chain_triple\nGroup: Trailer chain type names (long variant)"
+	},
+	"ats_tr_articulated_3axle": {
+		"message": "굴절식, 3액슬",
+		"description": "Id: tr_articulated_3axle\nGroup: Trailer configurations"
+	},
+	"ats_tr_articulated_4axle": {
+		"message": "굴절식, 4액슬",
+		"description": "Id: tr_articulated_4axle\nGroup: Trailer configurations"
+	},
+	"ats_tr_articulated_5axle": {
+		"message": "굴절식, 5액슬",
+		"description": "Id: tr_articulated_5axle\nGroup: Trailer configurations"
+	},
+	"ats_tr_articulated_6axle": {
+		"message": "굴절식, 6액슬",
+		"description": "Id: tr_articulated_6axle\nGroup: Trailer configurations"
+	},
+	"ats_tr_articulated_7axle": {
+		"message": "굴절식, 7액슬",
+		"description": "Id: tr_articulated_7axle\nGroup: Trailer configurations"
+	},
+	"ats_tr_articulated_8axle": {
+		"message": "굴절식, 8액슬",
+		"description": "Id: tr_articulated_8axle\nGroup: Trailer configurations"
+	},
+	"ats_tr_articulated_9axle": {
+		"message": "굴절식, 9액슬",
+		"description": "Id: tr_articulated_9axle\nGroup: Trailer configurations"
+	},
+	"ats_tr_b_double": {
+		"message": "B-더블",
+		"description": "Id: tr_b_double\nGroup: Trailer configurations"
+	},
+	"ats_tr_b_double_5axle": {
+		"message": "B-더블, 5액슬",
+		"description": "Id: tr_b_double_5axle\nGroup: Trailer configurations"
+	},
+	"ats_tr_b_double_6axle": {
+		"message": "B-더블, 6액슬",
+		"description": "Id: tr_b_double_6axle\nGroup: Trailer configurations"
+	},
+	"ats_tr_double_staa": {
+		"message": "STAA 더블",
+		"description": "Id: tr_double_staa\nGroup: Trailer configurations"
+	},
+	"ats_tr_double_staa_pup": {
+		"message": "STAA 더블 펍",
+		"description": "Id: tr_double_staa_pup\nGroup: Trailer configurations"
+	},
+	"ats_tr_double_staa_pup_4axle": {
+		"message": "STAA 더블 펍, 4 액슬",
+		"description": "Id: tr_double_staa_pup_4axle\nGroup: Trailer configurations"
+	},
+	"ats_tr_jeep": {
+		"message": "지프",
+		"description": "Id: tr_jeep\nGroup: Trailer configurations"
+	},
+	"ats_tr_jeep_3axle": {
+		"message": "지프, 3액슬",
+		"description": "Id: tr_jeep_3axle\nGroup: Trailer configurations"
+	},
+	"ats_tr_rm_double": {
+		"message": "로키 마운틴 더블",
+		"description": "Id: tr_rm_double\nGroup: Trailer configurations"
+	},
+	"ats_tr_rm_double_5axle": {
+		"message": "로키 마운틴 더블, 5액슬",
+		"description": "Id: tr_rm_double_5axle\nGroup: Trailer configurations"
+	},
+	"ats_tr_rm_double_pup": {
+		"message": "로키 마운틴 더블 펍",
+		"description": "Id: tr_rm_double_pup\nGroup: Trailer configurations"
+	},
+	"ats_tr_single_22": {
+		"message": "22ft",
+		"description": "Id: tr_single_22\nGroup: Trailer configurations"
+	},
+	"ats_tr_single_28": {
+		"message": "28ft",
+		"description": "Id: tr_single_28\nGroup: Trailer configurations"
+	},
+	"ats_tr_single_28_2axle": {
+		"message": "28ft, 2액슬",
+		"description": "Id: tr_single_28_2axle\nGroup: Trailer configurations"
+	},
+	"ats_tr_single_30": {
+		"message": "30ft",
+		"description": "Id: tr_single_30\nGroup: Trailer configurations"
+	},
+	"ats_tr_single_32": {
+		"message": "32ft",
+		"description": "Id: tr_single_32\nGroup: Trailer configurations"
+	},
+	"ats_tr_single_32_2axle": {
+		"message": "32ft, 2액슬",
+		"description": "Id: tr_single_32_2axle\nGroup: Trailer configurations"
+	},
+	"ats_tr_single_32_3axle": {
+		"message": "32ft, 3액슬",
+		"description": "Id: tr_single_32_3axle\nGroup: Trailer configurations"
+	},
+	"ats_tr_single_32_ext": {
+		"message": "32ft, 연장형",
+		"description": "Id: tr_single_32_ext\nGroup: Trailer configurations"
+	},
+	"ats_tr_single_36": {
+		"message": "36ft",
+		"description": "Id: tr_single_36\nGroup: Trailer configurations"
+	},
+	"ats_tr_single_36_3axle": {
+		"message": "36ft, 3액슬",
+		"description": "Id: tr_single_36_3axle\nGroup: Trailer configurations"
+	},
+	"ats_tr_single_40": {
+		"message": "40ft",
+		"description": "Id: tr_single_40\nGroup: Trailer configurations"
+	},
+	"ats_tr_single_40_3axle": {
+		"message": "40ft, 3액슬",
+		"description": "Id: tr_single_40_3axle\nGroup: Trailer configurations"
+	},
+	"ats_tr_single_40_ext": {
+		"message": "40ft, 연장형",
+		"description": "Id: tr_single_40_ext\nGroup: Trailer configurations"
+	},
+	"ats_tr_single_40_rear": {
+		"message": "40ft, 후방",
+		"description": "Id: tr_single_40_rear\nGroup: Trailer configurations"
+	},
+	"ats_tr_single_40_spread": {
+		"message": "40ft, 스프레드",
+		"description": "Id: tr_single_40_spread\nGroup: Trailer configurations"
+	},
+	"ats_tr_single_42": {
+		"message": "42ft",
+		"description": "Id: tr_single_42\nGroup: Trailer configurations"
+	},
+	"ats_tr_single_42_3axle": {
+		"message": "42ft, 3액슬",
+		"description": "Id: tr_single_42_3axle\nGroup: Trailer configurations"
+	},
+	"ats_tr_single_43_rear": {
+		"message": "43ft, 후방",
+		"description": "Id: tr_single_43_rear\nGroup: Trailer configurations"
+	},
+	"ats_tr_single_45": {
+		"message": "45ft",
+		"description": "Id: tr_single_45\nGroup: Trailer configurations"
+	},
+	"ats_tr_single_45_3axle": {
+		"message": "45ft, 3액슬",
+		"description": "Id: tr_single_45_3axle\nGroup: Trailer configurations"
+	},
+	"ats_tr_single_45_3axle_single": {
+		"message": "45ft, 3액슬, 싱글",
+		"description": "Id: tr_single_45_3axle_single\nGroup: Trailer configurations"
+	},
+	"ats_tr_single_45_3axle_steer": {
+		"message": "45ft, 3액슬, 조향가능",
+		"description": "Id: tr_single_45_3axle_steer\nGroup: Trailer configurations"
+	},
+	"ats_tr_single_45_front": {
+		"message": "45ft, 전방",
+		"description": "Id: tr_single_45_front\nGroup: Trailer configurations"
+	},
+	"ats_tr_single_45_rear": {
+		"message": "45ft, 후방",
+		"description": "Id: tr_single_45_rear\nGroup: Trailer configurations"
+	},
+	"ats_tr_single_45_slide": {
+		"message": "45 ft, 슬라이딩 탠덤",
+		"description": "Id: tr_single_45_slide\nGroup: Trailer configurations"
+	},
+	"ats_tr_single_45_spread": {
+		"message": "45ft, 스프레드",
+		"description": "Id: tr_single_45_spread\nGroup: Trailer configurations"
+	},
+	"ats_tr_single_48": {
+		"message": "48ft",
+		"description": "Id: tr_single_48\nGroup: Trailer configurations"
+	},
+	"ats_tr_single_48_3axle": {
+		"message": "48ft, 3액슬",
+		"description": "Id: tr_single_48_3axle\nGroup: Trailer configurations"
+	},
+	"ats_tr_single_48_4axle": {
+		"message": "48ft, 4액슬",
+		"description": "Id: tr_single_48_4axle\nGroup: Trailer configurations"
+	},
+	"ats_tr_single_48_front": {
+		"message": "48ft, 전방",
+		"description": "Id: tr_single_48_front\nGroup: Trailer configurations"
+	},
+	"ats_tr_single_48_rear": {
+		"message": "48ft, 후방",
+		"description": "Id: tr_single_48_rear\nGroup: Trailer configurations"
+	},
+	"ats_tr_single_48_slide": {
+		"message": "48 ft, 슬라이딩 탠덤",
+		"description": "Id: tr_single_48_slide\nGroup: Trailer configurations"
+	},
+	"ats_tr_single_48_spread": {
+		"message": "48ft, 스프레드",
+		"description": "Id: tr_single_48_spread\nGroup: Trailer configurations"
+	},
+	"ats_tr_single_50_3axle": {
+		"message": "50ft, 3액슬",
+		"description": "Id: tr_single_50_3axle\nGroup: Trailer configurations"
+	},
+	"ats_tr_single_50_3axle_single": {
+		"message": "50ft, 3액슬, 싱글",
+		"description": "Id: tr_single_50_3axle_single\nGroup: Trailer configurations"
+	},
+	"ats_tr_single_50_3axle_steer": {
+		"message": "50ft, 3액슬, 조향가능",
+		"description": "Id: tr_single_50_3axle_steer\nGroup: Trailer configurations"
+	},
+	"ats_tr_single_50_spread": {
+		"message": "50ft, 스프레드",
+		"description": "Id: tr_single_50_spread\nGroup: Trailer configurations"
+	},
+	"ats_tr_single_53": {
+		"message": "53ft",
+		"description": "Id: tr_single_53\nGroup: Trailer configurations"
+	},
+	"ats_tr_single_53_3axle": {
+		"message": "53ft, 3액슬",
+		"description": "Id: tr_single_53_3axle\nGroup: Trailer configurations"
+	},
+	"ats_tr_single_53_4axle": {
+		"message": "53ft, 4액슬",
+		"description": "Id: tr_single_53_4axle\nGroup: Trailer configurations"
+	},
+	"ats_tr_single_53_4axle_spread": {
+		"message": "53ft, 4액슬, 스프레드",
+		"description": "Id: tr_single_53_4axle_spread\nGroup: Trailer configurations"
+	},
+	"ats_tr_single_53_4axle_steer": {
+		"message": "53ft, 4액슬, 조향가능",
+		"description": "Id: tr_single_53_4axle_steer\nGroup: Trailer configurations"
+	},
+	"ats_tr_single_53_front": {
+		"message": "53ft, 전방",
+		"description": "Id: tr_single_53_front\nGroup: Trailer configurations"
+	},
+	"ats_tr_single_53_rear": {
+		"message": "53ft, 후방",
+		"description": "Id: tr_single_53_rear\nGroup: Trailer configurations"
+	},
+	"ats_tr_single_53_slide": {
+		"message": "53 ft, 슬라이딩 탠덤",
+		"description": "Id: tr_single_53_slide\nGroup: Trailer configurations"
+	},
+	"ats_tr_single_53_spread": {
+		"message": "53ft, 스프레드",
+		"description": "Id: tr_single_53_spread\nGroup: Trailer configurations"
+	},
+	"ats_tr_spreader_1axle": {
+		"message": "스프레더, 1액슬",
+		"description": "Id: tr_spreader_1axle\nGroup: Trailer configurations"
+	},
+	"ats_tr_spreader_2axle": {
+		"message": "스프레더, 2액슬",
+		"description": "Id: tr_spreader_2axle\nGroup: Trailer configurations"
+	},
+	"ats_tr_spreader_3axle": {
+		"message": "스프레더, 3액슬",
+		"description": "Id: tr_spreader_3axle\nGroup: Trailer configurations"
+	},
+	"ats_tr_tp_double": {
+		"message": "턴 파이크 더블",
+		"description": "Id: tr_tp_double\nGroup: Trailer configurations"
+	},
+	"ats_tr_tp_double_6axle": {
+		"message": "턴 파이크 더블, 6액슬",
+		"description": "Id: tr_tp_double_6axle\nGroup: Trailer configurations"
+	},
+	"ats_tr_triple": {
+		"message": "트리플",
+		"description": "Id: tr_triple\nGroup: Trailer configurations"
+	},
+	"ats_tr_triple_pup": {
+		"message": "트리플 펍",
+		"description": "Id: tr_triple_pup\nGroup: Trailer configurations"
+	},
+	"ats_tr_conv_dolly": {
+		"message": "컨버터 돌리",
+		"description": "Id: tr_conv_dolly\nComponent chassis name (upgrade screen only)\nGroup: Trailer configurations"
+	},
+	"ats_tr_conv_dolly_2": {
+		"message": "컨버터 돌리, 2액슬",
+		"description": "Id: tr_conv_dolly_2\nComponent chassis name (upgrade screen only)\nGroup: Trailer configurations"
+	},
+	"ats_tr_dolly": {
+		"message": "돌리",
+		"description": "Id: tr_dolly\nComponent chassis name (upgrade screen only)\nGroup: Trailer configurations"
+	},
+	"ats_bs_bellyvan": {
+		"message": "벨리 밴",
+		"description": "Id: bs_bellyvan\nGroup: Trailer body sets"
+	},
+	"ats_bs_bulk_feed": {
+		"message": "벌크 피드",
+		"description": "Id: bs_bulk_feed\nGroup: Trailer body sets"
+	},
+	"ats_bs_bottomdumper_horizontal": {
+		"message": "수평 보텀 덤프",
+		"description": "Id: bs_bottomdumper_horizontal\nGroup: Trailer body sets"
+	},
+	"ats_bs_bottomdumper_vertical": {
+		"message": "수직 보텀 덤프",
+		"description": "Id: bs_bottomdumper_vertical\nGroup: Trailer body sets"
+	},
+	"ats_bs_chipvan": {
+		"message": "칩 밴",
+		"description": "Id: bs_chipvan\nGroup: Trailer body sets"
+	},
+	"ats_bs_chipvan_mfloor": {
+		"message": "칩 밴, 무빙 플로어",
+		"description": "Id: bs_chipvan_mfloor\nGroup: Trailer body sets"
+	},
+	"ats_bs_container": {
+		"message": "컨테이너 캐리어",
+		"description": "Id: bs_container\nGroup: Trailer body sets"
+	},
+	"ats_bs_curtain": {
+		"message": "슬라이딩 방수포",
+		"description": "Id: bs_curtain\nGroup: Trailer body sets"
+	},
+	"ats_bs_deep_drop": {
+		"message": "딥 드롭 탱크",
+		"description": "Id: bs_deep_drop\nGroup: Trailer body sets"
+	},
+	"ats_bs_dropdeck": {
+		"message": "드롭 데크",
+		"description": "Id: bs_dropdeck\nGroup: Trailer body sets"
+	},
+	"ats_bs_dropdeck_alu": {
+		"message": "알루미늄 드롭 데크",
+		"description": "Id: bs_dropdeck_alu\nGroup: Trailer body sets"
+	},
+	"ats_bs_dropdeck_fir": {
+		"message": "전나무 드롭 데크",
+		"description": "Id: bs_dropdeck_fir\nGroup: Trailer body sets"
+	},
+	"ats_bs_dropdeck_hardwood": {
+		"message": "활엽수 드롭 데크",
+		"description": "Id: bs_dropdeck_hardwood\nGroup: Trailer body sets"
+	},
+	"ats_bs_drybulk": {
+		"message": "드라이 벌크",
+		"description": "Id: bs_drybulk\nGroup: Trailer body sets"
+	},
+	"ats_bs_dryvan": {
+		"message": "드라이 밴",
+		"description": "Id: bs_dryvan\nGroup: Trailer body sets"
+	},
+	"ats_bs_dshape": {
+		"message": "D-쉐이프 탱크",
+		"description": "Id: bs_dshape\nGroup: Trailer body sets"
+	},
+	"ats_bs_end_dumper": {
+		"message": "엔드 덤프",
+		"description": "Id: bs_end_dumper\nGroup: Trailer body sets"
+	},
+	"ats_bs_live_floor_dumper": {
+		"message": "라이브 플로어 덤프",
+		"description": "Id: bs_live_floor_dumper\nGroup: Trailer body sets"
+	},
+	"ats_bs_side_dumper": {
+		"message": "사이드 덤프",
+		"description": "Id: bs_side_dumper\nGroup: Trailer body sets"
+	},
+	"ats_bs_flatbed": {
+		"message": "평판",
+		"description": "Id: bs_flatbed\nGroup: Trailer body sets"
+	},
+	"ats_bs_flatbed_alu": {
+		"message": "알루미늄 평판",
+		"description": "Id: bs_flatbed_alu\nGroup: Trailer body sets"
+	},
+	"ats_bs_flatbed_fir": {
+		"message": "전나무 평판",
+		"description": "Id: bs_flatbed_fir\nGroup: Trailer body sets"
+	},
+	"ats_bs_flatbed_hardwood": {
+		"message": "활엽수 평판",
+		"description": "Id: bs_flatbed_hardwood\nGroup: Trailer body sets"
+	},
+	"ats_bs_food_tank": {
+		"message": "푸드 탱크",
+		"description": "Id: bs_food_tank\nGroup: Trailer body sets"
+	},
+	"ats_bs_fuel_tank": {
+		"message": "연료 탱크",
+		"description": "Id: bs_fuel_tank\nGroup: Trailer body sets"
+	},
+	"ats_bs_fuel_tank_4comp": {
+		"message": "연료 탱크, 4칸",
+		"description": "Id: bs_fuel_tank_4comp\nGroup: Trailer body sets"
+	},
+	"ats_bs_grain_hopper": {
+		"message": "곡물 호퍼",
+		"description": "Id: bs_grain_hopper\nGroup: Trailer body sets"
+	},
+	"ats_bs_grain_hopper_belt": {
+		"message": "곡물 호퍼 벨트",
+		"description": "Id: bs_grain_hopper_belt\nGroup: Trailer body sets"
+	},
+	"ats_bs_insulated": {
+		"message": "단열",
+		"description": "Id: bs_insulated\nGroup: Trailer body sets"
+	},
+	"ats_bs_livestock": {
+		"message": "라이브스톡",
+		"description": "Id: bs_livestock\nGroup: Trailer body sets"
+	},
+	"ats_bs_livestock_belly": {
+		"message": "벨리 라이브스톡",
+		"description": "Id: bs_livestock_belly\nGroup: Trailer body sets"
+	},
+	"ats_bs_log_4": {
+		"message": "4 볼스터 로거",
+		"description": "Id: bs_log_4\nGroup: Trailer body sets"
+	},
+	"ats_bs_log_6": {
+		"message": "6 볼스터 로거",
+		"description": "Id: bs_log_6\nGroup: Trailer body sets"
+	},
+	"ats_bs_wood_lowboy": {
+		"message": "나무바닥 로우보이",
+		"description": "Id: bs_wood_lowboy\nGroup: Trailer body sets"
+	},
+	"ats_bs_wood_full_lowboy": {
+		"message": "폐쇄식 나무바닥 로우보이",
+		"description": "Id: bs_wood_full_lowboy\nGroup: Trailer body sets"
+	},
+	"ats_bs_wood_alu_lowboy": {
+		"message": "나무-알루미늄 로우보이",
+		"description": "Id: bs_wood_alu_lowboy\nGroup: Trailer body sets"
+	},
+	"ats_bs_reefer": {
+		"message": "냉장",
+		"description": "Id: bs_reefer\nGroup: Trailer body sets"
+	},
+	"ats_turbo_cooler": {
+		"message": "Turbo Cooler",
+		"description": "Id: turbo_cooler\nGroup: Trailer only accessories"
+	},
+	"ats_chrome_cooler": {
+		"message": "크롬 Cooler",
+		"description": "Id: chrome_cooler\nGroup: Trailer only accessories"
+	},
+	"ats_paint_wall": {
+		"message": "도색된 벽",
+		"description": "Id: paint_wall\nGroup: Trailer only accessories"
+	},
+	"ats_chrome_wall": {
+		"message": "크롬 벽",
+		"description": "Id: chrome_wall\nGroup: Trailer only accessories"
+	},
+	"ats_alu_wall": {
+		"message": "알루미늄 벽",
+		"description": "Id: alu_wall\nGroup: Trailer only accessories"
+	},
+	"ats_steel_wall": {
+		"message": "철제 벽",
+		"description": "Id: steel_wall\nGroup: Trailer only accessories"
+	},
+	"ats_light": {
+		"message": "라이트",
+		"description": "Id: light\nGroup: Trailer only accessories"
+	},
+	"ats_log_cage": {
+		"message": "목재 케이지",
+		"description": "Id: log_cage\nGroup: Trailer only accessories"
+	},
+	"ats_log_wall": {
+		"message": "목재 벽",
+		"description": "Id: log_wall\nGroup: Trailer only accessories"
+	},
+	"ats_wind_deflector": {
+		"message": "윈드 디플렉터",
+		"description": "Id: wind_deflector\nGroup: Trailer only accessories"
+	},
+	"ats_aero_sideskirt": {
+		"message": "에어로 사이드 스커트",
+		"description": "Id: aero_sideskirt\nGroup: Trailer only accessories"
+	},
+	"ats_black_sideskirt": {
+		"message": "검정 사이드 스커트",
+		"description": "Id: black_sideskirt\nGroup: Trailer only accessories"
+	},
+	"ats_paint_sideskirt": {
+		"message": "도색된 사이드 스커트",
+		"description": "Id: paint_sideskirt\nGroup: Trailer only accessories"
+	},
+	"ats_support_frame": {
+		"message": "서포트 프레임",
+		"description": "Id: support_frame\nGroup: Trailer only accessories"
+	},
+	"ats_chrome_door": {
+		"message": "크롬 도어",
+		"description": "Id: chrome_door\nGroup: Trailer only accessories"
+	},
+	"ats_standard_door": {
+		"message": "일반 도어",
+		"description": "Id: standard_door\nGroup: Trailer only accessories"
+	},
+	"ats_standard_door_aero": {
+		"message": "일반 도어, 윈드 디플렉터",
+		"description": "Id: standard_door_aero\nGroup: Trailer only accessories"
+	},
+	"ats_wooden_deck": {
+		"message": "나무 데크",
+		"description": "Id: wooden_deck\nGroup: Trailer only accessories"
+	},
+	"ats_arizona": {
+		"message": "애리조나",
+		"description": "Id: arizona\nGroup: Names of countries/states"
+	},
+	"ats_arkansas": {
+		"message": "아칸소",
+		"description": "Id: arkansas\nGroup: Names of countries/states"
+	},
+	"ats_california": {
+		"message": "캘리포니아",
+		"description": "Id: california\nGroup: Names of countries/states"
+	},
+	"ats_colorado": {
+		"message": "콜로라도",
+		"description": "Id: colorado\nGroup: Names of countries/states"
+	},
+	"ats_idaho": {
+		"message": "아이다호",
+		"description": "Id: idaho\nGroup: Names of countries/states"
+	},
+	"ats_kansas": {
+		"message": "캔자스",
+		"description": "Id: kansas\nGroup: Names of countries/states"
+	},
+	"ats_missouri": {
+		"message": "미주리",
+		"description": "Id: missouri\nGroup: Names of countries/states"
+	},
+	"ats_montana": {
+		"message": "몬태나",
+		"description": "Id: montana\nGroup: Names of countries/states"
+	},
+	"ats_nebraska": {
+		"message": "네브래스카",
+		"description": "Id: nebraska\nGroup: Names of countries/states"
+	},
+	"ats_nevada": {
+		"message": "네바다",
+		"description": "Id: nevada\nGroup: Names of countries/states"
+	},
+	"ats_new_mexico": {
+		"message": "뉴멕시코",
+		"description": "Id: new_mexico\nGroup: Names of countries/states"
+	},
+	"ats_oklahoma": {
+		"message": "오클라호마",
+		"description": "Id: oklahoma\nGroup: Names of countries/states"
+	},
+	"ats_oregon": {
+		"message": "오리건",
+		"description": "Id: oregon\nGroup: Names of countries/states"
+	},
+	"ats_texas": {
+		"message": "텍사스",
+		"description": "Id: texas\nGroup: Names of countries/states"
+	},
+	"ats_utah": {
+		"message": "유타",
+		"description": "Id: utah\nGroup: Names of countries/states"
+	},
+	"ats_washington": {
+		"message": "워싱턴",
+		"description": "Id: washington\nGroup: Names of countries/states"
+	},
+	"ats_wyoming": {
+		"message": "와이오밍",
+		"description": "Id: wyoming\nGroup: Names of countries/states"
+	},
+	"ats_aberdeen": {
+		"message": "애버딘",
+		"description": "Id: aberdeen\nGroup: Names of cities"
+	},
+	"ats_abilene": {
+		"message": "애빌린",
+		"description": "Id: abilene\nGroup: Names of cities"
+	},
+	"ats_alamogordo": {
+		"message": "앨라모고도",
+		"description": "Id: alamogordo\nGroup: Names of cities"
+	},
+	"ats_alamosa": {
+		"message": "앨라모사",
+		"description": "Id: alamosa\nGroup: Names of cities"
+	},
+	"ats_albuquerque": {
+		"message": "앨버커키",
+		"description": "Id: albuquerque\nGroup: Names of cities"
+	},
+	"ats_alliance": {
+		"message": "얼라이언스",
+		"description": "Id: alliance\nGroup: Names of cities"
+	},
+	"ats_amarillo": {
+		"message": "애머릴로",
+		"description": "Id: amarillo\nGroup: Names of cities"
+	},
+	"ats_ardmore": {
+		"message": "아드모어",
+		"description": "Id: ardmore\nGroup: Names of cities"
+	},
+	"ats_artesia": {
+		"message": "아르테시아",
+		"description": "Id: artesia\nGroup: Names of cities"
+	},
+	"ats_astoria": {
+		"message": "애스토리아",
+		"description": "Id: astoria\nGroup: Names of cities"
+	},
+	"ats_austin": {
+		"message": "오스틴",
+		"description": "Id: austin\nGroup: Names of cities"
+	},
+	"ats_bakersfield": {
+		"message": "베이커스필드",
+		"description": "Id: bakersfield\nGroup: Names of cities"
+	},
+	"ats_barstow": {
+		"message": "바스토",
+		"description": "Id: barstow\nGroup: Names of cities"
+	},
+	"ats_bartlesville": {
+		"message": "바틀즈빌",
+		"description": "Id: bartlesville\nGroup: Names of cities"
+	},
+	"ats_beaumont": {
+		"message": "보몬트",
+		"description": "Id: beaumont\nGroup: Names of cities"
+	},
+	"ats_bellingham": {
+		"message": "벨링햄",
+		"description": "Id: bellingham\nGroup: Names of cities"
+	},
+	"ats_bend": {
+		"message": "벤드",
+		"description": "Id: bend\nGroup: Names of cities"
+	},
+	"ats_billings": {
+		"message": "빌링스",
+		"description": "Id: billings\nGroup: Names of cities"
+	},
+	"ats_blythe": {
+		"message": "블라이스",
+		"description": "Id: blythe\nGroup: Names of cities"
+	},
+	"ats_boise": {
+		"message": "보이시",
+		"description": "Id: boise\nGroup: Names of cities"
+	},
+	"ats_bozeman": {
+		"message": "보즈먼",
+		"description": "Id: bozeman\nGroup: Names of cities"
+	},
+	"ats_brownsville": {
+		"message": "브라운즈빌",
+		"description": "Id: brownsville\nGroup: Names of cities"
+	},
+	"ats_burlington": {
+		"message": "벌링턴",
+		"description": "Id: burlington\nGroup: Names of cities"
+	},
+	"ats_burns": {
+		"message": "번즈",
+		"description": "Id: burns\nGroup: Names of cities"
+	},
+	"ats_butte": {
+		"message": "뷰트",
+		"description": "Id: butte\nGroup: Names of cities"
+	},
+	"ats_camp_verde": {
+		"message": "캠프 베르드",
+		"description": "Id: camp_verde\nGroup: Names of cities"
+	},
+	"ats_cape_girardeau": {
+		"message": "케이프지라도",
+		"description": "Id: cape_girardeau\nGroup: Names of cities"
+	},
+	"ats_carlsbad": {
+		"message": "칼즈배드",
+		"description": "Id: carlsbad\nGroup: Names of cities"
+	},
+	"ats_carson_city": {
+		"message": "카슨시티",
+		"description": "Id: carson_city\nGroup: Names of cities"
+	},
+	"ats_casper": {
+		"message": "캐스퍼",
+		"description": "Id: casper\nGroup: Names of cities"
+	},
+	"ats_cedar_city": {
+		"message": "시더시티",
+		"description": "Id: cedar_city\nGroup: Names of cities"
+	},
+	"ats_chadron": {
+		"message": "채드론",
+		"description": "Id: chadron\nGroup: Names of cities"
+	},
+	"ats_cheyenne": {
+		"message": "샤이엔",
+		"description": "Id: cheyenne\nGroup: Names of cities"
+	},
+	"ats_clifton": {
+		"message": "클리프턴",
+		"description": "Id: clifton\nGroup: Names of cities"
+	},
+	"ats_clinton": {
+		"message": "클린턴",
+		"description": "Id: clinton\nGroup: Names of cities"
+	},
+	"ats_clovis": {
+		"message": "클로비스",
+		"description": "Id: clovis\nGroup: Names of cities"
+	},
+	"ats_cody": {
+		"message": "코디",
+		"description": "Id: cody\nGroup: Names of cities"
+	},
+	"ats_coeur_dalene": {
+		"message": "코달레인",
+		"description": "Id: coeur_dalene\nGroup: Names of cities"
+	},
+	"ats_colby": {
+		"message": "콜비",
+		"description": "Id: colby\nGroup: Names of cities"
+	},
+	"ats_colorado_springs": {
+		"message": "콜로라도 스프링스",
+		"description": "Id: colorado_springs\nGroup: Names of cities"
+	},
+	"ats_columbia": {
+		"message": "콜롬비아",
+		"description": "Id: columbia\nGroup: Names of cities"
+	},
+	"ats_columbus": {
+		"message": "콜럼버스",
+		"description": "Id: columbus\nGroup: Names of cities"
+	},
+	"ats_colville": {
+		"message": "콜빌",
+		"description": "Id: colville\nGroup: Names of cities"
+	},
+	"ats_coos_bay": {
+		"message": "코어스 베이",
+		"description": "Id: coos_bay\nGroup: Names of cities"
+	},
+	"ats_corpus_christi": {
+		"message": "코퍼스크리스티",
+		"description": "Id: corpus_christi\nGroup: Names of cities"
+	},
+	"ats_dalhart": {
+		"message": "달하트",
+		"description": "Id: dalhart\nGroup: Names of cities"
+	},
+	"ats_dallas": {
+		"message": "댈러스",
+		"description": "Id: dallas\nGroup: Names of cities"
+	},
+	"ats_del_rio": {
+		"message": "델 리오",
+		"description": "Id: del_rio\nGroup: Names of cities"
+	},
+	"ats_denver": {
+		"message": "덴버",
+		"description": "Id: denver\nGroup: Names of cities"
+	},
+	"ats_dodge_city": {
+		"message": "도지시티",
+		"description": "Id: dodge_city\nGroup: Names of cities"
+	},
+	"ats_durango": {
+		"message": "두랑고",
+		"description": "Id: durango\nGroup: Names of cities"
+	},
+	"ats_durant": {
+		"message": "듀런트",
+		"description": "Id: durant\nGroup: Names of cities"
+	},
+	"ats_ehrenberg": {
+		"message": "에렌버그",
+		"description": "Id: ehrenberg\nGroup: Names of cities"
+	},
+	"ats_el_centro": {
+		"message": "엘센트로",
+		"description": "Id: el_centro\nGroup: Names of cities"
+	},
+	"ats_el_dorado": {
+		"message": "엘 도라도",
+		"description": "Id: el_dorado\nGroup: Names of cities"
+	},
+	"ats_el_paso": {
+		"message": "엘패소",
+		"description": "Id: el_paso\nGroup: Names of cities"
+	},
+	"ats_elko": {
+		"message": "엘코",
+		"description": "Id: elko\nGroup: Names of cities"
+	},
+	"ats_ely": {
+		"message": "일리",
+		"description": "Id: ely\nGroup: Names of cities"
+	},
+	"ats_emporia": {
+		"message": "엠포리아",
+		"description": "Id: emporia\nGroup: Names of cities"
+	},
+	"ats_enid": {
+		"message": "이너드",
+		"description": "Id: enid\nGroup: Names of cities"
+	},
+	"ats_eugene": {
+		"message": "유진",
+		"description": "Id: eugene\nGroup: Names of cities"
+	},
+	"ats_eureka": {
+		"message": "유레카",
+		"description": "Id: eureka\nGroup: Names of cities"
+	},
+	"ats_evanston": {
+		"message": "에번스턴",
+		"description": "Id: evanston\nGroup: Names of cities"
+	},
+	"ats_everett": {
+		"message": "에버렛",
+		"description": "Id: everett\nGroup: Names of cities"
+	},
+	"ats_farmington": {
+		"message": "파밍턴",
+		"description": "Id: farmington\nGroup: Names of cities"
+	},
+	"ats_fayetteville": {
+		"message": "페이엣빌",
+		"description": "Id: fayetteville\nGroup: Names of cities"
+	},
+	"ats_flagstaff": {
+		"message": "플래그스태프",
+		"description": "Id: flagstaff\nGroup: Names of cities"
+	},
+	"ats_fort_collins": {
+		"message": "포트콜린스",
+		"description": "Id: fort_collins\nGroup: Names of cities"
+	},
+	"ats_fort_smith": {
+		"message": "포트스미스",
+		"description": "Id: fort_smith\nGroup: Names of cities"
+	},
+	"ats_fort_stockton": {
+		"message": "포트스톡턴",
+		"description": "Id: fort_stockton\nGroup: Names of cities"
+	},
+	"ats_fort_worth": {
+		"message": "포트워스",
+		"description": "Id: fort_worth\nGroup: Names of cities"
+	},
+	"ats_fresno": {
+		"message": "프레즈노",
+		"description": "Id: fresno\nGroup: Names of cities"
+	},
+	"ats_fusion_travel_plaza": {
+		"message": "퓨전 트래블 플라자",
+		"description": "Id: fusion_travel_plaza\nGroup: Names of cities"
+	},
+	"ats_gallup": {
+		"message": "갤럽",
+		"description": "Id: gallup\nGroup: Names of cities"
+	},
+	"ats_galveston": {
+		"message": "갤버스턴",
+		"description": "Id: galveston\nGroup: Names of cities"
+	},
+	"ats_garden_city": {
+		"message": "가든 시티",
+		"description": "Id: garden_city\nGroup: Names of cities"
+	},
+	"ats_gillette": {
+		"message": "질레트",
+		"description": "Id: gillette\nGroup: Names of cities"
+	},
+	"ats_glasgow": {
+		"message": "글래스고",
+		"description": "Id: glasgow\nGroup: Names of cities"
+	},
+	"ats_glendive": {
+		"message": "글렌다이브",
+		"description": "Id: glendive\nGroup: Names of cities"
+	},
+	"ats_grand_canyon": {
+		"message": "그랜드 캐니언",
+		"description": "Id: grand_canyon\nGroup: Names of cities"
+	},
+	"ats_grand_canyon_village": {
+		"message": "그랜드 캐니언 빌리지",
+		"description": "Id: grand_canyon_village\nGroup: Names of cities"
+	},
+	"ats_grand_coulee": {
+		"message": "그랜드 쿨리",
+		"description": "Id: grand_coulee\nGroup: Names of cities"
+	},
+	"ats_grand_island": {
+		"message": "그랜드아일랜드",
+		"description": "Id: grand_island\nGroup: Names of cities"
+	},
+	"ats_grand_junction": {
+		"message": "그랜드정션",
+		"description": "Id: grand_junction\nGroup: Names of cities"
+	},
+	"ats_grangeville": {
+		"message": "그랜지빌",
+		"description": "Id: grangeville\nGroup: Names of cities"
+	},
+	"ats_great_falls": {
+		"message": "그레이트 폴스",
+		"description": "Id: great_falls\nGroup: Names of cities"
+	},
+	"ats_guymon": {
+		"message": "가이먼",
+		"description": "Id: guymon\nGroup: Names of cities"
+	},
+	"ats_harrison": {
+		"message": "해리슨",
+		"description": "Id: harrison\nGroup: Names of cities"
+	},
+	"ats_havre": {
+		"message": "헤이버",
+		"description": "Id: havre\nGroup: Names of cities"
+	},
+	"ats_hays": {
+		"message": "헤이스",
+		"description": "Id: hays\nGroup: Names of cities"
+	},
+	"ats_helena": {
+		"message": "헬레나",
+		"description": "Id: helena\nGroup: Names of cities"
+	},
+	"ats_hilt": {
+		"message": "힐트",
+		"description": "Id: hilt\nGroup: Names of cities"
+	},
+	"ats_hobbs": {
+		"message": "홉스",
+		"description": "Id: hobbs\nGroup: Names of cities"
+	},
+	"ats_holbrook": {
+		"message": "홀브룩",
+		"description": "Id: holbrook\nGroup: Names of cities"
+	},
+	"ats_hornbrook": {
+		"message": "혼브룩",
+		"description": "Id: hornbrook\nGroup: Names of cities"
+	},
+	"ats_hot_springs": {
+		"message": "핫스프링스",
+		"description": "Id: hot_springs\nGroup: Names of cities"
+	},
+	"ats_houston": {
+		"message": "휴스턴",
+		"description": "Id: houston\nGroup: Names of cities"
+	},
+	"ats_huntsville": {
+		"message": "헌츠빌",
+		"description": "Id: huntsville\nGroup: Names of cities"
+	},
+	"ats_huron": {
+		"message": "휴런",
+		"description": "Id: huron\nGroup: Names of cities"
+	},
+	"ats_hutchinson": {
+		"message": "허친슨",
+		"description": "Id: hutchinson\nGroup: Names of cities"
+	},
+	"ats_idabel": {
+		"message": "아이다벨",
+		"description": "Id: idabel\nGroup: Names of cities"
+	},
+	"ats_idaho_falls": {
+		"message": "아이다호폴스",
+		"description": "Id: idaho_falls\nGroup: Names of cities"
+	},
+	"ats_indio": {
+		"message": "인디오",
+		"description": "Id: indio\nGroup: Names of cities"
+	},
+	"ats_jackpot": {
+		"message": "잭팟",
+		"description": "Id: jackpot\nGroup: Names of cities"
+	},
+	"ats_jackson": {
+		"message": "잭슨",
+		"description": "Id: jackson\nGroup: Names of cities"
+	},
+	"ats_jefferson_city": {
+		"message": "제퍼슨시티",
+		"description": "Id: jefferson_city\nGroup: Names of cities"
+	},
+	"ats_jonesboro": {
+		"message": "존즈버러",
+		"description": "Id: jonesboro\nGroup: Names of cities"
+	},
+	"ats_joplin": {
+		"message": "조플린",
+		"description": "Id: joplin\nGroup: Names of cities"
+	},
+	"ats_junction": {
+		"message": "정션",
+		"description": "Id: junction\nGroup: Names of cities"
+	},
+	"ats_junction_city": {
+		"message": "정션 시티",
+		"description": "Id: junction_city\nGroup: Names of cities"
+	},
+	"ats_kalispell": {
+		"message": "칼리스펠",
+		"description": "Id: kalispell\nGroup: Names of cities"
+	},
+	"ats_kansas_city": {
+		"message": "캔자스시티",
+		"description": "Id: kansas_city\nGroup: Names of cities"
+	},
+	"ats_kayenta": {
+		"message": "카이옌타",
+		"description": "Id: kayenta\nGroup: Names of cities"
+	},
+	"ats_kennewick": {
+		"message": "케너윅",
+		"description": "Id: kennewick\nGroup: Names of cities"
+	},
+	"ats_ketchum": {
+		"message": "케첨",
+		"description": "Id: ketchum\nGroup: Names of cities"
+	},
+	"ats_kingman": {
+		"message": "킹맨",
+		"description": "Id: kingman\nGroup: Names of cities"
+	},
+	"ats_kirksville": {
+		"message": "커크스빌",
+		"description": "Id: kirksville\nGroup: Names of cities"
+	},
+	"ats_klamath_falls": {
+		"message": "클래머스폴스",
+		"description": "Id: klamath_falls\nGroup: Names of cities"
+	},
+	"ats_lakeview": {
+		"message": "레이크뷰",
+		"description": "Id: lakeview\nGroup: Names of cities"
+	},
+	"ats_lamar": {
+		"message": "라마",
+		"description": "Id: lamar\nGroup: Names of cities"
+	},
+	"ats_laramie": {
+		"message": "래러미",
+		"description": "Id: laramie\nGroup: Names of cities"
+	},
+	"ats_laredo": {
+		"message": "러레이도",
+		"description": "Id: laredo\nGroup: Names of cities"
+	},
+	"ats_las_cruces": {
+		"message": "라스크루시스",
+		"description": "Id: las_cruces\nGroup: Names of cities"
+	},
+	"ats_las_vegas": {
+		"message": "라스베이거스",
+		"description": "Id: las_vegas\nGroup: Names of cities"
+	},
+	"ats_laurel": {
+		"message": "로럴",
+		"description": "Id: laurel\nGroup: Names of cities"
+	},
+	"ats_lawton": {
+		"message": "로턴",
+		"description": "Id: lawton\nGroup: Names of cities"
+	},
+	"ats_lewiston": {
+		"message": "루이스턴",
+		"description": "Id: lewiston\nGroup: Names of cities"
+	},
+	"ats_lewistown": {
+		"message": "루이스타운",
+		"description": "Id: lewistown\nGroup: Names of cities"
+	},
+	"ats_lincoln": {
+		"message": "링컨",
+		"description": "Id: lincoln\nGroup: Names of cities"
+	},
+	"ats_little_rock": {
+		"message": "리틀록",
+		"description": "Id: little_rock\nGroup: Names of cities"
+	},
+	"ats_logan": {
+		"message": "로건",
+		"description": "Id: logan\nGroup: Names of cities"
+	},
+	"ats_longview": {
+		"message": "롱뷰",
+		"description": "Id: longview\nGroup: Names of cities"
+	},
+	"ats_los_angeles": {
+		"message": "로스앤젤레스",
+		"description": "Id: los_angeles\nGroup: Names of cities"
+	},
+	"ats_lubbock": {
+		"message": "러벅",
+		"description": "Id: lubbock\nGroup: Names of cities"
+	},
+	"ats_lufkin": {
+		"message": "러프킨",
+		"description": "Id: lufkin\nGroup: Names of cities"
+	},
+	"ats_marysville": {
+		"message": "메리즈빌",
+		"description": "Id: marysville\nGroup: Names of cities"
+	},
+	"ats_maryville": {
+		"message": "메리빌",
+		"description": "Id: maryville\nGroup: Names of cities"
+	},
+	"ats_medford": {
+		"message": "메드퍼드",
+		"description": "Id: medford\nGroup: Names of cities"
+	},
+	"ats_miles_city": {
+		"message": "마일스시티",
+		"description": "Id: miles_city\nGroup: Names of cities"
+	},
+	"ats_mcalester": {
+		"message": "매캘러스터",
+		"description": "Id: mcalester\nGroup: Names of cities"
+	},
+	"ats_mcallen": {
+		"message": "매캘런",
+		"description": "Id: mcallen\nGroup: Names of cities"
+	},
+	"ats_mccook": {
+		"message": "맥쿡",
+		"description": "Id: mccook\nGroup: Names of cities"
+	},
+	"ats_missoula": {
+		"message": "미줄라",
+		"description": "Id: missoula\nGroup: Names of cities"
+	},
+	"ats_moab": {
+		"message": "모아브",
+		"description": "Id: moab\nGroup: Names of cities"
+	},
+	"ats_modesto": {
+		"message": "머데스토",
+		"description": "Id: modesto\nGroup: Names of cities"
+	},
+	"ats_mojave": {
+		"message": "모하비",
+		"description": "Id: mojave\nGroup: Names of cities"
+	},
+	"ats_montrose": {
+		"message": "몬트로즈",
+		"description": "Id: montrose\nGroup: Names of cities"
+	},
+	"ats_muskogee": {
+		"message": "머스코지",
+		"description": "Id: muskogee\nGroup: Names of cities"
+	},
+	"ats_nampa": {
+		"message": "넴파",
+		"description": "Id: nampa\nGroup: Names of cities"
+	},
+	"ats_newport": {
+		"message": "뉴포트",
+		"description": "Id: newport\nGroup: Names of cities"
+	},
+	"ats_nogales": {
+		"message": "노게일스",
+		"description": "Id: nogales\nGroup: Names of cities"
+	},
+	"ats_norfolk": {
+		"message": "노퍽",
+		"description": "Id: norfolk\nGroup: Names of cities"
+	},
+	"ats_north_platte": {
+		"message": "노스플랫",
+		"description": "Id: north_platte\nGroup: Names of cities"
+	},
+	"ats_oakdale": {
+		"message": "오크데일",
+		"description": "Id: oakdale\nGroup: Names of cities"
+	},
+	"ats_oakland": {
+		"message": "오클랜드",
+		"description": "Id: oakland\nGroup: Names of cities"
+	},
+	"ats_odessa": {
+		"message": "오데사",
+		"description": "Id: odessa\nGroup: Names of cities"
+	},
+	"ats_ogden": {
+		"message": "오그던",
+		"description": "Id: ogden\nGroup: Names of cities"
+	},
+	"ats_oklahoma_city": {
+		"message": "오클라호마 시티",
+		"description": "Id: oklahoma_city\nGroup: Names of cities"
+	},
+	"ats_olympia": {
+		"message": "올림피아",
+		"description": "Id: olympia\nGroup: Names of cities"
+	},
+	"ats_omaha": {
+		"message": "오마하",
+		"description": "Id: omaha\nGroup: Names of cities"
+	},
+	"ats_omak": {
+		"message": "오마크",
+		"description": "Id: omak\nGroup: Names of cities"
+	},
+	"ats_ontario": {
+		"message": "온타리오",
+		"description": "Id: ontario\nGroup: Names of cities"
+	},
+	"ats_oxnard": {
+		"message": "옥스나드",
+		"description": "Id: oxnard\nGroup: Names of cities"
+	},
+	"ats_page": {
+		"message": "페이지",
+		"description": "Id: page\nGroup: Names of cities"
+	},
+	"ats_pajarito_rest_area": {
+		"message": "파자리토 휴게소",
+		"description": "Id: pajarito_rest_area\nGroup: Names of cities"
+	},
+	"ats_pendleton": {
+		"message": "펜들턴",
+		"description": "Id: pendleton\nGroup: Names of cities"
+	},
+	"ats_phillipsburg": {
+		"message": "필립스버그",
+		"description": "Id: phillipsburg\nGroup: Names of cities"
+	},
+	"ats_phoenix": {
+		"message": "피닉스",
+		"description": "Id: phoenix\nGroup: Names of cities"
+	},
+	"ats_pine_bluff": {
+		"message": "파인블러프",
+		"description": "Id: pine_bluff\nGroup: Names of cities"
+	},
+	"ats_pioche": {
+		"message": "피오세",
+		"description": "Id: pioche\nGroup: Names of cities"
+	},
+	"ats_pittsburg": {
+		"message": "피츠버그",
+		"description": "Id: pittsburg\nGroup: Names of cities"
+	},
+	"ats_pocatello": {
+		"message": "포커텔로",
+		"description": "Id: pocatello\nGroup: Names of cities"
+	},
+	"ats_ponca_city": {
+		"message": "퐁카시티",
+		"description": "Id: ponca_city\nGroup: Names of cities"
+	},
+	"ats_poplar_bluff": {
+		"message": "포플러 블러프",
+		"description": "Id: poplar_bluff\nGroup: Names of cities"
+	},
+	"ats_port_angeles": {
+		"message": "포트앤젤레스",
+		"description": "Id: port_angeles\nGroup: Names of cities"
+	},
+	"ats_portland": {
+		"message": "포틀랜드",
+		"description": "Id: portland\nGroup: Names of cities"
+	},
+	"ats_price_ut": {
+		"message": "프라이스",
+		"description": "Id: price_ut\nGroup: Names of cities"
+	},
+	"ats_primm": {
+		"message": "프림",
+		"description": "Id: primm\nGroup: Names of cities"
+	},
+	"ats_provo": {
+		"message": "프로보",
+		"description": "Id: provo\nGroup: Names of cities"
+	},
+	"ats_pueblo": {
+		"message": "푸에블로",
+		"description": "Id: pueblo\nGroup: Names of cities"
+	},
+	"ats_rangely": {
+		"message": "랭글리",
+		"description": "Id: rangely\nGroup: Names of cities"
+	},
+	"ats_raton": {
+		"message": "래턴",
+		"description": "Id: raton\nGroup: Names of cities"
+	},
+	"ats_rawlins": {
+		"message": "롤린스",
+		"description": "Id: rawlins\nGroup: Names of cities"
+	},
+	"ats_redding": {
+		"message": "레딩",
+		"description": "Id: redding\nGroup: Names of cities"
+	},
+	"ats_reno": {
+		"message": "리노",
+		"description": "Id: reno\nGroup: Names of cities"
+	},
+	"ats_riverton": {
+		"message": "리버턴",
+		"description": "Id: riverton\nGroup: Names of cities"
+	},
+	"ats_rock_springs": {
+		"message": "록 스프링스",
+		"description": "Id: rock_springs\nGroup: Names of cities"
+	},
+	"ats_rolla": {
+		"message": "롤라",
+		"description": "Id: rolla\nGroup: Names of cities"
+	},
+	"ats_roswell": {
+		"message": "로즈웰",
+		"description": "Id: roswell\nGroup: Names of cities"
+	},
+	"ats_sacramento": {
+		"message": "새크라멘토",
+		"description": "Id: sacramento\nGroup: Names of cities"
+	},
+	"ats_salem": {
+		"message": "세일럼",
+		"description": "Id: salem\nGroup: Names of cities"
+	},
+	"ats_salina": {
+		"message": "살리나",
+		"description": "Id: salina\nGroup: Names of cities"
+	},
+	"ats_salina_ks": {
+		"message": "살리나",
+		"description": "Id: salina_ks\nGroup: Names of cities"
+	},
+	"ats_salmon": {
+		"message": "새먼",
+		"description": "Id: salmon\nGroup: Names of cities"
+	},
+	"ats_salt_lake_city": {
+		"message": "솔트레이크시티",
+		"description": "Id: salt_lake_city\nGroup: Names of cities"
+	},
+	"ats_san_angelo": {
+		"message": "샌앤젤로",
+		"description": "Id: san_angelo\nGroup: Names of cities"
+	},
+	"ats_san_antonio": {
+		"message": "샌안토니오",
+		"description": "Id: san_antonio\nGroup: Names of cities"
+	},
+	"ats_san_diego": {
+		"message": "샌디에이고",
+		"description": "Id: san_diego\nGroup: Names of cities"
+	},
+	"ats_san_francisco": {
+		"message": "샌프란시스코",
+		"description": "Id: san_francisco\nGroup: Names of cities"
+	},
+	"ats_san_jose": {
+		"message": "산호세",
+		"description": "Id: san_jose\nGroup: Names of cities"
+	},
+	"ats_san_rafael": {
+		"message": "샌 라파엘",
+		"description": "Id: san_rafael\nGroup: Names of cities"
+	},
+	"ats_san_simon": {
+		"message": "샌 사이먼",
+		"description": "Id: san_simon\nGroup: Names of cities"
+	},
+	"ats_sandpoint": {
+		"message": "샌드포인트",
+		"description": "Id: sandpoint\nGroup: Names of cities"
+	},
+	"ats_santa_cruz": {
+		"message": "산타크루즈",
+		"description": "Id: santa_cruz\nGroup: Names of cities"
+	},
+	"ats_santa_fe": {
+		"message": "산타페",
+		"description": "Id: santa_fe\nGroup: Names of cities"
+	},
+	"ats_santa_maria": {
+		"message": "산타마리아",
+		"description": "Id: santa_maria\nGroup: Names of cities"
+	},
+	"ats_scottsbluff": {
+		"message": "스코츠블러프",
+		"description": "Id: scottsbluff\nGroup: Names of cities"
+	},
+	"ats_seattle": {
+		"message": "시애틀",
+		"description": "Id: seattle\nGroup: Names of cities"
+	},
+	"ats_sheridan": {
+		"message": "셰리든",
+		"description": "Id: sheridan\nGroup: Names of cities"
+	},
+	"ats_show_low": {
+		"message": "쇼로",
+		"description": "Id: show_low\nGroup: Names of cities"
+	},
+	"ats_sidney": {
+		"message": "시드니",
+		"description": "Id: sidney\nGroup: Names of cities"
+	},
+	"ats_sierra_vista": {
+		"message": "시에라 비스타",
+		"description": "Id: sierra_vista\nGroup: Names of cities"
+	},
+	"ats_socorro": {
+		"message": "소코로",
+		"description": "Id: socorro\nGroup: Names of cities"
+	},
+	"ats_spokane": {
+		"message": "스포캔",
+		"description": "Id: spokane\nGroup: Names of cities"
+	},
+	"ats_springdale": {
+		"message": "스프링데일",
+		"description": "Id: springdale\nGroup: Names of cities"
+	},
+	"ats_springfield": {
+		"message": "스프링필드",
+		"description": "Id: springfield\nGroup: Names of cities"
+	},
+	"ats_st_george": {
+		"message": "세인트 조지",
+		"description": "Id: st_george\nGroup: Names of cities"
+	},
+	"ats_st_joseph": {
+		"message": "성 요셉",
+		"description": "Id: st_joseph\nGroup: Names of cities"
+	},
+	"ats_st_louis": {
+		"message": "세인트루이스",
+		"description": "Id: st_louis\nGroup: Names of cities"
+	},
+	"ats_steamboat_springs": {
+		"message": "스팀보트 스프링스",
+		"description": "Id: steamboat_springs\nGroup: Names of cities"
+	},
+	"ats_sterling": {
+		"message": "스털링",
+		"description": "Id: sterling\nGroup: Names of cities"
+	},
+	"ats_stockton": {
+		"message": "스톡턴",
+		"description": "Id: stockton\nGroup: Names of cities"
+	},
+	"ats_tacoma": {
+		"message": "타코마",
+		"description": "Id: tacoma\nGroup: Names of cities"
+	},
+	"ats_texarkana": {
+		"message": "텍사캐나",
+		"description": "Id: texarkana\nGroup: Names of cities"
+	},
+	"ats_the_dalles": {
+		"message": "더 댈러스",
+		"description": "Id: the_dalles\nGroup: Names of cities"
+	},
+	"ats_thompson_falls": {
+		"message": "톰슨폴스",
+		"description": "Id: thompson_falls\nGroup: Names of cities"
+	},
+	"ats_tonopah": {
+		"message": "토노파",
+		"description": "Id: tonopah\nGroup: Names of cities"
+	},
+	"ats_topeka": {
+		"message": "토피카",
+		"description": "Id: topeka\nGroup: Names of cities"
+	},
+	"ats_truckee": {
+		"message": "트러키",
+		"description": "Id: truckee\nGroup: Names of cities"
+	},
+	"ats_tucson": {
+		"message": "투손",
+		"description": "Id: tucson\nGroup: Names of cities"
+	},
+	"ats_tucumcari": {
+		"message": "투컴캐리",
+		"description": "Id: tucumcari\nGroup: Names of cities"
+	},
+	"ats_tulsa": {
+		"message": "털사",
+		"description": "Id: tulsa\nGroup: Names of cities"
+	},
+	"ats_twin_falls": {
+		"message": "트윈폴스",
+		"description": "Id: twin_falls\nGroup: Names of cities"
+	},
+	"ats_tyler": {
+		"message": "타일러",
+		"description": "Id: tyler\nGroup: Names of cities"
+	},
+	"ats_ukiah": {
+		"message": "유키아",
+		"description": "Id: ukiah\nGroup: Names of cities"
+	},
+	"ats_valentine": {
+		"message": "밸런타인",
+		"description": "Id: valentine\nGroup: Names of cities"
+	},
+	"ats_van_horn": {
+		"message": "반 호른",
+		"description": "Id: van_horn\nGroup: Names of cities"
+	},
+	"ats_vancouver": {
+		"message": "밴쿠버",
+		"description": "Id: vancouver\nGroup: Names of cities"
+	},
+	"ats_vernal": {
+		"message": "버날",
+		"description": "Id: vernal\nGroup: Names of cities"
+	},
+	"ats_victoria": {
+		"message": "빅토리아",
+		"description": "Id: victoria\nGroup: Names of cities"
+	},
+	"ats_waco": {
+		"message": "웨이코",
+		"description": "Id: waco\nGroup: Names of cities"
+	},
+	"ats_wenatchee": {
+		"message": "웨나치",
+		"description": "Id: wenatchee\nGroup: Names of cities"
+	},
+	"ats_wichita": {
+		"message": "위치토",
+		"description": "Id: wichita\nGroup: Names of cities"
+	},
+	"ats_wichita_falls": {
+		"message": "위치토폴스",
+		"description": "Id: wichita_falls\nGroup: Names of cities"
+	},
+	"ats_winnemucca": {
+		"message": "위네뮤카",
+		"description": "Id: winnemucca\nGroup: Names of cities"
+	},
+	"ats_woodward": {
+		"message": "우드워드",
+		"description": "Id: woodward\nGroup: Names of cities"
+	},
+	"ats_yakima": {
+		"message": "야키마",
+		"description": "Id: yakima\nGroup: Names of cities"
+	},
+	"ats_yuma": {
+		"message": "유마",
+		"description": "Id: yuma\nGroup: Names of cities"
+	}
+}

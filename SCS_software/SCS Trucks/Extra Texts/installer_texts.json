@@ -1,0 +1,18 @@
+{
+    "no_steam": {
+        "message": "이 설치기는 스팀 버전을 지원하지 않습니다. 스팀을 통해 DLC를 설치하십시오.",
+        "description": "Id: no_steam\nError message shown when DLC installer detects that the user is trying to apply it to Steam version of the game."
+    },
+    "app_path_not_found": {
+        "message": "{#BASE_PRODUCT_NAME}가 들어있는 폴더를 검색할 수 없습니다.",
+        "description": "Id: app_path_not_found\nError message shown when DLC installer is unable to automatically locate folder containing the game."
+    },
+    "not_found": {
+        "message": "지정된 폴더 안에 {#BASE_PRODUCT_NAME}가 포함되어 있지 않습니다. 게임이 들어있는 폴더를 선택하세요.",
+        "description": "Id: not_found\nError message shown by DLC installer when the user selects folder which does not contain the game."
+    },
+    "not_dir": {
+        "message": "지정한 폴더가 존재하지 않습니다 당신은 {#BASE_PRODUCT_NAME} (이)가 들어있는 폴더를 선택해야합니다",
+        "description": "Id: not_dir\nError message shown by DLC installer when the selected folder does not exist."
+    }
+}
