@@ -2460,7 +2460,7 @@
 		"description": "Id: truck_turbo_volume\nSlider controlling volume of the truck turbo.\nGroup: Options/Audio\nScreen used to configure audio related options."
 	},
 	"truck_effects_volume": {
-		"message": "트럭 효과음 볼륨",
+		"message": "트럭 효과 볼륨",
 		"description": "Id: truck_effects_volume\nSlider controlling volume of the truck effects.\nGroup: Options/Audio\nScreen used to configure audio related options."
 	},
 	"truck_noise_volume": {
@@ -2760,7 +2760,7 @@
 		"description": "Id: cb_radio_beep_preview_op_tooltip\nGroup: Tooltips.\nGroup: Options/Audio\nScreen used to configure audio related options."
 	},
 	"sound_of_reverse_op_tooltip": {
-		"message": "트럭을 후진할 때 신호음 소리를 활성화합니다. 이 옵션을 선택하면 콘보이 세션에 있는 다른 플레이어의 후진 경보음도 들을 수 있습니다.",
+		"message": "트럭으로 후진할 때 경보음 소리를 활성화합니다. 볼륨은 \"트럭 효과\" 슬라이더를 사용하여 조정할 수 있습니다.<br><br>활성화하면 콘보이 세션에 있을 때 다른 플레이어의 후진 경보음도 들립니다.",
 		"description": "Id: sound_of_reverse_op_tooltip\nGroup: Tooltips.\nGroup: Options/Audio\nScreen used to configure audio related options."
 	},
 	"rumble_stripe_sound_op_tooltip": {
@@ -2768,7 +2768,7 @@
 		"description": "Id: rumble_stripe_sound_op_tooltip\nGroup: Tooltips.\nGroup: Options/Audio\nScreen used to configure audio related options."
 	},
 	"noise_window_op_tooltip": {
-		"message": "트럭의 창문이 열려 있을 때 창문을 통해 공기가 흐르는 추가 소음을 활성화합니다. 작동하려면 \"바람 소리\"가 활성화되어야 합니다.",
+		"message": "트럭의 창문이 열려 있을 때 창문을 통해 공기가 흐르는 추가 소음을 활성화합니다.<br><br>작동하려면 \"바람 소리\"가 활성화되어야 합니다.",
 		"description": "Id: noise_window_op_tooltip\nGroup: Tooltips.\nGroup: Options/Audio\nScreen used to configure audio related options."
 	},
 	"noise_aero_op_tooltip": {
@@ -2784,7 +2784,7 @@
 		"description": "Id: reverb_world_op_tooltip\nGroup: Tooltips.\nGroup: Options/Audio\nScreen used to configure audio related options."
 	},
 	"inactive_app_sound_op_tooltip": {
-		"message": "활성화되면 게임이 백그라운드에서 최소화된 경우에도 모든 게임플레이 사운드가 계속 재생됩니다.",
+		"message": "활성화하면 게임이 백그라운드에서 최소화된 경우에도 모든 게임플레이 사운드가 계속 재생됩니다.",
 		"description": "Id: inactive_app_sound_op_tooltip\nGroup: Tooltips.\nGroup: Options/Audio\nScreen used to configure audio related options."
 	},
 	"audio_driver_op_tooltip": {
@@ -3420,7 +3420,7 @@
 		"description": "Id: desktop_fadeout_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"fatigue_simulation_op_tooltip": {
-		"message": "활성화되면 시간이 지남에 따라 피로의 영향을 경험하게 됩니다. 휴식을 취하지 않으면 교통 법규를 위반하게 됩니다.",
+		"message": "활성화하면 시간이 지남에 따라 피로의 영향을 경험하게 됩니다.<br><br>휴식을 취하지 않으면 교통 법규를 위반하게 됩니다.",
 		"description": "Id: fatigue_simulation_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"traffic_offense_op_tooltip": {
@@ -3444,7 +3444,7 @@
 		"description": "Id: adviser_autopark_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"adviser_keep_hidden_op_tooltip": {
-		"message": "알림을 받은 경우에도 경로 관리자를 숨긴 상태로 유지합니다. 활성화하면 플레이어가 할당된 키로 경로 관리자를 호출할 때만 경로 관리자가 표시됩니다.",
+		"message": "알림을 받은 경우에도 경로 관리자를 숨긴 상태로 유지합니다.<br><br>활성화하면 플레이어가 할당된 키로 경로 관리자를 호출할 때만 경로 관리자가 표시됩니다.",
 		"description": "Id: adviser_keep_hidden_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"heavy_cargo_warning_op_tooltip": {
@@ -3460,11 +3460,11 @@
 		"description": "Id: show_navigation_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"navigation_mode_op_tooltip": {
-		"message": "경로 탐색 방식을 선택합니다. \"최적 경로\"는 주행 거리와 주행 시간을 분석하고 가급적 신호를 대기할 필요가 없는 가장 효율적인 경로를 탐색합니다. \"최단 거리\"는 주행 거리가 가장 짧은 경로를 탐색합니다. \"좁은 길 우선\"은 고속도로 주행을 최소화하여 경로를 탐색합니다.",
+		"message": "경로 탐색 방식을 선택합니다:<br>- \"최적 경로\"는 주행 거리와 주행 시간을 분석하고 가급적 신호를 대기할 필요가 없는 가장 효율적인 경로를 탐색합니다.<br>- \"최단 거리\"는 주행 거리가 가장 짧은 경로를 탐색합니다.<br>- \"좁은 길 우선\"은 고속도로 주행을 최소화하여 경로를 탐색합니다.",
 		"description": "Id: navigation_mode_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"trailer_parking_difficulty_op_tooltip": {
-		"message": "주차 난이도를 변경합니다. \"매번 선택\"은 목적지에 도착할 때마다 주차 난이도를 선택할 수 있습니다. \"안전 주차\"는 후진할 필요가 없는 주차 공간을 배정받습니다. \"숙련된 주차\"는 일반적으로 조금 더 어려운 후진 조작이 필요한 주차 공간을 배정받습니다.",
+		"message": "주차 난이도를 변경합니다:<br>- \"매번 선택\"은 목적지에 도착할 때마다 주차 난이도를 선택할 수 있습니다.<br>- \"안전 주차\"는 후진할 필요가 없는 주차 공간을 배정받습니다.<br>- \"숙련된 주차\"는 일반적으로 조금 더 어려운 후진 조작이 필요한 주차 공간을 배정받습니다.",
 		"description": "Id: trailer_parking_difficulty_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"road_events_op_tooltip": {
@@ -3496,7 +3496,7 @@
 		"description": "Id: mouse_invert_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"trans_type_op_tooltip": {
-		"message": "변속기 유형을 선택합니다. \"심플 오토매틱\"을 사용하면 가속기와 브레이크를 사용하여 전진 및 후진 동작을 제어할 수 있습니다. \"리얼 오토매틱\"은 전진 기어와 후진 기어 사이를 전환하기 위한 입력이 필요합니다. \"시퀸설\"은 기어 올리기/내리기 입력을 통해 모든 기어를 수동으로 변속해야 합니다. \"H-시프터\"는 기어를 수동으로 선택하기 위해 변속 게이트가 있는 컨트롤러를 사용해야 합니다.",
+		"message": "변속기 유형을 선택합니다:<br>- \"심플 오토매틱\"을 사용하면 가속기와 브레이크를 사용하여 전진 및 후진 동작을 제어할 수 있습니다.<br>- \"리얼 오토매틱\"은 전진 기어와 후진 기어 사이를 전환하기 위한 입력이 필요합니다.<br>- \"시퀸설\"은 기어 올리기/내리기 입력을 통해 모든 기어를 수동으로 변속해야 합니다.<br>- \"H-시프터\"는 기어를 수동으로 선택하기 위해 변속 게이트가 있는 컨트롤러를 사용해야 합니다.",
 		"description": "Id: trans_type_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"intelligent_sequential_shifting_op_tooltip": {
@@ -3504,7 +3504,7 @@
 		"description": "Id: intelligent_sequential_shifting_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"steering_autocenter_op_tooltip": {
-		"message": "키보드나 게임패드를 사용할 때 스티어링 휠을 중앙으로 되돌립니다. 이 기능을 비활성화하면 회전 후 수동으로 중앙으로 다시 방향을 조정해야 합니다.",
+		"message": "키보드나 게임패드를 사용할 때 스티어링 휠을 중앙으로 되돌립니다.<br><br>이 기능을 비활성화하면 회전 후 수동으로 중앙으로 다시 방향을 조정해야 합니다.",
 		"description": "Id: steering_autocenter_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"steering_anim_range_op_tooltip": {
@@ -3524,7 +3524,7 @@
 		"description": "Id: trailer_stability_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"driveshaft_torque_op_tooltip": {
-		"message": "구동라인에서 생성되는 토크의 강도를 변경합니다. 이 설정을 높이면 트럭이 오른쪽으로 \"뒤틀리는\" 느낌이 증가합니다.",
+		"message": "구동라인에서 생성되는 토크의 강도를 변경합니다.<br><br>이 설정을 높이면 트럭이 오른쪽으로 \"뒤틀리는\" 느낌이 증가합니다.",
 		"description": "Id: driveshaft_torque_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"suspension_stiffness_op_tooltip": {
@@ -3536,19 +3536,19 @@
 		"description": "Id: cabin_suspension_stiffness_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"road_bumps_factor_op_tooltip": {
-		"message": "절차적으로 생성된 표면 요철의 강도를 조정하여 도로 및 기타 지형에 불완전한 느낌을 줍니다. 다른 서스펜션 및 카메라 설정에 따라 인지된 효과가 다소 두드러질 수 있습니다.",
+		"message": "절차적으로 생성된 표면 요철의 강도를 조정하여 도로 및 기타 지형에 불완전한 느낌을 줍니다<br> 다른 서스펜션 및 카메라 설정에 따라 인지된 효과가 다소 두드러질 수 있습니다.",
 		"description": "Id: road_bumps_factor_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"trailer_advanced_coupling_op_tooltip": {
-		"message": "트럭의 커플러를 트레일러의 킹핀과 정렬하기 위해 더 높은 정밀도가 요구되는 고급 커플링을 가능하게 합니다. 비활성화되면 킹핀과 커플러 사이에 충돌이 없기 때문에 트레일러 연결이 훨씬 쉬워집니다.",
+		"message": "트럭의 커플러를 트레일러의 킹핀과 정렬하기 위해 더 높은 정밀도가 요구되는 고급 커플링을 가능하게 합니다.<br><br>비활성화되면 킹핀과 커플러 사이에 충돌이 없기 때문에 트레일러 연결이 훨씬 쉬워집니다.",
 		"description": "Id: trailer_advanced_coupling_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"trailer_cables_mode_op_tooltip": {
-		"message": "애니메이션화된 트레일러 케이블의 경우 및 해당 트레일러 케이블을 선택합니다. 구형 시스템의 경우 다수의 차량에서 케이블을 활성화하면 성능이 떨어질 수 있습니다.",
+		"message": "애니메이션화된 트레일러 케이블의 경우 및 해당 트레일러 케이블을 선택합니다.<br><br>구형 시스템의 경우 다수의 차량에서 케이블을 활성화하면 성능이 떨어질 수 있습니다.",
 		"description": "Id: trailer_cables_mode_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"truck_speed_limiter_op_tooltip": {
-		"message": "활성화하면 전자식 속도 제한장치를 이용해 트럭의 속도를 90km/h (56mph)로 제한합니다. World of Trucks 작업에서는 기본적으로 적용되며 끌 수 없습니다.",
+		"message": "활성화하면 전자식 속도 제한장치를 이용해 트럭의 속도를 90km/h (56mph)로 제한합니다.<br><br>World of Trucks 작업에서는 기본적으로 적용되며 끌 수 없습니다.",
 		"description": "Id: truck_speed_limiter_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"rain_sensor_op_tooltip": {
@@ -3568,7 +3568,7 @@
 		"description": "Id: auto_engine_start_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"auto_park_brake_op_tooltip": {
-		"message": "이 옵션을 활성화하면 페리 이용 후, 견인 서비스, 빠른 여행 등을 이용했을 때 트럭의 주차 브레이크가 기본적으로 작동됩니다.",
+		"message": "활성화하면 트럭의 주차 브레이크가 기본적으로 작동됩니다 (페리 이용 후, 견인 서비스, 빠른 여행 등).",
 		"description": "Id: auto_park_brake_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"auto_drop_axles_op_tooltip": {
@@ -3576,11 +3576,11 @@
 		"description": "Id: auto_drop_axles_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"air_brake_simulation_op_tooltip": {
-		"message": "과도한 브레이크 작동으로 인한 실제 공기 손실을 시물레이션합니다. 이 옵션을 활성화하면 언덕을 내려갈 때나 서행 중 브레이크를 자주 밟을 때에는 공기압에 더욱 신경써야 합니다.",
+		"message": "과도한 브레이크 작동으로 인한 실제 공기 손실을 시물레이션합니다.<br><br>이 옵션을 활성화하면 언덕을 내려갈 때나 서행 중 브레이크를 자주 밟을 때에는 공기압에 더욱 신경써야 합니다.",
 		"description": "Id: air_brake_simulation_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"fuel_consumption_simulation_op_tooltip": {
-		"message": "활성화하지 않으면 연비는 운전 스타일이나 도로 상황의 영향을 받지 않습니다. 활성화하면 연비는 운전 스타일, 화물 중량, 회전 저항, 노면 상태를 포함한 여러 요소의 영향을 받습니다.",
+		"message": "활성화하지 않으면 연비는 운전 스타일이나 도로 상황의 영향을 받지 않습니다.<br><br>활성화하면 연비는 운전 스타일, 화물 중량, 회전 저항, 노면 상태를 포함한 여러 요소의 영향을 받습니다.",
 		"description": "Id: fuel_consumption_simulation_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"abs_op_tooltip": {
@@ -3608,11 +3608,11 @@
 		"description": "Id: adaptive_cruise_control_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"emergency_brake_op_tooltip": {
-		"message": "시스템이 임박한 충돌을 감지하면 비상제동장치를 활성화합니다. 시스템이 차량에만 반응할지 아니면 모든 장애물에 반응할지 선택합니다.",
+		"message": "시스템이 임박한 충돌을 감지하면 비상제동장치를 활성화합니다.<br>시스템이 차량에만 반응할지 아니면 모든 장애물에 반응할지 선택합니다.",
 		"description": "Id: emergency_brake_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"lane_assistant_mode_op_tooltip": {
-		"message": "차선 어시스턴트 모드를 선택합니다. \"차선 이탈 경고\" 모드는 차선을 벗어나려고 할 때 소리로 경고합니다. 청각적 경고 외에도 \"차선 유지 지원\"은 트럭이 차선을 벗어나지 않도록 자동으로 조종합니다. 두 모드 모두 55km/h(~35mph) 이상의 속도에서만 활성화됩니다. 차선 보조 장치는 작동하기 전에 방향지시등 사용도 고려합니다.",
+		"message": "차선 어시스턴트 모드를 선택합니다:<br>- \"차선 이탈 경고\" 모드는 차선을 벗어나려고 할 때 소리로 경고합니다.<br>- 청각적 경고 외에도 \"차선 유지 지원\"은 트럭이 차선을 벗어나지 않도록 자동으로 조종합니다.<br><br>두 모드 모두 55km/h(~35mph) 이상의 속도에서만 활성화됩니다.<br>차선 보조 장치는 작동하기 전에 방향지시등 사용도 고려합니다.",
 		"description": "Id: lane_assistant_mode_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"blind_spot_op_tooltip": {
@@ -3664,7 +3664,7 @@
 		"description": "Id: cam_horizon_lock_factor_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"cam_auto_center_delay_op_tooltip": {
-		"message": "카메라가 자동으로 중앙으로 돌아오기 전 지연 시간을 설정합니다. 이 기능을 활성화하려면 차량이 무시할 수 없는 속도로 움직여야 합니다. 앞으로 움직일 때는 내부 및 추격 카메라에만 적용되고, 뒤로 움직일 때는 카메라를 기울이는 데만 적용됩니다.",
+		"message": "카메라가 자동으로 중앙으로 돌아오기 전 지연 시간을 설정합니다.<br><br>이 기능을 활성화하려면 차량이 무시할 수 없는 속도로 움직여야 합니다. 앞으로 움직일 때는 내부 및 추격 카메라에만 적용되고, 뒤로 움직일 때는 카메라를 기울이는 데만 적용됩니다.",
 		"description": "Id: cam_auto_center_delay_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"cam_auto_move_speed_op_tooltip": {
@@ -3720,7 +3720,7 @@
 		"description": "Id: consumption_units_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"chat_with_activate_op_tooltip": {
-		"message": "활성화하면 \"실행\" 키(기본값: Enter) 를 사용하여 콘보이 세션 중 채팅 창을 열 수 있습니다.",
+		"message": "활성화하면, \"활성화\" 키(@@imv_nrm_activate@@)를 사용하면 콘보이 세션 중에 채팅이 열립니다.",
 		"description": "Id: chat_with_activate_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"chat_close_automatic_op_tooltip": {
@@ -3748,7 +3748,7 @@
 		"description": "Id: configure_quick_replies_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"wotr_connected_content_op_tooltip": {
-		"message": "World of Trucks에 연결된 콘텐츠.",
+		"message": "World of Trucks에 연결된 콘텐츠의 상태를 확인하십시오.",
 		"description": "Id: wotr_connected_content_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"online_news_op_tooltip": {
@@ -4480,7 +4480,7 @@
 		"description": "Id: o_im_throttle_op_tooltip\nGroup: Tooltips.\nGroup: Options/Keyboard\nScreen used to configure keyboard related options."
 	},
 	"o_im_back_reverse_op_tooltip": {
-		"message": "브레이크 버튼을 지정합니다. 변속기 유형 중 \"심플 오토매틱\"을 선택한 경우 후진에도 동일한 버튼이 사용됩니다.",
+		"message": "브레이크 버튼을 지정합니다.<br><br>변속기 유형 중 \"심플 오토매틱\"을 선택한 경우 후진에도 동일한 버튼이 사용됩니다.",
 		"description": "Id: o_im_back_reverse_op_tooltip\nGroup: Tooltips.\nGroup: Options/Keyboard\nScreen used to configure keyboard related options."
 	},
 	"o_im_left_op_tooltip": {
@@ -4532,7 +4532,7 @@
 		"description": "Id: o_im_engine_op_tooltip\nGroup: Tooltips.\nGroup: Options/Keyboard\nScreen used to configure keyboard related options."
 	},
 	"o_im_engine_electricity_op_tooltip": {
-		"message": "전기계통 장치를 켜거나 끄기 위한 버튼을 지정합니다.",
+		"message": "전기계통을 켜고 끄는 버튼을 할당합니다.<br><br>할당된 경우 엔진을 시동하기 전에 전기를 켜야 합니다. 그런 다음 표준 엔진 시동/정지 버튼을 사용하는 대신 전기를 꺼서 엔진을 정지해야 합니다.",
 		"description": "Id: o_im_engine_electricity_op_tooltip\nGroup: Tooltips.\nGroup: Options/Keyboard\nScreen used to configure keyboard related options."
 	},
 	"o_im_parkingbrake_op_tooltip": {
@@ -4540,11 +4540,11 @@
 		"description": "Id: o_im_parkingbrake_op_tooltip\nGroup: Tooltips.\nGroup: Options/Keyboard\nScreen used to configure keyboard related options."
 	},
 	"o_im_motorbrake_op_tooltip": {
-		"message": "엔진 브레이크 버튼을 지정합니다. 엔진 브레이크는 버튼을 누르고 있는 동안 작동합니다.",
+		"message": "엔진 브레이크 버튼을 지정합니다.<br><br>엔진 브레이크는 버튼을 누르고 있는 동안 작동합니다.",
 		"description": "Id: o_im_motorbrake_op_tooltip\nGroup: Tooltips.\nGroup: Options/Keyboard\nScreen used to configure keyboard related options."
 	},
 	"o_im_engine_brake_tgl_op_tooltip": {
-		"message": "엔진 브레이크 토글 버튼을 지정합니다. 버튼을 눌렀다 떼면 엔진브레이크가 작동하며 다시 버튼을 눌렀다 떼면 작동을 멈춥니다.",
+		"message": "엔진 브레이크 토글 버튼을 지정합니다.<br><br>버튼을 눌렀다 떼면 엔진브레이크가 작동하며 다시 버튼을 눌렀다 떼면 작동을 멈춥니다.",
 		"description": "Id: o_im_engine_brake_tgl_op_tooltip\nGroup: Tooltips.\nGroup: Options/Keyboard\nScreen used to configure keyboard related options."
 	},
 	"o_im_engine_brake_up_op_tooltip": {
@@ -4640,7 +4640,7 @@
 		"description": "Id: o_im_horn_op_tooltip\nGroup: Tooltips.\nGroup: Options/Keyboard\nScreen used to configure keyboard related options."
 	},
 	"o_im_air_horn_op_tooltip": {
-		"message": "에어 혼 버튼을 지정합니다.",
+		"message": "트럭에 에어 혼이 장착된 경우, 에어 혼을 사용하기 위한 버튼을 할당합니다.",
 		"description": "Id: o_im_air_horn_op_tooltip\nGroup: Tooltips.\nGroup: Options/Keyboard\nScreen used to configure keyboard related options."
 	},
 	"o_im_light_horn_op_tooltip": {
@@ -4652,7 +4652,7 @@
 		"description": "Id: o_im_wipers_op_tooltip\nGroup: Tooltips.\nGroup: Options/Keyboard\nScreen used to configure keyboard related options."
 	},
 	"o_im_wipers_back_op_tooltip": {
-		"message": "누를 때마다 와이퍼 속도를 느리게 하는 버튼을 지정합니다. 단, 이 기능에 버튼을 지정하면 표준 와이퍼 동작 기능이 동작-정지의 순환 패턴으로 동작하지 않습니다.",
+		"message": "누를 때마다 와이퍼 속도를 느리게 하는 버튼을 지정합니다.<br><br>단, 이 기능에 버튼을 지정하면 표준 와이퍼 동작 기능이 동작-정지의 순환 패턴으로 동작하지 않습니다.",
 		"description": "Id: o_im_wipers_back_op_tooltip\nGroup: Tooltips.\nGroup: Options/Keyboard\nScreen used to configure keyboard related options."
 	},
 	"o_im_cruise_ctrl_op_tooltip": {
@@ -4700,7 +4700,7 @@
 		"description": "Id: o_im_dashboard_map_op_tooltip\nGroup: Tooltips.\nGroup: Options/Keyboard\nScreen used to configure keyboard related options."
 	},
 	"o_im_trip_reset_op_tooltip": {
-		"message": "서스펜션의 높이를 원래대로 되돌리는 버튼을 지정합니다.",
+		"message": "대시보드에서 여행 정보(거리, 시간, 연료 소비량)를 재설정하기 위한 버튼을 할당합니다.",
 		"description": "Id: o_im_trip_reset_op_tooltip\nGroup: Tooltips.\nGroup: Options/Keyboard\nScreen used to configure keyboard related options."
 	},
 	"o_im_right_window_open_op_tooltip": {
@@ -4736,7 +4736,7 @@
 		"description": "Id: o_im_adviser_cursor_op_tooltip\nGroup: Tooltips.\nGroup: Options/Keyboard\nScreen used to configure keyboard related options."
 	},
 	"o_im_adviser_page0_op_tooltip": {
-		"message": "경로 관리자의 내비게이션 페이지 표시 버튼을 지정합니다. 이 버튼을 이용해 내비게이션 화면의 줌을 단계적으로 조정할 수 있습니다.",
+		"message": "경로 관리자의 내비게이션 페이지 표시 버튼을 지정합니다.<br>이 버튼을 이용해 내비게이션 화면의 줌을 단계적으로 조정할 수 있습니다.",
 		"description": "Id: o_im_adviser_page0_op_tooltip\nGroup: Tooltips.\nGroup: Options/Keyboard\nScreen used to configure keyboard related options."
 	},
 	"o_im_adviser_page1_op_tooltip": {
@@ -4772,7 +4772,7 @@
 		"description": "Id: o_im_adviser_zoom_out_op_tooltip\nGroup: Tooltips.\nGroup: Options/Keyboard\nScreen used to configure keyboard related options."
 	},
 	"o_im_adviser_eta_op_tooltip": {
-		"message": "경로 관리자에 표시된 목적지 데이터를 변경하는 버튼을 지정합니다. 다음 체크포인트나 최종 목적지 중 하나를 선택하여 해당 지점까지 남은 거리와 예상 도착 시간을 확인할 수 있습니다.",
+		"message": "경로 관리자에 표시된 목적지 데이터를 변경하는 버튼을 지정합니다.<br>다음 체크포인트나 최종 목적지 중 하나를 선택하여 해당 지점까지 남은 거리와 예상 도착 시간을 확인할 수 있습니다.",
 		"description": "Id: o_im_adviser_eta_op_tooltip\nGroup: Tooltips.\nGroup: Options/Keyboard\nScreen used to configure keyboard related options."
 	},
 	"o_im_assistent_action1_op_tooltip": {
@@ -5460,11 +5460,11 @@
 		"description": "Id: steam_input_mode_op_tooltip\nGroup: Tooltips.\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
 	"transmission_op_tooltip": {
-		"message": "변속기 유형을 선택합니다. \"심플 오토매틱\"을 사용하면 가속기와 브레이크를 사용하여 전진 및 후진 동작을 제어할 수 있습니다. \"리얼 오토매틱\"은 전진 기어와 후진 기어 사이를 전환하기 위한 입력이 필요합니다. \"시퀸설\"은 기어 올리기/내리기 입력을 통해 모든 기어를 수동으로 변속해야 합니다. \"H-시프터\"는 기어를 수동으로 선택하기 위해 변속 게이트가 있는 컨트롤러를 사용해야 합니다.",
+		"message": "변속기 유형을 선택합니다:<br>- \"심플 오토매틱\"을 사용하면 가속기와 브레이크를 사용하여 전진 및 후진 동작을 제어할 수 있습니다.<br>- \"리얼 오토매틱\"은 전진 기어와 후진 기어 사이를 전환하기 위한 입력이 필요합니다.<br>- \"시퀸설\"은 기어 올리기/내리기 입력을 통해 모든 기어를 수동으로 변속해야 합니다.<br>- \"H-시프터\"는 기어를 수동으로 선택하기 위해 변속 게이트가 있는 컨트롤러를 사용해야 합니다.",
 		"description": "Id: transmission_op_tooltip\nGroup: Tooltips.\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
 	"adaptive_auto_transmission_op_tooltip": {
-		"message": "자동 변속기의 기어 변속 로직을 변경합니다. \"이코노미\" 모드는 최대 토크 쪽으로 편향된 낮은 RPM을 선호하는 반면, \"파워\" 모드는 중량물이나 산악 지형에서 더 나은 주행성을 위해 연비를 희생하는 대신 최대 마력으로 편향됩니다. ",
+		"message": "자동 변속기의 기어 변속 로직을 변경합니다:<br>- \"이코노미\" 모드는 최대 토크 쪽으로 편향된 낮은 RPM을 선호하는 반면,<br>- \"파워\" 모드는 중량물이나 산악 지형에서 더 나은 주행성을 위해 연비를 희생하는 대신 최대 마력으로 편향됩니다.",
 		"description": "Id: adaptive_auto_transmission_op_tooltip\nGroup: Tooltips.\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
 	"steer_sens_op_tooltip": {
@@ -5472,7 +5472,7 @@
 		"description": "Id: steer_sens_op_tooltip\nGroup: Tooltips.\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
 	"steer_nonlin_op_tooltip": {
-		"message": "입력과 차량 스티어링 간의 선형성을 조정합니다. 이 값을 더 높게 조정하면 휠이 중앙에 있을 때 스티어링의 반응성이 낮아지고 휠이 최대 잠금 방향으로 회전할수록 감도가 높아집니다. 이는 직진 주행 시 스티어링 입력을 부드럽게 하는 데 도움이 될 수 있습니다.",
+		"message": "입력과 차량 스티어링 간의 선형성을 조정합니다.<br>이 값을 더 높게 조정하면 휠이 중앙에 있을 때 스티어링의 반응성이 낮아지고 휠이 최대 잠금 방향으로 회전할수록 감도가 높아집니다. 이는 직진 주행 시 스티어링 입력을 부드럽게 하는 데 도움이 될 수 있습니다.",
 		"description": "Id: steer_nonlin_op_tooltip\nGroup: Tooltips.\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
 	"force_feedback_op_tooltip": {
@@ -5480,15 +5480,15 @@
 		"description": "Id: force_feedback_op_tooltip\nGroup: Tooltips.\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
 	"force_feedback_gain_op_tooltip": {
-		"message": "0N과 10N 사이의 모든 힘 피드백 설정에 대한 전체 게인을 조정합니다. 강력한 휠 베이스에서 이 설정을 더 높은 설정으로 조정하면 손가락이나 손이 다칠 수 있으므로 주의하십시오.",
+		"message": "0N과 10N 사이의 모든 힘 피드백 설정에 대한 전체 게인을 조정합니다.<br><br>강력한 휠 베이스에서 이 설정을 더 높은 설정으로 조정하면 손가락이나 손이 다칠 수 있으므로 주의하십시오.",
 		"description": "Id: force_feedback_gain_op_tooltip\nGroup: Tooltips.\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
 	"force_feedback_centering_high_speed_op_tooltip": {
-		"message": "최고 속도가 90km/h(56mph) 이상인 고속 주행 시 중앙 복귀력을 조정합니다. 최소 설정에서는 휠 중앙 복귀력이 발생하지 않습니다.",
+		"message": "최고 속도가 90 km/h(56 mph) 이상인 고속 주행 시 중앙 복귀력을 조정합니다.<br><br>최소 설정에서는 휠 중앙 복귀력이 발생하지 않습니다.",
 		"description": "Id: force_feedback_centering_high_speed_op_tooltip\nGroup: Tooltips.\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
 	"force_feedback_centering_low_speed_op_tooltip": {
-		"message": "저속주행시 중앙 복귀력을 조절합니다. 최소 설정에서는 휠 중앙 복귀력이 발생하지 않습니다.",
+		"message": "저속주행시 중앙 복귀력을 조절합니다.<br><br>최소 설정에서는 휠 중앙 복귀력이 발생하지 않습니다.",
 		"description": "Id: force_feedback_centering_low_speed_op_tooltip\nGroup: Tooltips.\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
 	"force_feedback_internal_friction_op_tooltip": {
@@ -5496,11 +5496,11 @@
 		"description": "Id: force_feedback_internal_friction_op_tooltip\nGroup: Tooltips.\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
 	"force_feedback_engine_op_tooltip": {
-		"message": "스티어링 칼럼을 통해 인위적 엔진 공명의 강도를 조정합니다. 이 값을 15% 이상으로 설정하면 일부 휠에서 과도한 흔들림 및 진동이 발생할 수 있으므로 주의하십시오.",
+		"message": "스티어링 칼럼을 통해 인위적 엔진 공명의 강도를 조정합니다.<br><br>이 값을 15% 이상으로 설정하면 일부 휠에서 과도한 흔들림 및 진동이 발생할 수 있으므로 주의하십시오.",
 		"description": "Id: force_feedback_engine_op_tooltip\nGroup: Tooltips.\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
 	"force_feedback_surface_op_tooltip": {
-		"message": "활성화하면 지도에서 먼 영역을 인위적으로 흐리게 하여 배경에 사실적인 초점 감소를 만들 수 있습니다.",
+		"message": "스티어링 칼럼을 통해 도로 표면 효과의 강도를 조정합니다.<br><br>이 값을 20% 이상으로 설정하면 고속으로 고르지 않은 지형을 주행할 때 일부 바퀴에 과도한 흔들림과 진동이 발생할 수 있습니다.",
 		"description": "Id: force_feedback_surface_op_tooltip\nGroup: Tooltips.\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
 	"force_feedback_bumps_op_tooltip": {
@@ -5520,7 +5520,7 @@
 		"description": "Id: force_feedback_understeer_op_tooltip\nGroup: Tooltips.\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
 	"force_feedback_assisted_steering_op_tooltip": {
-		"message": "차선 어시스턴트 기능을 사용할 때 스티어링 보조의 강도를 조정합니다.",
+		"message": "스티어링 보조의 강도를 조정합니다 (차선 어시스턴트 등을 사용하는 경우).",
 		"description": "Id: force_feedback_assisted_steering_op_tooltip\nGroup: Tooltips.\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
 	"force_feedback_vibration_surface_op_tooltip": {
@@ -5540,11 +5540,11 @@
 		"description": "Id: steer_axis_op_tooltip\nGroup: Tooltips.\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
 	"steer_axis_dz_op_tooltip": {
-		"message": "스티어링 축 데드존을 조정합니다; 입력이 무시되는 중심으로부터의 회전량입니다. 이를 통해 오류 또는 마모로 인한 잘못된 입력과 같은 오래된 컨트롤러의 문제를 완화할 수 있습니다.",
+		"message": "스티어링 축 데드존을 조정합니다; 입력이 무시되는 중심으로부터의 회전량입니다.<br><br>이를 통해 오류 또는 마모로 인한 잘못된 입력과 같은 오래된 컨트롤러의 문제를 완화할 수 있습니다.",
 		"description": "Id: steer_axis_dz_op_tooltip\nGroup: Tooltips.\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
 	"steer_axis_mode_op_tooltip": {
-		"message": "게임에서 스티어링 축 입력을 처리하는 방법을 결정합니다. 중앙은 휠이나 조이스틱에 이상적입니다. 반전은 잘못 감지된 축을 수정하는 데 사용됩니다.",
+		"message": "게임에서 스티어링 축 입력을 처리하는 방법을 결정합니다:<br>- 중앙은 휠이나 조이스틱에 이상적입니다.<br>- 반전은 잘못 감지된 축을 수정하는 데 사용됩니다.",
 		"description": "Id: steer_axis_mode_op_tooltip\nGroup: Tooltips.\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
 	"acc_axis_op_tooltip": {
@@ -5552,11 +5552,11 @@
 		"description": "Id: acc_axis_op_tooltip\nGroup: Tooltips.\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
 	"acc_axis_dz_op_tooltip": {
-		"message": "액셀러레이션 축에서 입력하지 않았음에도 입력이 발생하는 구간에 대한 데드존을 조정합니다. 이를 통해 오류 또는 마모로 인한 잘못된 입력과 같은 오래된 컨트롤러의 문제를 완화할 수 있습니다.",
+		"message": "액셀러레이션 축에서 입력하지 않았음에도 입력이 발생하는 구간에 대한 데드존을 조정합니다.<br><br>이를 통해 오류 또는 마모로 인한 잘못된 입력과 같은 오래된 컨트롤러의 문제를 완화할 수 있습니다.",
 		"description": "Id: acc_axis_dz_op_tooltip\nGroup: Tooltips.\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
 	"acc_axis_mode_op_tooltip": {
-		"message": "게임에서 컨트롤러 입력을 처리하는 방식을 결정합니다. 중앙은 조이스틱에 이상적입니다. 보통은 트리거나 페달에 이상적입니다. 반전은 잘못 감지된 입력을 보상할 수 있습니다.",
+		"message": "게임에서 컨트롤러 입력을 처리하는 방식을 결정합니다:<br>중앙은 조이스틱에 이상적입니다.<br>- 보통은 트리거나 페달에 이상적입니다.<br>- 반전은 잘못 감지된 입력을 보완할 수 있습니다.",
 		"description": "Id: acc_axis_mode_op_tooltip\nGroup: Tooltips.\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
 	"brake_axis_op_tooltip": {
@@ -5564,11 +5564,11 @@
 		"description": "Id: brake_axis_op_tooltip\nGroup: Tooltips.\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
 	"brake_axis_dz_op_tooltip": {
-		"message": "브레이크 축에서 입력하지 않았음에도 입력이 발생하는 구간에 대한 데드존을 조정합니다. 이를 통해 오류 또는 마모로 인한 잘못된 입력과 같은 오래된 컨트롤러의 문제를 완화할 수 있습니다.",
+		"message": "브레이크 축에서 입력하지 않았음에도 입력이 발생하는 구간에 대한 데드존을 조정합니다.<br><br>이를 통해 오류 또는 마모로 인한 잘못된 입력과 같은 오래된 컨트롤러의 문제를 완화할 수 있습니다.",
 		"description": "Id: brake_axis_dz_op_tooltip\nGroup: Tooltips.\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
 	"brake_axis_mode_op_tooltip": {
-		"message": "게임에서 컨트롤러 입력을 처리하는 방식을 결정합니다. 중앙은 조이스틱에 이상적입니다. 보통은 트리거나 페달에 이상적입니다. 반전은 잘못 감지된 입력을 보상할 수 있습니다.",
+		"message": "게임에서 컨트롤러 입력을 처리하는 방식을 결정합니다:<br>중앙은 조이스틱에 이상적입니다.<br>- 보통은 트리거나 페달에 이상적입니다.<br>- 반전은 잘못 감지된 입력을 보완할 수 있습니다.",
 		"description": "Id: brake_axis_mode_op_tooltip\nGroup: Tooltips.\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
 	"clutch_axis_op_tooltip": {
@@ -5576,15 +5576,15 @@
 		"description": "Id: clutch_axis_op_tooltip\nGroup: Tooltips.\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
 	"clutch_axis_dz_op_tooltip": {
-		"message": "클러치 축에서 입력하지 않았음에도 입력이 발생하는 구간에 대한 데드존을 조정합니다. 이를 통해 오류 또는 마모로 인한 잘못된 입력과 같은 오래된 컨트롤러의 문제를 완화할 수 있습니다.",
+		"message": "클러치 축에서 입력하지 않았음에도 입력이 발생하는 구간에 대한 데드존을 조정합니다.<br><br>이를 통해 오류 또는 마모로 인한 잘못된 입력과 같은 오래된 컨트롤러의 문제를 완화할 수 있습니다.",
 		"description": "Id: clutch_axis_dz_op_tooltip\nGroup: Tooltips.\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
 	"clutch_axis_mode_op_tooltip": {
-		"message": "게임에서 컨트롤러 입력을 처리하는 방식을 결정합니다. 중앙은 조이스틱에 이상적입니다. 보통은 트리거나 페달에 이상적입니다. 반전은 잘못 감지된 입력을 보완할 수 있습니다.",
+		"message": "게임에서 컨트롤러 입력을 처리하는 방식을 결정합니다:<br>중앙은 조이스틱에 이상적입니다.<br>- 보통은 트리거나 페달에 이상적입니다.<br>- 반전은 잘못 감지된 입력을 보완할 수 있습니다.",
 		"description": "Id: clutch_axis_mode_op_tooltip\nGroup: Tooltips.\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
 	"clutch_range_op_tooltip": {
-		"message": "클러치 범위를 조절합니다. 범위를 오른쪽으로 더 많이 설정할수록 클러치를 연결하기 위해 페달을 더 밟아야 합니다.",
+		"message": "클러치 범위를 조절합니다.<br><br>범위를 오른쪽으로 더 많이 설정할수록 클러치를 연결하기 위해 페달을 더 밟아야 합니다.",
 		"description": "Id: clutch_range_op_tooltip\nGroup: Tooltips.\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
 	"look_updown_axis_op_tooltip": {
@@ -5592,11 +5592,11 @@
 		"description": "Id: look_updown_axis_op_tooltip\nGroup: Tooltips.\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
 	"look_updown_axis_dz_op_tooltip": {
-		"message": "상-하 보기 축에서 입력하지 않았음에도 입력이 발생하는 구간에 대한 데드존을 조정합니다. 이를 통해 오류 또는 마모로 인한 잘못된 입력과 같은 오래된 컨트롤러의 문제를 완화할 수 있습니다.",
+		"message": "상-하 보기 축에서 입력하지 않았음에도 입력이 발생하는 구간에 대한 데드존을 조정합니다.<br><br>이를 통해 오류 또는 마모로 인한 잘못된 입력과 같은 오래된 컨트롤러의 문제를 완화할 수 있습니다.",
 		"description": "Id: look_updown_axis_dz_op_tooltip\nGroup: Tooltips.\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
 	"look_updown_axis_mode_op_tooltip": {
-		"message": "게임에서 축 입력을 처리하는 방식을 결정합니다. 중앙은 조이스틱에 이상적입니다. 반전은 잘못 감지된 축을 수정하는 데 사용됩니다.",
+		"message": "게임에서 축 입력을 처리하는 방식을 결정합니다:<br>- 중앙은 조이스틱에 이상적입니다.<br>- 반전은 잘못 감지된 축을 수정하는 데 사용됩니다.",
 		"description": "Id: look_updown_axis_mode_op_tooltip\nGroup: Tooltips.\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
 	"look_leftright_axis_op_tooltip": {
@@ -5604,11 +5604,11 @@
 		"description": "Id: look_leftright_axis_op_tooltip\nGroup: Tooltips.\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
 	"look_leftright_axis_dz_op_tooltip": {
-		"message": "좌-우 보기 축에서 입력하지 않았음에도 입력이 발생하는 구간에 대한 데드존을 조정합니다. 이를 통해 오류 또는 마모로 인한 잘못된 입력과 같은 오래된 컨트롤러의 문제를 완화할 수 있습니다.",
+		"message": "좌-우 보기 축에서 입력하지 않았음에도 입력이 발생하는 구간에 대한 데드존을 조정합니다.<br><br>이를 통해 오류 또는 마모로 인한 잘못된 입력과 같은 오래된 컨트롤러의 문제를 완화할 수 있습니다.",
 		"description": "Id: look_leftright_axis_dz_op_tooltip\nGroup: Tooltips.\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
 	"look_leftright_axis_mode_op_tooltip": {
-		"message": "게임에서 축 입력을 처리하는 방식을 결정합니다. 중앙은 조이스틱에 이상적입니다. 반전은 잘못 감지된 축을 수정하는 데 사용됩니다.",
+		"message": "게임에서 축 입력을 처리하는 방식을 결정합니다:<br>- 중앙은 조이스틱에 이상적입니다.<br>- 반전은 잘못 감지된 축을 수정하는 데 사용됩니다.",
 		"description": "Id: look_leftright_axis_mode_op_tooltip\nGroup: Tooltips.\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
 	"hshift_layout_op_tooltip": {
@@ -5616,11 +5616,11 @@
 		"description": "Id: hshift_layout_op_tooltip\nGroup: Tooltips.\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
 	"hshift_behavior_op_tooltip": {
-		"message": "시프터의 동작을 변경합니다. \"심플\" 옵션을 사용하면 변속 시 기어가 갈리는 일이 전혀 없습니다. \"심플 + 경고음\" 옵션을 사용하면 간단하게 변속할 수도 있지만 잘못 변속하면 기어 갈리는 소리가 납니다. \"숙련자용\" 옵션을 사용하면 기어를 잘못 변속할 경우 기어를 변경할 수 없으며 기어 갈리는 소리만 들립니다. \"숙련자용\" 옵션을 사용하면 \"빠른 스플리터 변속\" 설정을 활용할 수도 있습니다.",
+		"message": "시프터의 동작을 변경합니다:<br>- \"심플\" 옵션을 사용하면 변속 시 기어가 갈리는 일이 전혀 없습니다:<br>- \"심플 + 경고음\" 옵션을 사용하면 간단하게 변속할 수도 있지만 잘못 변속하면 기어 갈리는 소리가 납니다:<br>- \"숙련자용\" 옵션을 사용하면 기어를 잘못 변속할 경우 기어를 변경할 수 없으며 기어 갈리는 소리만 들립니다. \"숙련자용\" 옵션을 사용하면 \"빠른 스플리터 변속\" 설정을 활용할 수도 있습니다.",
 		"description": "Id: hshift_behavior_op_tooltip\nGroup: Tooltips.\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
 	"hshift_fast_split_op_tooltip": {
-		"message": "게임에서 빠른 스플리터 변속을 처리하는 방법을 선택하세요. \"사용하지 않음\"은 스플리터 변속을 위해 기어 스틱을 중립으로 옮겨야 하고, \"클러치 페달을 밟을 때\"는 기어 스틱을 움직이지 않고 스플리터 기어를 넣은 후 클러치를 밟았다 떼야하며, \"가속 페달을 밟지 않을 때\"는 기어 스틱을 움직이지 않고 스플리터 기어를 넣은 후 가속 페달에서 발을 떼기만 하면 됩니다. \"클러치 혹은 가속 페달\"은 후자 두 가지의 조합입니다.",
+		"message": "게임에서 빠른 스플리터 변속을 처리하는 방법을 선택하세요:<br>- \"사용하지 않음\"은 스플리터 변속을 위해 기어 스틱을 중립으로 옮겨야 하고,<br>- \"클러치 페달을 밟을 때\"는 기어 스틱을 움직이지 않고 스플리터 기어를 넣은 후 클러치를 밟았다 떼야하며,<br>- \"가속 페달을 밟지 않을 때\"는 기어 스틱을 움직이지 않고 스플리터 기어를 넣은 후 가속 페달에서 발을 떼기만 하면 됩니다. \"클러치 혹은 가속 페달\"은 후자 두 가지의 조합입니다.",
 		"description": "Id: hshift_fast_split_op_tooltip\nGroup: Tooltips.\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
 	"hshift_reverse_op_tooltip": {
@@ -5840,7 +5840,7 @@
 		"description": "Id: eye_preset_op_tooltip\nGroup: Configuration of extended view options.\nGroup: Options/Eye tracking\nScreen used to configure eye tracking related options"
 	},
 	"eye_head_mode_op_tooltip": {
-		"message": "헤드 트래킹 모드를 선택합니다. \"직접적\" 모드는 머리, 눈의 움직임과 게임 내 카메라 움직임이 직접적으로 일치하며 실내 시점에 권장됩니다. \"역동적\" 모드는 실제로 머리를 움직일 때만 카메라가 움직이며 시선이 완전히 중앙에 위치해 있는 것이 중요할 때 권장됩니다.",
+		"message": "헤드 트래킹 모드를 선택합니다:<br>- \"직접적\" 모드는 머리, 눈의 움직임과 게임 내 카메라 움직임이 직접적으로 일치하며 실내 시점에 권장됩니다.<br>- \"역동적\" 모드는 실제로 머리를 움직일 때만 카메라가 움직이며 시선이 완전히 중앙에 위치해 있는 것이 중요할 때 권장됩니다.",
 		"description": "Id: eye_head_mode_op_tooltip\nGroup: Configuration of extended view options.\nGroup: Options/Eye tracking\nScreen used to configure eye tracking related options"
 	},
 	"eye_autocenter_op_tooltip": {
@@ -6288,11 +6288,11 @@
 		"description": "Id: vsync_op_tooltip\nGroup: Tooltips.\nGroup: Options/Graphics\nScreen used to configure graphics related options."
 	},
 	"fps_limit_op_tooltip": {
-		"message": "게임의 최대 허용 프레임 속도를 설정합니다. 0으로 설정하면 전체 기능이 비활성화됨을 의미합니다.",
+		"message": "게임에 허용되는 최대 프레임 속도를 설정합니다.<br><br>값을 0으로 설정하면 해당 기능이 비활성화됩니다.",
 		"description": "Id: fps_limit_op_tooltip\nGroup: Tooltips.\nGroup: Options/Graphics\nScreen used to configure graphics related options."
 	},
 	"fps_limit_inactive_op_tooltip": {
-		"message": "게임이 백그라운드에서 최소화될 때 게임에 허용되는 최대 프레임 속도를 설정합니다. 0으로 설정하면 전체 기능이 비활성화됨을 의미합니다.",
+		"message": "게임이 백그라운드에서 최소화될 때 허용되는 최대 프레임 속도를 설정합니다.<br><br>값을 0으로 설정하면 해당 기능이 비활성화됩니다.",
 		"description": "Id: fps_limit_inactive_op_tooltip\nGroup: Tooltips.\nGroup: Options/Graphics\nScreen used to configure graphics related options."
 	},
 	"adv_graphical_settings_op_tooltip": {
@@ -6300,11 +6300,11 @@
 		"description": "Id: adv_graphical_settings_op_tooltip\nGroup: Tooltips.\nGroup: Options/Graphics\nScreen used to configure graphics related options."
 	},
 	"scaling_op_tooltip": {
-		"message": "내부적으로 더 높은 해상도로 게임을 렌더링하여 그래픽 충실도를 향상시켜 들쭉날쭉한 가장자리를 줄이고 디테일을 향상시킵니다. 예를 들어, 더 높은 배율 옵션을 선택하면 흐릿함이 덜하고 더 선명한 그림이 제공되므로 성능이 저하되는 대신 게임이 전반적으로 더 좋아 보입니다.",
+		"message": "내부적으로 더 높은 해상도로 게임을 렌더링하여 그래픽 충실도를 향상시켜 들쭉날쭉한 가장자리를 줄이고 디테일을 향상시킵니다.<br>예를 들어, 더 높은 배율 옵션을 선택하면 흐릿함이 덜하고 더 선명한 그림이 제공되므로 성능이 저하되는 대신 게임이 전반적으로 더 좋아 보입니다.",
 		"description": "Id: scaling_op_tooltip\nGroup: Tooltips.\nGroup: Options/Graphics\nScreen used to configure graphics related options."
 	},
 	"aa_mode_op_tooltip": {
-		"message": "게임에서 들쭉날쭉한 가장자리의 모양을 부드럽게 만드는 고속 안티앨리어싱 방법을 선택합니다. SMAA는 프레임 내의 여러 위치에서 각 픽셀을 여러 번 (선택한 품질에 따라) 샘플링하고 샘플의 평균을 구하여 최종 결과물을 생성합니다. TAA는 각 픽셀을 프레임당 한 번만 샘플링하지만 서로 다른 위치와 프레임에서 샘플링합니다. SMAA와 TAA를 조합하면 성능은 다소 떨어지지만 최상의 결과를 얻을 수 있습니다.",
+		"message": "게임에서 들쭉날쭉한 가장자리의 모양을 부드럽게 만드는 고속 안티앨리어싱 방법을 선택합니다:<br>- SMAA는 프레임 내의 여러 위치에서 각 픽셀을 여러 번 (선택한 품질에 따라) 샘플링하고 샘플의 평균을 구하여 최종 결과물을 생성합니다.<br>- TAA는 각 픽셀을 프레임당 한 번만 샘플링하지만 서로 다른 위치와 프레임에서 샘플링합니다.<br>- SMAA와 TAA를 조합하면 성능은 다소 떨어지지만 최상의 결과를 얻을 수 있습니다.",
 		"description": "Id: aa_mode_op_tooltip\nGroup: Tooltips.\nGroup: Options/Graphics\nScreen used to configure graphics related options."
 	},
 	"ssao_mode_op_tooltip": {
@@ -6312,7 +6312,7 @@
 		"description": "Id: ssao_mode_op_tooltip\nGroup: Tooltips.\nGroup: Options/Graphics\nScreen used to configure graphics related options."
 	},
 	"taa_tuning_op_tooltip": {
-		"message": "TAA 사전 설정 선택. \"항상 부드러움\"은 깜박임이 적고 흐림 현상이 심해집니다. 이는 슈퍼샘플링을 활성화하거나 DPI 모니터가 높은 PC 사용자뿐만 아니라 화면에서 더 멀리 떨어져 있는 1080p TV 사용자에게도 적합합니다. \"항상 날카로움\"을 선택하면 깜박임이 더 많아지고 흐림 현상이 줄어듭니다. 이는 아마도 노트북이나 스팀덱과 같은 1080p 이하 사용에 가장 적합한 옵션일 것입니다. \"어댑티브 선명도\"를 선택하면 카메라가 정적이면 TAA 지터가 동적으로 비활성화됩니다.",
+		"message": "TAA 사전 설정 선택:<br>- \"항상 부드러움\"은 깜박임이 적고 흐림 현상이 심해집니다. 이는 슈퍼샘플링을 활성화하거나 DPI 모니터가 높은 PC 사용자뿐만 아니라 화면에서 더 멀리 떨어져 있는 1080p TV 사용자에게도 적합합니다.<br>- \"항상 날카로움\"을 선택하면 깜박임이 더 많아지고 흐림 현상이 줄어듭니다. 이는 아마도 노트북이나 스팀덱과 같은 1080p 이하 사용에 가장 적합한 옵션일 것입니다.<br>- \"어댑티브 선명도\"를 선택하면 카메라가 정적이면 TAA 지터가 동적으로 비활성화됩니다.",
 		"description": "Id: taa_tuning_op_tooltip\nGroup: Tooltips.\nGroup: Options/Graphics\nScreen used to configure graphics related options."
 	},
 	"taa_luma_sharpening_op_tooltip": {
@@ -18179,6 +18179,10 @@
 		"message": "휴식을 취하고 연료를 보충하려면 다음 키를 누르십시오:",
 		"description": "Id: special_job_sleep\nAdviser message for mandatory stop activation\nGroup: Strings related to special missions and the whole project of ovs."
 	},
+	"cn_articulated_hauler": {
+		"message": "굴절식 하울러",
+		"description": "Id: cn_articulated_hauler\nName of the cargo of articulated hauler.\nGroup: Strings related to special missions and the whole project of ovs."
+	},
 	"cn_mystery_cyl": {
 		"message": "하이테크 장치",
 		"description": "Id: cn_mystery_cyl\nName of the cargo of mystery cylinder.\nGroup: Strings related to special missions and the whole project of ovs."
@@ -18211,13 +18215,17 @@
 		"message": "열 교환기",
 		"description": "Id: cn_heat_exch\nName of the cargo of big heat exchanger.\nGroup: Strings related to special missions and the whole project of ovs."
 	},
-	"cn_silo": {
-		"message": "대형 사일로",
-		"description": "Id: cn_silo\nName of the cargo of big silo.\nGroup: Strings related to special missions and the whole project of ovs."
+	"cn_ovs_tank": {
+		"message": "대형 저수지 탱크",
+		"description": "Id: cn_ovs_tank\nName of the cargo of large reservoir tank transported on its side.\nGroup: Strings related to special missions and the whole project of ovs."
 	},
 	"cn_pilot_boat": {
 		"message": "서비스 보트",
 		"description": "Id: cn_pilot_boat\nName of the cargo of boat.\nGroup: Strings related to special missions and the whole project of ovs."
+	},
+	"cn_silo": {
+		"message": "대형 사일로",
+		"description": "Id: cn_silo\nName of the cargo of big silo.\nGroup: Strings related to special missions and the whole project of ovs."
 	},
 	"cn_lattice": {
 		"message": "건축용 계단",
@@ -24752,7 +24760,7 @@
 		"description": "Id: new_academy_rewards_t\nTitle of the window displaying list of the new academy rewards.\nGroup: Academy reward texts."
 	},
 	"new_academy_rewards_help": {
-		"message": "@@driving_academy@@의 진행 상황에 따라 새로운 항목이 추가되었습니다. $profile_name$ 경력에 적용 가능합니다.",
+		"message": "@@driving_academy@@에서의 진행 상황에 따라 새로운 항목이 추가되었습니다. 경력에 적용 가능: <font face=/font/normal_bold.font>$profile_name$</font>.",
 		"description": "Id: new_academy_rewards_help\nThe help text for new academy reward items dialog.\nGroup: Academy reward texts."
 	},
 	"aca_reward_locked": {

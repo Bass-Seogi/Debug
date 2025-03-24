@@ -815,6 +815,10 @@
 		"message": "캔",
 		"description": "Id: cn_cans\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
+	"ats_cn_cattle_equipment": {
+		"message": "소 장비",
+		"description": "Id: cn_cattle_equipment\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
 	"ats_cn_circuit_breakers": {
 		"message": "서킷 브레이커",
 		"description": "Id: cn_circuit_breakers\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
@@ -1023,6 +1027,10 @@
 		"message": "회반죽",
 		"description": "Id: cn_mortar\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
+	"ats_cn_moving_containers": {
+		"message": "무빙 컨테이너",
+		"description": "Id: cn_moving_containers\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
 	"ats_cn_mulcher": {
 		"message": "제초기",
 		"description": "Id: cn_mulcher\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
@@ -1183,10 +1191,6 @@
 		"message": "야드 트럭",
 		"description": "Id: cn_yard_truck\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
-	"ats_cn_articulated_hauler": {
-		"message": "굴절식 하울러",
-		"description": "Id: cn_articulated_hauler\nName of the cargo of articulated hauler.\nGroup: Special transport cargo names\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
-	},
 	"ats_cn_house": {
 		"message": "턴키 하우스 자재",
 		"description": "Id: cn_house\nName of the cargo of big house.\nGroup: Special transport cargo names\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
@@ -1195,10 +1199,6 @@
 		"message": "수송용 헬리콥터",
 		"description": "Id: cn_ovs_helicopter\nName of the cargo of transport helicopter helicopter.\nGroup: Special transport cargo names\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
-	"ats_cn_ovs_tank": {
-		"message": "대형 저수탱크",
-		"description": "Id: cn_ovs_tank\nName of the cargo of large reservoir tank transported on its side.\nGroup: Special transport cargo names\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
-	},
 	"ats_cn_haul_truck_hull": {
 		"message": "하울 트럭 차체",
 		"description": "Id: cn_haul_truck_hull\nName of the cargo of hull part for haul truck.\nGroup: Special transport cargo names\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
@@ -1206,6 +1206,10 @@
 	"ats_cn_haul_truck": {
 		"message": "하울 트럭 샤시",
 		"description": "Id: cn_haul_truck\nName of the cargo of haul truck.\nGroup: Special transport cargo names\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_loader_truck": {
+		"message": "언더그라운드 로더",
+		"description": "Id: cn_loader_truck\nName of the cargo of underground loader truck.\nGroup: Special transport cargo names\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_cn_aircondition": {
 		"message": "대형 공조장치",
@@ -2231,6 +2235,10 @@
 		"message": "캠프 베르드",
 		"description": "Id: camp_verde\nGroup: Names of cities"
 	},
+	"ats_cape_girardeau": {
+		"message": "케이프지라도",
+		"description": "Id: cape_girardeau\nGroup: Names of cities"
+	},
 	"ats_carlsbad": {
 		"message": "칼즈배드",
 		"description": "Id: carlsbad\nGroup: Names of cities"
@@ -2282,6 +2290,10 @@
 	"ats_colorado_springs": {
 		"message": "콜로라도 스프링스",
 		"description": "Id: colorado_springs\nGroup: Names of cities"
+	},
+	"ats_columbia": {
+		"message": "콜롬비아",
+		"description": "Id: columbia\nGroup: Names of cities"
 	},
 	"ats_columbus": {
 		"message": "콜럼버스",
@@ -2539,9 +2551,17 @@
 		"message": "잭슨",
 		"description": "Id: jackson\nGroup: Names of cities"
 	},
+	"ats_jefferson_city": {
+		"message": "제퍼슨시티",
+		"description": "Id: jefferson_city\nGroup: Names of cities"
+	},
 	"ats_jonesboro": {
 		"message": "존즈버러",
 		"description": "Id: jonesboro\nGroup: Names of cities"
+	},
+	"ats_joplin": {
+		"message": "조플린",
+		"description": "Id: joplin\nGroup: Names of cities"
 	},
 	"ats_junction": {
 		"message": "정션",
@@ -2574,6 +2594,10 @@
 	"ats_kingman": {
 		"message": "킹맨",
 		"description": "Id: kingman\nGroup: Names of cities"
+	},
+	"ats_kirksville": {
+		"message": "커크스빌",
+		"description": "Id: kirksville\nGroup: Names of cities"
 	},
 	"ats_klamath_falls": {
 		"message": "클래머스폴스",
@@ -2650,6 +2674,10 @@
 	"ats_marysville": {
 		"message": "메리즈빌",
 		"description": "Id: marysville\nGroup: Names of cities"
+	},
+	"ats_maryville": {
+		"message": "메리빌",
+		"description": "Id: maryville\nGroup: Names of cities"
 	},
 	"ats_medford": {
 		"message": "메드퍼드",
@@ -2795,6 +2823,10 @@
 		"message": "퐁카시티",
 		"description": "Id: ponca_city\nGroup: Names of cities"
 	},
+	"ats_poplar_bluff": {
+		"message": "포플러 블러프",
+		"description": "Id: poplar_bluff\nGroup: Names of cities"
+	},
 	"ats_port_angeles": {
 		"message": "포트앤젤레스",
 		"description": "Id: port_angeles\nGroup: Names of cities"
@@ -2846,6 +2878,10 @@
 	"ats_rock_springs": {
 		"message": "록 스프링스",
 		"description": "Id: rock_springs\nGroup: Names of cities"
+	},
+	"ats_rolla": {
+		"message": "롤라",
+		"description": "Id: rolla\nGroup: Names of cities"
 	},
 	"ats_roswell": {
 		"message": "로즈웰",
@@ -2955,9 +2991,21 @@
 		"message": "스프링데일",
 		"description": "Id: springdale\nGroup: Names of cities"
 	},
+	"ats_springfield": {
+		"message": "스프링필드",
+		"description": "Id: springfield\nGroup: Names of cities"
+	},
 	"ats_st_george": {
 		"message": "세인트 조지",
 		"description": "Id: st_george\nGroup: Names of cities"
+	},
+	"ats_st_joseph": {
+		"message": "성 요셉",
+		"description": "Id: st_joseph\nGroup: Names of cities"
+	},
+	"ats_st_louis": {
+		"message": "세인트루이스",
+		"description": "Id: st_louis\nGroup: Names of cities"
 	},
 	"ats_steamboat_springs": {
 		"message": "스팀보트 스프링스",
