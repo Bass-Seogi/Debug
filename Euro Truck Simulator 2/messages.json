@@ -9364,7 +9364,7 @@
 		"description": "Id: cn_sausages\nGroup: Names of individual cargos."
 	},
 	"cn_scaffoldings": {
-		"message": "발판",
+		"message": "비계구조물",
 		"description": "Id: cn_scaffoldings\nGroup: Names of individual cargos."
 	},
 	"cn_scania_trucks": {
