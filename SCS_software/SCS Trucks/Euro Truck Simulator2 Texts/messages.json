@@ -9364,7 +9364,7 @@
 		"description": "Id: cn_sausages\nGroup: Names of individual cargos."
 	},
 	"cn_scaffoldings": {
-		"message": "비계",
+		"message": "비계구조물",
 		"description": "Id: cn_scaffoldings\nGroup: Names of individual cargos."
 	},
 	"cn_scania_trucks": {
@@ -9524,7 +9524,7 @@
 		"description": "Id: cn_precast_stairs\nGroup: Names of individual cargos."
 	},
 	"cn_roof_shingles": {
-		"message": "루프 슁걸즈",
+		"message": "지붕 널판",
 		"description": "Id: cn_roof_shingles\nGroup: Names of individual cargos."
 	},
 	"cn_roof_tiles": {
@@ -15768,7 +15768,7 @@
 		"description": "Id: light_chrome\nSmall accesory lights for bottom truck grills\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"active_space": {
-		"message": "활성 공간",
+		"message": "액티브 스페이스",
 		"description": "Id: active_space\nSpecific name of the interior or accesory (eg Iveco cabin)\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"glossy": {
