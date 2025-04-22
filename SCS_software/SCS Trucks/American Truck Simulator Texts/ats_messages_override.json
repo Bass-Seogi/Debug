@@ -1448,7 +1448,7 @@
 		"description": "Id: bulkfeed\nGroup: Trailer body type names (short/preview variant)."
 	},
 	"ats_curtainside": {
-		"message": "슬라이딩 방수포",
+		"message": "슬라이딩 타프",
 		"description": "Id: curtainside\nGroup: Trailer body type names (short/preview variant)."
 	},
 	"ats_chipvan": {
@@ -1872,7 +1872,7 @@
 		"description": "Id: bs_container\nGroup: Trailer body sets"
 	},
 	"ats_bs_curtain": {
-		"message": "슬라이딩 방수포",
+		"message": "슬라이딩 타프",
 		"description": "Id: bs_curtain\nGroup: Trailer body sets"
 	},
 	"ats_bs_deep_drop": {

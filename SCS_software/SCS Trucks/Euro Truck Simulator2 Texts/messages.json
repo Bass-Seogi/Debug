@@ -9988,7 +9988,7 @@
 		"description": "Id: tn_schw_foodtank\nGroup: Names of individual trailer and trailer chassis types. (for trailer listing screen)"
 	},
 	"tn_schw_curtain": {
-		"message": "Schwarzmüller 방수포 플랫폼",
+		"message": "Schwarzmüller 타포린 플랫폼",
 		"description": "Id: tn_schw_curtain\nGroup: Names of individual trailer and trailer chassis types. (for trailer listing screen)"
 	},
 	"tn_schw_lowloader": {
