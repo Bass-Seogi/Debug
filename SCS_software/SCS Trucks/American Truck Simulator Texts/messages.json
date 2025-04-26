@@ -1872,11 +1872,11 @@
 		"description": "Id: profile_map_name\nLabel of edit box used to select game map.\nGroup: Window used to create a new profile."
 	},
 	"enter_name_default": {
-		"message": "- 이름을 입력하세요 -",
+		"message": "- 이름을 입력하십시오 -",
 		"description": "Id: enter_name_default\nText shown in the profile name edit box if no name is entered.\nGroup: Window used to create a new profile."
 	},
 	"enter_comp_name_default": {
-		"message": "- 회사 이름을 입력하세요 -",
+		"message": "- 회사 이름을 입력하십시오 -",
 		"description": "Id: enter_comp_name_default\nText shown in the company name edit box if no name is entered.\nGroup: Window used to create a new profile."
 	},
 	"create": {
@@ -1896,7 +1896,7 @@
 		"description": "Id: enter_name\nGroup: Error message boxes shown if player forgets to fill part of the dialog or if there is some other problem.\nGroup: Window used to create a new profile."
 	},
 	"select_face": {
-		"message": "사진을 선택하세요!",
+		"message": "사진을 선택하십시오!",
 		"description": "Id: select_face\nGroup: Error message boxes shown if player forgets to fill part of the dialog or if there is some other problem.\nGroup: Window used to create a new profile."
 	},
 	"select_design": {
@@ -1904,7 +1904,7 @@
 		"description": "Id: select_design\nGroup: Error message boxes shown if player forgets to fill part of the dialog or if there is some other problem.\nGroup: Window used to create a new profile."
 	},
 	"select_logo": {
-		"message": "회사 로고를 선택하세요!",
+		"message": "회사 로고를 선택하십시오!",
 		"description": "Id: select_logo\nGroup: Error message boxes shown if player forgets to fill part of the dialog or if there is some other problem.\nGroup: Window used to create a new profile."
 	},
 	"enter_comp_name": {
@@ -2316,7 +2316,7 @@
 		"description": "Id: help_controller\nGroup: Help texts associated with icons for individual option screens."
 	},
 	"help_bcg_theme": {
-		"message": "개인화된 데스크톱 배경으로 트럭을 강조하세요. 당신의 스타일에 맞는 것을 선택하세요!",
+		"message": "개인화된 데스크톱 배경으로 트럭을 강조하세요. 당신의 스타일에 맞는 것을 선택하십시오!",
 		"description": "Id: help_bcg_theme\nGroup: Help texts associated with icons for individual option screens."
 	},
 	"options_o_t": {
@@ -3680,11 +3680,11 @@
 		"description": "Id: show_secondary_names_in_map_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"displayed_currency_op_tooltip": {
-		"message": "어떤 화폐단위를 사용할지 선택하세요.",
+		"message": "어떤 화폐단위를 사용할지 선택하십시오.",
 		"description": "Id: displayed_currency_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"clock_notation_op_tooltip": {
-		"message": "12 시간제 또는 24 시간제 표기 중에서 선택하세요.",
+		"message": "12 시간제 또는 24 시간제 표기 중에서 선택하십시오.",
 		"description": "Id: clock_notation_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"length_units_op_tooltip": {
@@ -12228,7 +12228,7 @@
 		"description": "Id: desktop_tut_t\nGroup: Messages shown as part of the tutorial.\nThe $KEY$ texts are placeholders for various keys and should be left intact."
 	},
 	"desktop_tut_job": {
-		"message": "다음 일을 선택하세요",
+		"message": "다음 일을 선택하십시오",
 		"description": "Id: desktop_tut_job\nGroup: Messages shown as part of the tutorial.\nThe $KEY$ texts are placeholders for various keys and should be left intact."
 	},
 	"desktop_tut_cargo_market": {
@@ -17928,7 +17928,7 @@
 		"description": "Id: mp_locked_tooltip_fail\nGroup: Multiplayer copy job."
 	},
 	"mp_locked_tooltip_first_job": {
-		"message": "참여하려면 첫 번째 작업을 완료하세요",
+		"message": "참여하려면 첫 번째 작업을 완료하십시오",
 		"description": "Id: mp_locked_tooltip_first_job\nGroup: Multiplayer copy job."
 	},
 	"mp_session_close_warning_title": {
@@ -20328,7 +20328,7 @@
 		"description": "Id: link_locked_msg_used_trucks\nGroup: Screen link tooltips"
 	},
 	"trailer_dealer_desc": {
-		"message": "구매할 수 있는 트레일러를 찾아보고 검토하고 재구성하세요.",
+		"message": "구매할 수 있는 트레일러를 찾아보고 검토하고 재구성하십시오.",
 		"description": "Id: trailer_dealer_desc\nGroup: Screen link tooltips"
 	},
 	"radio_desc": {
@@ -20344,7 +20344,7 @@
 		"description": "Id: options_desc\nGroup: Screen link tooltips"
 	},
 	"career_progress_desc": {
-		"message": "경력 진행 상황, 통계, 최근 완료된 작업을 검토하세요.",
+		"message": "경력 진행 상황, 통계, 최근 완료된 작업을 검토하십시오.",
 		"description": "Id: career_progress_desc\nGroup: Screen link tooltips"
 	},
 	"link_locked_msg_current_session": {
@@ -22252,7 +22252,7 @@
 		"description": "Id: aca_book_book2_title\nGroup: Books general."
 	},
 	"aca_book_book2_desc": {
-		"message": "더욱 어려운 환경에서 새로운 시나리오를 통해 트럭 운전 기술을 연마하세요.",
+		"message": "더욱 어려운 환경에서 새로운 시나리오를 통해 트럭 운전 기술을 연마하십시오.",
 		"description": "Id: aca_book_book2_desc\nGroup: Books general."
 	},
 	"aca_book_book3_title": {
@@ -22472,7 +22472,7 @@
 		"description": "Id: adj_tut_open_adj_gamepad\nGroup: Book 1 Scenario 1_01"
 	},
 	"adj_tut_open_adj": {
-		"message": "게임 플레이 중에 '@@adjust_link_t@@'를 표시하려면 $OPEN_ADJUSTER$을(를) 입력하세요.",
+		"message": "게임 플레이 중에 '@@adjust_link_t@@'를 표시하려면 $OPEN_ADJUSTER$을(를) 입력하십시오.",
 		"description": "Id: adj_tut_open_adj\nGroup: Book 1 Scenario 1_01"
 	},
 	"adj_tut_open_seat": {
