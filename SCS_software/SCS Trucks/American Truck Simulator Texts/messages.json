@@ -1267,6 +1267,10 @@
 		"message": "<color value=@@clr_sel@@>호환되지 않는 세이브입니다!<br><color value=@@clr_txt@@>게임을 최신버전으로 업데이트해 보세요.",
 		"description": "Id: incompatible_save_upgrade\nWarning shown when save has unknown version.\nGroup: Game load window\nProvides ability to load previously saved game or autosave."
 	},
+	"failed_to_acquire_saves": {
+		"message": "이 프로필에 대한 모든 저장 파일을 로드하고 표시하는 데 실패했습니다.",
+		"description": "Id: failed_to_acquire_saves\nshown on the save/load screen if the save manager fails to return all saves for the selected profile\nGroup: Game load window\nProvides ability to load previously saved game or autosave."
+	},
 	"attention_t": {
 		"message": "주의",
 		"description": "Id: attention_t\nPanel title. Please keep in upper case where possible.\nGroup: Notification shown in the side panel when the load slot selection window appears automatically\nGroup: Game load window\nProvides ability to load previously saved game or autosave."
@@ -1620,7 +1624,7 @@
 		"description": "Id: cargo_type_inloader\nGroup: Cargo types.\nGroup: Job Market"
 	},
 	"cargo_type_livestock": {
-		"message": "가축",
+		"message": "라이브스톡",
 		"description": "Id: cargo_type_livestock\nGroup: Cargo types.\nGroup: Job Market"
 	},
 	"cargo_type_liquid": {
@@ -1814,6 +1818,22 @@
 	"extras": {
 		"message": "엑스트라",
 		"description": "Id: extras\nGroup: Profile selection."
+	},
+	"profile_set_failed": {
+		"message": "선택한 프로필을 불러오지 못했습니다. 다시 시도하거나 다른 프로필을 사용하십시오.",
+		"description": "Id: profile_set_failed\nmessage box shown on the title screen if switching to a selected profile fails\nGroup: Profile selection."
+	},
+	"delete_save_failed": {
+		"message": "선택한 저장 파일을 삭제하지 못했습니다.",
+		"description": "Id: delete_save_failed\ndisplayed on the save/load screen if deletion of a save fails\nGroup: Profile selection."
+	},
+	"profile_create_failed": {
+		"message": "시스템에서 새 프로필을 생성하거나 기존 프로필을 덮어쓰는 데 실패했습니다.",
+		"description": "Id: profile_create_failed\ndisplayed on the profile creation screen if creating or overwriting a profile fails (e.g., deletion of the old one fails)\nGroup: Profile selection."
+	},
+	"failed_to_retrieve_saves": {
+		"message": "최신 저장 파일을 불러올 수 없습니다. 수동으로 불러와 보시고. 문제가 지속되면 이전 저장 파일을 불러와 보십시오.",
+		"description": "Id: failed_to_retrieve_saves\nshown on the launchpad when clicking Continue, and the save manager fails to load the relevant save file\nGroup: Profile selection."
 	},
 	"launchpad_tt_mods_used": {
 		"message": "사용 중인 MOD: $num_mods$",
@@ -8703,6 +8723,10 @@
 		"message": "돼지",
 		"description": "Id: cn_live_pigs\nGroup: Names of individual cargos."
 	},
+	"cn_live_sheep": {
+		"message": "양",
+		"description": "Id: cn_live_sheep\nGroup: Names of individual cargos."
+	},
 	"cn_loaders": {
 		"message": "로더",
 		"description": "Id: cn_loaders\nGroup: Names of individual cargos."
@@ -8762,6 +8786,10 @@
 	"cn_mobile_stacker": {
 		"message": "모바일 스태커",
 		"description": "Id: cn_mobile_stacker\nGroup: Names of individual cargos."
+	},
+	"cn_municipal_truck": {
+		"message": "자치 트럭",
+		"description": "Id: cn_municipal_truck\nGroup: Names of individual cargos."
 	},
 	"cn_naphtha": {
 		"message": "나프타",
@@ -9018,6 +9046,10 @@
 	"cn_wooden_beams": {
 		"message": "나무 기둥",
 		"description": "Id: cn_wooden_beams\nGroup: Names of individual cargos."
+	},
+	"cn_work_truck": {
+		"message": "작업 트럭",
+		"description": "Id: cn_work_truck\nGroup: Names of individual cargos."
 	},
 	"cn_yogurt": {
 		"message": "요구르트",
@@ -13435,6 +13467,14 @@
 		"message": "강철",
 		"description": "Id: steel\nSteel bumper or other accessory\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
+	"led": {
+		"message": "LED",
+		"description": "Id: led\nLED light or LED decorated item or other accessory\nGroup: Upgrade accesories\nGroup: Input wizard"
+	},
+	"modern": {
+		"message": "모던",
+		"description": "Id: modern\nModernized mirror, doorhandle or other accessory\nGroup: Upgrade accesories\nGroup: Input wizard"
+	},
 	"plastic_modern": {
 		"message": "플라스틱 모던",
 		"description": "Id: plastic_modern\nModernized plastic mirror, doorhandle or other accessory\nGroup: Upgrade accesories\nGroup: Input wizard"
@@ -13487,6 +13527,10 @@
 		"message": "고급형 흰색",
 		"description": "Id: exclusive_white\nLuxury/Exclusive version of the interior or accesory\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
+	"sleeper": {
+		"message": "슬리퍼",
+		"description": "Id: sleeper\nSleeper version of the cabin or other accesory\nGroup: Upgrade accesories\nGroup: Input wizard"
+	},
 	"light_chrome": {
 		"message": "라이트 크롬",
 		"description": "Id: light_chrome\nSmall accesory lights for bottom truck grills\nGroup: Upgrade accesories\nGroup: Input wizard"
@@ -13506,6 +13550,14 @@
 	"stock_v8": {
 		"message": "사이드 스커트 V8 스타일",
 		"description": "Id: stock_v8\nV8 style MAN sideskirts\nGroup: Upgrade accesories\nGroup: Input wizard"
+	},
+	"high_bumper": {
+		"message": "높은 범퍼",
+		"description": "Id: high_bumper\nName specification of high bumper\nGroup: Upgrade accesories\nGroup: Input wizard"
+	},
+	"low_bumper": {
+		"message": "낮은 범퍼",
+		"description": "Id: low_bumper\nName specification of low bumper\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"camera": {
 		"message": "카메라",
@@ -13546,6 +13598,10 @@
 	"safety_window": {
 		"message": "세이프티 윈도우",
 		"description": "Id: safety_window\nSpecific name of accessory (eg. cabin door/window type in DAF 2021).\nGroup: Upgrade accesories\nGroup: Input wizard"
+	},
+	"window": {
+		"message": "창문",
+		"description": "Id: window\nSpecific name of accessory (eg. cabin rear window in DAF XD).\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"winning_dice": {
 		"message": "승리의 주사위",
@@ -16999,6 +17055,10 @@
 		"message": "프로필을 로컬 프로필 형태로 전환하면 해당 프로필은 접속한 스팀 계정과 관계없이 이 컴퓨터에서만 사용할 수 있습니다.",
 		"description": "Id: steam_profile_migration_to_local_warning\nPopup warning when player unchecks the steam cloud checkbox in the profile edit screen.\nGroup: Steam cloud."
 	},
+	"migration_failed": {
+		"message": "프로필 마이그레이션에 실패했습니다. 데이터가 전송되지 않았으며, 시스템은 원본 프로필을 그대로 유지했습니다. 다시 시도해 주십시오.",
+		"description": "Id: migration_failed\nshown during profile type switching (e.g., Steam ↔ non-Steam) if moving save files fails\nGroup: Steam cloud."
+	},
 	"select_option_to_preview_cargo_model": {
 		"message": "없음",
 		"description": "Id: select_option_to_preview_cargo_model\nThe option in cargo model preview selection meaning that no cargo should be previewed.\nGroup: Trailer browser"
@@ -17758,6 +17818,10 @@
 	"mp_job_ok": {
 		"message": "모든 것이 완벽합니다. 화물을 배차 받았고 플레이어가 순간 이동되었습니다.",
 		"description": "Id: mp_job_ok\ninternal error message\nGroup: Multiplayer copy job."
+	},
+	"mp_job_uninitialized": {
+		"message": "오류, 작업이 초기화되지 않았습니다.",
+		"description": "Id: mp_job_uninitialized\nGroup: Multiplayer copy job."
 	},
 	"mp_job_unknown_error": {
 		"message": "알 수 없는 오류가 발생하여 작업을 완료하지 못했습니다.",
@@ -20303,6 +20367,14 @@
 		"message": "일부 사용자는 반짝거리는 빛 또는 불빛 패턴이나 모양에 민감하며 특정 영상 혹은 비디오 게임을 플레이하는 도중 간질, 발작 또는 의식 상실을 경험할 수 있습니다. 여러분이나 여러분의 가족 중 누군가가 반짝거리는 빛이나 불빛 패턴, 모양에 노출되었을 때 간질, 발작 또는 의식 상실 등을 경험한 적이 있다면 게임을 플레이하기 전에 의료 전문가와 상담하고 필요한 모든 예방 조치를 취하십시오.<br offset=20>게임을 플레이하는 도중 여러분이나 여러분의 가족이 현기증, 시력 변화, 눈이나 근육의 경련, 의식 상실, 방향 감각 상실, 비자발적인 움직임이나 경련과 같은 증상을 보이면 즉시 비디오 게임 사용을 중단하고 의료 전문가와 상담하십시오.",
 		"description": "Id: health_warning_description\nGroup: Health warning"
 	},
+	"sm_save_failed_not_enough_space": {
+		"message": "저장 공간이 부족하여 게임을 저장하거나 새 저장 파일을 만들 수 없습니다. 여유 공간을 확보한 후 다시 시도해 보십시오.",
+		"description": "Id: sm_save_failed_not_enough_space\nmessage box when saving fails due to insufficient space\nGroup: Save manager errors"
+	},
+	"sm_save_system_init_failed": {
+		"message": "저장 관리자 초기화에 실패했습니다. 진행 상황에 접근하거나 저장할 수 없습니다.",
+		"description": "Id: sm_save_system_init_failed\nmessage when save manager initialization fails, preventing progress\nGroup: Save manager errors"
+	},
 	"mailtext.test1.from": {
 		"message": "시스템",
 		"description": "Id: mailtext.test1.from\nMessage sender\nGroup: Mails delivered to the player."
@@ -20779,6 +20851,46 @@
 		"message": "미드베일 힐 휴게소",
 		"description": "Id: id_cut_midvale\nGoogle maps link: https://goo.gl/maps/DQnij98FGpb97hmv5\nGroup: Names of point of interest cutscenes."
 	},
+	"ia_cut_traer": {
+		"message": "트레이어",
+		"description": "Id: ia_cut_traer\nGroup: Names of point of interest cutscenes."
+	},
+	"ia_cut_burlington": {
+		"message": "벌링턴",
+		"description": "Id: ia_cut_burlington\nGroup: Names of point of interest cutscenes."
+	},
+	"ia_cut_dream_field": {
+		"message": "드림필드",
+		"description": "Id: ia_cut_dream_field\nGroup: Names of point of interest cutscenes."
+	},
+	"ia_cut_oskaloosa": {
+		"message": "오스컬루사",
+		"description": "Id: ia_cut_oskaloosa\nGroup: Names of point of interest cutscenes."
+	},
+	"ia_cut_waterloo": {
+		"message": "워털루",
+		"description": "Id: ia_cut_waterloo\nGroup: Names of point of interest cutscenes."
+	},
+	"ia_cut_davenport": {
+		"message": "대븐포트",
+		"description": "Id: ia_cut_davenport\nGroup: Names of point of interest cutscenes."
+	},
+	"ia_cut_spencer": {
+		"message": "스펜서",
+		"description": "Id: ia_cut_spencer\nGroup: Names of point of interest cutscenes."
+	},
+	"ia_cut_cedar_rapids": {
+		"message": "시더래피즈",
+		"description": "Id: ia_cut_cedar_rapids\nGroup: Names of point of interest cutscenes."
+	},
+	"ia_cut_auburn": {
+		"message": "오번",
+		"description": "Id: ia_cut_auburn\nGroup: Names of point of interest cutscenes."
+	},
+	"ia_cut_dubuque_dam": {
+		"message": "두부크 락 앤 댐 11",
+		"description": "Id: ia_cut_dubuque_dam\nGroup: Names of point of interest cutscenes."
+	},
 	"mo_cut_ozark": {
 		"message": "오자크 레이크",
 		"description": "Id: mo_cut_ozark\nGroup: Names of point of interest cutscenes."
@@ -21048,7 +21160,7 @@
 		"description": "Id: or_cut_port\nGoogle maps link: https://goo.gl/maps/6oqp572bdG3C5Ern7\nGroup: Names of point of interest cutscenes."
 	},
 	"ks_cut_cattle_pens": {
-		"message": "바자 소 우리",
+		"message": "바자 가축 우리",
 		"description": "Id: ks_cut_cattle_pens\nGroup: Names of point of interest cutscenes."
 	},
 	"ks_cut_farm_area": {
@@ -21903,6 +22015,50 @@
 		"message": "공익 회사",
 		"description": "Id: landmark_mo_joplin_li\nGroup: Names of landmarks."
 	},
+	"landmark_ia_adairmm81": {
+		"message": "휴게소 I-80 WB 애드에어 MM81",
+		"description": "Id: landmark_ia_adairmm81\nGroup: Names of landmarks."
+	},
+	"landmark_ia_iowa_80": {
+		"message": "아이오와 80",
+		"description": "Id: landmark_ia_iowa_80\nGroup: Names of landmarks."
+	},
+	"landmark_ia_fort_mus": {
+		"message": "포트 박물관과 프론티어 빌리지",
+		"description": "Id: landmark_ia_fort_mus\nGroup: Names of landmarks."
+	},
+	"landmark_ia_grain_bin": {
+		"message": "세계에서 가장 큰 곡물 저장고",
+		"description": "Id: landmark_ia_grain_bin\nGroup: Names of landmarks."
+	},
+	"landmark_ia_capitol": {
+		"message": "아이오와 주 의사당",
+		"description": "Id: landmark_ia_capitol\nGroup: Names of landmarks."
+	},
+	"landmark_ia_tree": {
+		"message": "도로의 나무",
+		"description": "Id: landmark_ia_tree\nGroup: Names of landmarks."
+	},
+	"landmark_ia_madison": {
+		"message": "매디슨 브리지",
+		"description": "Id: landmark_ia_madison\nGroup: Names of landmarks."
+	},
+	"landmark_ia_crater": {
+		"message": "맨슨 크레이터 모노리스",
+		"description": "Id: landmark_ia_crater\nGroup: Names of landmarks."
+	},
+	"landmark_ia_albert": {
+		"message": "알버트, 세계에서 가장 큰 황소",
+		"description": "Id: landmark_ia_albert\nGroup: Names of landmarks."
+	},
+	"landmark_ia_odyssey": {
+		"message": "오디세이 브리지",
+		"description": "Id: landmark_ia_odyssey\nGroup: Names of landmarks."
+	},
+	"landmark_ia_event_cen": {
+		"message": "타이슨 이벤트 센터",
+		"description": "Id: landmark_ia_event_cen\nGroup: Names of landmarks."
+	},
 	"aca_cutscene_quit_info": {
 		"message": "<color value=@@clr_txt@@>건너뛰기 ($KEY$<color value=@@clr_txt@@>)",
 		"description": "Id: aca_cutscene_quit_info\nInfo text showing how to control cutscene.\nGroup: Game localization"
@@ -22148,7 +22304,7 @@
 		"description": "Id: aca_electronics_off_1\nGroup: Hint messages shown in game."
 	},
 	"aca_electronics_off_2": {
-		"message": "$KEY$을(를) 눌러 점화장치를 켜세요.",
+		"message": "$KEY$을(를) 눌러 점화장치를 켜십시오.",
 		"description": "Id: aca_electronics_off_2\nGroup: Hint messages shown in game."
 	},
 	"aca_scenario_briefing_t": {
@@ -25940,7 +26096,7 @@
 		"description": "Id: aca_scenario_book2_circle_desc\nGroup: Book 2 circle"
 	},
 	"aca_scenario_book2_sharp_circle_cutscene1": {
-		"message": "당신 맞은편으로 앞으로 당기십시오.",
+		"message": "당신 맞은편 앞으로 당기십시오.",
 		"description": "Id: aca_scenario_book2_sharp_circle_cutscene1\nGroup: Book 2 circle"
 	},
 	"aca_scenario_book2_sharp_backing_title": {

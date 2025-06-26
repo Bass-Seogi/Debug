@@ -1271,6 +1271,10 @@
 		"message": "<color value=@@clr_sel@@>호환되지 않는 세이브입니다!<br><color value=@@clr_txt@@>게임을 최신버전으로 업데이트해 보세요.",
 		"description": "Id: incompatible_save_upgrade\nWarning shown when save has unknown version.\nGroup: Game load window\nProvides ability to load previously saved game or autosave."
 	},
+	"failed_to_acquire_saves": {
+		"message": "이 프로필에 대한 모든 저장 파일을 로드하고 표시하는 데 실패했습니다.",
+		"description": "Id: failed_to_acquire_saves\nshown on the save/load screen if the save manager fails to return all saves for the selected profile\nGroup: Game load window\nProvides ability to load previously saved game or autosave."
+	},
 	"attention_t": {
 		"message": "주의",
 		"description": "Id: attention_t\nPanel title. Please keep in upper case where possible.\nGroup: Notification shown in the side panel when the load slot selection window appears automatically\nGroup: Game load window\nProvides ability to load previously saved game or autosave."
@@ -1628,7 +1632,7 @@
 		"description": "Id: cargo_type_inloader\nGroup: Cargo types.\nGroup: Job Market"
 	},
 	"cargo_type_livestock": {
-		"message": "가축",
+		"message": "라이브스톡",
 		"description": "Id: cargo_type_livestock\nGroup: Cargo types.\nGroup: Job Market"
 	},
 	"cargo_type_liquid": {
@@ -1822,6 +1826,22 @@
 	"extras": {
 		"message": "엑스트라",
 		"description": "Id: extras\nGroup: Profile selection."
+	},
+	"profile_set_failed": {
+		"message": "선택한 프로필을 불러오지 못했습니다. 다시 시도하거나 다른 프로필을 사용하십시오.",
+		"description": "Id: profile_set_failed\nmessage box shown on the title screen if switching to a selected profile fails\nGroup: Profile selection."
+	},
+	"delete_save_failed": {
+		"message": "선택한 저장 파일을 삭제하지 못했습니다.",
+		"description": "Id: delete_save_failed\ndisplayed on the save/load screen if deletion of a save fails\nGroup: Profile selection."
+	},
+	"profile_create_failed": {
+		"message": "시스템에서 새 프로필을 생성하거나 기존 프로필을 덮어쓰는 데 실패했습니다.",
+		"description": "Id: profile_create_failed\ndisplayed on the profile creation screen if creating or overwriting a profile fails (e.g., deletion of the old one fails)\nGroup: Profile selection."
+	},
+	"failed_to_retrieve_saves": {
+		"message": "최신 저장 파일을 불러올 수 없습니다. 수동으로 불러와 보시고. 문제가 지속되면 이전 저장 파일을 불러와 보십시오.",
+		"description": "Id: failed_to_retrieve_saves\nshown on the launchpad when clicking Continue, and the save manager fails to load the relevant save file\nGroup: Profile selection."
 	},
 	"launchpad_tt_mods_used": {
 		"message": "사용 중인 MOD: $num_mods$",
@@ -8703,6 +8723,10 @@
 		"message": "포장 식품",
 		"description": "Id: cn_food\nGroup: Names of individual cargos."
 	},
+	"cn_food_oil": {
+		"message": "식용유",
+		"description": "Id: cn_food_oil\nGroup: Names of individual cargos."
+	},
 	"cn_forklifts": {
 		"message": "지게차",
 		"description": "Id: cn_forklifts\nGroup: Names of individual cargos."
@@ -8846,6 +8870,10 @@
 	"cn_live_pigs": {
 		"message": "돼지",
 		"description": "Id: cn_live_pigs\nGroup: Names of individual cargos."
+	},
+	"cn_live_sheep": {
+		"message": "양",
+		"description": "Id: cn_live_sheep\nGroup: Names of individual cargos."
 	},
 	"cn_liver_paste": {
 		"message": "간 페이스트",
@@ -10132,11 +10160,11 @@
 		"description": "Id: tn_schw_slidepost\nGroup: Names of individual trailer and trailer chassis types. (for trailer listing screen)"
 	},
 	"tn_goldhofer_mpa_k": {
-		"message": "단일 확장식 세미 로우로더",
+		"message": "단일 연장형 세미 로우로더",
 		"description": "Id: tn_goldhofer_mpa_k\nGroup: Names of individual trailer and trailer chassis types. (for trailer listing screen)"
 	},
 	"tn_goldhofer_mpa_k_flatbed": {
-		"message": "단일 확장식 평판",
+		"message": "단일 연장형 평판",
 		"description": "Id: tn_goldhofer_mpa_k_flatbed\nGroup: Names of individual trailer and trailer chassis types. (for trailer listing screen)"
 	},
 	"tn_goldhofer_stz_vl": {
@@ -15827,6 +15855,10 @@
 		"message": "LED",
 		"description": "Id: led\nLED light or LED decorated item or other accessory\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
+	"modern": {
+		"message": "모던",
+		"description": "Id: modern\nModernized mirror, doorhandle or other accessory\nGroup: Upgrade accesories\nGroup: Input wizard"
+	},
 	"plastic_modern": {
 		"message": "플라스틱 모던",
 		"description": "Id: plastic_modern\nModernized plastic mirror, doorhandle or other accessory\nGroup: Upgrade accesories\nGroup: Input wizard"
@@ -20191,6 +20223,10 @@
 		"message": "프로필을 로컬 프로필 형태로 전환하면 해당 프로필은 접속한 스팀 계정과 관계없이 이 컴퓨터에서만 사용할 수 있습니다.",
 		"description": "Id: steam_profile_migration_to_local_warning\nPopup warning when player unchecks the steam cloud checkbox in the profile edit screen.\nGroup: Steam cloud."
 	},
+	"migration_failed": {
+		"message": "프로필 마이그레이션에 실패했습니다. 데이터가 전송되지 않았으며, 시스템은 원본 프로필을 그대로 유지했습니다. 다시 시도해 주십시오.",
+		"description": "Id: migration_failed\nshown during profile type switching (e.g., Steam ↔ non-Steam) if moving save files fails\nGroup: Steam cloud."
+	},
 	"select_option_to_preview_cargo_model": {
 		"message": "없음",
 		"description": "Id: select_option_to_preview_cargo_model\nThe option in cargo model preview selection meaning that no cargo should be previewed.\nGroup: Trailer browser"
@@ -20982,6 +21018,10 @@
 	"mp_job_ok": {
 		"message": "모든 것이 완벽합니다. 화물을 배차 받았고 플레이어가 순간 이동되었습니다.",
 		"description": "Id: mp_job_ok\ninternal error message\nGroup: Multiplayer copy job."
+	},
+	"mp_job_uninitialized": {
+		"message": "오류, 작업이 초기화되지 않았습니다.",
+		"description": "Id: mp_job_uninitialized\nGroup: Multiplayer copy job."
 	},
 	"mp_job_unknown_error": {
 		"message": "알 수 없는 오류가 발생하여 작업을 완료하지 못했습니다.",
@@ -23523,6 +23563,14 @@
 		"message": "일부 사용자는 반짝거리는 빛 또는 불빛 패턴이나 모양에 민감하며 특정 영상 혹은 비디오 게임을 플레이하는 도중 간질, 발작 또는 의식 상실을 경험할 수 있습니다. 여러분이나 여러분의 가족 중 누군가가 반짝거리는 빛이나 불빛 패턴, 모양에 노출되었을 때 간질, 발작 또는 의식 상실 등을 경험한 적이 있다면 게임을 플레이하기 전에 의료 전문가와 상담하고 필요한 모든 예방 조치를 취하십시오.<br offset=20>게임을 플레이하는 도중 여러분이나 여러분의 가족이 현기증, 시력 변화, 눈이나 근육의 경련, 의식 상실, 방향 감각 상실, 비자발적인 움직임이나 경련과 같은 증상을 보이면 즉시 비디오 게임 사용을 중단하고 의료 전문가와 상담하십시오.",
 		"description": "Id: health_warning_description\nGroup: Health warning"
 	},
+	"sm_save_failed_not_enough_space": {
+		"message": "저장 공간이 부족하여 게임을 저장하거나 새 저장 파일을 만들 수 없습니다. 여유 공간을 확보한 후 다시 시도해 보십시오.",
+		"description": "Id: sm_save_failed_not_enough_space\nmessage box when saving fails due to insufficient space\nGroup: Save manager errors"
+	},
+	"sm_save_system_init_failed": {
+		"message": "저장 관리자 초기화에 실패했습니다. 진행 상황에 접근하거나 저장할 수 없습니다.",
+		"description": "Id: sm_save_system_init_failed\nmessage when save manager initialization fails, preventing progress\nGroup: Save manager errors"
+	},
 	"mailtext.test1.from": {
 		"message": "시스템",
 		"description": "Id: mailtext.test1.from\nMessage sender\nGroup: Mails delivered to the player."
@@ -25096,7 +25144,7 @@
 		"description": "Id: aca_electronics_off_1\nGroup: Hint messages shown in game."
 	},
 	"aca_electronics_off_2": {
-		"message": "$KEY$을(를) 눌러 점화장치를 켜세요.",
+		"message": "$KEY$을(를) 눌러 점화장치를 켜십시오.",
 		"description": "Id: aca_electronics_off_2\nGroup: Hint messages shown in game."
 	},
 	"aca_scenario_briefing_t": {
@@ -28792,7 +28840,7 @@
 		"description": "Id: aca_scenario_book2_curvy_curves_title\nGroup: Book 2 curvy_curves"
 	},
 	"aca_scenario_book2_curvy_curves_desc": {
-		"message": "이런 시나리오에서는 복잡한 과정을 거치면서 주의력과 인식력이 시험을 받게 됩니다.",
+		"message": "이 시나리오에서는 복잡한 과정을 거치면서 주의력과 인식이 테스트될 것입니다.",
 		"description": "Id: aca_scenario_book2_curvy_curves_desc\nGroup: Book 2 curvy_curves"
 	},
 	"aca_scenario_book2_track_rain_title": {
@@ -28852,7 +28900,7 @@
 		"description": "Id: aca_scenario_book2_circle_desc\nGroup: Book 2 circle"
 	},
 	"aca_scenario_book2_sharp_circle_cutscene1": {
-		"message": "당신 맞은편으로 앞으로 당기십시오.",
+		"message": "당신 맞은편 앞으로 당기십시오.",
 		"description": "Id: aca_scenario_book2_sharp_circle_cutscene1\nGroup: Book 2 circle"
 	},
 	"aca_scenario_book2_saturday_night_title": {

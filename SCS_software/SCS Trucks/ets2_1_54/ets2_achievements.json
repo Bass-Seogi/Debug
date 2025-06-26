@@ -292,11 +292,11 @@
     "description": "Id: NEW_ACHIEVEMENT_4_5_NAME\nAchievement name for Euro Truck Simulator 2 shown on the Steam website (http://steamcommunity.com/stats/227300/achievements/). Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
   },
   "NEW_ACHIEVEMENT_4_5_DESC": {
-    "message": "게임에서 최소 5개의 항구를 사용하십시오 (바다, 강, 기차 항구 포함)",
+    "message": "게임상의 5개 항구와 철도를 사용하셔야 합니다",
     "description": "Id: NEW_ACHIEVEMENT_4_5_DESC\nAchievement description for Euro Truck Simulator 2 shown on the Steam website (http://steamcommunity.com/stats/227300/achievements/). Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
   },
   "NEW_ACHIEVEMENT_4_5_SHORT": {
-    "message": "게임에서 최소 5개의 항구를 사용하십시오 (바다, 강, 기차 항구 포함)",
+    "message": "게임상의 5개 항구와 철도를 사용하셔야 합니다",
     "description": "Id: NEW_ACHIEVEMENT_4_5_SHORT\nShort version of achievement description for Euro Truck Simulator 2. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit."
   },
   "NEW_ACHIEVEMENT_4_25_NAME": {
@@ -412,48 +412,12 @@
     "description": "Id: NEW_ACHIEVEMENT_29_29_NAME\nAchievement name for Euro Truck Simulator 2 shown on the Steam website (http://steamcommunity.com/stats/227300/achievements/). Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
   },
   "NEW_ACHIEVEMENT_29_29_DESC": {
-    "message": "트럭 운전 기초 3 또는 4 챕터에서 실패 없이 5개의 시나리오를 연속으로 완료하십시오",
+    "message": "트럭 운전 기초 3 또는 4 챕터에서 실패 없이 5개의 시나리오를 연속으로 완료하십시오.",
     "description": "Id: NEW_ACHIEVEMENT_29_29_DESC\nAchievement description for Euro Truck Simulator 2 shown on the Steam website (http://steamcommunity.com/stats/227300/achievements/). Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
   },
   "NEW_ACHIEVEMENT_29_29_SHORT": {
     "message": "3번째 또는 4번째 챕터에서 5개의 시나리오를 실패 없이 연속으로 완료하세요 - 트럭 운전 기초",
     "description": "Id: NEW_ACHIEVEMENT_29_29_SHORT\nShort version of achievement description for Euro Truck Simulator 2. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit."
-  },
-  "NEW_ACHIEVEMENT_61_5_NAME": {
-    "message": "샤이닝 스타",
-    "description": "Id: NEW_ACHIEVEMENT_61_5_NAME\nAchievement name for Euro Truck Simulator 2 shown on the Steam website (http://steamcommunity.com/stats/227300/achievements/). Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
-  },
-  "NEW_ACHIEVEMENT_61_5_DESC": {
-    "message": "트럭 운전 숙련도에서 연속으로 플레이한 3개의 시나리오에서 별 3개를 획득하십시오",
-    "description": "Id: NEW_ACHIEVEMENT_61_5_DESC\nAchievement description for Euro Truck Simulator 2 shown on the Steam website (http://steamcommunity.com/stats/227300/achievements/). Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
-  },
-  "NEW_ACHIEVEMENT_61_5_SHORT": {
-    "message": "트럭 운전 숙련도에서 연속으로 플레이한 3개의 시나리오에서 별 3개를 획득하십시오",
-    "description": "Id: NEW_ACHIEVEMENT_61_5_SHORT\nShort version of achievement description for Euro Truck Simulator 2. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit."
-  },
-  "NEW_ACHIEVEMENT_61_4_NAME": {
-    "message": "도로의 괴짜",
-    "description": "Id: NEW_ACHIEVEMENT_61_4_NAME\nAchievement name for Euro Truck Simulator 2 shown on the Steam website (http://steamcommunity.com/stats/227300/achievements/). Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
-  },
-  "NEW_ACHIEVEMENT_61_4_DESC": {
-    "message": "트럭 운전 능력 시험에서 최소 23개 시나리오에서 별 3개를 획득하십시오",
-    "description": "Id: NEW_ACHIEVEMENT_61_4_DESC\nAchievement description for Euro Truck Simulator 2 shown on the Steam website (http://steamcommunity.com/stats/227300/achievements/). Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
-  },
-  "NEW_ACHIEVEMENT_61_4_SHORT": {
-    "message": "트럭 운전 능력 시험에서 최소 23개 시나리오에서 별 3개를 획득하십시오",
-    "description": "Id: NEW_ACHIEVEMENT_61_4_SHORT\nShort version of achievement description for Euro Truck Simulator 2. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit."
-  },
-  "NEW_ACHIEVEMENT_61_3_NAME": {
-    "message": "고급 학생",
-    "description": "Id: NEW_ACHIEVEMENT_61_3_NAME\nAchievement name for Euro Truck Simulator 2 shown on the Steam website (http://steamcommunity.com/stats/227300/achievements/). Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
-  },
-  "NEW_ACHIEVEMENT_61_3_DESC": {
-    "message": "트럭 운전 능력 시험에서 최소 23가지 시나리오에서 합격 조건을 완료하십시오",
-    "description": "Id: NEW_ACHIEVEMENT_61_3_DESC\nAchievement description for Euro Truck Simulator 2 shown on the Steam website (http://steamcommunity.com/stats/227300/achievements/). Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
-  },
-  "NEW_ACHIEVEMENT_61_3_SHORT": {
-    "message": "트럭 운전 능력 시험에서 최소 23가지 시나리오에서 합격 조건을 완료하십시오",
-    "description": "Id: NEW_ACHIEVEMENT_61_3_SHORT\nShort version of achievement description for Euro Truck Simulator 2. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit."
   },
   "NEW_ACHIEVEMENT_10_29_NAME": {
     "message": "발트 관광객",
@@ -568,11 +532,11 @@
     "description": "Id: NEW_ACHIEVEMENT_10_14_NAME\nAchievement name for Euro Truck Simulator 2 shown on the Steam website (http://steamcommunity.com/stats/227300/achievements/). Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
   },
   "NEW_ACHIEVEMENT_10_14_DESC": {
-    "message": "Heavy Cargo Pack에서 최소 8번의 독특한 화물을 운송하십시오",
+    "message": "Heavy Cargo Pack에서 최소 8번의 중량물을 운송하십시오",
     "description": "Id: NEW_ACHIEVEMENT_10_14_DESC\nAchievement description for Euro Truck Simulator 2 shown on the Steam website (http://steamcommunity.com/stats/227300/achievements/). Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
   },
   "NEW_ACHIEVEMENT_10_14_SHORT": {
-    "message": "Heavy Cargo Pack에서 최소 8번의 독특한 화물을 운송하십시오",
+    "message": "Heavy Cargo Pack에서 최소 8번의 중량물을 운송하십시오",
     "description": "Id: NEW_ACHIEVEMENT_10_14_SHORT\nShort version of achievement description for Euro Truck Simulator 2. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit."
   },
   "NEW_ACHIEVEMENT_10_13_NAME": {
@@ -856,11 +820,11 @@
     "description": "Id: achievement_sc_cows_to_farm_NAME\nAchievement name for Euro Truck Simulator 2 shown on the Steam website (http://steamcommunity.com/stats/227300/achievements/). Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
   },
   "achievement_sc_cows_to_farm_DESC": {
-    "message": "스칸디나비아의 모든 회사에 가축을 운송하십시오",
+    "message": "스칸디나비아로 모든 회사에 가축을 운송하십시오",
     "description": "Id: achievement_sc_cows_to_farm_DESC\nAchievement description for Euro Truck Simulator 2 shown on the Steam website (http://steamcommunity.com/stats/227300/achievements/). Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
   },
   "achievement_sc_cows_to_farm_SHORT": {
-    "message": "스칸디나비아의 모든 회사에 가축을 운송하십시오",
+    "message": "스칸디나비아로 모든 회사에 가축을 운송하십시오",
     "description": "Id: achievement_sc_cows_to_farm_SHORT\nShort version of achievement description for Euro Truck Simulator 2. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit."
   },
   "achievement_sc_container_ports_NAME": {
@@ -976,11 +940,11 @@
     "description": "Id: NEW_ACHIEVEMENT_10_22_NAME\nAchievement name for Euro Truck Simulator 2 shown on the Steam website (http://steamcommunity.com/stats/227300/achievements/). Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
   },
   "NEW_ACHIEVEMENT_10_22_DESC": {
-    "message": "오버사이즈 화물 독특한 운송을 최소 10회 완료하십시오",
+    "message": "오버사이즈 화물 운송을 10회 완료하십시오",
     "description": "Id: NEW_ACHIEVEMENT_10_22_DESC\nAchievement description for Euro Truck Simulator 2 shown on the Steam website (http://steamcommunity.com/stats/227300/achievements/). Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
   },
   "NEW_ACHIEVEMENT_10_22_SHORT": {
-    "message": "오버사이즈 화물 독특한 운송을 최소 10회 완료하십시오",
+    "message": "오버사이즈 화물 운송을 10회 완료하십시오",
     "description": "Id: NEW_ACHIEVEMENT_10_22_SHORT\nShort version of achievement description for Euro Truck Simulator 2. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit."
   },
   "NEW_ACHIEVEMENT_10_4_NAME": {
@@ -1108,11 +1072,11 @@
     "description": "Id: NEW_ACHIEVEMENT_29_23_NAME\nAchievement name for Euro Truck Simulator 2 shown on the Steam website (http://steamcommunity.com/stats/227300/achievements/). Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
   },
   "NEW_ACHIEVEMENT_29_23_DESC": {
-    "message": "서발칸 반도에 있는 회사들로부터 다음 화물을 명시된 순서대로 화물을 배송하여 생산 체인을 완성하십시오: 광석, 알루미늄 주괴, 전선, 전자 제품, 캠핑카",
+    "message": "명시된 순서대로 화물을 배송하여 생산 체인을 완성하십시오: 광석 (보크사이트 터미널), 알루미늄 주괴 (알루미늄 공장), 전선 (베투니아 시장), 전자제품 (라이트 공장 유메파), 캠퍼밴 (라루스 자동차 공장)",
     "description": "Id: NEW_ACHIEVEMENT_29_23_DESC\nAchievement description for Euro Truck Simulator 2 shown on the Steam website (http://steamcommunity.com/stats/227300/achievements/). Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
   },
   "NEW_ACHIEVEMENT_29_23_SHORT": {
-    "message": "서발칸반도에서 명시된 순서대로 화물을 배송하십시오: 광석, 알루미늄 주괴, 전선, 전자 제품, 캠핑카",
+    "message": "명시된 순서대로 화물을 배송하십시오: 광석, 알루미늄 주괴, 전선, 전자 제품, 캠핑카",
     "description": "Id: NEW_ACHIEVEMENT_29_23_SHORT\nShort version of achievement description for Euro Truck Simulator 2. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit."
   },
   "NEW_ACHIEVEMENT_29_31_NAME": {

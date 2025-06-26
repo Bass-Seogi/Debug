@@ -107,6 +107,10 @@
 		"message": "캐빈 후방",
 		"description": "Id: rear2_cab\nGroup: Various accessory slots or accessory names."
 	},
+	"ats_rearstep": {
+		"message": "후방 스텝",
+		"description": "Id: rearstep\nGroup: Various accessory slots or accessory names."
+	},
 	"ats_roof_window": {
 		"message": "지붕 윈도우",
 		"description": "Id: roof_window\nGroup: Various accessory slots or accessory names."
@@ -166,6 +170,10 @@
 	"ats_aero2": {
 		"message": "에어로 II",
 		"description": "Id: aero2\nSpecific accesory name (eg. Freightliner Cascadia)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_aero_chrom": {
+		"message": "에어로 크롬",
+		"description": "Id: aero_chrom\nSpecific accesory name (eg. Freightliner Cascadia)\nGroup: Various accessory slots or accessory names."
 	},
 	"ats_aero_paint": {
 		"message": "에어로 페인트",
@@ -375,6 +383,10 @@
 		"message": "기타 케이스",
 		"description": "Id: guitar_case\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
 	},
+	"ats_happy_hog": {
+		"message": "해피 호그",
+		"description": "Id: happy_hog\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
 	"ats_hockey_stick": {
 		"message": "하키 스틱",
 		"description": "Id: hockey_stick\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
@@ -470,6 +482,10 @@
 	"ats_plush_lion": {
 		"message": "봉제 사자",
 		"description": "Id: plush_lion\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_porcelain_wild_rose": {
+		"message": "도자기 야생 장미",
+		"description": "Id: porcelain_wild_rose\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
 	},
 	"ats_power_inverter": {
 		"message": "파워 인버터",
@@ -788,7 +804,7 @@
 		"description": "Id: cn_cans\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_cn_cattle_equipment": {
-		"message": "소 장비",
+		"message": "가축 장비",
 		"description": "Id: cn_cattle_equipment\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_cn_circuit_breakers": {
@@ -803,6 +819,10 @@
 		"message": "페인트",
 		"description": "Id: cn_colors\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
+	"ats_cn_compact_tractor": {
+		"message": "콤팩터 트랙터",
+		"description": "Id: cn_compact_tractor\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
 	"ats_cn_concrete_barrier": {
 		"message": "콘크리트 배리어",
 		"description": "Id: cn_concrete_barrier\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
@@ -814,6 +834,14 @@
 	"ats_cn_const_houses": {
 		"message": "컨테이너 주택",
 		"description": "Id: cn_const_houses\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_cooling_tower": {
+		"message": "냉각탑",
+		"description": "Id: cn_cooling_tower\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_corn_head": {
+		"message": "콘 헤드",
+		"description": "Id: cn_corn_head\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_cn_cotton_lint": {
 		"message": "목화 린트",
@@ -1106,6 +1134,10 @@
 	"ats_cn_windrower": {
 		"message": "윈드로어",
 		"description": "Id: cn_windrower\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_wire_rod_coil": {
+		"message": "와이어로드 코일",
+		"description": "Id: cn_wire_rod_coil\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_cn_yard_truck": {
 		"message": "야드 트럭",
@@ -2003,6 +2035,10 @@
 		"message": "아이다호",
 		"description": "Id: idaho\nGroup: Names of countries/states"
 	},
+	"ats_iowa": {
+		"message": "아이오와",
+		"description": "Id: iowa\nGroup: Names of countries/states"
+	},
 	"ats_kansas": {
 		"message": "캔자스",
 		"description": "Id: kansas\nGroup: Names of countries/states"
@@ -2175,6 +2211,10 @@
 		"message": "시더시티",
 		"description": "Id: cedar_city\nGroup: Names of cities"
 	},
+	"ats_cedar_rapids": {
+		"message": "시더래피즈",
+		"description": "Id: cedar_rapids\nGroup: Names of cities"
+	},
 	"ats_chadron": {
 		"message": "채드론",
 		"description": "Id: chadron\nGroup: Names of cities"
@@ -2231,6 +2271,10 @@
 		"message": "코퍼스크리스티",
 		"description": "Id: corpus_christi\nGroup: Names of cities"
 	},
+	"ats_council_bluffs": {
+		"message": "카운실 블러프스",
+		"description": "Id: council_bluffs\nGroup: Names of cities"
+	},
 	"ats_dalhart": {
 		"message": "달하트",
 		"description": "Id: dalhart\nGroup: Names of cities"
@@ -2238,6 +2282,10 @@
 	"ats_dallas": {
 		"message": "댈러스",
 		"description": "Id: dallas\nGroup: Names of cities"
+	},
+	"ats_davenport": {
+		"message": "대븐포트",
+		"description": "Id: davenport\nGroup: Names of cities"
 	},
 	"ats_del_rio": {
 		"message": "델 리오",
@@ -2247,9 +2295,17 @@
 		"message": "덴버",
 		"description": "Id: denver\nGroup: Names of cities"
 	},
+	"ats_des_moines": {
+		"message": "데스 모인",
+		"description": "Id: des_moines\nGroup: Names of cities"
+	},
 	"ats_dodge_city": {
 		"message": "도지시티",
 		"description": "Id: dodge_city\nGroup: Names of cities"
+	},
+	"ats_dubuque": {
+		"message": "두부크",
+		"description": "Id: dubuque\nGroup: Names of cities"
 	},
 	"ats_durango": {
 		"message": "두랑고",
@@ -2322,6 +2378,10 @@
 	"ats_fort_collins": {
 		"message": "포트콜린스",
 		"description": "Id: fort_collins\nGroup: Names of cities"
+	},
+	"ats_fort_dodge": {
+		"message": "포트 도지",
+		"description": "Id: fort_dodge\nGroup: Names of cities"
 	},
 	"ats_fort_smith": {
 		"message": "포트스미스",
@@ -2463,6 +2523,10 @@
 		"message": "인디오",
 		"description": "Id: indio\nGroup: Names of cities"
 	},
+	"ats_iowa_city": {
+		"message": "아이오와 시티",
+		"description": "Id: iowa_city\nGroup: Names of cities"
+	},
 	"ats_jackpot": {
 		"message": "잭팟",
 		"description": "Id: jackpot\nGroup: Names of cities"
@@ -2599,6 +2663,10 @@
 		"message": "메리빌",
 		"description": "Id: maryville\nGroup: Names of cities"
 	},
+	"ats_mason_city": {
+		"message": "메이슨 시티",
+		"description": "Id: mason_city\nGroup: Names of cities"
+	},
 	"ats_medford": {
 		"message": "메드퍼드",
 		"description": "Id: medford\nGroup: Names of cities"
@@ -2698,6 +2766,10 @@
 	"ats_ontario": {
 		"message": "온타리오",
 		"description": "Id: ontario\nGroup: Names of cities"
+	},
+	"ats_ottumwa": {
+		"message": "오텀와",
+		"description": "Id: ottumwa\nGroup: Names of cities"
 	},
 	"ats_oxnard": {
 		"message": "옥스나드",
@@ -2899,6 +2971,10 @@
 		"message": "시에라 비스타",
 		"description": "Id: sierra_vista\nGroup: Names of cities"
 	},
+	"ats_sioux_city": {
+		"message": "수 시티",
+		"description": "Id: sioux_city\nGroup: Names of cities"
+	},
 	"ats_socorro": {
 		"message": "소코로",
 		"description": "Id: socorro\nGroup: Names of cities"
@@ -3014,6 +3090,10 @@
 	"ats_waco": {
 		"message": "웨이코",
 		"description": "Id: waco\nGroup: Names of cities"
+	},
+	"ats_waterloo": {
+		"message": "워털루",
+		"description": "Id: waterloo\nGroup: Names of cities"
 	},
 	"ats_wenatchee": {
 		"message": "웨나치",

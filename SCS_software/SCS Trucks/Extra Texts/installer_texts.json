@@ -8,7 +8,7 @@
         "description": "Id: app_path_not_found\nError message shown when DLC installer is unable to automatically locate folder containing the game."
     },
     "not_found": {
-        "message": "지정된 폴더 안에 {#BASE_PRODUCT_NAME}가 포함되어 있지 않습니다. 게임이 들어있는 폴더를 선택하세요.",
+        "message": "지정된 폴더 안에 {#BASE_PRODUCT_NAME}가 포함되어 있지 않습니다. 게임이 들어있는 폴더를 선택하십시오.",
         "description": "Id: not_found\nError message shown by DLC installer when the user selects folder which does not contain the game."
     },
     "not_dir": {
