@@ -2296,7 +2296,7 @@
 		"description": "Id: denver\nGroup: Names of cities"
 	},
 	"ats_des_moines": {
-		"message": "데스 모인",
+		"message": "디 모인",
 		"description": "Id: des_moines\nGroup: Names of cities"
 	},
 	"ats_dodge_city": {
@@ -2304,7 +2304,7 @@
 		"description": "Id: dodge_city\nGroup: Names of cities"
 	},
 	"ats_dubuque": {
-		"message": "두부크",
+		"message": "더뷰크",
 		"description": "Id: dubuque\nGroup: Names of cities"
 	},
 	"ats_durango": {
@@ -2380,7 +2380,7 @@
 		"description": "Id: fort_collins\nGroup: Names of cities"
 	},
 	"ats_fort_dodge": {
-		"message": "포트 도지",
+		"message": "포르 다지",
 		"description": "Id: fort_dodge\nGroup: Names of cities"
 	},
 	"ats_fort_smith": {

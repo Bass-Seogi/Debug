@@ -9120,7 +9120,7 @@
 		"description": "Id: cn_maple_syrup\nGroup: Names of individual cargos."
 	},
 	"cn_mason_jars": {
-		"message": "유리병",
+		"message": "메이슨 병",
 		"description": "Id: cn_mason_jars\nGroup: Names of individual cargos."
 	},
 	"cn_outdoor_floor_tiles": {
@@ -20888,7 +20888,7 @@
 		"description": "Id: ia_cut_auburn\nGroup: Names of point of interest cutscenes."
 	},
 	"ia_cut_dubuque_dam": {
-		"message": "두부크 락 앤 댐 11",
+		"message": "더뷰크 락 앤 댐 11",
 		"description": "Id: ia_cut_dubuque_dam\nGroup: Names of point of interest cutscenes."
 	},
 	"mo_cut_ozark": {

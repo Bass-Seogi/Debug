@@ -9508,7 +9508,7 @@
 		"description": "Id: cn_maple_syrup\nGroup: Names of individual cargos."
 	},
 	"cn_mason_jars": {
-		"message": "유리병",
+		"message": "메이슨 병",
 		"description": "Id: cn_mason_jars\nGroup: Names of individual cargos."
 	},
 	"cn_outdoor_floor_tiles": {
@@ -19644,19 +19644,19 @@
 		"description": "Id: tn_hct_double_4_2s_4\nGroup: Trailer chain/chassis configurations"
 	},
 	"tn_1axle_center": {
-		"message": "1액슬, 중앙부",
+		"message": "1액슬, 중심",
 		"description": "Id: tn_1axle_center\nComponent chassis name (upgrade screen only)\nGroup: Trailer chain/chassis configurations"
 	},
 	"tn_2axle_center": {
-		"message": "2액슬, 중앙부",
+		"message": "2액슬, 중심",
 		"description": "Id: tn_2axle_center\nComponent chassis name (upgrade screen only)\nGroup: Trailer chain/chassis configurations"
 	},
 	"tn_2axle_center_spread": {
-		"message": "2액슬, 중앙부, 스프레드",
+		"message": "2액슬, 중심, 스프레드",
 		"description": "Id: tn_2axle_center_spread\nComponent chassis name (upgrade screen only)\nGroup: Trailer chain/chassis configurations"
 	},
 	"tn_3axle_center": {
-		"message": "3액슬, 중앙부",
+		"message": "3액슬, 중심",
 		"description": "Id: tn_3axle_center\nComponent chassis name (upgrade screen only)\nGroup: Trailer chain/chassis configurations"
 	},
 	"tn_bdouble_2axle": {
