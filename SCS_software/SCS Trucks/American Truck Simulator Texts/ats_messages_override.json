@@ -2296,7 +2296,7 @@
 		"description": "Id: denver\nGroup: Names of cities"
 	},
 	"ats_des_moines": {
-		"message": "디 모인",
+		"message": "디모인",
 		"description": "Id: des_moines\nGroup: Names of cities"
 	},
 	"ats_dodge_city": {
@@ -2996,7 +2996,7 @@
 		"description": "Id: st_george\nGroup: Names of cities"
 	},
 	"ats_st_joseph": {
-		"message": "성 요셉",
+		"message": "세인트조지프",
 		"description": "Id: st_joseph\nGroup: Names of cities"
 	},
 	"ats_st_louis": {

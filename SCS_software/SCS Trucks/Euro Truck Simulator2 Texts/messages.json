@@ -9856,7 +9856,7 @@
 		"description": "Id: cn_auger_wagon\nGroup: Names of cargo for DLC Farm Machinery"
 	},
 	"cn_autonomous_tractor": {
-		"message": "자율 트랙터",
+		"message": "자율 주행 트랙터",
 		"description": "Id: cn_autonomous_tractor\nGroup: Names of cargo for DLC Farm Machinery"
 	},
 	"cn_crawler_tractor": {
@@ -9864,7 +9864,7 @@
 		"description": "Id: cn_crawler_tractor\nGroup: Names of cargo for DLC Farm Machinery"
 	},
 	"cn_disc_harrows": {
-		"message": "디스크 하로우즈",
+		"message": "디스크 해로우",
 		"description": "Id: cn_disc_harrows\nGroup: Names of cargo for DLC Farm Machinery"
 	},
 	"cn_fertilizer_spreader": {
@@ -9872,7 +9872,7 @@
 		"description": "Id: cn_fertilizer_spreader\nGroup: Names of cargo for DLC Farm Machinery"
 	},
 	"cn_forage_harvester": {
-		"message": "목초 수확기",
+		"message": "마초 수확기",
 		"description": "Id: cn_forage_harvester\nGroup: Names of cargo for DLC Farm Machinery"
 	},
 	"cn_planter": {
@@ -9884,7 +9884,7 @@
 		"description": "Id: cn_sprayer\nGroup: Names of cargo for DLC Farm Machinery"
 	},
 	"cn_square_baler": {
-		"message": "사각베일러",
+		"message": "사각 베일러",
 		"description": "Id: cn_square_baler\nGroup: Names of cargo for DLC Farm Machinery"
 	},
 	"cn_forwarder": {
@@ -13636,7 +13636,7 @@
 		"description": "Id: saint_laurent\nGroup: Names of cities"
 	},
 	"st_laurent": {
-		"message": "생로랑",
+		"message": "생 로랑",
 		"description": "Id: st_laurent\nGroup: Names of cities"
 	},
 	"saint_petersburg": {
@@ -14748,7 +14748,7 @@
 		"description": "Id: hshifter_gb_setup_desc2\nGroup: H-Shifter gearbox setup page\nGroup: Input wizard"
 	},
 	"autonomous_tractor_plush": {
-		"message": "자율 트랙터 봉제 인형",
+		"message": "자율 주행 트랙터 봉제 인형",
 		"description": "Id: autonomous_tractor_plush\nGroup: Toys and toy sets\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"beech_rocking_horse": {

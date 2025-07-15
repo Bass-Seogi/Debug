@@ -9284,7 +9284,7 @@
 		"description": "Id: cn_maple_syrup\nGroup: Names of individual cargos."
 	},
 	"cn_mason_jars": {
-		"message": "유리병",
+		"message": "메이슨 병",
 		"description": "Id: cn_mason_jars\nGroup: Names of individual cargos."
 	},
 	"cn_outdoor_floor_tiles": {
@@ -20888,7 +20888,7 @@
 		"description": "Id: mo_cut_cape_girardeau\nGroup: Names of point of interest cutscenes."
 	},
 	"mo_cut_joseph": {
-		"message": "성 요셉",
+		"message": "세인트조지프",
 		"description": "Id: mo_cut_joseph\nGroup: Names of point of interest cutscenes."
 	},
 	"mo_cut_maryville": {

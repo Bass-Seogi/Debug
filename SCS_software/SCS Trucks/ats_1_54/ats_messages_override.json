@@ -252,7 +252,7 @@
 		"description": "Id: ats_truck_bag\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
 	},
 	"ats_autonomous_tractor_plush": {
-		"message": "자율 트랙터 봉제 인형",
+		"message": "자율 주행 트랙터 봉제 인형",
 		"description": "Id: autonomous_tractor_plush\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
 	},
 	"ats_baseball_ball": {
@@ -760,7 +760,7 @@
 		"description": "Id: cn_auger_wagon\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_cn_autonomous_tractor": {
-		"message": "자율 트랙터",
+		"message": "자율 주행 트랙터",
 		"description": "Id: cn_autonomous_tractor\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_cn_beet_harvester": {
@@ -860,7 +860,7 @@
 		"description": "Id: cn_curtains\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_cn_disc_harrows": {
-		"message": "디스크 하로우즈",
+		"message": "디스크 해로우",
 		"description": "Id: cn_disc_harrows\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_cn_dryfruit": {
@@ -880,7 +880,7 @@
 		"description": "Id: cn_fertilizer_tank\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_cn_forage_harvester": {
-		"message": "목초 수확기",
+		"message": "마초 수확기",
 		"description": "Id: cn_forage_harvester\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_cn_forwarder": {
@@ -1128,7 +1128,7 @@
 		"description": "Id: cn_sprayer\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_cn_square_baler": {
-		"message": "사각베일러",
+		"message": "사각 베일러",
 		"description": "Id: cn_square_baler\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_cn_stumper": {
@@ -3000,7 +3000,7 @@
 		"description": "Id: st_george\nGroup: Names of cities"
 	},
 	"ats_st_joseph": {
-		"message": "성 요셉",
+		"message": "세인트조지프",
 		"description": "Id: st_joseph\nGroup: Names of cities"
 	},
 	"ats_st_louis": {

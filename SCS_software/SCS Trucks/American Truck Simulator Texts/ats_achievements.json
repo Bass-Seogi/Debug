@@ -12,7 +12,7 @@
     "description": "Id: NEW_ACHIEVEMENT_4_9_SHORT\nShort version of achievement description for American Truck Simulator. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit."
   },
   "NEW_ACHIEVEMENT_4_14_NAME": {
-    "message": "가스 거즐러",
+    "message": "연료 낭비자",
     "description": "Id: NEW_ACHIEVEMENT_4_14_NAME\nAchievement name for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
   },
   "NEW_ACHIEVEMENT_4_14_DESC": {
@@ -96,7 +96,7 @@
     "description": "Id: NEW_ACHIEVEMENT_4_3_SHORT\nShort version of achievement description for American Truck Simulator. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit."
   },
   "NEW_ACHIEVEMENT_4_6_NAME": {
-    "message": "하이 파이브",
+    "message": "하이파이브",
     "description": "Id: NEW_ACHIEVEMENT_4_6_NAME\nAchievement name for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
   },
   "NEW_ACHIEVEMENT_4_6_DESC": {
@@ -132,7 +132,7 @@
     "description": "Id: NEW_ACHIEVEMENT_4_5_SHORT\nShort version of achievement description for American Truck Simulator. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit."
   },
   "NEW_ACHIEVEMENT_4_11_NAME": {
-    "message": "내 생각엔 좋네",
+    "message": "마음에 드는 것 같아요",
     "description": "Id: NEW_ACHIEVEMENT_4_11_NAME\nAchievement name for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
   },
   "NEW_ACHIEVEMENT_4_11_DESC": {
