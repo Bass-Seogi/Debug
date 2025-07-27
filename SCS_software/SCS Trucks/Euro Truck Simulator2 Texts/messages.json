@@ -16096,7 +16096,7 @@
 		"description": "Id: low_bumper\nName specification of low bumper\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"camera": {
-		"message": "카메라",
+		"message": "미러캠",
 		"description": "Id: camera\nCamera type accessory (eg. mirror variant)\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"custom_color": {
@@ -25352,7 +25352,7 @@
 		"description": "Id: aca_goal_time_limit\nGroup: Scenarios general"
 	},
 	"aca_goal_exterior_drive": {
-		"message": "카메라",
+		"message": "미러캠",
 		"description": "Id: aca_goal_exterior_drive\nGroup: Scenarios general"
 	},
 	"aca_goal_exterior_drive_false": {

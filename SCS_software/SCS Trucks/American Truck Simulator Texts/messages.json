@@ -13560,7 +13560,7 @@
 		"description": "Id: low_bumper\nName specification of low bumper\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"camera": {
-		"message": "카메라",
+		"message": "미러캠",
 		"description": "Id: camera\nCamera type accessory (eg. mirror variant)\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"custom_color": {
@@ -20944,7 +20944,7 @@
 		"description": "Id: mo_cut_cape_girardeau\nGroup: Names of point of interest cutscenes."
 	},
 	"mo_cut_joseph": {
-		"message": "세인트조지프",
+		"message": "세인트 조셉",
 		"description": "Id: mo_cut_joseph\nGroup: Names of point of interest cutscenes."
 	},
 	"mo_cut_maryville": {
