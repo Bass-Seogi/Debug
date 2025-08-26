@@ -1160,16 +1160,12 @@
 		"description": "Id: delete\nButton used to delete something (profile, saved game)."
 	},
 	"delete_profile": {
-		"message": "경력 삭제",
+		"message": "프로필 삭제",
 		"description": "Id: delete_profile\nButton used to delete profile."
 	},
 	"upgrade": {
 		"message": "업그레이드",
 		"description": "Id: upgrade\nButton allowing user to upgrade something."
-	},
-	"confirm": {
-		"message": "확인",
-		"description": "Id: confirm\nButton which applies the state configured in the screen."
 	},
 	"continue": {
 		"message": "계속합니다",
@@ -1684,12 +1680,8 @@
 		"description": "Id: cargo_type_urgent\nGroup: Cargo types.\nGroup: Job Market"
 	},
 	"profile_sel_t": {
-		"message": "경력 선택",
+		"message": "프로필 관리자",
 		"description": "Id: profile_sel_t\nTitle of the screen. Please keep in upper case where possible.\nGroup: Profile selection."
-	},
-	"profile_sel": {
-		"message": "경력 변경",
-		"description": "Id: profile_sel\nGroup: Profile selection."
 	},
 	"launchpad_t": {
 		"message": "EURO TRUCK SIMULATOR 2 - 타이틀 화면",
@@ -1707,10 +1699,6 @@
 		"message": "프로필이나 게임 모드를 변경하려면 타이틀 화면으로 나가십시오.",
 		"description": "Id: profile_sel_help\nHelp message associated with profile selection icon.\nGroup: Profile selection."
 	},
-	"profile_sel_desc": {
-		"message": "기존 경력을 선택하거나 새로운 경력을 시작하십시오.",
-		"description": "Id: profile_sel_desc\nGroup: Profile selection."
-	},
 	"wanna_remove_profile": {
 		"message": "이 프로필을 삭제하시겠습니까?",
 		"description": "Id: wanna_remove_profile\nGroup: Profile selection."
@@ -1723,21 +1711,17 @@
 		"message": "주행 거리:",
 		"description": "Id: profile_distance\nSuffixed with distance in miles or km to indicate total distance driven by the profile. For example \"Distance driven: 10 mi\"\nGroup: Profile selection."
 	},
-	"start_game": {
-		"message": "경력 시작",
-		"description": "Id: start_game\nButton which selects profile and continues in game.\nGroup: Profile selection."
-	},
 	"continue_game": {
 		"message": "업무 진행하기",
 		"description": "Id: continue_game\nButton which selects profile and continues in game.\nGroup: Profile selection."
 	},
 	"use_selected_profile": {
-		"message": "경력 선택",
+		"message": "선택한 프로필 사용",
 		"description": "Id: use_selected_profile\nButton which selects profile.\nGroup: Profile selection."
 	},
 	"new": {
-		"message": "@@profile_create_t@@",
-		"description": "Id: new\nButton which opens new profile creation dialog. No need for translation\nGroup: Profile selection."
+		"message": "새 프로필",
+		"description": "Id: new\nButton which opens new profile creation dialog.\nGroup: Profile selection."
 	},
 	"profile_status": {
 		"message": "프로필 상태",
@@ -1752,7 +1736,7 @@
 		"description": "Id: manage_profiles_btn\nButton which opens profile selection screen for managing profiles.\nGroup: Profile selection."
 	},
 	"edit_profile_btn": {
-		"message": "경력 편집",
+		"message": "프로필 편집",
 		"description": "Id: edit_profile_btn\nButton which opens edit profile screen.\nGroup: Profile selection."
 	},
 	"incompatible_profile_upgrade": {
@@ -1762,10 +1746,6 @@
 	"incompatible_profile_upgrade_short": {
 		"message": "호환되지 않는 프로필",
 		"description": "Id: incompatible_profile_upgrade_short\nIncompatible profile warning text\nGroup: Profile selection."
-	},
-	"incompatible_profile_upgrade_long": {
-		"message": "게임을 최신 버전으로 업그레이드해 보십시오.",
-		"description": "Id: incompatible_profile_upgrade_long\nIncompatible profile warning text\nGroup: Profile selection."
 	},
 	"no_profile": {
 		"message": "프로필이 선택되지 않음",
@@ -1847,10 +1827,6 @@
 		"message": "엑스트라",
 		"description": "Id: extras\nGroup: Profile selection."
 	},
-	"signed_in": {
-		"message": "로그인 완료:",
-		"description": "Id: signed_in\nGroup: Profile selection."
-	},
 	"profile_set_failed": {
 		"message": "선택한 프로필을 불러오지 못했습니다. 다시 시도하거나 다른 프로필을 사용하십시오.",
 		"description": "Id: profile_set_failed\nmessage box shown on the title screen if switching to a selected profile fails\nGroup: Profile selection."
@@ -1892,19 +1868,15 @@
 		"description": "Id: launchpad_tt_globe_not_connected\nGroup: Launchpad tooltips."
 	},
 	"launchpad_tt_profile_details": {
-		"message": "경력 세부정보",
+		"message": "프로필 세부 정보",
 		"description": "Id: launchpad_tt_profile_details\nGroup: Launchpad tooltips."
 	},
 	"profile_create_t": {
-		"message": "새로운 경력",
+		"message": "새 프로필",
 		"description": "Id: profile_create_t\nTitle of the screen. Please keep in upper case where possible.\nGroup: Window used to create a new profile."
 	},
-	"profile_create_settings_desc": {
-		"message": "경력을 쌓고 창조하십시오.",
-		"description": "Id: profile_create_settings_desc\nGroup: Window used to create a new profile."
-	},
 	"profile_name": {
-		"message": "운전자 이름",
+		"message": "이름",
 		"description": "Id: profile_name\nLabel of edit box used to enter name of the profile.\nGroup: Window used to create a new profile."
 	},
 	"profile_identity": {
@@ -1914,10 +1886,6 @@
 	"profile_fav_brand": {
 		"message": "선호하는 트럭 디자인",
 		"description": "Id: profile_fav_brand\nLabel of combo box used to select favorite truck brand.\nGroup: Window used to create a new profile."
-	},
-	"confirm_truck_preference": {
-		"message": "첫 작업을 시작할 준비가 되셨나요?",
-		"description": "Id: confirm_truck_preference\nGroup: Window used to create a new profile."
 	},
 	"profile_logo": {
 		"message": "회사 로고",
@@ -1932,11 +1900,11 @@
 		"description": "Id: profile_map_name\nLabel of edit box used to select game map.\nGroup: Window used to create a new profile."
 	},
 	"enter_name_default": {
-		"message": "종류...",
+		"message": "- 이름을 입력하십시오 -",
 		"description": "Id: enter_name_default\nText shown in the profile name edit box if no name is entered.\nGroup: Window used to create a new profile."
 	},
 	"enter_comp_name_default": {
-		"message": "종류...",
+		"message": "- 회사 이름을 입력하십시오 -",
 		"description": "Id: enter_comp_name_default\nText shown in the company name edit box if no name is entered.\nGroup: Window used to create a new profile."
 	},
 	"create": {
@@ -1950,74 +1918,6 @@
 	"change": {
 		"message": "변경",
 		"description": "Id: change\nButton which allows to change profiles There is limited space allowing for one line of 7 'W'\nGroup: Window used to create a new profile."
-	},
-	"profile_already_exists": {
-		"message": "해당 이름을 가진 프로필이 이미 있기 때문에 해당 이름으로 프로필을 만들 수 없습니다.",
-		"description": "Id: profile_already_exists\nCreate profile screen, cannot create profile because of name conflict.\nGroup: Window used to create a new profile."
-	},
-	"career_settings": {
-		"message": "추가 경력 설정",
-		"description": "Id: career_settings\nKeep capitalized\nGroup: Window used to create a new profile."
-	},
-	"profile_create_connect_desc": {
-		"message": "당신의 경력은 현재 $SHORTCUT1$$FRONTEND_URL$ 온라인 경험과 단절되어 있습니다.",
-		"description": "Id: profile_create_connect_desc\nGroup: Window used to create a new profile."
-	},
-	"connect_to_wotr_login_t": {
-		"message": "연결",
-		"description": "Id: connect_to_wotr_login_t\nGroup: Window used to create a new profile."
-	},
-	"connect_to_wotr_skip_t": {
-		"message": "나중에 연결",
-		"description": "Id: connect_to_wotr_skip_t\nGroup: Window used to create a new profile."
-	},
-	"connect_to_wotr_login": {
-		"message": "이벤트에 참여하여 보상을 받고 #BestCommunityEver와 소통하십시오",
-		"description": "Id: connect_to_wotr_login\nGroup: Window used to create a new profile."
-	},
-	"connect_to_wotr_skip": {
-		"message": "나중에 경력 편집에서 World of Trucks에 연결할 수 있습니다",
-		"description": "Id: connect_to_wotr_skip\nGroup: Window used to create a new profile."
-	},
-	"profile_loading_avatars": {
-		"message": "로딩",
-		"description": "Id: profile_loading_avatars\nGroup: Window used to create a new profile."
-	},
-	"profile_overlay_hint_cycle": {
-		"message": "순환 선택",
-		"description": "Id: profile_overlay_hint_cycle\nGroup: Window used to create a new profile."
-	},
-	"profile_company_t": {
-		"message": "회사 브랜딩",
-		"description": "Id: profile_company_t\nGroup: Company name and Logo selection screen. Keep the current capitalization for all strings.\nGroup: Window used to create a new profile."
-	},
-	"profile_company_desc": {
-		"message": "회사를 가장 잘 대표하는 이름과 로고를 선택하십시오.",
-		"description": "Id: profile_company_desc\nGroup: Company name and Logo selection screen. Keep the current capitalization for all strings.\nGroup: Window used to create a new profile."
-	},
-	"profile_loading_company_logos": {
-		"message": "로딩",
-		"description": "Id: profile_loading_company_logos\nGroup: Company name and Logo selection screen. Keep the current capitalization for all strings.\nGroup: Window used to create a new profile."
-	},
-	"verify_comp_changes": {
-		"message": "회사 브랜딩에 변경 사항이 있습니다.<br><br>모든 변경 사항을 취소하시겠습니까?",
-		"description": "Id: verify_comp_changes\nGroup: Company name and Logo selection screen. Keep the current capitalization for all strings.\nGroup: Window used to create a new profile."
-	},
-	"preffered_truck_title": {
-		"message": "트럭 선호도",
-		"description": "Id: preffered_truck_title\nGroup: Preferred Truck selection screen.\nGroup: Window used to create a new profile."
-	},
-	"prefered_truck_subtitle": {
-		"message": "다양한 트럭 중에서 선택하여 시작 경험을 쌓으세요. 각 옵션은 완벽한 선택입니다.",
-		"description": "Id: prefered_truck_subtitle\nGroup: Preferred Truck selection screen.\nGroup: Window used to create a new profile."
-	},
-	"random_truck": {
-		"message": "무작위",
-		"description": "Id: random_truck\nGroup: Preferred Truck selection screen.\nGroup: Window used to create a new profile."
-	},
-	"confirm_preferred_truck": {
-		"message": "확인",
-		"description": "Id: confirm_preferred_truck\nGroup: Preferred Truck selection screen.\nGroup: Window used to create a new profile."
 	},
 	"enter_name": {
 		"message": "프로필 이름을 입력해주세요!",
@@ -2052,88 +1952,48 @@
 		"description": "Id: profile_exists_overwrite\nGroup: Error message boxes shown if player forgets to fill part of the dialog or if there is some other problem.\nGroup: Window used to create a new profile."
 	},
 	"profile_edit_t": {
-		"message": "경력 편집",
-		"description": "Id: profile_edit_t\nTitle of the screen. Please keep in upper case where possible.\nGroup: Window used to edit existing profile. Keep the current capitalization for all strings."
-	},
-	"profile_edit_avatar_t": {
-		"message": "드라이버 세부정보",
-		"description": "Id: profile_edit_avatar_t\nGroup: Window used to edit existing profile. Keep the current capitalization for all strings."
-	},
-	"profile_edit_desc": {
-		"message": "경력 옵션 수정.",
-		"description": "Id: profile_edit_desc\nGroup: Window used to edit existing profile. Keep the current capitalization for all strings."
-	},
-	"change_avatar": {
-		"message": "드라이버 편집",
-		"description": "Id: change_avatar\nGroup: Window used to edit existing profile. Keep the current capitalization for all strings."
+		"message": "프로필 편집",
+		"description": "Id: profile_edit_t\nTitle of the screen. Please keep in upper case where possible.\nGroup: Window used to edit existing profile."
 	},
 	"profile_login_t": {
 		"message": "온라인 프로필 로그인",
-		"description": "Id: profile_login_t\nTitle of the login screen. Please keep in upper case where possible.\nGroup: Window used to edit existing profile. Keep the current capitalization for all strings."
+		"description": "Id: profile_login_t\nTitle of the login screen. Please keep in upper case where possible.\nGroup: Window used to edit existing profile."
 	},
 	"online_info": {
-		"message": "접속 가능성",
-		"description": "Id: online_info\nKeep capitalized\nGroup: Window used to edit existing profile. Keep the current capitalization for all strings."
-	},
-	"wotr_account_label": {
-		"message": "World of Trucks 계정",
-		"description": "Id: wotr_account_label\nGroup: Window used to edit existing profile. Keep the current capitalization for all strings."
-	},
-	"use_online_avatar_label": {
-		"message": "World of Trucks 아바타 사용하기",
-		"description": "Id: use_online_avatar_label\nGroup: Window used to edit existing profile. Keep the current capitalization for all strings."
-	},
-	"profile_edit_login_t": {
-		"message": "@@wotr_account_label@@",
-		"description": "Id: profile_edit_login_t\nNo need for translation\nGroup: Window used to edit existing profile. Keep the current capitalization for all strings."
-	},
-	"profile_edit_login_desc": {
-		"message": "모든 게임 기능에 대한 전체 액세스 권한을 얻으려면 $SHORTCUT1$$FRONTEND_URL$ 계정에 연결하십시오.",
-		"description": "Id: profile_edit_login_desc\nGroup: Window used to edit existing profile. Keep the current capitalization for all strings."
-	},
-	"remember_psswd_hint": {
-		"message": "그대로 두면 나중에 비밀번호로 다시 로그인하라는 메시지가 표시됩니다.",
-		"description": "Id: remember_psswd_hint\nGroup: Window used to edit existing profile. Keep the current capitalization for all strings."
+		"message": "온라인 계정",
+		"description": "Id: online_info\nTitle for online account info in profile edit screen\nGroup: Window used to edit existing profile."
 	},
 	"acc_name": {
 		"message": "계정 이름/Email",
-		"description": "Id: acc_name\nGroup: Window used to edit existing profile. Keep the current capitalization for all strings."
+		"description": "Id: acc_name\nGroup: Window used to edit existing profile."
 	},
 	"passwd": {
 		"message": "비밀번호",
-		"description": "Id: passwd\nGroup: Window used to edit existing profile. Keep the current capitalization for all strings."
+		"description": "Id: passwd\nGroup: Window used to edit existing profile."
 	},
 	"remember_psswd": {
 		"message": "비밀번호 기억하기",
-		"description": "Id: remember_psswd\nGroup: Window used to edit existing profile. Keep the current capitalization for all strings."
+		"description": "Id: remember_psswd\nGroup: Window used to edit existing profile."
 	},
 	"show_psswd": {
 		"message": "비밀번호 보기",
-		"description": "Id: show_psswd\nCheckbox which makes content of the password entry field visible while entering a new password.\nGroup: Window used to edit existing profile. Keep the current capitalization for all strings."
+		"description": "Id: show_psswd\nCheckbox which makes content of the password entry field visible while entering a new password.\nGroup: Window used to edit existing profile."
 	},
 	"register": {
-		"message": "새 계정 만들기",
-		"description": "Id: register\nButton text\nGroup: Window used to edit existing profile. Keep the current capitalization for all strings."
-	},
-	"my_account": {
-		"message": "내 계정",
-		"description": "Id: my_account\nGroup: Window used to edit existing profile. Keep the current capitalization for all strings."
+		"message": "계정 만들기",
+		"description": "Id: register\nButton text\nGroup: Window used to edit existing profile."
 	},
 	"login": {
 		"message": "로그인",
-		"description": "Id: login\nButton text\nGroup: Window used to edit existing profile. Keep the current capitalization for all strings."
-	},
-	"disconnect": {
-		"message": "분리",
-		"description": "Id: disconnect\nGroup: Window used to edit existing profile. Keep the current capitalization for all strings."
+		"description": "Id: login\nButton text\nGroup: Window used to edit existing profile."
 	},
 	"account_password_not_specified": {
 		"message": "계정의 비밀번호가 지정되지 않았습니다.",
-		"description": "Id: account_password_not_specified\nGroup: Window used to edit existing profile. Keep the current capitalization for all strings."
+		"description": "Id: account_password_not_specified\nGroup: Window used to edit existing profile."
 	},
 	"use_online_avatar": {
 		"message": "온라인 아바타 사용하기",
-		"description": "Id: use_online_avatar\nCheckbox in edit profile screen to choose if WoTr avatar will be used as game avatar.\nGroup: Window used to edit existing profile. Keep the current capitalization for all strings."
+		"description": "Id: use_online_avatar\nCheckbox in edit profile screen to choose if WoTr avatar will be used as game avatar.\nGroup: Window used to edit existing profile."
 	},
 	"wait_title_verifying": {
 		"message": "계정 확인",
@@ -2232,7 +2092,7 @@
 		"description": "Id: decide_steam_input_mode_setup_simple\nButton opening Input Wizard.\nGroup: Steam Input mapping mode introduction message box."
 	},
 	"dlc_browser_t": {
-		"message": "DLC 브라우저",
+		"message": "다운로드 가능한 콘텐츠 (DLC) 브라우저",
 		"description": "Id: dlc_browser_t\nTitle of the screen. Please keep in upper case where possible.\nGroup: DLC browser."
 	},
 	"dlc_browser_btn": {
@@ -2287,10 +2147,6 @@
 		"message": "카고 팩",
 		"description": "Id: filter_cargo\nButton in filter droplist. Please keep it as short as possible.\nGroup: DLC browser."
 	},
-	"dlc_ownership_none": {
-		"message": "앞으로 다가올",
-		"description": "Id: dlc_ownership_none\nButton title. Please keep it as short as possible.\nGroup: DLC browser."
-	},
 	"dlc_ownership_free": {
 		"message": "무료",
 		"description": "Id: dlc_ownership_free\nButton title. Please keep it as short as possible.\nGroup: DLC browser."
@@ -2307,10 +2163,6 @@
 		"message": "출시 예정",
 		"description": "Id: dlc_ownership_upcoming\nButton title. Please keep it as short as possible.\nGroup: DLC browser."
 	},
-	"dlc_ownership_new": {
-		"message": "신규",
-		"description": "Id: dlc_ownership_new\nButton title. Please keep it as short as possible.\nGroup: DLC browser."
-	},
 	"dlc_browser_confirm": {
 		"message": "DLC 정보를 다운로드하시겠습니까?<br><br>자동으로 다운로드하려면 옵션에서 뉴스를 활성화하십시오.",
 		"description": "Id: dlc_browser_confirm\nGroup: DLC browser."
@@ -2326,70 +2178,6 @@
 	"dlc_add_wishlist": {
 		"message": "찜 목록에 추가",
 		"description": "Id: dlc_add_wishlist\nButton title. Please keep it as short as possible.\nGroup: DLC browser."
-	},
-	"dlc_visit_store": {
-		"message": "상점 방문",
-		"description": "Id: dlc_visit_store\nButton/tab in DLC browser. Please keep it as short as possible.\nGroup: DLC browser."
-	},
-	"dlc_category_featured": {
-		"message": "특징",
-		"description": "Id: dlc_category_featured\nButton/tab in DLC browser. Please keep it as short as possible.\nGroup: DLC browser."
-	},
-	"dlc_category_bundles": {
-		"message": "번들",
-		"description": "Id: dlc_category_bundles\nButton/tab in DLC browser. Please keep it as short as possible.\nGroup: DLC browser."
-	},
-	"dlc_category_map": {
-		"message": "지도",
-		"description": "Id: dlc_category_map\nButton/tab in DLC browser. Please keep it as short as possible.\nGroup: DLC browser."
-	},
-	"dlc_category_cargo": {
-		"message": "짐",
-		"description": "Id: dlc_category_cargo\nButton/tab in DLC browser. Please keep it as short as possible.\nGroup: DLC browser."
-	},
-	"dlc_category_trailer": {
-		"message": "트레일러",
-		"description": "Id: dlc_category_trailer\nButton/tab in DLC browser. Please keep it as short as possible.\nGroup: DLC browser."
-	},
-	"dlc_category_accessories": {
-		"message": "액세서리",
-		"description": "Id: dlc_category_accessories\nButton/tab in DLC browser. Please keep it as short as possible.\nGroup: DLC browser."
-	},
-	"dlc_category_paint_jobs": {
-		"message": "스킨",
-		"description": "Id: dlc_category_paint_jobs\nButton/tab in DLC browser. Please keep it as short as possible.\nGroup: DLC browser."
-	},
-	"dlc_category_all": {
-		"message": "모두",
-		"description": "Id: dlc_category_all\nButton/tab in DLC browser. Please keep it as short as possible.\nGroup: DLC browser."
-	},
-	"no_dlc_found": {
-		"message": "필터와 일치하는 DLC를 찾을 수 없습니다",
-		"description": "Id: no_dlc_found\nGroup: DLC browser."
-	},
-	"dlc_browser_desc": {
-		"message": "다운로드 가능한 콘텐츠를 탐색하고 발견하십시오.",
-		"description": "Id: dlc_browser_desc\nGroup: DLC browser."
-	},
-	"dlc_search_no_results": {
-		"message": "검색 결과: ",
-		"description": "Id: dlc_search_no_results\nText shown when searching DLC and only other category screen contain some matches. Followed by list of category screen titles.\nGroup: DLC browser."
-	},
-	"dlc_widget_open": {
-		"message": "열기",
-		"description": "Id: dlc_widget_open\nLabel for an input icon in DLC widget. Please keep it as short as possible.\nGroup: DLC browser."
-	},
-	"dlc_widget_close": {
-		"message": "닫기",
-		"description": "Id: dlc_widget_close\nLabel for an input icon in DLC widget. Please keep it as short as possible.\nGroup: DLC browser."
-	},
-	"dlc_browser_online_wait_title": {
-		"message": "데이터를 받는중",
-		"description": "Id: dlc_browser_online_wait_title\nTitle of the screen. Please keep in upper case where possible.\nGroup: DLC browser."
-	},
-	"dlc_browser_online_wait_message": {
-		"message": "DLC 정보를 받는 중입니다. 잠시만 기다려주십시오.",
-		"description": "Id: dlc_browser_online_wait_message\nGroup: DLC browser."
 	},
 	"activation": {
 		"message": "활성화",
@@ -2582,10 +2370,6 @@
 	"disabled": {
 		"message": "사용하지 않음",
 		"description": "Id: disabled\nFeature is disabled\nGroup: Combo box choices used for various option parameters.\nNote that only subset of the choices (e.g. Low, Medium, High) might be used by any specific option."
-	},
-	"toggle": {
-		"message": "토글",
-		"description": "Id: toggle\nSwitch between two states with a single button press.\nGroup: Combo box choices used for various option parameters.\nNote that only subset of the choices (e.g. Low, Medium, High) might be used by any specific option."
 	},
 	"custom": {
 		"message": "사용자 지정",
@@ -3623,10 +3407,6 @@
 		"message": "카메라 이동 속도",
 		"description": "Id: cam_auto_move_speed\nDropdown for automatic camera movement speed.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
-	"cam_interior_zoom_mode": {
-		"message": "인테리어 카메라 줌 모드",
-		"description": "Id: cam_interior_zoom_mode\nChoose how the interior camera zoom behaves.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
-	},
 	"trailer_parking_difficulty": {
 		"message": "주차 난이도",
 		"description": "Id: trailer_parking_difficulty\nDroplist for parking difficulty selection\nGroup: Parking difficulty droplist\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
@@ -3910,10 +3690,6 @@
 	"cam_auto_move_speed_op_tooltip": {
 		"message": "카메라 이동 속도를 설정합니다. 자동 카메라 센터링 및 내부 카메라 사전 설정 간 전환에 사용됩니다.",
 		"description": "Id: cam_auto_move_speed_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
-	},
-	"cam_interior_zoom_mode_op_tooltip": {
-		"message": "내부 줌 작동 방식을 결정합니다: 버튼을 눌러 일시적으로 줌하거나 한 번 누르면 전환됩니다.",
-		"description": "Id: cam_interior_zoom_mode_op_tooltip\nTooltip explaining the zoom mode options.\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"language_op_tooltip": {
 		"message": "게임 전반에 걸쳐 표시될 언어를 선택합니다.",
@@ -9107,18 +8883,6 @@
 		"message": "로더",
 		"description": "Id: cn_loaders\nGroup: Names of individual cargos."
 	},
-	"cn_locomotive_czloko_es300": {
-		"message": "기관차 CZ LOCO 에피 션터 300",
-		"description": "Id: cn_locomotive_czloko_es300\nGroup: Names of individual cargos."
-	},
-	"cn_locomotive_czloko_es1000": {
-		"message": "기관차 CZ LOCO 에피 션터 1000",
-		"description": "Id: cn_locomotive_czloko_es1000\nGroup: Names of individual cargos."
-	},
-	"cn_locomotive_czloko_muv75": {
-		"message": "기관차 CZ LOCO MUV 75",
-		"description": "Id: cn_locomotive_czloko_muv75\nGroup: Names of individual cargos."
-	},
 	"cn_logs": {
 		"message": "통나무",
 		"description": "Id: cn_logs\nGroup: Names of individual cargos."
@@ -9968,11 +9732,11 @@
 		"description": "Id: cn_driller\nGroup: Names of cargo for DLC Trailer Power Pack"
 	},
 	"cn_helicopter": {
-		"message": "헬리콥터",
+		"message": "헬리콥터 1808TX",
 		"description": "Id: cn_helicopter\nGroup: Names of cargo for DLC Trailer Power Pack"
 	},
 	"cn_roller": {
-		"message": "롤러",
+		"message": "롤러 DYNA CC-2200",
 		"description": "Id: cn_roller\nGroup: Names of cargo for DLC Trailer Power Pack"
 	},
 	"cn_rstractor": {
@@ -10146,38 +9910,6 @@
 	"cn_wood_chipper": {
 		"message": "나무 파쇄기",
 		"description": "Id: cn_wood_chipper\nGroup: Names of cargo for DLC Forest Harvesting"
-	},
-	"cn_disk_mower_krone_ecb880cv": {
-		"message": "디스크 잔디깎이 Krone 이지컷 B 880 CV",
-		"description": "Id: cn_disk_mower_krone_ecb880cv\nGroup: Names of cargo for DLC Krone Agriculture"
-	},
-	"cn_forage_harvester_krone bigx1180": {
-		"message": "마초 수확기 Krone BiG X 1180",
-		"description": "Id: cn_forage_harvester_krone bigx1180\nGroup: Names of cargo for DLC Krone Agriculture"
-	},
-	"cn_mower_conditioner_krone_bigm450": {
-		"message": "잔디깎이 컨디셔너 Krone BiG M 450",
-		"description": "Id: cn_mower_conditioner_krone_bigm450\nGroup: Names of cargo for DLC Krone Agriculture"
-	},
-	"cn_rotary_rakes_krone_stc1370": {
-		"message": "로터리 레이크스 Krone Swadro TC 1370",
-		"description": "Id: cn_rotary_rakes_krone_stc1370\nGroup: Names of cargo for DLC Krone Agriculture"
-	},
-	"cn_round_baler_krone_vpv190xc": {
-		"message": "라운드 베일러 Krone Vari Pack V 190 XC",
-		"description": "Id: cn_round_baler_krone_vpv190xc\nGroup: Names of cargo for DLC Krone Agriculture"
-	},
-	"cn_square_baler_krone_bigp1290": {
-		"message": "사각 베일러 Krone BiG Pack 1290 HDP VC",
-		"description": "Id: cn_square_baler_krone_bigp1290\nGroup: Names of cargo for DLC Krone Agriculture"
-	},
-	"cn_wagon_krone_gx440": {
-		"message": "왜건 Krone GX 440",
-		"description": "Id: cn_wagon_krone_gx440\nGroup: Names of cargo for DLC Krone Agriculture"
-	},
-	"cn_wagon_krone_gx520": {
-		"message": "왜건 Krone GX 520",
-		"description": "Id: cn_wagon_krone_gx520\nGroup: Names of cargo for DLC Krone Agriculture"
 	},
 	"cn_articulated_hauler": {
 		"message": "굴절식 하울러",
@@ -10747,54 +10479,6 @@
 		"message": "N / A",
 		"description": "Id: compman_na\nShown if no data/asset is available in company management screens.\nGroup: Company management screens"
 	},
-	"compman_summary_drivers_count": {
-		"message": "고용한 드라이버:",
-		"description": "Id: compman_summary_drivers_count\nGroup: Company management screens"
-	},
-	"compman_summary_agancies_count": {
-		"message": "발견한 고용기관:",
-		"description": "Id: compman_summary_agancies_count\nGroup: Company management screens"
-	},
-	"compman_summary_truck_count": {
-		"message": "소유한 트럭:",
-		"description": "Id: compman_summary_truck_count\nGroup: Company management screens"
-	},
-	"compman_summary_trailer_count": {
-		"message": "소유한 트레일러:",
-		"description": "Id: compman_summary_trailer_count\nGroup: Company management screens"
-	},
-	"compman_no_driver": {
-		"message": "고용된 운전기사 없음",
-		"description": "Id: compman_no_driver\nGroup: Company management screens"
-	},
-	"compman_no_truck": {
-		"message": "개인 소유의 트럭 없음",
-		"description": "Id: compman_no_truck\nGroup: Company management screens"
-	},
-	"compman_no_trailer": {
-		"message": "개인 소유의 트레일러 없음",
-		"description": "Id: compman_no_trailer\nGroup: Company management screens"
-	},
-	"compman_company_profits": {
-		"message": "회사 수익 (지난 7일)",
-		"description": "Id: compman_company_profits\nGroup: Company management screens"
-	},
-	"compman_most_profitable_title": {
-		"message": "가장 수익성 높은 제품 (지난 7일)",
-		"description": "Id: compman_most_profitable_title\nGroup: Company management screens"
-	},
-	"compman_graph_tooltip": {
-		"message": "지난 7일 동안의 회사 수익. 각 지점을 이동하여 정확한 일일 수익 가치를 확인하십시오.",
-		"description": "Id: compman_graph_tooltip\nGroup: Company management screens"
-	},
-	"compman_op_economy_summary": {
-		"message": "경제 일람",
-		"description": "Id: compman_op_economy_summary\nGroup: Company management screens"
-	},
-	"compman_op_company_branding": {
-		"message": "회사 브랜딩",
-		"description": "Id: compman_op_company_branding\nGroup: Company management screens"
-	},
 	"compman_qt_t": {
 		"message": "빠른 여행",
 		"description": "Id: compman_qt_t\nGroup: Quick travel message boxes.\nGroup: Company management screens"
@@ -11318,46 +11002,6 @@
 	"driverman_filter_returning": {
 		"message": "복귀 중인 드라이버",
 		"description": "Id: driverman_filter_returning\nGroup: Driver map filters\nGroup: Driver management screen\nGroup: Company management screens"
-	},
-	"driverman_assigment": {
-		"message": "운전기사 배정",
-		"description": "Id: driverman_assigment\nGroup: Driver map filters\nGroup: Driver management screen\nGroup: Company management screens"
-	},
-	"driverman_current_job": {
-		"message": "현재 배차",
-		"description": "Id: driverman_current_job\nGroup: Driver map filters\nGroup: Driver management screen\nGroup: Company management screens"
-	},
-	"driverman_no_job": {
-		"message": "배송 진행 없음",
-		"description": "Id: driverman_no_job\nGroup: Driver map filters\nGroup: Driver management screen\nGroup: Company management screens"
-	},
-	"driverman_op_skill_training": {
-		"message": "스킬 교육",
-		"description": "Id: driverman_op_skill_training\nGroup: Driver map filters\nGroup: Driver management screen\nGroup: Company management screens"
-	},
-	"driverman_op_player_skills": {
-		"message": "스킬",
-		"description": "Id: driverman_op_player_skills\nGroup: Driver map filters\nGroup: Driver management screen\nGroup: Company management screens"
-	},
-	"driverman_skill_training_t": {
-		"message": "스킬 교육",
-		"description": "Id: driverman_skill_training_t\nGroup: Driver map filters\nGroup: Driver management screen\nGroup: Company management screens"
-	},
-	"driverman_selected_training_policy": {
-		"message": "새로운 기술을 배우기 위한 우선순위 선정",
-		"description": "Id: driverman_selected_training_policy\nGroup: Driver map filters\nGroup: Driver management screen\nGroup: Company management screens"
-	},
-	"driverman_default_training_policy": {
-		"message": "새로운 드라이버를 채용할 때 선호하는 스킬 교육 우선순위:",
-		"description": "Id: driverman_default_training_policy\nGroup: Driver map filters\nGroup: Driver management screen\nGroup: Company management screens"
-	},
-	"driverman_op_edit_driver": {
-		"message": "드라이버 편집",
-		"description": "Id: driverman_op_edit_driver\nGroup: Driver map filters\nGroup: Driver management screen\nGroup: Company management screens"
-	},
-	"relocate_together": {
-		"message": "운전기사와 배정된 트럭을 함께 이동하십시오.",
-		"description": "Id: relocate_together\nGroup: Driver map filters\nGroup: Driver management screen\nGroup: Company management screens"
 	},
 	"driverman_h_name": {
 		"message": "이름",
@@ -14779,14 +14423,6 @@
 		"message": "필수 개체를 사용할 수 없습니다. 몇 분 후에 다시 시도하십시오.",
 		"description": "Id: generic_object_unavailable\nThe required object (e.g. replay) is not available.\nGroup: Networking errors"
 	},
-	"generic_ssl_error": {
-		"message": "SSL 오류. 보안 연결을 설정할 수 없습니다.",
-		"description": "Id: generic_ssl_error\nGeneric SSL (Secure Sockets Layer) protocol error (e.g. expired certificate, untrusted certificate authority, hostname mismatch...)\nGroup: Networking errors"
-	},
-	"generic_app_suspended": {
-		"message": "온라인 통신하는 동안 게임이 중단되었습니다. 나중에 다시 시도해 주십시오.",
-		"description": "Id: generic_app_suspended\nThe game was suspended during the online communication and the connection was closed before it was finished.\nGroup: Networking errors"
-	},
 	"generic_internal_error": {
 		"message": "내부 오류가 발생했습니다. net.log 파일에 자세한 정보가 기록되어 있을 것입니다.",
 		"description": "Id: generic_internal_error\nProblem not covered by anything above. Currently it means that we generated incorrect URI or that the http client returned error code which is not handled by http_online_link_t::complete.\nGroup: Networking errors"
@@ -16219,10 +15855,6 @@
 		"message": "LED",
 		"description": "Id: led\nLED light or LED decorated item or other accessory\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
-	"matte": {
-		"message": "매트",
-		"description": "Id: matte\nMatte bar or other accessory\nGroup: Upgrade accesories\nGroup: Input wizard"
-	},
 	"modern": {
 		"message": "모던",
 		"description": "Id: modern\nModernized mirror, doorhandle or other accessory\nGroup: Upgrade accesories\nGroup: Input wizard"
@@ -16656,147 +16288,147 @@
 		"description": "Id: roll_up_door_lift_gate\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"hs_bull_catcher_maxi": {
-		"message": "HS 불 캐처 MAXI",
+		"message": "불 캐처 MAXI",
 		"description": "Id: hs_bull_catcher_maxi\nfront grill accessory name, HS Schoch naming\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
+	"hs_bull_catcher_maxi_leds": {
+		"message": "불 캐처 MAXI (추가 LED)",
+		"description": "Id: hs_bull_catcher_maxi_leds\nfront grill accessory name, HS Schoch naming\nGroup: Upgrade accesories\nGroup: Input wizard"
+	},
 	"hs_bull_catcher_mega": {
-		"message": "HS 불 캐처 MEGA",
+		"message": "불 캐처 MEGA",
 		"description": "Id: hs_bull_catcher_mega\nfront grill accessory name, HS Schoch naming\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
+	"hs_bull_catcher_mega_leds": {
+		"message": "불 캐처 MEGA (추가 LED)",
+		"description": "Id: hs_bull_catcher_mega_leds\nfront grill accessory name, HS Schoch naming\nGroup: Upgrade accesories\nGroup: Input wizard"
+	},
 	"hs_bull_catcher_midi": {
-		"message": "HS 불 캐처 MIDI",
+		"message": "불 캐처 MIDI",
 		"description": "Id: hs_bull_catcher_midi\nfront grill accessory name, HS Schoch naming\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
+	"hs_bull_catcher_midi_leds": {
+		"message": "불 캐처 MIDI (추가 LED)",
+		"description": "Id: hs_bull_catcher_midi_leds\nfront grill accessory name, HS Schoch naming\nGroup: Upgrade accesories\nGroup: Input wizard"
+	},
 	"hs_bull_catcher_mini": {
-		"message": "HS 불 캐처 MINI",
+		"message": "불 캐처 MINI",
 		"description": "Id: hs_bull_catcher_mini\nfront grill accessory name, HS Schoch naming\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
-	"hs_bull_catcher_outland": {
-		"message": "HS 불 캐처 OUTLAND",
-		"description": "Id: hs_bull_catcher_outland\nfront grill accessory name, HS Schoch naming\nGroup: Upgrade accesories\nGroup: Input wizard"
-	},
-	"hs_bull_catcher_outland_2": {
-		"message": "HS 불 캐처 OUTLAND II",
-		"description": "Id: hs_bull_catcher_outland_2\nfront grill accessory name, HS Schoch naming\nGroup: Upgrade accesories\nGroup: Input wizard"
+	"hs_bull_catcher_mini_leds": {
+		"message": "불 캐처 MINI (추가 LED)",
+		"description": "Id: hs_bull_catcher_mini_leds\nfront grill accessory name, HS Schoch naming\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"hs_bull_catcher_standard": {
-		"message": "HS 불 캐처 STANDARD",
+		"message": "불 캐처 STANDARD",
 		"description": "Id: hs_bull_catcher_standard\nfront grill accessory name, HS Schoch naming\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"hs_bump_bar": {
-		"message": "HS 범프 바",
+		"message": "범프 바",
 		"description": "Id: hs_bump_bar\nbottom grill accessory name, HS Schoch naming\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"hs_bump_bar_2": {
-		"message": "HS 범프 바 II",
+		"message": "범프 바 II",
 		"description": "Id: hs_bump_bar_2\nbottom grill accessory name, HS Schoch naming\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"hs_bump_bar_kliner": {
-		"message": "HS 범프 바 K-LINER",
+		"message": "범프 바 K-LINER",
 		"description": "Id: hs_bump_bar_kliner\nbottom grill accessory name, HS Schoch naming\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"hs_front_lamp_holder": {
-		"message": "HS 전면 램프 홀더",
+		"message": "전면 램프 홀더",
 		"description": "Id: hs_front_lamp_holder\nfront grill accessory name, HS Schoch naming\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"hs_front_lamp_holder_2": {
-		"message": "HS 전면 램프 홀더 II",
+		"message": "전면 램프 홀더 II",
 		"description": "Id: hs_front_lamp_holder_2\nfront grill accessory name, HS Schoch naming\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"hs_front_lamp_holder_city": {
-		"message": "HS 전면 램프 홀더 CITY",
+		"message": "전면 램프 홀더 CITY",
 		"description": "Id: hs_front_lamp_holder_city\nfront grill accessory name, HS Schoch naming\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"hs_front_lamp_holder_classic": {
-		"message": "HS 전면 램프 홀더 CLASSIC",
+		"message": "전면 램프 홀더 CLASSIC",
 		"description": "Id: hs_front_lamp_holder_classic\nfront grill accessory name, HS Schoch naming\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
-	"hs_front_lamp_holder_eco": {
-		"message": "HS 전면 램프 홀더 ECO",
-		"description": "Id: hs_front_lamp_holder_eco\nfront grill accessory name, HS Schoch naming\nGroup: Upgrade accesories\nGroup: Input wizard"
-	},
 	"hs_front_lamp_holder_tailor": {
-		"message": "HS 전면 램프 홀더 TAILOR",
+		"message": "전면 램프 홀더 TAILOR",
 		"description": "Id: hs_front_lamp_holder_tailor\nfront grill accessory name, HS Schoch naming\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"hs_roof_lamp_holder": {
-		"message": "HS 루프 램프 홀더",
+		"message": "루프 램프 홀더",
 		"description": "Id: hs_roof_lamp_holder\nroof grill accessory name, HS Schoch naming\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"hs_roof_lamp_holder_2": {
-		"message": "HS 루프 램프 홀더 II",
+		"message": "루프 램프 홀더 II",
 		"description": "Id: hs_roof_lamp_holder_2\nroof grill accessory name, HS Schoch naming\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"hs_roof_lamp_holder_3": {
-		"message": "HS 루프 램프 홀더 III",
+		"message": "루프 램프 홀더 III",
 		"description": "Id: hs_roof_lamp_holder_3\nroof grill accessory name, HS Schoch naming\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
+	"hs_roof_lamp_holder_leds": {
+		"message": "루프 램프 홀더 (추가 LED)",
+		"description": "Id: hs_roof_lamp_holder_leds\nroof grill accessory name, HS Schoch naming\nGroup: Upgrade accesories\nGroup: Input wizard"
+	},
 	"hs_roof_lamp_holder_aero_visor": {
-		"message": "HS 루프 램프 홀더 AERO VISOR",
+		"message": "루프 램프 홀더 AERO VISOR",
 		"description": "Id: hs_roof_lamp_holder_aero_visor\nroof grill accessory name, HS Schoch naming\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"hs_roof_lamp_holder_aero_top": {
-		"message": "HS 루프 램프 홀더 AERO TOP",
+		"message": "루프 램프 홀더 AERO TOP",
 		"description": "Id: hs_roof_lamp_holder_aero_top\nroof grill accessory name, HS Schoch naming\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"hs_roof_lamp_holder_crossbar": {
-		"message": "HS 루프 램프 홀더 CROSSBAR",
+		"message": "루프 램프 홀더 CROSSBAR",
 		"description": "Id: hs_roof_lamp_holder_crossbar\nroof grill accessory name, HS Schoch naming\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"hs_roof_lamp_holder_hydra": {
-		"message": "HS 루프 램프 홀더 HYDRA",
+		"message": "루프 램프 홀더 HYDRA",
 		"description": "Id: hs_roof_lamp_holder_hydra\nroof grill accessory name, HS Schoch naming\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"hs_roof_lamp_holder_hydra_max": {
-		"message": "HS 루프 램프 홀더 HYDRA MAX",
+		"message": "루프 램프 홀더 HYDRA MAX",
 		"description": "Id: hs_roof_lamp_holder_hydra_max\nroof grill accessory name, HS Schoch naming\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"hs_roof_lamp_holder_hydra_top": {
-		"message": "HS 루프 램프 홀더 HYDRA TOP",
+		"message": "루프 램프 홀더 HYDRA TOP",
 		"description": "Id: hs_roof_lamp_holder_hydra_top\nroof grill accessory name, HS Schoch naming\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
-	"hs_roof_lamp_holder_integra": {
-		"message": "HS 루프 램프 홀더 INTEGRA",
-		"description": "Id: hs_roof_lamp_holder_integra\nroof grill accessory name, HS Schoch naming\nGroup: Upgrade accesories\nGroup: Input wizard"
-	},
 	"hs_roof_lamp_holder_max": {
-		"message": "HS 루프 램프 홀더 MAX",
+		"message": "루프 램프 홀더 MAX",
 		"description": "Id: hs_roof_lamp_holder_max\nroof grill accessory name, HS Schoch naming\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"hs_roof_lamp_holder_mega": {
-		"message": "HS 루프 램프 홀더 MEGA",
+		"message": "루프 램프 홀더 MEGA",
 		"description": "Id: hs_roof_lamp_holder_mega\nroof grill accessory name, HS Schoch naming\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"hs_roof_lamp_holder_top": {
-		"message": "HS 루프 램프 홀더 TOP",
+		"message": "루프 램프 홀더 TOP",
 		"description": "Id: hs_roof_lamp_holder_top\nroof grill accessory name, HS Schoch naming\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"hs_roof_lamp_holder_top_2": {
-		"message": "HS 루프 램프 홀더 TOP II",
+		"message": "루프 램프 홀더 TOP II",
 		"description": "Id: hs_roof_lamp_holder_top_2\nroof grill accessory name, HS Schoch naming\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"hs_roof_lamp_holder_visor_bar": {
-		"message": "HS 루프 램프 홀더 VISOR BAR",
+		"message": "루프 램프 홀더 VISOR BAR",
 		"description": "Id: hs_roof_lamp_holder_visor_bar\nroof grill accessory name, HS Schoch naming\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
-	"hs_roof_lamp_holder_vmax": {
-		"message": "HS 루프 램프 홀더 VMAX",
-		"description": "Id: hs_roof_lamp_holder_vmax\nroof grill accessory name, HS Schoch naming\nGroup: Upgrade accesories\nGroup: Input wizard"
-	},
-	"hs_roof_lamp_holder_wide": {
-		"message": "HS 루프 램프 홀더 WIDE",
-		"description": "Id: hs_roof_lamp_holder_wide\nroof grill accessory name, HS Schoch naming\nGroup: Upgrade accesories\nGroup: Input wizard"
-	},
 	"hs_side_bar": {
-		"message": "HS 사이드 바",
+		"message": "사이드 바",
 		"description": "Id: hs_side_bar\nsideskirt bar, sideskirt or exhaust (legacy) accessory name, HS Schoch naming\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
+	"hs_side_bar_leds": {
+		"message": "사이드 바 (추가 LED)",
+		"description": "Id: hs_side_bar_leds\nside bar, sideskirt or exhaust (legacy) accessory name, HS Schoch naming\nGroup: Upgrade accesories\nGroup: Input wizard"
+	},
 	"hs_stainless_steel": {
-		"message": "HS 스테인리스 스틸",
+		"message": "스테인리스 스틸",
 		"description": "Id: hs_stainless_steel\ndoorstep, mask or similar accessory name, HS Schoch naming\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"hs_sun_visor": {
-		"message": "HS 선바이저",
+		"message": "선바이저",
 		"description": "Id: hs_sun_visor\nsun shield accessory name, HS Schoch naming\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"hs_schoch_cap": {
@@ -19317,7 +18949,7 @@
 	},
 	"trailer_locked_country_limitation": {
 		"message": "필요한 차고지:",
-		"description": "Id: trailer_locked_country_limitation\nText shown on trailer offer that is limited to specified states or countries.\nGroup: Trailer ownership"
+		"description": "Id: trailer_locked_country_limitation\nText shown on trailer offer that is limited to specified countries.\nGroup: Trailer ownership"
 	},
 	"link_locked_msg_bank": {
 		"message": "당신의 사업을 더욱 확장하려면 은행과 상담하십시오.",
@@ -19850,10 +19482,6 @@
 	"tn_single_2axle_spread": {
 		"message": "2액슬, 스프레드",
 		"description": "Id: tn_single_2axle_spread\nGroup: Trailer chain/chassis configurations"
-	},
-	"tn_single_2axle_steer_spread": {
-		"message": "2액슬, 조향가능, 스프레드",
-		"description": "Id: tn_single_2axle_steer_spread\nGroup: Trailer chain/chassis configurations"
 	},
 	"tn_single_3axle": {
 		"message": "3액슬",
@@ -20556,7 +20184,7 @@
 		"description": "Id: steam_profile_migration_error\nEdit screen, cannot migrate profile because of some internal error.\nGroup: Steam cloud."
 	},
 	"steam_cloud_settings_label": {
-		"message": "스팀 클라우드 동기화",
+		"message": "스팀 클라우드 사용",
 		"description": "Id: steam_cloud_settings_label\nEdit or create screen checkbox.\nGroup: Steam cloud."
 	},
 	"load_msg_out_of_steam_intro_has_space": {
@@ -23943,14 +23571,6 @@
 		"message": "저장 관리자 초기화에 실패했습니다. 진행 상황에 접근하거나 저장할 수 없습니다.",
 		"description": "Id: sm_save_system_init_failed\nmessage when save manager initialization fails, preventing progress\nGroup: Save manager errors"
 	},
-	"fs_busy_title": {
-		"message": "데이터를 가져오기",
-		"description": "Id: fs_busy_title\nGroup: fs_busy screen"
-	},
-	"fs_busy_message": {
-		"message": "데이터를 가져오는 중입니다. 잠시만 기다려주십시오.",
-		"description": "Id: fs_busy_message\nGroup: fs_busy screen"
-	},
 	"mailtext.test1.from": {
 		"message": "시스템",
 		"description": "Id: mailtext.test1.from\nMessage sender\nGroup: Mails delivered to the player."
@@ -24678,18 +24298,6 @@
 	"train_station_xmas": {
 		"message": "그레이트 서던 스테이션",
 		"description": "Id: train_station_xmas\nGroup: Names of viewpoint cutscenes"
-	},
-	"hall_cut_castle": {
-		"message": "신비로운 성",
-		"description": "Id: hall_cut_castle\nGroup: Names of viewpoint cutscenes"
-	},
-	"hall_cut_village": {
-		"message": "펌프킨 빌리지",
-		"description": "Id: hall_cut_village\nGroup: Names of viewpoint cutscenes"
-	},
-	"hall_cut_witch": {
-		"message": "마녀의 언덕",
-		"description": "Id: hall_cut_witch\nGroup: Names of viewpoint cutscenes"
 	},
 	"landmark_prague": {
 		"message": "지즈코프 텔레비전 타워",
@@ -25744,7 +25352,7 @@
 		"description": "Id: aca_goal_time_limit\nGroup: Scenarios general"
 	},
 	"aca_goal_exterior_drive": {
-		"message": "미러캠",
+		"message": "카메라",
 		"description": "Id: aca_goal_exterior_drive\nGroup: Scenarios general"
 	},
 	"aca_goal_exterior_drive_false": {

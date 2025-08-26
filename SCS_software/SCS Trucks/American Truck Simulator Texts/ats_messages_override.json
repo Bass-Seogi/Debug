@@ -288,7 +288,7 @@
 		"description": "Id: blanket_stars\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
 	},
 	"ats_box_turtle": {
-		"message": "상자거북",
+		"message": "상자거북(박스터틀)",
 		"description": "Id: box_turtle\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
 	},
 	"ats_burger": {
@@ -1348,7 +1348,7 @@
 		"description": "Id: tdsel_dealer_big\nMap legend\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_profile_sel_t": {
-		"message": "프로필 관리자",
+		"message": "경력 선택",
 		"description": "Id: profile_sel_t\nTitle of the screen. Please keep in upper case where possible.\nGroup: Profile selection.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_agri_check_title": {
