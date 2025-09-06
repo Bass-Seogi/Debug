@@ -540,7 +540,7 @@
 		"description": "Id: restore\nLabel of the button that performs total restoration.\nGroup: Vehicle total restoration screen."
 	},
 	"total_restoration_no_need": {
-		"message": "귀하의 차량은 완벽한 상태입니다.",
+		"message": "당신의 차량은 완벽한 상태입니다.",
 		"description": "Id: total_restoration_no_need\nMessage shown when player tries to restore vehicle in perfect condition.\nGroup: Vehicle total restoration screen."
 	},
 	"air_tank": {
@@ -3612,7 +3612,7 @@
 		"description": "Id: emergency_brake_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"lane_assistant_mode_op_tooltip": {
-		"message": "차선 어시스턴트 모드를 선택합니다:<br>- \"차선 이탈 경고\" 모드는 차선을 벗어나려고 할 때 소리로 경고합니다.<br>- 청각적 경고 외에도 \"차선 유지 지원\"은 트럭이 차선을 벗어나지 않도록 자동으로 조종합니다.<br><br>두 모드 모두 55km/h(~35mph) 이상의 속도에서만 활성화됩니다.<br>차선 보조 장치는 작동하기 전에 방향지시등 사용도 고려합니다.",
+		"message": "차선 어시스턴트 모드를 선택합니다:<br>- \"차선 이탈 경고\" 모드는 차선을 벗어나려고 할 때 소리로 경고합니다.<br>- 청각적 경고 외에도 \"차선 유지 지원\"은 트럭이 차선을 벗어나지 않도록 자동으로 조종합니다.<br><br>두 모드 모두 55km/h(~35mph) 이상의 속도에서만 활성화됩니다.<br>차선 어시스턴트는 작동하기 전에 방향지시등 사용도 고려합니다.",
 		"description": "Id: lane_assistant_mode_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"blind_spot_op_tooltip": {
@@ -5408,7 +5408,7 @@
 		"description": "Id: hshift_auto_reverse\nLabel of line containing button whose pressed state indicates \"Reverse\" position.\nGroup: Configuration of the h-shifter\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
 	"alternate_mouse_cursor_controller": {
-		"message": "얼터네이트 커서 컨트롤러",
+		"message": "대체 커서 컨트롤러",
 		"description": "Id: alternate_mouse_cursor_controller\nHeader of the 'Alternate cursor controller' settings section. Please keep in upper case where possible.\nGroup: Configuration of the UI mouse emulation using a controller.\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
 	"ui_controller_selection": {
@@ -8924,7 +8924,7 @@
 		"description": "Id: cn_presstank\nGroup: Names of individual cargos."
 	},
 	"cn_princess_v39": {
-		"message": "요트 - Queen V39",
+		"message": "요트 - 퀸 V39",
 		"description": "Id: cn_princess_v39\nGroup: Names of individual cargos."
 	},
 	"cn_propane": {
@@ -10912,11 +10912,11 @@
 		"description": "Id: driverman_job_info\ntitle of the job info section\nGroup: Driver management screen\nGroup: Company management screens"
 	},
 	"driverman_train_random": {
-		"message": "임의적으로",
+		"message": "임의적",
 		"description": "Id: driverman_train_random\nGroup: Possible training policies.\nGroup: Driver management screen\nGroup: Company management screens"
 	},
 	"driverman_train_balanced": {
-		"message": "균형적으로",
+		"message": "균형적",
 		"description": "Id: driverman_train_balanced\nGroup: Possible training policies.\nGroup: Driver management screen\nGroup: Company management screens"
 	},
 	"driverman_op_log": {
@@ -15908,7 +15908,7 @@
 		"description": "Id: low_bumper\nName specification of low bumper\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"camera": {
-		"message": "카메라",
+		"message": "미러캠",
 		"description": "Id: camera\nCamera type accessory (eg. mirror variant)\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"custom_color": {
@@ -16088,7 +16088,7 @@
 		"description": "Id: roller_rubber\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"roller_steel": {
-		"message": "스틸 롤러",
+		"message": "철제 롤러",
 		"description": "Id: roller_steel\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"roll_up_door": {
@@ -23364,7 +23364,7 @@
 		"description": "Id: mail_desc\nGroup: Screen link tooltips"
 	},
 	"link_locked_msg_mail": {
-		"message": "귀하의 경력이 더욱 발전하면 이메일이 도착하기 시작합니다.",
+		"message": "당신의 경력이 더욱 발전하면 이메일이 도착하기 시작합니다.",
 		"description": "Id: link_locked_msg_mail\nGroup: Screen link tooltips"
 	},
 	"real_estate_desc": {
@@ -25096,7 +25096,7 @@
 		"description": "Id: aca_chapter_book1_5_title\nGroup: Chapters general"
 	},
 	"aca_chapter_book1_5_desc": {
-		"message": "트럭 운전사로서의 가치를 증명하기 위해 귀하의 지식과 기술을 보여주세요!",
+		"message": "트럭 운전사로서의 가치를 증명하기 위해 당신의 지식과 기술을 보여주십시오!",
 		"description": "Id: aca_chapter_book1_5_desc\nGroup: Chapters general"
 	},
 	"aca_chapter_book1_5_completed": {

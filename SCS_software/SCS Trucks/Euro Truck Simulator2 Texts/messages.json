@@ -2288,7 +2288,7 @@
 		"description": "Id: filter_cargo\nButton in filter droplist. Please keep it as short as possible.\nGroup: DLC browser."
 	},
 	"dlc_ownership_none": {
-		"message": "앞으로 다가올",
+		"message": "상점 내",
 		"description": "Id: dlc_ownership_none\nButton title. Please keep it as short as possible.\nGroup: DLC browser."
 	},
 	"dlc_ownership_free": {
@@ -11424,11 +11424,11 @@
 		"description": "Id: driverman_job_info\ntitle of the job info section\nGroup: Driver management screen\nGroup: Company management screens"
 	},
 	"driverman_train_random": {
-		"message": "임의적으로",
+		"message": "임의적",
 		"description": "Id: driverman_train_random\nGroup: Possible training policies.\nGroup: Driver management screen\nGroup: Company management screens"
 	},
 	"driverman_train_balanced": {
-		"message": "균형적으로",
+		"message": "균형적",
 		"description": "Id: driverman_train_balanced\nGroup: Possible training policies.\nGroup: Driver management screen\nGroup: Company management screens"
 	},
 	"driverman_op_log": {
@@ -16644,7 +16644,7 @@
 		"description": "Id: roller_rubber\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"roller_steel": {
-		"message": "스틸 롤러",
+		"message": "철제 롤러",
 		"description": "Id: roller_steel\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"roll_up_door": {

@@ -280,7 +280,7 @@
 		"description": "Id: blanket_stars\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
 	},
 	"ats_box_turtle": {
-		"message": "상자거북",
+		"message": "상자거북(박스터틀)",
 		"description": "Id: box_turtle\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
 	},
 	"ats_burger": {
@@ -3000,7 +3000,7 @@
 		"description": "Id: st_george\nGroup: Names of cities"
 	},
 	"ats_st_joseph": {
-		"message": "세인트조지프",
+		"message": "세인트 조셉",
 		"description": "Id: st_joseph\nGroup: Names of cities"
 	},
 	"ats_st_louis": {
