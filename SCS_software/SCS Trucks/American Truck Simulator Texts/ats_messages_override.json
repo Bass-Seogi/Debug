@@ -189,7 +189,7 @@
 	},
 	"ats_cabinet": {
 		"message": "캐비닛",
-		"description": "Id: cabinet\nDefault cabinet pins set name\nGroup: Various accessory slots or accessory names."
+		"description": "Id: cabinet\nDefault cabinet and pin set name\nGroup: Various accessory slots or accessory names."
 	},
 	"ats_chrom_tank": {
 		"message": "크롬 탱크",
@@ -203,6 +203,10 @@
 		"message": "D-쉐이프",
 		"description": "Id: d_shape\nD-shaped tank accessory (water, fuel, etc)\nGroup: Various accessory slots or accessory names."
 	},
+	"ats_dresser": {
+		"message": "서랍장",
+		"description": "Id: dresser\nAlternative \"cabinet\" and pin set name\nGroup: Various accessory slots or accessory names."
+	},
 	"ats_drl": {
 		"message": "주간주행등",
 		"description": "Id: drl\nDaytime running lights\nGroup: Various accessory slots or accessory names."
@@ -215,6 +219,10 @@
 		"message": "안개등",
 		"description": "Id: fog_lights\nGroup: Various accessory slots or accessory names."
 	},
+	"ats_fridge": {
+		"message": "냉장고",
+		"description": "Id: fridge\nAlternative \"cabinet\" and pin set name\nGroup: Various accessory slots or accessory names."
+	},
 	"ats_hvac": {
 		"message": "HVAC",
 		"description": "Id: hvac\nSpecific accesory name (eg. Freightliner Cascadia)\nGroup: Various accessory slots or accessory names."
@@ -226,6 +234,10 @@
 	"ats_paint_pipeguard": {
 		"message": "도색된 파이프 가드",
 		"description": "Id: paint_pipeguard\nPipeguard accessory name\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_utility": {
+		"message": "유틸리티",
+		"description": "Id: utility\nAlternative \"cabinet\" and pin set name\nGroup: Various accessory slots or accessory names."
 	},
 	"ats_amber_sunflower": {
 		"message": "호박색 해바라기",
@@ -1159,10 +1171,6 @@
 		"message": "대형 건설자재",
 		"description": "Id: cn_lattice\nGroup: Special transport cargo names\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
-	"ats_cn_loader_truck": {
-		"message": "언더그라운드 로더",
-		"description": "Id: cn_loader_truck\nGroup: Special transport cargo names\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
-	},
 	"ats_cn_metro_wagon": {
 		"message": "지하철 철도차량",
 		"description": "Id: cn_metro_wagon\nGroup: Special transport cargo names\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
@@ -1171,10 +1179,6 @@
 		"message": "수송용 헬리콥터",
 		"description": "Id: cn_ovs_helicopter\nGroup: Special transport cargo names\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
-	"ats_cn_windblade": {
-		"message": "풍력 터빈 블레이드",
-		"description": "Id: cn_windblade\nGroup: Special transport cargo names\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
-	},
 	"ats_tn_acid": {
 		"message": "산성 탱크 트레일러",
 		"description": "Id: tn_acid\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
@@ -1182,10 +1186,6 @@
 	"ats_tn_acid_long": {
 		"message": "산성 탱크 장축 트레일러",
 		"description": "Id: tn_acid_long\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
-	},
-	"ats_tn_blade_hauler": {
-		"message": "블레이드 하울러",
-		"description": "Id: tn_blade_hauler\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_tn_bottom_dump": {
 		"message": "하부 개폐식 덤프 트레일러",

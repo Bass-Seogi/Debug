@@ -172,11 +172,11 @@
     "description": "Id: NEW_ACHIEVEMENT_4_1_NAME\nAchievement name for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
   },
   "NEW_ACHIEVEMENT_4_1_DESC": {
-    "message": "오클랜드와 샌프란시스코 항구에 짐을 운송하십시오",
+    "message": "오클랜드와 샌프란시스코 항구에 화물을 운송하십시오",
     "description": "Id: NEW_ACHIEVEMENT_4_1_DESC\nAchievement description for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
   },
   "NEW_ACHIEVEMENT_4_1_SHORT": {
-    "message": "오클랜드와 샌프란시스코 항구에 짐을 운송하십시오",
+    "message": "오클랜드와 샌프란시스코 항구에 화물을 운송하십시오",
     "description": "Id: NEW_ACHIEVEMENT_4_1_SHORT\nShort version of achievement description for American Truck Simulator. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit."
   },
   "NEW_ACHIEVEMENT_4_0_NAME": {

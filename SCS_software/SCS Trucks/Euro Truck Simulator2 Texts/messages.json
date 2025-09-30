@@ -2236,7 +2236,7 @@
 		"description": "Id: dlc_browser_t\nTitle of the screen. Please keep in upper case where possible.\nGroup: DLC browser."
 	},
 	"dlc_browser_btn": {
-		"message": "DLC",
+		"message": "DLC 브라우저",
 		"description": "Id: dlc_browser_btn\nButton used to start DLC browser.\nGroup: DLC browser."
 	},
 	"name_of_dlc": {
@@ -2344,7 +2344,7 @@
 		"description": "Id: dlc_category_map\nButton/tab in DLC browser. Please keep it as short as possible.\nGroup: DLC browser."
 	},
 	"dlc_category_cargo": {
-		"message": "짐",
+		"message": "화물",
 		"description": "Id: dlc_category_cargo\nButton/tab in DLC browser. Please keep it as short as possible.\nGroup: DLC browser."
 	},
 	"dlc_category_trailer": {
@@ -2380,7 +2380,7 @@
 		"description": "Id: dlc_widget_open\nLabel for an input icon in DLC widget. Please keep it as short as possible.\nGroup: DLC browser."
 	},
 	"dlc_widget_close": {
-		"message": "닫기",
+		"message": "해고",
 		"description": "Id: dlc_widget_close\nLabel for an input icon in DLC widget. Please keep it as short as possible.\nGroup: DLC browser."
 	},
 	"dlc_browser_online_wait_title": {
@@ -10151,9 +10151,9 @@
 		"message": "디스크 잔디깎이 Krone 이지컷 B 880 CV",
 		"description": "Id: cn_disk_mower_krone_ecb880cv\nGroup: Names of cargo for DLC Krone Agriculture"
 	},
-	"cn_forage_harvester_krone bigx1180": {
+	"cn_forage_harvester_krone_bigx1180": {
 		"message": "마초 수확기 Krone BiG X 1180",
-		"description": "Id: cn_forage_harvester_krone bigx1180\nGroup: Names of cargo for DLC Krone Agriculture"
+		"description": "Id: cn_forage_harvester_krone_bigx1180\nGroup: Names of cargo for DLC Krone Agriculture"
 	},
 	"cn_mower_conditioner_krone_bigm450": {
 		"message": "잔디깎이 컨디셔너 Krone BiG M 450",
@@ -10231,9 +10231,17 @@
 		"message": "대형 사일로",
 		"description": "Id: cn_silo\nGroup: Special transport cargo names"
 	},
+	"cn_underground_loader": {
+		"message": "언더그라운드 로더",
+		"description": "Id: cn_underground_loader\nGroup: Special transport cargo names"
+	},
 	"cn_wagon": {
 		"message": "철도차량",
 		"description": "Id: cn_wagon\nGroup: Special transport cargo names"
+	},
+	"cn_windblade": {
+		"message": "풍력 터빈 블레이드",
+		"description": "Id: cn_windblade\nGroup: Special transport cargo names"
 	},
 	"tn_aero_dynamic": {
 		"message": "에어로 다이내믹 냉장",
@@ -11319,9 +11327,9 @@
 		"message": "복귀 중인 드라이버",
 		"description": "Id: driverman_filter_returning\nGroup: Driver map filters\nGroup: Driver management screen\nGroup: Company management screens"
 	},
-	"driverman_assigment": {
+	"driverman_assignment": {
 		"message": "운전기사 배정",
-		"description": "Id: driverman_assigment\nGroup: Driver map filters\nGroup: Driver management screen\nGroup: Company management screens"
+		"description": "Id: driverman_assignment\nGroup: Driver map filters\nGroup: Driver management screen\nGroup: Company management screens"
 	},
 	"driverman_current_job": {
 		"message": "현재 배차",
@@ -15371,6 +15379,10 @@
 		"message": "심술쟁이 유령",
 		"description": "Id: grumpy_ghost\nGroup: Toys and toy sets\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
+	"halloween_bugaboo": {
+		"message": "핼러윈 도깨비",
+		"description": "Id: halloween_bugaboo\nGroup: Toys and toy sets\nGroup: Upgrade accesories\nGroup: Input wizard"
+	},
 	"hand_bag": {
 		"message": "핸드백",
 		"description": "Id: hand_bag\nGroup: Toys and toy sets\nGroup: Upgrade accesories\nGroup: Input wizard"
@@ -15843,6 +15855,10 @@
 		"message": "현명한 올빼미 예물",
 		"description": "Id: wise_owl_offering\nGroup: Toys and toy sets\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
+	"witchs_compass": {
+		"message": "마녀의 나침반",
+		"description": "Id: witchs_compass\nGroup: Toys and toy sets\nGroup: Upgrade accesories\nGroup: Input wizard"
+	},
 	"yesteryear_teddy_bear": {
 		"message": "예스터이어 테디 베어",
 		"description": "Id: yesteryear_teddy_bear\nGroup: Toys and toy sets\nGroup: Upgrade accesories\nGroup: Input wizard"
@@ -15922,6 +15938,10 @@
 	"basketball_ball": {
 		"message": "농구공",
 		"description": "Id: basketball_ball\nGroup: Toys and toy sets\nGroup: Upgrade accesories\nGroup: Input wizard"
+	},
+	"black_cat": {
+		"message": "검은 고양이",
+		"description": "Id: black_cat\nGroup: Toys and toy sets\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"black_plush_cube": {
 		"message": "검은색 봉제 주사위",
@@ -19364,11 +19384,11 @@
 		"description": "Id: link_locked_msg_trailer_manager\nGroup: Trailer ownership"
 	},
 	"link_locked_msg_garage_manager": {
-		"message": "차고 관리자에 접근하려면 먼저 첫 트럭을 구매해야 합니다.",
+		"message": "차고 관리자에게 접근하려면 첫 번째 작업을 완료해야 합니다.",
 		"description": "Id: link_locked_msg_garage_manager\nGroup: Trailer ownership"
 	},
 	"link_locked_msg_driver_manager": {
-		"message": "드라이버 관리자에 접근하려면 먼저 첫 트럭을 구매해야 합니다.",
+		"message": "드라이버 관리자에 접근하려면 첫 번째 작업을 완료해야 합니다.",
 		"description": "Id: link_locked_msg_driver_manager\nGroup: Trailer ownership"
 	},
 	"link_locked_msg_recruit_map": {
@@ -22880,7 +22900,7 @@
 		"description": "Id: quick_chat\nGroup: Multiplayer key options."
 	},
 	"push_to_talk": {
-		"message": "눌러서 대화하기",
+		"message": "눌러서 대화",
 		"description": "Id: push_to_talk\nGroup: Multiplayer key options."
 	},
 	"show_name_tags": {
@@ -26168,7 +26188,7 @@
 		"description": "Id: aca_msg_book1_1_03_cutscene1\nGroup: Book 1 Scenario 1_03"
 	},
 	"aca_msg_book1_1_03_cutscene2": {
-		"message": "트랙터가 널리 쓰이는 이유는 다양성이 크기 때문입니다. 빈 트레일러를 내려놓고 짐을 실은 트레일러를 들어올릴 때 기다릴 필요 없이 트레일러를 내릴 수 있고, 완전히 다른 종류의 트레일러로 바꿀 수도 있습니다.",
+		"message": "트랙터가 널리 쓰이는 이유는 다양성이 크기 때문입니다. 빈 트레일러를 내려놓고 화물을 실은 트레일러를 들어올릴 때 기다릴 필요 없이 트레일러를 내릴 수 있고, 완전히 다른 종류의 트레일러로 바꿀 수도 있습니다.",
 		"description": "Id: aca_msg_book1_1_03_cutscene2\nGroup: Book 1 Scenario 1_03"
 	},
 	"aca_msg_book1_1_03_cutscene3": {

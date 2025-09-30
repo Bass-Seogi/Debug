@@ -19312,7 +19312,7 @@
 		"description": "Id: quick_chat\nGroup: Multiplayer key options."
 	},
 	"push_to_talk": {
-		"message": "눌러서 대화하기",
+		"message": "눌러서 대화",
 		"description": "Id: push_to_talk\nGroup: Multiplayer key options."
 	},
 	"show_name_tags": {
@@ -22948,7 +22948,7 @@
 		"description": "Id: aca_msg_book1_1_03_cutscene1\nGroup: Book 1 Scenario 1_03"
 	},
 	"aca_msg_book1_1_03_cutscene2": {
-		"message": "트랙터가 널리 쓰이는 이유는 다양성이 크기 때문입니다. 빈 트레일러를 내려놓고 짐을 실은 트레일러를 들어올릴 때 기다릴 필요 없이 트레일러를 내릴 수 있고, 또는 완전히 다른 종류의 트레일러로 바꿀 수도 있습니다.",
+		"message": "트랙터가 널리 쓰이는 이유는 다양성이 크기 때문입니다. 빈 트레일러를 내려놓고 화물을 실은 트레일러를 들어올릴 때 기다릴 필요 없이 트레일러를 내릴 수 있고, 또는 완전히 다른 종류의 트레일러로 바꿀 수도 있습니다.",
 		"description": "Id: aca_msg_book1_1_03_cutscene2\nGroup: Book 1 Scenario 1_03"
 	},
 	"aca_msg_book1_1_03_cutscene3": {
@@ -25164,7 +25164,7 @@
 		"description": "Id: aca_goal_book1_3_18_check1\nGroup: Book 1 Scenario 3_18"
 	},
 	"aca_msg_book1_3_18_cutscene01": {
-		"message": "이곳에서 주차하려면 '골목 주차' 조작이 필요합니다.<br>이것은 트럭 운전사들에게 전형적인 주차 조작입니다, 그들은 트레일러에 짐을 싣거나 내릴 때나 트럭 ​​정거장에서 하룻밤을 보낼 때 등 거의 매일 이런 종류의 주차 상황에 직면하게 될 것입니다.",
+		"message": "이곳에서 주차하려면 '골목 주차' 조작이 필요합니다.<br>이것은 트럭 운전사들에게 전형적인 주차 조작입니다, 그들은 트레일러에 화물을 싣거나 내릴 때나 트럭 ​​정거장에서 하룻밤을 보낼 때 등 거의 매일 이런 종류의 주차 상황에 직면하게 될 것입니다.",
 		"description": "Id: aca_msg_book1_3_18_cutscene01\nGroup: Book 1 Scenario 3_18"
 	},
 	"aca_msg_book1_3_18_cutscene02": {
