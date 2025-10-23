@@ -10247,6 +10247,10 @@
 		"message": "에어로 다이내믹 냉장",
 		"description": "Id: tn_aero_dynamic\nGroup: Names of individual trailer and trailer chassis types. (for trailer listing screen)"
 	},
+	"tn_blade_hauler": {
+		"message": "블레이드 하울러",
+		"description": "Id: tn_blade_hauler\nGroup: Names of individual trailer and trailer chassis types. (for trailer listing screen)"
+	},
 	"tn_brick_trailer": {
 		"message": "벽돌 트레일러",
 		"description": "Id: tn_brick_trailer\nGroup: Names of individual trailer and trailer chassis types. (for trailer listing screen)"
@@ -15499,9 +15503,9 @@
 		"message": "Kögel 트레일러 & 트럭 모델 1:100",
 		"description": "Id: kogel_trailer_model\nGroup: Toys and toy sets\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
-	"krone_lunch_box": {
-		"message": "Krone 도시락",
-		"description": "Id: krone_lunch_box\nGroup: Toys and toy sets\nGroup: Upgrade accesories\nGroup: Input wizard"
+	"krone_air_freshener": {
+		"message": "Krone 방향제",
+		"description": "Id: krone_air_freshener\nGroup: Toys and toy sets\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"krone_bear": {
 		"message": "Krone 베어",
@@ -15523,9 +15527,21 @@
 		"message": "Krone 폼 트럭",
 		"description": "Id: krone_foam_truck\nGroup: Toys and toy sets\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
+	"krone_glasses": {
+		"message": "Krone 안경",
+		"description": "Id: krone_glasses\nGroup: Toys and toy sets\nGroup: Upgrade accesories\nGroup: Input wizard"
+	},
 	"krone_harald_minifigure": {
 		"message": "Krone 하랄드 미니 피규어",
 		"description": "Id: krone_harald_minifigure\nGroup: Toys and toy sets\nGroup: Upgrade accesories\nGroup: Input wizard"
+	},
+	"krone_lunch_box": {
+		"message": "Krone 도시락",
+		"description": "Id: krone_lunch_box\nGroup: Toys and toy sets\nGroup: Upgrade accesories\nGroup: Input wizard"
+	},
+	"krone_mug": {
+		"message": "Krone 머그잔",
+		"description": "Id: krone_mug\nGroup: Toys and toy sets\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"krone_notebook": {
 		"message": "Krone 공책",
@@ -15534,6 +15550,10 @@
 	"krone_pennant": {
 		"message": "Krone 페넌트",
 		"description": "Id: krone_pennant\nGroup: Toys and toy sets\nGroup: Upgrade accesories\nGroup: Input wizard"
+	},
+	"krone_plush_harvester": {
+		"message": "Krone 봉제 수확기",
+		"description": "Id: krone_plush_harvester\nGroup: Toys and toy sets\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"little_owl": {
 		"message": "작은 올빼미",
