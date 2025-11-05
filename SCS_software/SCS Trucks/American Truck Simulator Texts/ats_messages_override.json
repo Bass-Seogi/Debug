@@ -1181,123 +1181,163 @@
 	},
 	"ats_tn_acid": {
 		"message": "산성 탱크 트레일러",
-		"description": "Id: tn_acid\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+		"description": "Id: tn_acid\nGroup: Names of individual trailer, trailer chassis types or trailer virtual company look names. (for trailer listing screen)\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_tn_acid_long": {
 		"message": "산성 탱크 장축 트레일러",
-		"description": "Id: tn_acid_long\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+		"description": "Id: tn_acid_long\nGroup: Names of individual trailer, trailer chassis types or trailer virtual company look names. (for trailer listing screen)\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_tn_bottom_dump": {
 		"message": "하부 개폐식 덤프 트레일러",
-		"description": "Id: tn_bottom_dump\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+		"description": "Id: tn_bottom_dump\nGroup: Names of individual trailer, trailer chassis types or trailer virtual company look names. (for trailer listing screen)\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_tn_car": {
 		"message": "차량 트랜스포터",
-		"description": "Id: tn_car\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+		"description": "Id: tn_car\nGroup: Names of individual trailer, trailer chassis types or trailer virtual company look names. (for trailer listing screen)\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_tn_cement": {
 		"message": "벌크 시멘트 트레일러",
-		"description": "Id: tn_cement\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+		"description": "Id: tn_cement\nGroup: Names of individual trailer, trailer chassis types or trailer virtual company look names. (for trailer listing screen)\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_tn_chemical": {
 		"message": "화학약품 탱크 트레일러",
-		"description": "Id: tn_chemical\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+		"description": "Id: tn_chemical\nGroup: Names of individual trailer, trailer chassis types or trailer virtual company look names. (for trailer listing screen)\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_tn_chemical_long": {
 		"message": "화학약품 탱크 장축 트레일러",
-		"description": "Id: tn_chemical_long\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+		"description": "Id: tn_chemical_long\nGroup: Names of individual trailer, trailer chassis types or trailer virtual company look names. (for trailer listing screen)\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_tn_dry_bulk": {
 		"message": "드라이 벌크 트레일러",
-		"description": "Id: tn_dry_bulk\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+		"description": "Id: tn_dry_bulk\nGroup: Names of individual trailer, trailer chassis types or trailer virtual company look names. (for trailer listing screen)\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_tn_dump": {
 		"message": "덤프 트레일러",
-		"description": "Id: tn_dump\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+		"description": "Id: tn_dump\nGroup: Names of individual trailer, trailer chassis types or trailer virtual company look names. (for trailer listing screen)\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_tn_flatbed": {
 		"message": "평판 트레일러",
-		"description": "Id: tn_flatbed\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+		"description": "Id: tn_flatbed\nGroup: Names of individual trailer, trailer chassis types or trailer virtual company look names. (for trailer listing screen)\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_tn_frac_tank": {
 		"message": "프락 탱크",
-		"description": "Id: tn_frac_tank\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+		"description": "Id: tn_frac_tank\nGroup: Names of individual trailer, trailer chassis types or trailer virtual company look names. (for trailer listing screen)\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_tn_fuel": {
 		"message": "연료 탱크 트레일러",
-		"description": "Id: tn_fuel\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+		"description": "Id: tn_fuel\nGroup: Names of individual trailer, trailer chassis types or trailer virtual company look names. (for trailer listing screen)\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_tn_fuel_long": {
 		"message": "연료 탱크 장축 트레일러",
-		"description": "Id: tn_fuel_long\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+		"description": "Id: tn_fuel_long\nGroup: Names of individual trailer, trailer chassis types or trailer virtual company look names. (for trailer listing screen)\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_tn_gas": {
 		"message": "가스 탱크 트레일러",
-		"description": "Id: tn_gas\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+		"description": "Id: tn_gas\nGroup: Names of individual trailer, trailer chassis types or trailer virtual company look names. (for trailer listing screen)\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_tn_gas_long": {
 		"message": "가스 탱크 장축 트레일러",
-		"description": "Id: tn_gas_long\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+		"description": "Id: tn_gas_long\nGroup: Names of individual trailer, trailer chassis types or trailer virtual company look names. (for trailer listing screen)\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_tn_home_transporter": {
 		"message": "홈 트랜스포터",
-		"description": "Id: tn_home_transporter\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+		"description": "Id: tn_home_transporter\nGroup: Names of individual trailer, trailer chassis types or trailer virtual company look names. (for trailer listing screen)\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_tn_knuckle_boom": {
 		"message": "너클붐 로더",
-		"description": "Id: tn_knuckle_boom\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+		"description": "Id: tn_knuckle_boom\nGroup: Names of individual trailer, trailer chassis types or trailer virtual company look names. (for trailer listing screen)\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_tn_lowboy_boat": {
 		"message": "로우보이 보트 트레일러",
-		"description": "Id: tn_lowboy_boat\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+		"description": "Id: tn_lowboy_boat\nGroup: Names of individual trailer, trailer chassis types or trailer virtual company look names. (for trailer listing screen)\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_tn_scs_lowboy": {
 		"message": "로우보이 연장형 트레일러",
-		"description": "Id: tn_scs_lowboy\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+		"description": "Id: tn_scs_lowboy\nGroup: Names of individual trailer, trailer chassis types or trailer virtual company look names. (for trailer listing screen)\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_tn_mbt1_barrier": {
 		"message": "모바일 배리어 트레일러",
-		"description": "Id: tn_mbt1_barrier\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+		"description": "Id: tn_mbt1_barrier\nGroup: Names of individual trailer, trailer chassis types or trailer virtual company look names. (for trailer listing screen)\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_tn_tub_grinder": {
 		"message": "목재 파쇄기",
-		"description": "Id: tn_tub_grinder\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+		"description": "Id: tn_tub_grinder\nGroup: Names of individual trailer, trailer chassis types or trailer virtual company look names. (for trailer listing screen)\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_tcn_ate": {
+		"message": "ATE",
+		"description": "Id: tcn_ate\nGroup: Names of individual trailer, trailer chassis types or trailer virtual company look names. (for trailer listing screen)\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_tcn_blackwing": {
+		"message": "블랙윙 하울",
+		"description": "Id: tcn_blackwing\nGroup: Names of individual trailer, trailer chassis types or trailer virtual company look names. (for trailer listing screen)\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_tcn_crosslink": {
+		"message": "크로스링크 홀",
+		"description": "Id: tcn_crosslink\nGroup: Names of individual trailer, trailer chassis types or trailer virtual company look names. (for trailer listing screen)\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_tcn_ets": {
+		"message": "ETS",
+		"description": "Id: tcn_ets\nGroup: Names of individual trailer, trailer chassis types or trailer virtual company look names. (for trailer listing screen)\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_tcn_hfx": {
+		"message": "HFX",
+		"description": "Id: tcn_hfx\nGroup: Names of individual trailer, trailer chassis types or trailer virtual company look names. (for trailer listing screen)\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_tcn_ncs": {
+		"message": "NCS",
+		"description": "Id: tcn_ncs\nGroup: Names of individual trailer, trailer chassis types or trailer virtual company look names. (for trailer listing screen)\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_tcn_omniway": {
+		"message": "옴니웨이",
+		"description": "Id: tcn_omniway\nGroup: Names of individual trailer, trailer chassis types or trailer virtual company look names. (for trailer listing screen)\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_tcn_primeway": {
+		"message": "프라임웨이 로지스틱스",
+		"description": "Id: tcn_primeway\nGroup: Names of individual trailer, trailer chassis types or trailer virtual company look names. (for trailer listing screen)\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_tcn_reed": {
+		"message": "F.D.리드",
+		"description": "Id: tcn_reed\nGroup: Names of individual trailer, trailer chassis types or trailer virtual company look names. (for trailer listing screen)\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_tcn_sabre": {
+		"message": "세이버 트랜스포트",
+		"description": "Id: tcn_sabre\nGroup: Names of individual trailer, trailer chassis types or trailer virtual company look names. (for trailer listing screen)\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_tn_lodeking_brilliance": {
 		"message": "Lodeking Brilliance",
-		"description": "Id: tn_lodeking_brilliance\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+		"description": "Id: tn_lodeking_brilliance\nGroup: Names of individual trailer, trailer chassis types or trailer virtual company look names. (for trailer listing screen)\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_tn_lodeking_distinction": {
 		"message": "Lodeking Distinction",
-		"description": "Id: tn_lodeking_distinction\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+		"description": "Id: tn_lodeking_distinction\nGroup: Names of individual trailer, trailer chassis types or trailer virtual company look names. (for trailer listing screen)\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_tn_lodeking_forceline": {
 		"message": "Lodeking Forceline",
-		"description": "Id: tn_lodeking_forceline\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+		"description": "Id: tn_lodeking_forceline\nGroup: Names of individual trailer, trailer chassis types or trailer virtual company look names. (for trailer listing screen)\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_tn_lodeking_prestige": {
 		"message": "Lodeking Prestige",
-		"description": "Id: tn_lodeking_prestige\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+		"description": "Id: tn_lodeking_prestige\nGroup: Names of individual trailer, trailer chassis types or trailer virtual company look names. (for trailer listing screen)\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_tn_lodeking_renown": {
 		"message": "Lodeking Renown",
-		"description": "Id: tn_lodeking_renown\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+		"description": "Id: tn_lodeking_renown\nGroup: Names of individual trailer, trailer chassis types or trailer virtual company look names. (for trailer listing screen)\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_tn_prestige_brilliance": {
 		"message": "Prestige Brilliance",
-		"description": "Id: tn_prestige_brilliance\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+		"description": "Id: tn_prestige_brilliance\nGroup: Names of individual trailer, trailer chassis types or trailer virtual company look names. (for trailer listing screen)\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_tn_prestige_distinction": {
 		"message": "Prestige Distinction",
-		"description": "Id: tn_prestige_distinction\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+		"description": "Id: tn_prestige_distinction\nGroup: Names of individual trailer, trailer chassis types or trailer virtual company look names. (for trailer listing screen)\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_tn_prestige_forceline": {
 		"message": "Lodeking Forceline",
-		"description": "Id: tn_prestige_forceline\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+		"description": "Id: tn_prestige_forceline\nGroup: Names of individual trailer, trailer chassis types or trailer virtual company look names. (for trailer listing screen)\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_tn_prestige_renown": {
 		"message": "Prestige Renown",
-		"description": "Id: tn_prestige_renown\nGroup: Names of individual trailer and trailer chassis types.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+		"description": "Id: tn_prestige_renown\nGroup: Names of individual trailer, trailer chassis types or trailer virtual company look names. (for trailer listing screen)\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_tt_ico_adr_1": {
 		"message": "유해물질 1등급",
@@ -2042,6 +2082,10 @@
 	"ats_kansas": {
 		"message": "캔자스",
 		"description": "Id: kansas\nGroup: Names of countries/states"
+	},
+	"ats_louisiana": {
+		"message": "루이지애나",
+		"description": "Id: louisiana\nGroup: Names of countries/states"
 	},
 	"ats_missouri": {
 		"message": "미주리",
