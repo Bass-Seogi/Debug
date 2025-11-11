@@ -16748,7 +16748,7 @@
 		"description": "Id: dynamic_cargo_load_progress\nGroup: Trailer ownership"
 	},
 	"dynamic_cargo_load_next_trailer": {
-		"message": "현재 트레일러가 가득 찼습니다. 빈 트레일러를 로더 아래로 이동해 주세요. <br $OFFSET$>트레일러 적재를 건너뛰려면 다음을 누르싶시오:<br>",
+		"message": "현재 트레일러가 가득 찼습니다. <br>빈 트레일러를 로더 아래로 이동해 주세요. <br $OFFSET$>트레일러 적재를 건너뛰려면 다음을 누르싶시오:<br>",
 		"description": "Id: dynamic_cargo_load_next_trailer\nGroup: Trailer ownership"
 	},
 	"dynamic_cargo_job_unload_title": {
@@ -16760,7 +16760,7 @@
 		"description": "Id: dynamic_cargo_unload_progress\nGroup: Trailer ownership"
 	},
 	"dynamic_cargo_unload_next_trailer": {
-		"message": "현재 트레일러가 비어 있습니다. 비어 있지 않은 트레일러를 로더 아래로 이동해 주세요. <br $OFFSET$>트레일러 하역을 건너뛰려면 다음을 누르십시오:<br>",
+		"message": "현재 트레일러가 비어 있습니다. <br>비어 있지 않은 트레일러를 로더 아래로 이동해 주세요. <br $OFFSET$>트레일러 하역을 건너뛰려면 다음을 누르십시오:<br>",
 		"description": "Id: dynamic_cargo_unload_next_trailer\nGroup: Trailer ownership"
 	},
 	"dynamic_cargo_job_button_hint": {
@@ -18276,11 +18276,11 @@
 		"description": "Id: mp_entering_non_col\nGroup: Multiplayer System chat messages."
 	},
 	"mp_leaving_private": {
-		"message": "개인 공간에서 이탈합니다.",
+		"message": "개인 공간에서 나옵니다.",
 		"description": "Id: mp_leaving_private\nGroup: Multiplayer System chat messages."
 	},
 	"mp_leaving_non_col": {
-		"message": "충돌하지 않는 공간에서 이탈합니다.",
+		"message": "충돌하지 않는 공간에서 나옵니다.",
 		"description": "Id: mp_leaving_non_col\nGroup: Multiplayer System chat messages."
 	},
 	"mp_chat_no_admin": {
@@ -22656,7 +22656,7 @@
 		"description": "Id: new_academy_rewards_help\nThe help text for new academy reward items dialog.\nGroup: Academy reward texts."
 	},
 	"aca_reward_locked": {
-		"message": "<color value=@@clr_sel@@>@@driving_academy@@에서 구매 가능",
+		"message": "<color value=@@clr_sel@@>@@driving_academy@@에서 이용 가능",
 		"description": "Id: aca_reward_locked\nText in truck configurator when accessory is locked.\nGroup: Academy reward texts."
 	},
 	"aca_book_title": {
