@@ -875,9 +875,17 @@
 		"message": "말린 과일",
 		"description": "Id: cn_dryfruit\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
+	"ats_cn_dump_truck": {
+		"message": "덤프 트럭",
+		"description": "Id: cn_dump_truck\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
 	"ats_cn_dumpster": {
 		"message": "덤프스터",
 		"description": "Id: cn_dumpster\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_ethanol": {
+		"message": "에탄올",
+		"description": "Id: cn_ethanol\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_cn_fertilizer_tank": {
 		"message": "비료 탱크",
@@ -987,6 +995,10 @@
 		"message": "고기",
 		"description": "Id: cn_meat\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
+	"ats_cn_medium_truck_chassis": {
+		"message": "중형 트럭 샤시",
+		"description": "Id: cn_medium_truck_chassis\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
 	"ats_cn_milling_machine": {
 		"message": "밀링 머신",
 		"description": "Id: cn_milling_machine\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
@@ -1018,10 +1030,6 @@
 	"ats_cn_oil_pipes": {
 		"message": "오일 파이프",
 		"description": "Id: cn_oil_pipes\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
-	},
-	"ats_cn_packed_lumber": {
-		"message": "포장된 제재목",
-		"description": "Id: cn_packed_lumber\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_cn_paper": {
 		"message": "종이",
@@ -1071,6 +1079,10 @@
 		"message": "스쿨버스",
 		"description": "Id: cn_school_bus\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
+	"ats_cn_scissor_lift": {
+		"message": "고소 작업대",
+		"description": "Id: cn_scissor_lift\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
 	"ats_cn_scrap_cars": {
 		"message": "폐차",
 		"description": "Id: cn_scrap_cars\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
@@ -1078,6 +1090,10 @@
 	"ats_cn_scraper": {
 		"message": "스크레이퍼",
 		"description": "Id: cn_scraper\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_service_truck": {
+		"message": "서비스 트럭",
+		"description": "Id: cn_service_truck\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_cn_silane": {
 		"message": "실레인",
@@ -1094,6 +1110,10 @@
 	"ats_cn_space_container": {
 		"message": "스페이스 컨테이너",
 		"description": "Id: cn_space_container\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_speed_motor_boat": {
+		"message": "스피드 모터 보트",
+		"description": "Id: cn_speed_motor_boat\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_cn_stumper": {
 		"message": "스텀퍼",
@@ -1150,6 +1170,10 @@
 	"ats_cn_wire_rod_coil": {
 		"message": "와이어로드 코일",
 		"description": "Id: cn_wire_rod_coil\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_cn_work_truck_chassis": {
+		"message": "작업 트럭 샤시",
+		"description": "Id: cn_work_truck_chassis\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_cn_yard_truck": {
 		"message": "야드 트럭",
