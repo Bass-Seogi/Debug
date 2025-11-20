@@ -2175,6 +2175,10 @@
 		"message": "앨버커키",
 		"description": "Id: albuquerque\nGroup: Names of cities"
 	},
+	"ats_alexandria": {
+		"message": "알렉산드리아",
+		"description": "Id: alexandria\nGroup: Names of cities"
+	},
 	"ats_alliance": {
 		"message": "얼라이언스",
 		"description": "Id: alliance\nGroup: Names of cities"
@@ -2210,6 +2214,10 @@
 	"ats_bartlesville": {
 		"message": "바틀즈빌",
 		"description": "Id: bartlesville\nGroup: Names of cities"
+	},
+	"ats_baton_rouge": {
+		"message": "배턴루지",
+		"description": "Id: baton_rouge\nGroup: Names of cities"
 	},
 	"ats_beaumont": {
 		"message": "보몬트",
@@ -2362,6 +2370,10 @@
 	"ats_denver": {
 		"message": "덴버",
 		"description": "Id: denver\nGroup: Names of cities"
+	},
+	"ats_deridder": {
+		"message": "데리더",
+		"description": "Id: deridder\nGroup: Names of cities"
 	},
 	"ats_des_moines": {
 		"message": "디모인",
@@ -2563,6 +2575,10 @@
 		"message": "핫스프링스",
 		"description": "Id: hot_springs\nGroup: Names of cities"
 	},
+	"ats_houma": {
+		"message": "후마",
+		"description": "Id: houma\nGroup: Names of cities"
+	},
 	"ats_houston": {
 		"message": "휴스턴",
 		"description": "Id: houston\nGroup: Names of cities"
@@ -2654,6 +2670,14 @@
 	"ats_klamath_falls": {
 		"message": "클래머스폴스",
 		"description": "Id: klamath_falls\nGroup: Names of cities"
+	},
+	"ats_lafayette": {
+		"message": "라파예트",
+		"description": "Id: lafayette\nGroup: Names of cities"
+	},
+	"ats_lake_charles": {
+		"message": "레이크찰스",
+		"description": "Id: lake_charles\nGroup: Names of cities"
 	},
 	"ats_lakeview": {
 		"message": "레이크뷰",
@@ -2771,6 +2795,10 @@
 		"message": "모하비",
 		"description": "Id: mojave\nGroup: Names of cities"
 	},
+	"ats_monroe": {
+		"message": "먼로",
+		"description": "Id: monroe\nGroup: Names of cities"
+	},
 	"ats_montrose": {
 		"message": "몬트로즈",
 		"description": "Id: montrose\nGroup: Names of cities"
@@ -2782,6 +2810,14 @@
 	"ats_nampa": {
 		"message": "넴파",
 		"description": "Id: nampa\nGroup: Names of cities"
+	},
+	"ats_natchitoches": {
+		"message": "내키토시",
+		"description": "Id: natchitoches\nGroup: Names of cities"
+	},
+	"ats_new_orleans": {
+		"message": "뉴올리언스",
+		"description": "Id: new_orleans\nGroup: Names of cities"
 	},
 	"ats_newport": {
 		"message": "뉴포트",
@@ -2890,6 +2926,10 @@
 	"ats_port_angeles": {
 		"message": "포트앤젤레스",
 		"description": "Id: port_angeles\nGroup: Names of cities"
+	},
+	"ats_port_fourchon": {
+		"message": "포트 포천",
+		"description": "Id: port_fourchon\nGroup: Names of cities"
 	},
 	"ats_portland": {
 		"message": "포틀랜드",
@@ -3030,6 +3070,10 @@
 	"ats_show_low": {
 		"message": "쇼로",
 		"description": "Id: show_low\nGroup: Names of cities"
+	},
+	"ats_shreveport": {
+		"message": "슈리브포트",
+		"description": "Id: shreveport\nGroup: Names of cities"
 	},
 	"ats_sidney": {
 		"message": "시드니",
