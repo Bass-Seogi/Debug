@@ -1480,11 +1480,11 @@
     "description": "Id: NEW_ACHIEVEMENT_70_28_NAME\nAchievement name for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
   },
   "NEW_ACHIEVEMENT_70_28_DESC": {
-    "message": "조선소 건설을 위해 루이지애나의 모든 조선소에 오일 파이프, 금속 코일, 제재목을 배송 해야 합니다",
+    "message": "조선소 건설을 위해 루이지애나의 모든 조선소에 철 파이프, 금속 코일, 제재목을 배송 해야 합니다",
     "description": "Id: NEW_ACHIEVEMENT_70_28_DESC\nAchievement description for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
   },
   "NEW_ACHIEVEMENT_70_28_SHORT": {
-    "message": "조선소 건설을 위해 루이지애나의 모든 조선소에 오일 파이프, 금속 코일, 제재목을 배송 해야 합니다",
+    "message": "조선소 건설을 위해 루이지애나의 모든 조선소에 철 파이프, 금속 코일, 제재목을 배송 해야 합니다",
     "description": "Id: NEW_ACHIEVEMENT_70_28_SHORT\nShort version of achievement description for American Truck Simulator. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit."
   },
   "NEW_ACHIEVEMENT_11_28_NAME": {

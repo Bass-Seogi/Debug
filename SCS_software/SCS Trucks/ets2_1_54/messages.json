@@ -9792,7 +9792,7 @@
 		"description": "Id: cn_excavator_jcb_245xr\nGroup: Names of cargo for DLC JCB"
 	},
 	"cn_powerpack_jcb_125qe": {
-		"message": "Powerpack JCB 1.25QE",
+		"message": "파워팩 JCB 1.25QE",
 		"description": "Id: cn_powerpack_jcb_125qe\nGroup: Names of cargo for DLC JCB"
 	},
 	"cn_tractor_jcb_fastrac_4220": {
@@ -18212,7 +18212,7 @@
 		"description": "Id: cn_cat_785c\nName of the cargo of large dozer.\nGroup: Strings related to special missions and the whole project of ovs."
 	},
 	"cn_heat_exch": {
-		"message": "열 교환기",
+		"message": "열교환기",
 		"description": "Id: cn_heat_exch\nName of the cargo of big heat exchanger.\nGroup: Strings related to special missions and the whole project of ovs."
 	},
 	"cn_ovs_tank": {
@@ -20052,7 +20052,7 @@
 		"description": "Id: steam_cloud_settings_label\nEdit or create screen checkbox.\nGroup: Steam cloud."
 	},
 	"load_msg_out_of_steam_intro_has_space": {
-		"message": "스팀 클라우드에 당신의 세이브 파일을 보관할 충분한 공간이 있습니다.",
+		"message": "스팀 클라우드는 저장하기 위한 공간이 충분히 있습니다.",
 		"description": "Id: load_msg_out_of_steam_intro_has_space\nLoad screen with out of steam warning when player removed enough save.\nGroup: Steam cloud."
 	},
 	"load_msg_out_of_steam_intro_no_space": {
@@ -20060,7 +20060,7 @@
 		"description": "Id: load_msg_out_of_steam_intro_no_space\nLoad scrren with out of steam warning when player does not yet removed enough save.\nGroup: Steam cloud."
 	},
 	"load_msg_out_of_steam_to_free_bytes": {
-		"message": "초과된 용량: <color value=@@clr_red@@>$BYTES$ MB<color value=@@clr_txt@@>",
+		"message": "공간 초과: <color value=@@clr_red@@>$BYTES$ MB<color value=@@clr_txt@@>",
 		"description": "Id: load_msg_out_of_steam_to_free_bytes\nNumber of Megabytes player has to remove.\nGroup: Steam cloud."
 	},
 	"load_msg_out_of_steam_to_free_files": {
@@ -20068,7 +20068,7 @@
 		"description": "Id: load_msg_out_of_steam_to_free_files\nNumber of files player has to remove.\nGroup: Steam cloud."
 	},
 	"load_msg_out_of_steam_used_bytes": {
-		"message": "사용된 스팀 클라우드 용량: <color value=@@clr_sel@@>$BYTES$ MB<color value=@@clr_txt@@>",
+		"message": "스팀 클라우드 공간 사용: <color value=@@clr_sel@@>$BYTES$ MB<color value=@@clr_txt@@>",
 		"description": "Id: load_msg_out_of_steam_used_bytes\nNumber of Megabytes player has in the cloud.\nGroup: Steam cloud."
 	},
 	"load_msg_out_of_steam_used_files": {
@@ -20076,7 +20076,7 @@
 		"description": "Id: load_msg_out_of_steam_used_files\nNumber of files player has in the cloud.\nGroup: Steam cloud."
 	},
 	"load_msg_out_of_steam_selected_save": {
-		"message": "선택한 세이브 <color value=@@clr_sel@@>$SAVE$<color value=@@clr_txt@@>은(는) <color value=@@clr_sel@@>$FILES$<color value=@@clr_txt@@> 파일, <color value=@@clr_sel@@>$BYTES$ MB<color value=@@clr_txt@@> 입니다.",
+		"message": "선택된 저장 <color value=@@clr_sel@@>$SAVE$<color value=@@clr_txt@@> has <color value=@@clr_sel@@>$BYTES$ MB<color value=@@clr_txt@@> <color value=@@clr_sel@@>$FILES$<color value=@@clr_txt@@> 의 파일이 있습니다.",
 		"description": "Id: load_msg_out_of_steam_selected_save\nSelected save info.\nGroup: Steam cloud."
 	},
 	"load_msg_out_of_steam_box": {
@@ -20404,7 +20404,7 @@
 		"description": "Id: sctrl_action_pause\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"sctrl_action_back": {
-		"message": "Back",
+		"message": "뒤로",
 		"description": "Id: sctrl_action_back\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"sctrl_action_steering": {
@@ -20852,11 +20852,11 @@
 		"description": "Id: mp_entering_non_col\nGroup: Multiplayer System chat messages."
 	},
 	"mp_leaving_private": {
-		"message": "개인 공간에서 이탈합니다.",
+		"message": "개인 공간에서 나옵니다.",
 		"description": "Id: mp_leaving_private\nGroup: Multiplayer System chat messages."
 	},
 	"mp_leaving_non_col": {
-		"message": "충돌하지 않는 공간에서 이탈합니다.",
+		"message": "충돌하지 않는 공간에서 나옵니다.",
 		"description": "Id: mp_leaving_non_col\nGroup: Multiplayer System chat messages."
 	},
 	"mp_chat_no_admin": {
@@ -24764,7 +24764,7 @@
 		"description": "Id: new_academy_rewards_help\nThe help text for new academy reward items dialog.\nGroup: Academy reward texts."
 	},
 	"aca_reward_locked": {
-		"message": "<color value=@@clr_sel@@>@@driving_academy@@에서 구매 가능",
+		"message": "<color value=@@clr_sel@@>@@driving_academy@@에서 이용 가능",
 		"description": "Id: aca_reward_locked\nText in truck configurator when accessory is locked.\nGroup: Academy reward texts."
 	},
 	"aca_book_title": {
