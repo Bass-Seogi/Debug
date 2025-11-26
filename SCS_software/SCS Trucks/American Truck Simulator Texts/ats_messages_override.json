@@ -299,6 +299,10 @@
 		"message": "별 무늬 담요",
 		"description": "Id: blanket_stars\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
 	},
+	"ats_boudreaux_the_bear": {
+		"message": "곰 보드로",
+		"description": "Id: boudreaux_the_bear\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
 	"ats_box_turtle": {
 		"message": "상자거북(박스터틀)",
 		"description": "Id: box_turtle\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
@@ -386,6 +390,10 @@
 	"ats_goalkeeper_mask": {
 		"message": "골키퍼 마스크",
 		"description": "Id: goalkeeper_mask\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
+	},
+	"ats_golden_south": {
+		"message": "골든 사우스",
+		"description": "Id: golden_south\nGroup: Cabin accessory items and sets (toys)\nGroup: Various accessory slots or accessory names."
 	},
 	"ats_guitar": {
 		"message": "기타",
@@ -1439,25 +1447,33 @@
 		"message": "검사임에도 정차하지 않았습니다.",
 		"description": "Id: offence_avoid_inspection\ninspection skipped\nGroup: Agriculture checks.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
+	"ats_thanks_using_bailey": {
+		"message": "H. E. 베일리 턴파이크를 이용해 주셔서 감사합니다.",
+		"description": "Id: thanks_using_bailey\nGroup: Tollgate messages.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_thanks_using_causeway": {
+		"message": "폰트차트레인 코즈웨이를 이용해 주셔서 감사합니다.",
+		"description": "Id: thanks_using_causeway\nGroup: Tollgate messages.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
 	"ats_thanks_using_cimarron": {
 		"message": "시마론 턴파이크를 이용해 주셔서 감사합니다.",
 		"description": "Id: thanks_using_cimarron\nGroup: Tollgate messages.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
-	},
-	"ats_thanks_using_turner": {
-		"message": "터너 턴파이크를 이용해 주셔서 감사합니다.",
-		"description": "Id: thanks_using_turner\nGroup: Tollgate messages.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_thanks_using_indian": {
 		"message": "인디언 네이션 턴파이크를 이용해 주셔서 감사합니다.",
 		"description": "Id: thanks_using_indian\nGroup: Tollgate messages.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
-	"ats_thanks_using_bailey": {
-		"message": "H. E. 베일리 턴파이크를 이용해 주셔서 감사합니다.",
-		"description": "Id: thanks_using_bailey\nGroup: Tollgate messages.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	"ats_thanks_using_leeville": {
+		"message": "리빌 톨게이트를 이용해 주셔서 감사합니다.",
+		"description": "Id: thanks_using_leeville\nGroup: Tollgate messages.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_thanks_using_rogers": {
 		"message": "윌 로저스 턴파이크를 이용해 주셔서 감사합니다.",
 		"description": "Id: thanks_using_rogers\nGroup: Tollgate messages.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
+	},
+	"ats_thanks_using_turner": {
+		"message": "터너 턴파이크를 이용해 주셔서 감사합니다.",
+		"description": "Id: thanks_using_turner\nGroup: Tollgate messages.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_bulkfeed": {
 		"message": "벌크 피드",
@@ -2263,6 +2279,10 @@
 		"message": "뷰트",
 		"description": "Id: butte\nGroup: Names of cities"
 	},
+	"ats_cameron": {
+		"message": "카메론",
+		"description": "Id: cameron\nGroup: Names of cities"
+	},
 	"ats_camp_verde": {
 		"message": "캠프 베르드",
 		"description": "Id: camp_verde\nGroup: Names of cities"
@@ -2346,6 +2366,10 @@
 	"ats_corpus_christi": {
 		"message": "코퍼스크리스티",
 		"description": "Id: corpus_christi\nGroup: Names of cities"
+	},
+	"ats_cote_blanche_island": {
+		"message": "코트 블랑슈 아일랜드",
+		"description": "Id: cote_blanche_island\nGroup: Names of cities"
 	},
 	"ats_council_bluffs": {
 		"message": "카운실 블러프스",
@@ -2475,6 +2499,10 @@
 		"message": "포트워스",
 		"description": "Id: fort_worth\nGroup: Names of cities"
 	},
+	"ats_fourchon_island": {
+		"message": "포천 아일랜드",
+		"description": "Id: fourchon_island\nGroup: Names of cities"
+	},
 	"ats_fresno": {
 		"message": "프레즈노",
 		"description": "Id: fresno\nGroup: Names of cities"
@@ -2566,6 +2594,10 @@
 	"ats_holbrook": {
 		"message": "홀브룩",
 		"description": "Id: holbrook\nGroup: Names of cities"
+	},
+	"ats_holly_beach": {
+		"message": "홀리 비치",
+		"description": "Id: holly_beach\nGroup: Names of cities"
 	},
 	"ats_hornbrook": {
 		"message": "혼브룩",
