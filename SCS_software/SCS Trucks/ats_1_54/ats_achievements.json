@@ -80,7 +80,7 @@
     "description": "Id: NEW_ACHIEVEMENT_4_8_DESC\nAchievement description for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
   },
   "NEW_ACHIEVEMENT_4_8_SHORT": {
-    "message": "하나의 차고지를 끝까지 업그레이드 하십시오",
+    "message": "하나의 차고를 끝까지 업그레이드하십시오",
     "description": "Id: NEW_ACHIEVEMENT_4_8_SHORT\nShort version of achievement description for American Truck Simulator. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit."
   },
   "NEW_ACHIEVEMENT_4_3_NAME": {

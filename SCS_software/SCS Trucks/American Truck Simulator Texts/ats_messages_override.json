@@ -2711,6 +2711,10 @@
 		"message": "레이크찰스",
 		"description": "Id: lake_charles\nGroup: Names of cities"
 	},
+	"ats_lake_havasu_city": {
+		"message": "레이크 하바수시티",
+		"description": "Id: lake_havasu_city\nGroup: Names of cities"
+	},
 	"ats_lakeview": {
 		"message": "레이크뷰",
 		"description": "Id: lakeview\nGroup: Names of cities"
@@ -3254,6 +3258,10 @@
 	"ats_winnemucca": {
 		"message": "위네뮤카",
 		"description": "Id: winnemucca\nGroup: Names of cities"
+	},
+	"ats_winslow": {
+		"message": "윈슬로우",
+		"description": "Id: winslow\nGroup: Names of cities"
 	},
 	"ats_woodward": {
 		"message": "우드워드",

@@ -3040,7 +3040,7 @@
 		"description": "Id: generic_limit\nShow speed limits for ordinary cars on the advisor.\nGroup: Adviser speed limit visualization\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"adviser_speed_warning": {
-		"message": "경로 관리자 과속 경고",
+		"message": "경로 관리자 속도 경고",
 		"description": "Id: adviser_speed_warning\nCheckbox enabling speeding warning\nGroup: Adviser speed limit visualization\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"map_alignment": {
@@ -3604,7 +3604,7 @@
 		"description": "Id: traction_control_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"auto_diff_lock_op_tooltip": {
-		"message": "이 옵션을 활성화하면 바퀴가 미끄러질 때 견인력을 향상시키기 위해 트럭이 차동 장치를 잠급니다.",
+		"message": "활성화하면 바퀴가 미끄러질 때 견인력을 향상시키기 위해 트럭이 차동 장치를 잠급니다.",
 		"description": "Id: auto_diff_lock_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"cruise_control_grid_op_tooltip": {
@@ -3624,7 +3624,7 @@
 		"description": "Id: emergency_brake_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"lane_assistant_mode_op_tooltip": {
-		"message": "차선 어시스턴트 모드를 선택합니다:<br>- \"차선 이탈 경고\" 모드는 차선을 벗어나려고 할 때 소리로 경고합니다.<br>- 청각적 경고 외에도 \"차선 유지 지원\"은 트럭이 차선을 벗어나지 않도록 자동으로 조종합니다.<br><br>두 모드 모두 55km/h(~35mph) 이상의 속도에서만 활성화됩니다.<br>차선 어시스턴트는 작동하기 전에 방향지시등 사용도 고려합니다.",
+		"message": "차선 어시스턴트 모드를 선택합니다:<br>- \"차선 이탈 경고\" 모드는 차선을 벗어나려고 할 때 소리로 경고합니다.<br>- 청각적 경고 외에도 \"차선 유지 지원\"은 트럭이 차선을 벗어나지 않도록 자동으로 조종합니다.<br><br>두 모드 모두 55km/h (~35mph) 이상의 속도에서만 활성화됩니다.<br>차선 어시스턴트는 작동하기 전에 방향지시등 사용도 고려합니다.",
 		"description": "Id: lane_assistant_mode_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"blind_spot_op_tooltip": {
@@ -3640,11 +3640,11 @@
 		"description": "Id: automatic_high_beams_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"blinker_auto_off_op_tooltip": {
-		"message": "이 옵션을 활성화하면 스티어링 휠이 중앙으로 되돌아올 때 방향지시등이 자동으로 꺼집니다.",
+		"message": "활성화하면 스티어링 휠이 중앙으로 되돌아올 때 방향지시등이 자동으로 꺼집니다.",
 		"description": "Id: blinker_auto_off_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"toy_phys_move_op_tooltip": {
-		"message": "이 옵션을 활성화하면 일부 실내 액세서리가 차량의 물리적인 움직임에 반응합니다 (걸이 장식, 보블 헤드 등).",
+		"message": "활성화하면 일부 실내 액세서리가 차량의 물리적인 움직임에 반응합니다 (걸이 장식, 보블 헤드 등).",
 		"description": "Id: toy_phys_move_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"steer_cam_rotation_op_tooltip": {
@@ -3664,7 +3664,7 @@
 		"description": "Id: blinker_cam_rotation_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"phys_cam_move_op_tooltip": {
-		"message": "이 옵션을 활성화하면 인테리어 카메라가 차량 움직임에 반응합니다.",
+		"message": "활성화하면 인테리어 카메라가 차량 움직임에 반응합니다.",
 		"description": "Id: phys_cam_move_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"phys_cam_move_factor_op_tooltip": {
@@ -3692,11 +3692,11 @@
 		"description": "Id: region_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"localized_city_country_names_op_tooltip": {
-		"message": "이 옵션을 활성화하면 도시와 주가 선택한 언어로 표시됩니다.",
+		"message": "활성화하면 도시와 주가 선택한 언어로 표시됩니다.",
 		"description": "Id: localized_city_country_names_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"show_secondary_names_in_map_op_tooltip": {
-		"message": "이 옵션을 활성화하면 도시와 주가 선택한 언어와 해당 지역의 언어로 지도에 표시됩니다.",
+		"message": "활성화하면 도시와 주가 선택한 언어와 해당 지역의 언어로 지도에 표시됩니다.",
 		"description": "Id: show_secondary_names_in_map_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"displayed_currency_op_tooltip": {
@@ -4548,7 +4548,7 @@
 		"description": "Id: o_im_engine_op_tooltip\nGroup: Tooltips.\nGroup: Options/Keyboard\nScreen used to configure keyboard related options."
 	},
 	"o_im_engine_electricity_op_tooltip": {
-		"message": "전기계통을 켜고 끄는 버튼을 할당합니다.<br><br>할당된 경우 엔진을 시동하기 전에 전기를 켜야 합니다. 그런 다음 표준 엔진 시동/정지 버튼을 사용하는 대신 전기를 꺼서 엔진을 정지해야 합니다.",
+		"message": "전기계통을 켜고 끄는 버튼을 지정합니다.<br><br>할당된 경우 엔진을 시동하기 전에 전기를 켜야 합니다. 그런 다음 표준 엔진 시동/정지 버튼을 사용하는 대신 전기를 꺼서 엔진을 정지해야 합니다.",
 		"description": "Id: o_im_engine_electricity_op_tooltip\nGroup: Tooltips.\nGroup: Options/Keyboard\nScreen used to configure keyboard related options."
 	},
 	"o_im_parkingbrake_op_tooltip": {
@@ -4656,7 +4656,7 @@
 		"description": "Id: o_im_horn_op_tooltip\nGroup: Tooltips.\nGroup: Options/Keyboard\nScreen used to configure keyboard related options."
 	},
 	"o_im_air_horn_op_tooltip": {
-		"message": "트럭에 에어 혼이 장착된 경우, 에어 혼을 사용하기 위한 버튼을 할당합니다.",
+		"message": "트럭에 에어 혼이 장착된 경우, 에어 혼을 사용하기 위한 버튼을 지정합니다.",
 		"description": "Id: o_im_air_horn_op_tooltip\nGroup: Tooltips.\nGroup: Options/Keyboard\nScreen used to configure keyboard related options."
 	},
 	"o_im_light_horn_op_tooltip": {
@@ -4716,7 +4716,7 @@
 		"description": "Id: o_im_dashboard_map_op_tooltip\nGroup: Tooltips.\nGroup: Options/Keyboard\nScreen used to configure keyboard related options."
 	},
 	"o_im_trip_reset_op_tooltip": {
-		"message": "대시보드에서 여행 정보(거리, 시간, 연료 소비량)를 재설정하기 위한 버튼을 할당합니다.",
+		"message": "대시보드에서 여행 정보(거리, 시간, 연료 소비량)를 재설정하기 위한 버튼을 지정합니다.",
 		"description": "Id: o_im_trip_reset_op_tooltip\nGroup: Tooltips.\nGroup: Options/Keyboard\nScreen used to configure keyboard related options."
 	},
 	"o_im_right_window_open_op_tooltip": {
@@ -4736,7 +4736,7 @@
 		"description": "Id: o_im_left_window_close_op_tooltip\nGroup: Tooltips.\nGroup: Options/Keyboard\nScreen used to configure keyboard related options."
 	},
 	"o_im_show_mirrors_op_tooltip": {
-		"message": "팝업 사이드 미러를 표시하거나 숨기기 위한 버튼을 지정합니다.",
+		"message": "팝업 사이드 미러를 보이거나 숨기기 위한 버튼을 지정합니다.",
 		"description": "Id: o_im_show_mirrors_op_tooltip\nGroup: Tooltips.\nGroup: Options/Keyboard\nScreen used to configure keyboard related options."
 	},
 	"o_im_show_hud_op_tooltip": {
@@ -4812,7 +4812,7 @@
 		"description": "Id: o_im_assistent_action5_op_tooltip\nGroup: Tooltips.\nGroup: Options/Keyboard\nScreen used to configure keyboard related options."
 	},
 	"o_im_camera_reset_op_tooltip": {
-		"message": "현재 카메라를 원래 위치로 재설정하기 위한 버튼을 할당합니다.",
+		"message": "현재 카메라를 원래 위치로 재설정하기 위한 버튼을 지정합니다.",
 		"description": "Id: o_im_camera_reset_op_tooltip\nGroup: Tooltips.\nGroup: Options/Keyboard\nScreen used to configure keyboard related options."
 	},
 	"o_im_camera_cycle_op_tooltip": {
@@ -5040,7 +5040,7 @@
 		"description": "Id: o_im_screenshot_op_tooltip\nGroup: Tooltips.\nGroup: Options/Keyboard\nScreen used to configure keyboard related options."
 	},
 	"sidebar_activation_op_tooltip": {
-		"message": "콘보이 세션에서 오버레이를 표시하거나 숨기기 위한 버튼을 지정합니다.",
+		"message": "콘보이 세션에서 오버레이를 보이거나 숨기기 위한 버튼을 지정합니다.",
 		"description": "Id: sidebar_activation_op_tooltip\nGroup: Tooltips.\nGroup: Options/Keyboard\nScreen used to configure keyboard related options."
 	},
 	"chat_activation_op_tooltip": {
@@ -5504,7 +5504,7 @@
 		"description": "Id: force_feedback_gain_op_tooltip\nGroup: Tooltips.\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
 	"force_feedback_centering_high_speed_op_tooltip": {
-		"message": "최고 속도가 90 km/h(56 mph) 이상인 고속 주행 시 중앙 복귀력을 조정합니다.<br><br>최소 설정에서는 휠 중앙 복귀력이 발생하지 않습니다.",
+		"message": "최고 속도가 90 km/h (56 mph) 이상인 고속 주행 시 중앙 복귀력을 조정합니다.<br><br>최소 설정에서는 휠 중앙 복귀력이 발생하지 않습니다.",
 		"description": "Id: force_feedback_centering_high_speed_op_tooltip\nGroup: Tooltips.\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
 	"force_feedback_centering_low_speed_op_tooltip": {
@@ -5644,31 +5644,31 @@
 		"description": "Id: hshift_fast_split_op_tooltip\nGroup: Tooltips.\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
 	"hshift_reverse_op_tooltip": {
-		"message": "시프터의 위치를 할당합니다.",
+		"message": "시프터의 위치를 지정합니다.",
 		"description": "Id: hshift_reverse_op_tooltip\nGroup: Tooltips.\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
 	"hshift_1_op_tooltip": {
-		"message": "시프터의 위치를 할당합니다.",
+		"message": "시프터의 위치를 지정합니다.",
 		"description": "Id: hshift_1_op_tooltip\nGroup: Tooltips.\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
 	"hshift_2_op_tooltip": {
-		"message": "시프터의 위치를 할당합니다.",
+		"message": "시프터의 위치를 지정합니다.",
 		"description": "Id: hshift_2_op_tooltip\nGroup: Tooltips.\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
 	"hshift_3_op_tooltip": {
-		"message": "시프터의 위치를 할당합니다.",
+		"message": "시프터의 위치를 지정합니다.",
 		"description": "Id: hshift_3_op_tooltip\nGroup: Tooltips.\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
 	"hshift_4_op_tooltip": {
-		"message": "시프터의 위치를 할당합니다.",
+		"message": "시프터의 위치를 지정합니다.",
 		"description": "Id: hshift_4_op_tooltip\nGroup: Tooltips.\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
 	"hshift_5_op_tooltip": {
-		"message": "시프터의 위치를 할당합니다.",
+		"message": "시프터의 위치를 지정합니다.",
 		"description": "Id: hshift_5_op_tooltip\nGroup: Tooltips.\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
 	"hshift_6_op_tooltip": {
-		"message": "시프터의 위치를 할당합니다.",
+		"message": "시프터의 위치를 지정합니다.",
 		"description": "Id: hshift_6_op_tooltip\nGroup: Tooltips.\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
 	"hshift_toggle_1_op_tooltip": {
@@ -5676,7 +5676,7 @@
 		"description": "Id: hshift_toggle_1_op_tooltip\nGroup: Tooltips.\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
 	"hshift_toggle_2_op_tooltip": {
-		"message": "시프터 레이아웃을 기반으로 시프터 스플리터를 전환하는 버튼을 할당합니다.",
+		"message": "시프터 레이아웃을 기반으로 시프터 스플리터를 전환하는 버튼을 지정합니다.",
 		"description": "Id: hshift_toggle_2_op_tooltip\nGroup: Tooltips.\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
 	"hshift_toggle_mode_op_tooltip": {
@@ -5684,11 +5684,11 @@
 		"description": "Id: hshift_toggle_mode_op_tooltip\nGroup: Tooltips.\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
 	"hshift_auto_drive_op_tooltip": {
-		"message": "오토매틱 변속기의 드라이브 모드로 전환하는 버튼을 할당합니다.",
+		"message": "오토매틱 변속기의 드라이브 모드로 전환하는 버튼을 지정합니다.",
 		"description": "Id: hshift_auto_drive_op_tooltip\nGroup: Tooltips.\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
 	"hshift_auto_reverse_op_tooltip": {
-		"message": "오토매틱 변속기의 후진 모드로 전환하는 버튼을 할당합니다.",
+		"message": "오토매틱 변속기의 후진 모드로 전환하는 버튼을 지정합니다.",
 		"description": "Id: hshift_auto_reverse_op_tooltip\nGroup: Tooltips.\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
 	"ui_controller_selection_op_tooltip": {
@@ -6024,7 +6024,7 @@
 		"description": "Id: xmas_missing_cargo_title\nGroup: XMAS event\nGroup: Options/Eye tracking\nScreen used to configure eye tracking related options"
 	},
 	"xmas_missing_cargo_text": {
-		"message": "윈터랜드에 도움이 필요합니다!<br><br>어제 눈보라로 선물 팩 배송물이 분실되었습니다. 마지막으로 알려진 위치는 <offset vshift=-3><img src=/material/ui/map/missing_cargo.mat width=23 height=23><offset vshift=3> 지도에 아이콘으로 표시되어 있습니다.<br><br>트레일러로 운전하여 경로 관리자의 지시에 따라 픽업하십시오.",
+		"message": "윈터랜드에 도움이 필요합니다!<br><br>어제 눈보라로 선물 팩 배송물이 분실되었습니다. 마지막으로 알려진 위치는 <offset vshift=-3><img src=/material/ui/map/missing_cargo.mat width=23 height=23><offset vshift=3> 지도에 아이콘으로 표시되어 있습니다.<br><br>트레일러로 운전하여 경로 관리자의 지시에 따라 수거하십시오.",
 		"description": "Id: xmas_missing_cargo_text\nGroup: XMAS event\nGroup: Options/Eye tracking\nScreen used to configure eye tracking related options"
 	},
 	"xmas_cargo_acquired": {
@@ -6032,7 +6032,7 @@
 		"description": "Id: xmas_cargo_acquired\nGroup: XMAS event\nGroup: Options/Eye tracking\nScreen used to configure eye tracking related options"
 	},
 	"xmas_unique_depots_goal": {
-		"message": "독특한 저장소",
+		"message": "독특한 창고",
 		"description": "Id: xmas_unique_depots_goal\nGroup: XMAS event\nGroup: Options/Eye tracking\nScreen used to configure eye tracking related options"
 	},
 	"xmas_total_deliveries_goal": {
@@ -7028,7 +7028,7 @@
 		"description": "Id: assistance_title\nGroup: Message titles\nGroup: Route adviser"
 	},
 	"job_offer_title": {
-		"message": "회사",
+		"message": "물류 업체",
 		"description": "Id: job_offer_title\nGroup: Message titles\nGroup: Route adviser"
 	},
 	"navigation_title": {
@@ -13280,7 +13280,7 @@
 		"description": "Id: silver_tree\nGroup: Toys and toy sets\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"snowman_trucker": {
-		"message": "스노우맨 트럭커",
+		"message": "눈사람 트럭커",
 		"description": "Id: snowman_trucker\nGroup: Toys and toy sets\nGroup: Upgrade accesories\nGroup: Input wizard"
 	},
 	"tennis_ball": {
@@ -18428,11 +18428,11 @@
 		"description": "Id: session_max_players_hint\nGroup: Multiplayer create session."
 	},
 	"session_friends_only_hint": {
-		"message": "이 기능을 켜면 스팀 친구와 초대받은 사람만 세션에 참여할 수 있습니다.",
+		"message": "활성화하면 스팀 친구와 초대받은 사람만 세션에 참여할 수 있습니다.",
 		"description": "Id: session_friends_only_hint\nGroup: Multiplayer create session."
 	},
 	"session_enable_traffic_hint": {
-		"message": "이 기능을 켜면 세션에 AI 트래픽이 나타납니다.",
+		"message": "활성화하면 세션에 AI 트래픽이 나타납니다.",
 		"description": "Id: session_enable_traffic_hint\nGroup: Multiplayer create session."
 	},
 	"session_enable_damage_hint": {
@@ -18440,7 +18440,7 @@
 		"description": "Id: session_enable_damage_hint\nGroup: Multiplayer create session."
 	},
 	"session_hide_remote_in_company_hint": {
-		"message": "이 기능을 켜면 충돌하지 않는 공간에서 플레이어가 서로 보이지 않게 됩니다.",
+		"message": "활성화하면 충돌하지 않는 공간에서 플레이어가 서로 보이지 않게 됩니다.",
 		"description": "Id: session_hide_remote_in_company_hint\nGroup: Multiplayer create session."
 	},
 	"session_enable_service_collision_hint": {
@@ -18452,7 +18452,7 @@
 		"description": "Id: session_enable_menu_collision_hint\nGroup: Multiplayer create session."
 	},
 	"session_force_speed_limiter_hint": {
-		"message": "이 기능을 켜면 세션에 참여한 모든 플레이어의 차량 최고 속도가 강제로 제한됩니다.",
+		"message": "활성화하면 세션에 참여한 모든 플레이어의 차량 최고 속도가 강제로 제한됩니다.",
 		"description": "Id: session_force_speed_limiter_hint\nGroup: Multiplayer create session."
 	},
 	"session_mods_optioning_hint": {
@@ -24160,7 +24160,7 @@
 		"description": "Id: aca_goal_book1_3_02_check1\nGroup: Book 1 Scenario 3_02"
 	},
 	"aca_goal_book1_3_02_check2": {
-		"message": "60km/h(37mph) 속도 달성",
+		"message": "60km/h (37mph) 속도 달성",
 		"description": "Id: aca_goal_book1_3_02_check2\nGroup: Book 1 Scenario 3_02"
 	},
 	"aca_goal_book1_3_02_check3": {
@@ -24172,7 +24172,7 @@
 		"description": "Id: aca_msg_book1_3_02_cutscene01\nGroup: Book 1 Scenario 3_02"
 	},
 	"aca_msg_book1_3_02_cutscene06": {
-		"message": "최소 60km/h(37mph)의 속도에 도달하세요. 앞의 제동 구역에 대비하십시오.",
+		"message": "최소 60km/h (37mph)의 속도에 도달하세요. 앞의 제동 구역에 대비하십시오.",
 		"description": "Id: aca_msg_book1_3_02_cutscene06\nGroup: Book 1 Scenario 3_02"
 	},
 	"aca_msg_book1_3_02_cutscene08": {
@@ -24188,15 +24188,15 @@
 		"description": "Id: aca_msg_book1_3_02_start\nGroup: Book 1 Scenario 3_02"
 	},
 	"aca_msg_book1_3_02_forward": {
-		"message": "지금 운전을 시작합니다. 그리고 앞으로 코너를 지난 후 <font face=/font/big_bold.font>60km/h(37mph)의 속도에 도달해야 한다는 점을 명심하세요. </font><br><br><font face=/font/big_bold.font>앞으로 회전하는 방향으로 운전하십시오. </font>",
+		"message": "지금 운전을 시작합니다. 그리고 앞으로 코너를 지난 후 <font face=/font/big_bold.font>60km/h (37mph)의 속도에 도달해야 한다는 점을 명심하세요. </font><br><br><font face=/font/big_bold.font>앞으로 회전하는 방향으로 운전하십시오. </font>",
 		"description": "Id: aca_msg_book1_3_02_forward\nGroup: Book 1 Scenario 3_02"
 	},
 	"aca_msg_book1_3_02_check1": {
-		"message": "오른쪽으로 방향을 바꾼 후 시속 60km(37mph)까지 가속하세요.<br><br><font face=/font/big_bold.font>계속 운전하십시오. </font>",
+		"message": "오른쪽으로 방향을 바꾼 후 시속 60km (37mph)까지 가속하세요.<br><br><font face=/font/big_bold.font>계속 운전하십시오. </font>",
 		"description": "Id: aca_msg_book1_3_02_check1\nGroup: Book 1 Scenario 3_02"
 	},
 	"aca_msg_book1_3_02_check2": {
-		"message": "<font face=/font/big_bold.font>최소 60km/h(37mph)의 속도에 도달하십시오. </font>",
+		"message": "<font face=/font/big_bold.font>최소 60km/h (37mph)의 속도에 도달하십시오. </font>",
 		"description": "Id: aca_msg_book1_3_02_check2\nGroup: Book 1 Scenario 3_02"
 	},
 	"aca_msg_book1_3_02_check3": {

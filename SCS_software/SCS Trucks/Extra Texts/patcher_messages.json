@@ -116,7 +116,7 @@
         "description": "Id: PLSID_EXIT\nTitle of button which exits the patch.\nGroup: Texts used by the game patcher."
     },
     "PLSID_APP_RUNNING": {
-        "message": "다른 게임의 업데이트가 이미 진행 중입니다",
+        "message": "다른 게임의 업데이트가 이미 진행 중입니다...",
         "description": "Id: PLSID_APP_RUNNING\nShown of the patch is launched while the game or the patch itself is already running.\nGroup: Texts used by the game patcher."
     },
     "PLSID_INST_ABORTED": {

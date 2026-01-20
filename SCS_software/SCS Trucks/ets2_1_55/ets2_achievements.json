@@ -347,18 +347,6 @@
     "message": "최소 40,000km의 도로를 발견하십시오",
     "description": "Id: NEW_ACHIEVEMENT_4_1_SHORT\nShort version of achievement description for Euro Truck Simulator 2. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit."
   },
-  "ach_the_ultimate_trucker_name": {
-    "message": "궁극의 트럭 운전사",
-    "description": "Id: ach_the_ultimate_trucker_name\nAchievement name for Euro Truck Simulator 2. Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
-  },
-  "ach_the_ultimate_trucker_desc": {
-    "message": "모든 트로피 잠금 해제",
-    "description": "Id: ach_the_ultimate_trucker_desc\nAchievement description for Euro Truck Simulator 2. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
-  },
-  "ach_the_ultimate_trucker_short": {
-    "message": "모든 트로피 잠금 해제",
-    "description": "Id: ach_the_ultimate_trucker_short\nShort version of achievement description for Euro Truck Simulator 2. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit."
-  },
   "NEW_ACHIEVEMENT_29_24_NAME": {
     "message": "공을 굴려라'",
     "description": "Id: NEW_ACHIEVEMENT_29_24_NAME\nAchievement name for Euro Truck Simulator 2 shown on the Steam website (http://steamcommunity.com/stats/227300/achievements/). Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
@@ -448,11 +436,11 @@
     "description": "Id: NEW_ACHIEVEMENT_61_4_NAME\nAchievement name for Euro Truck Simulator 2 shown on the Steam website (http://steamcommunity.com/stats/227300/achievements/). Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
   },
   "NEW_ACHIEVEMENT_61_4_DESC": {
-    "message": "트럭 운전 능력 시험에서 최소 15개 시나리오에서 별 3개를 획득하십시오",
+    "message": "트럭 운전 능력 시험에서 최소 23개 시나리오에서 별 3개를 획득하십시오",
     "description": "Id: NEW_ACHIEVEMENT_61_4_DESC\nAchievement description for Euro Truck Simulator 2 shown on the Steam website (http://steamcommunity.com/stats/227300/achievements/). Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
   },
   "NEW_ACHIEVEMENT_61_4_SHORT": {
-    "message": "트럭 운전 능력 시험에서 최소 15개 시나리오에서 별 3개를 획득하십시오",
+    "message": "트럭 운전 능력 시험에서 최소 23개 시나리오에서 별 3개를 획득하십시오",
     "description": "Id: NEW_ACHIEVEMENT_61_4_SHORT\nShort version of achievement description for Euro Truck Simulator 2. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit."
   },
   "NEW_ACHIEVEMENT_61_3_NAME": {
@@ -466,18 +454,6 @@
   "NEW_ACHIEVEMENT_61_3_SHORT": {
     "message": "트럭 운전 능력 시험에서 최소 23가지 시나리오에서 합격 조건을 완료하십시오",
     "description": "Id: NEW_ACHIEVEMENT_61_3_SHORT\nShort version of achievement description for Euro Truck Simulator 2. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit."
-  },
-  "NEW_ACHIEVEMENT_61_10_NAME": {
-    "message": "더블 트러블",
-    "description": "Id: NEW_ACHIEVEMENT_61_10_NAME\nAchievement name for Euro Truck Simulator 2 shown on the Steam website (http://steamcommunity.com/stats/227300/achievements/). Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
-  },
-  "NEW_ACHIEVEMENT_61_10_DESC": {
-    "message": "더블 트레일러 운전 시나리오를 최소 12개 완료하십시오",
-    "description": "Id: NEW_ACHIEVEMENT_61_10_DESC\nAchievement description for Euro Truck Simulator 2 shown on the Steam website (http://steamcommunity.com/stats/227300/achievements/). Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
-  },
-  "NEW_ACHIEVEMENT_61_10_SHORT": {
-    "message": "더블 트레일러 운전 시나리오를 최소 12개 완료하십시오",
-    "description": "Id: NEW_ACHIEVEMENT_61_10_SHORT\nShort version of achievement description for Euro Truck Simulator 2. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit."
   },
   "NEW_ACHIEVEMENT_10_29_NAME": {
     "message": "발트 관광객",
@@ -1199,54 +1175,6 @@
     "message": "그리스 록 이터 채석장에서 대리석 블록 3개와 손상되지 않은 대리석 슬래브 3개를 배송하십시오",
     "description": "Id: NEW_ACHIEVEMENT_61_2_SHORT\nShort version of achievement description for Euro Truck Simulator 2. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit."
   },
-  "NEW_ACHIEVEMENT_61_6_NAME": {
-    "message": "폴라 익스플로러",
-    "description": "Id: NEW_ACHIEVEMENT_61_6_NAME\nAchievement name for Euro Truck Simulator 2 shown on the Steam website (http://steamcommunity.com/stats/227300/achievements/). Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
-  },
-  "NEW_ACHIEVEMENT_61_6_DESC": {
-    "message": "노르딕 호라이즌스의 20개 도시를 방문하십시오",
-    "description": "Id: NEW_ACHIEVEMENT_61_6_DESC\nAchievement description for Euro Truck Simulator 2 shown on the Steam website (http://steamcommunity.com/stats/227300/achievements/). Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
-  },
-  "NEW_ACHIEVEMENT_61_6_SHORT": {
-    "message": "노르딕 호라이즌스의 20개 도시를 방문하십시오",
-    "description": "Id: NEW_ACHIEVEMENT_61_6_SHORT\nShort version of achievement description for Euro Truck Simulator 2. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit."
-  },
-  "NEW_ACHIEVEMENT_61_7_NAME": {
-    "message": "노던 시크릿",
-    "description": "Id: NEW_ACHIEVEMENT_61_7_NAME\nAchievement name for Euro Truck Simulator 2 shown on the Steam website (http://steamcommunity.com/stats/227300/achievements/). Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
-  },
-  "NEW_ACHIEVEMENT_61_7_DESC": {
-    "message": "노르딕 호라이즌스의 최소 12개 뷰포인트의 컷신을 감상하십시오",
-    "description": "Id: NEW_ACHIEVEMENT_61_7_DESC\nAchievement description for Euro Truck Simulator 2 shown on the Steam website (http://steamcommunity.com/stats/227300/achievements/). Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
-  },
-  "NEW_ACHIEVEMENT_61_7_SHORT": {
-    "message": "노르딕 호라이즌스의 최소 12개 뷰포인트의 컷신을 감상하십시오",
-    "description": "Id: NEW_ACHIEVEMENT_61_7_SHORT\nShort version of achievement description for Euro Truck Simulator 2. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit."
-  },
-  "NEW_ACHIEVEMENT_61_8_NAME": {
-    "message": "연어 거슬러 오르다",
-    "description": "Id: NEW_ACHIEVEMENT_61_8_NAME\nAchievement name for Euro Truck Simulator 2 shown on the Steam website (http://steamcommunity.com/stats/227300/achievements/). Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
-  },
-  "NEW_ACHIEVEMENT_61_8_DESC": {
-    "message": "트롬쇠 또는 알타에서 2개의 다른 국가로 연어 살코기 화물 2개를 배송해야 합니다",
-    "description": "Id: NEW_ACHIEVEMENT_61_8_DESC\nAchievement description for Euro Truck Simulator 2 shown on the Steam website (http://steamcommunity.com/stats/227300/achievements/). Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
-  },
-  "NEW_ACHIEVEMENT_61_8_SHORT": {
-    "message": "트롬쇠 또는 알타에서 2개의 다른 국가로 연어 살코기 화물 2개를 배송해야 합니다",
-    "description": "Id: NEW_ACHIEVEMENT_61_8_SHORT\nShort version of achievement description for Euro Truck Simulator 2. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit."
-  },
-  "NEW_ACHIEVEMENT_61_9_NAME": {
-    "message": "북극권 위",
-    "description": "Id: NEW_ACHIEVEMENT_61_9_NAME\nAchievement name for Euro Truck Simulator 2 shown on the Steam website (http://steamcommunity.com/stats/227300/achievements/). Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
-  },
-  "NEW_ACHIEVEMENT_61_9_DESC": {
-    "message": "이 순서와 방향으로 훌륭하게 배송을 완료 하십시오: 이발로 - 키루나 - 스볼베르",
-    "description": "Id: NEW_ACHIEVEMENT_61_9_DESC\nAchievement description for Euro Truck Simulator 2 shown on the Steam website (http://steamcommunity.com/stats/227300/achievements/). Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
-  },
-  "NEW_ACHIEVEMENT_61_9_SHORT": {
-    "message": "이 순서와 방향으로 훌륭하게 배송을 완료 하십시오: 이발로 - 키루나 - 스볼베르",
-    "description": "Id: NEW_ACHIEVEMENT_61_9_SHORT\nShort version of achievement description for Euro Truck Simulator 2. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit."
-  },
   "achievement_sc_deliver_marinas_NAME": {
     "message": "선원",
     "description": "Id: achievement_sc_deliver_marinas_NAME\nAchievement name for Euro Truck Simulator 2 shown on the Steam website (http://steamcommunity.com/stats/227300/achievements/). Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
@@ -1314,9 +1242,5 @@
   "ach_greece_dlc_suffix": {
     "message": "(Greece DLC 가 필요함)",
     "description": "Id: ach_greece_dlc_suffix\nSuffix for achievement descriptions for Euro Truck Simulator 2 shown on the Steam website (http://steamcommunity.com/stats/227300/achievements/). Appended to every description requiring given DLC/module."
-  },
-  "ach_nordic_horizons_dlc_suffix": {
-    "message": "(Nordic Horizons DLC가 필요함)",
-    "description": "Id: ach_nordic_horizons_dlc_suffix\nSuffix for achievement descriptions for Euro Truck Simulator 2 shown on the Steam website (http://steamcommunity.com/stats/227300/achievements/). Appended to every description requiring given DLC/module."
   }
 }
