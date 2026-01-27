@@ -8488,7 +8488,7 @@
 		"description": "Id: hud_mirrors_both\nGroup: Adviser Options\nGroup: Route adviser"
 	},
 	"adv_hud_legends_t": {
-		"message": "방향지시등 상태",
+		"message": "지표 상태",
 		"description": "Id: adv_hud_legends_t\nGroup: Adviser Legends\nGroup: Route adviser"
 	},
 	"adv_hud_lgd_turn": {
@@ -8556,7 +8556,7 @@
 		"description": "Id: adv_hud_lgd_hazard\nGroup: Adviser Legends\nGroup: Route adviser"
 	},
 	"adv_hud_lgd_beacon": {
-		"message": "라이트 비콘",
+		"message": "경광등",
 		"description": "Id: adv_hud_lgd_beacon\nGroup: Adviser Legends\nGroup: Route adviser"
 	},
 	"adv_hud_lgd_diff_lock": {
@@ -31140,7 +31140,7 @@
 		"description": "Id: aca_msg_book3_backing_90_tight_cutscene2\nGroup: Book 3 Scenario backing_90_tight"
 	},
 	"aca_msg_book3_backing_90_tight_cutscene3": {
-		"message": "트레일러는 원하시는 대로 설정하면 됩니다. 예를 들어, 뒤쪽 트레일러를 미리 목적지 방향으로 향하게 설치할 수도 있습니다. 이 경우에는 직선 위치에서 시작하겠습니다. <br><br>간단하게 생각하세요. 뒤쪽 트레일러는 리드하면 됩니다.",
+		"message": "트레일러는 원하시는 대로 설정하면 됩니다. 예를 들어, 뒤쪽 트레일러를 미리 목적지 방향으로 향하게 설치할 수도 있습니다. 이 경우에는 직선 위치에서 시작하겠습니다. <br><br>간단하게 생각하세요. 뒤쪽 트레일러를 리드하면 됩니다.",
 		"description": "Id: aca_msg_book3_backing_90_tight_cutscene3\nGroup: Book 3 Scenario backing_90_tight"
 	},
 	"aca_msg_book3_backing_90_tight_cutscene4": {
