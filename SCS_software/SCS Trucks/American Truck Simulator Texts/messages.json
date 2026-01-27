@@ -8428,7 +8428,7 @@
 		"description": "Id: adv_hud_tachometer\nGroup: Adviser Options\nGroup: Route adviser"
 	},
 	"adv_hud_indicators": {
-		"message": "방향지시등",
+		"message": "지표",
 		"description": "Id: adv_hud_indicators\nGroup: Adviser Options\nGroup: Route adviser"
 	},
 	"adv_hud_indicators_op_tooltip": {
@@ -15116,11 +15116,11 @@
 		"description": "Id: photomode_dof_depth\nGroup: Photo mode window and settings."
 	},
 	"photomode_dof_distance": {
-		"message": "블러 경계 깊이",
+		"message": "DOF 거리",
 		"description": "Id: photomode_dof_distance\nGroup: Photo mode window and settings."
 	},
 	"photomode_dof_strength": {
-		"message": "블러 강도",
+		"message": "DOF 강도",
 		"description": "Id: photomode_dof_strength\nGroup: Photo mode window and settings."
 	},
 	"photomode_cb_saturation": {
