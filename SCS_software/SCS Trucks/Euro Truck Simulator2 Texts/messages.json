@@ -1,35 +1,35 @@
 {
-	"steam_controller": {
-		"message": "스팀 컨트롤러",
-		"description": "Id: steam_controller\nName of Steam Controller input device. It is followed by ID number (e.g. `Steam Controller 000000123456789A`).\nGroup: Steam Controller UI localization in game"
-	},
 	"lang_name": {
 		"message": "한국어",
 		"description": "Id: lang_name\nName of currently selected language, please do not translate, put your native language name here in your native language."
 	},
-	"steam_emulated_controller": {
-		"message": "스팀 호환 컨트롤러",
-		"description": "Id: steam_emulated_controller\nName of input device which is emulated by Steam Controler API. It is followed by ID number (e.g. `Steam Emulated Controller 000000123456789A`).\nGroup: Steam Controller UI localization in game"
+	"steam_controller": {
+		"message": "스팀 컨트롤러",
+		"description": "Id: steam_controller\nName of Steam Controller input device. It is followed by ID number (e.g. `Steam Controller 000000123456789A`).\nGroup: Steam Controller UI localization in game"
 	},
 	"moded_game": {
 		"message": "무단으로 변경된 데이터가 게임에 포함되어있습니다. 수정된 게임은 지원 대상이 아닙니다. 문제 또는 충돌이 발생할 경우 MOD를 제거하시기 바랍니다!",
 		"description": "Id: moded_game"
 	},
-	"steam_sctrl_action_set_simple": {
-		"message": "심플",
-		"description": "Id: sctrl_action_set_simple\nGroup: Steam Controller UI localizations in Steam client"
+	"steam_emulated_controller": {
+		"message": "스팀 호환 컨트롤러",
+		"description": "Id: steam_emulated_controller\nName of input device which is emulated by Steam Controler API. It is followed by ID number (e.g. `Steam Emulated Controller 000000123456789A`).\nGroup: Steam Controller UI localization in game"
 	},
 	"europe.mbd": {
 		"message": "유럽",
 		"description": "Id: europe.mbd\nMap names"
 	},
-	"loading": {
-		"message": "잠시만 기다려주십시오 ...",
-		"description": "Id: loading\nText shown on the loading screen."
+	"steam_sctrl_action_set_simple": {
+		"message": "심플",
+		"description": "Id: sctrl_action_set_simple\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"steam_sctrl_action_set_ui": {
 		"message": "UI",
 		"description": "Id: sctrl_action_set_ui\nGroup: Steam Controller UI localizations in Steam client"
+	},
+	"loading": {
+		"message": "잠시만 기다려주십시오 ...",
+		"description": "Id: loading\nText shown on the loading screen."
 	},
 	"steam_sctrl_action_set_layer_default": {
 		"message": "기본값",
@@ -39,21 +39,21 @@
 		"message": "바람처럼 자유로움",
 		"description": "Id: loading_no_job"
 	},
-	"steam_sctrl_action_set_layer_map": {
-		"message": "지도",
-		"description": "Id: sctrl_action_set_layer_map\nGroup: Steam Controller UI localizations in Steam client"
-	},
 	"current_job_title": {
 		"message": "현재 배차",
 		"description": "Id: current_job_title"
 	},
-	"steam_sctrl_action_set_layer_truck_config": {
-		"message": "트럭 구성",
-		"description": "Id: sctrl_action_set_layer_truck_config\nGroup: Steam Controller UI localizations in Steam client"
+	"steam_sctrl_action_set_layer_map": {
+		"message": "지도",
+		"description": "Id: sctrl_action_set_layer_map\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"desktop": {
 		"message": "바탕화면",
 		"description": "Id: desktop\nIcon label under \"Back to desktop\" button"
+	},
+	"steam_sctrl_action_set_layer_truck_config": {
+		"message": "트럭 구성",
+		"description": "Id: sctrl_action_set_layer_truck_config\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"steam_sctrl_action_set_layer_walking": {
 		"message": "보행",
@@ -71,29 +71,29 @@
 		"message": "주행",
 		"description": "Id: sctrl_action_set_driving\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"steam_sctrl_action_set_layer_photo_mode": {
-		"message": "포토 모드",
-		"description": "Id: sctrl_action_set_layer_photo_mode\nGroup: Steam Controller UI localizations in Steam client"
-	},
 	"transmission_t": {
 		"message": "변속기",
 		"description": "Id: transmission_t\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
-	"transmission": {
-		"message": "변속기",
-		"description": "Id: transmission\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
+	"steam_sctrl_action_set_layer_photo_mode": {
+		"message": "포토 모드",
+		"description": "Id: sctrl_action_set_layer_photo_mode\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"steam_sctrl_action_set_layer_photo_walk": {
 		"message": "포토 모드 보행",
 		"description": "Id: sctrl_action_set_layer_photo_walk\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"steam_sctrl_action_mouse_look": {
-		"message": "Mouse Look",
-		"description": "Id: sctrl_action_mouse_look\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	"transmission": {
+		"message": "변속기",
+		"description": "Id: transmission\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
 	"chassis_t": {
 		"message": "샤시",
 		"description": "Id: chassis_t\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
+	},
+	"steam_sctrl_action_mouse_look": {
+		"message": "Mouse Look",
+		"description": "Id: sctrl_action_mouse_look\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"chassis": {
 		"message": "샤시",
@@ -127,21 +127,21 @@
 		"message": "일시중지",
 		"description": "Id: sctrl_action_pause\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"steam_sctrl_action_back": {
-		"message": "이전",
-		"description": "Id: sctrl_action_back\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
-	},
 	"wheels": {
 		"message": "휠",
 		"description": "Id: wheels\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
-	"steam_sctrl_action_steering": {
-		"message": "조향",
-		"description": "Id: sctrl_action_steering\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	"steam_sctrl_action_back": {
+		"message": "이전",
+		"description": "Id: sctrl_action_back\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"interior_t": {
 		"message": "인테리어",
 		"description": "Id: interior_t\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
+	},
+	"steam_sctrl_action_steering": {
+		"message": "조향",
+		"description": "Id: sctrl_action_steering\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"steam_sctrl_action_aforward": {
 		"message": "가속/전진",
@@ -151,29 +151,29 @@
 		"message": "인테리어",
 		"description": "Id: interior\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
-	"accessory_t": {
-		"message": "액세서리",
-		"description": "Id: accessory_t\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
-	},
 	"steam_sctrl_action_abackward": {
 		"message": "브레이크/후진",
 		"description": "Id: sctrl_action_abackward\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"accessory": {
+	"accessory_t": {
 		"message": "액세서리",
-		"description": "Id: accessory\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
+		"description": "Id: accessory_t\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
 	"steam_sctrl_action_clutch": {
 		"message": "클러치",
 		"description": "Id: sctrl_action_clutch\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"in_accessory_t": {
-		"message": "인테리어 액세서리",
-		"description": "Id: in_accessory_t\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
+	"accessory": {
+		"message": "액세서리",
+		"description": "Id: accessory\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
 	"steam_sctrl_action_scrol_up": {
 		"message": "Scroll Up",
 		"description": "Id: sctrl_action_scrol_up\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	},
+	"in_accessory_t": {
+		"message": "인테리어 액세서리",
+		"description": "Id: in_accessory_t\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
 	"steam_sctrl_action_scrol_dwn": {
 		"message": "Scroll Down",
@@ -183,21 +183,21 @@
 		"message": "인테리어 액세서리",
 		"description": "Id: in_accessory\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
-	"paint_job_t": {
-		"message": "순정 색상",
-		"description": "Id: paint_job_t\nHeader of list containing stock colors.\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
-	},
 	"steam_sctrl_action_mapzoom_in": {
 		"message": "지도 확대",
 		"description": "Id: sctrl_action_mapzoom_in\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"paint_job": {
+	"paint_job_t": {
 		"message": "순정 색상",
-		"description": "Id: paint_job\nHeader of list containing stock colors.\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
+		"description": "Id: paint_job_t\nHeader of list containing stock colors.\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
 	"steam_sctrl_action_mapzoom_out": {
 		"message": "지도 축소",
 		"description": "Id: sctrl_action_mapzoom_out\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	},
+	"paint_job": {
+		"message": "순정 색상",
+		"description": "Id: paint_job\nHeader of list containing stock colors.\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
 	"steam_sctrl_action_selectfcs": {
 		"message": "선택",
@@ -231,13 +231,13 @@
 		"message": "오른쪽",
 		"description": "Id: sctrl_action_j_right\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"steam_sctrl_action_j_up": {
-		"message": "위",
-		"description": "Id: sctrl_action_j_up\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
-	},
 	"basket_t": {
 		"message": "주문",
 		"description": "Id: basket_t\nContent of the basket.\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
+	},
+	"steam_sctrl_action_j_up": {
+		"message": "위",
+		"description": "Id: sctrl_action_j_up\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"steam_sctrl_action_j_down": {
 		"message": "아래",
@@ -263,45 +263,45 @@
 		"message": "트럭 구성",
 		"description": "Id: current_truck_params\nHeader inside the truck analysis widget for truck parameters\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
-	"current_truck_parameters": {
-		"message": "트럭 구성",
-		"description": "Id: current_truck_parameters\nHeader inside the truck analysis pop-up for truck parameters\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
-	},
 	"steam_sctrl_action_joy_sec_prv": {
 		"message": "이전 탭",
 		"description": "Id: sctrl_action_joy_sec_prv\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"normal_cargo": {
-		"message": "일반 화물",
-		"description": "Id: normal_cargo\nname of the bar for normal cargo suitability\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
+	"current_truck_parameters": {
+		"message": "트럭 구성",
+		"description": "Id: current_truck_parameters\nHeader inside the truck analysis pop-up for truck parameters\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
 	"steam_sctrl_action_joy_sec_nxt": {
 		"message": "다음 탭",
 		"description": "Id: sctrl_action_joy_sec_nxt\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"heavy_cargo": {
-		"message": "중량화물",
-		"description": "Id: heavy_cargo\nname of the bar for heavy cargo suitability\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
+	"normal_cargo": {
+		"message": "일반 화물",
+		"description": "Id: normal_cargo\nname of the bar for normal cargo suitability\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
 	"steam_sctrl_action_shortcut_1": {
 		"message": "바로가기 1",
 		"description": "Id: sctrl_action_shortcut_1\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"steam_sctrl_action_shortcut_1h": {
-		"message": "바로가기 1 홀드",
-		"description": "Id: sctrl_action_shortcut_1h\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	"heavy_cargo": {
+		"message": "중량화물",
+		"description": "Id: heavy_cargo\nname of the bar for heavy cargo suitability\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
 	"maneuverability": {
 		"message": "기동성",
 		"description": "Id: maneuverability\nname of the bar for maneurability indication\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
-	"hill_climbing": {
-		"message": "등판능력",
-		"description": "Id: hill_climbing\nname of the bar for truck's performance to take up on hills, up or down\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
+	"steam_sctrl_action_shortcut_1h": {
+		"message": "바로가기 1 홀드",
+		"description": "Id: sctrl_action_shortcut_1h\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"steam_sctrl_action_shortcut_2": {
 		"message": "바로가기 2",
 		"description": "Id: sctrl_action_shortcut_2\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	},
+	"hill_climbing": {
+		"message": "등판능력",
+		"description": "Id: hill_climbing\nname of the bar for truck's performance to take up on hills, up or down\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
 	"uneven_terrain": {
 		"message": "비포장도로",
@@ -311,13 +311,13 @@
 		"message": "바로가기 2 홀드",
 		"description": "Id: sctrl_action_shortcut_2h\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"engine_torque": {
-		"message": "토크",
-		"description": "Id: engine_torque\ntruck's engine torque value in Nm / newton-meters\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
-	},
 	"steam_sctrl_action_shortcut_3": {
 		"message": "바로가기 3",
 		"description": "Id: sctrl_action_shortcut_3\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	},
+	"engine_torque": {
+		"message": "토크",
+		"description": "Id: engine_torque\ntruck's engine torque value in Nm / newton-meters\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
 	"first_gear_ratio": {
 		"message": "최초 기어비",
@@ -359,21 +359,21 @@
 		"message": "트럭 장면 카메라 이동",
 		"description": "Id: sctrl_action_j_cam_mv\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"retarder_analysis": {
-		"message": "리타더",
-		"description": "Id: retarder_analysis\nretarder presense value yes / no\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
-	},
 	"steam_sctrl_action_j_trzoom_in": {
 		"message": "트럭 장면 확대",
 		"description": "Id: sctrl_action_j_trzoom_in\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"powered_axles": {
-		"message": "구동 축",
-		"description": "Id: powered_axles\namount of powered axles truck has\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
+	"retarder_analysis": {
+		"message": "리타더",
+		"description": "Id: retarder_analysis\nretarder presense value yes / no\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
 	"steam_sctrl_action_j_trzoom_out": {
 		"message": "트럭 장면 축소",
 		"description": "Id: sctrl_action_j_trzoom_out\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	},
+	"powered_axles": {
+		"message": "구동 축",
+		"description": "Id: powered_axles\namount of powered axles truck has\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
 	"steam_sctrl_action_j_mapzom_in": {
 		"message": "지도 확대",
@@ -391,21 +391,21 @@
 		"message": "액슬 개수",
 		"description": "Id: axles\namount of axles truck has\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
-	"gear_count": {
-		"message": "기어 개수",
-		"description": "Id: gear_count\namount of gears in trucks's transmission\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
-	},
 	"steam_sctrl_action_j_panscroll": {
 		"message": "스크롤 / 팬",
 		"description": "Id: sctrl_action_j_panscroll\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"steam_sctrl_action_photo_mode": {
-		"message": "포토 모드",
-		"description": "Id: sctrl_action_photo_mode\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	"gear_count": {
+		"message": "기어 개수",
+		"description": "Id: gear_count\namount of gears in trucks's transmission\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
 	"power": {
 		"message": "엔진 마력",
 		"description": "Id: power\ntruck's engine power\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
+	},
+	"steam_sctrl_action_photo_mode": {
+		"message": "포토 모드",
+		"description": "Id: sctrl_action_photo_mode\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"truck_analysis_heavy_introduction": {
 		"message": "중량화물을 운송하려고 합니다. 현재 트럭 구성을 검토하여 문제가 없는지 확인하십시오.",
@@ -415,13 +415,13 @@
 		"message": "포토 모드 확대",
 		"description": "Id: sctrl_action_phot_z_j_in\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"steam_sctrl_action_phot_z_j_out": {
-		"message": "포토 모드 축소",
-		"description": "Id: sctrl_action_phot_z_j_out\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
-	},
 	"truck_analysis_info_tooltip": {
 		"message": "대표적인 운송 품목을 토대로 주행 비용, 기술적 측면 그리고 법적 제한사항을 고려해 트럭을 최적화하십시오.",
 		"description": "Id: truck_analysis_info_tooltip\nGeneral tooltip description of Truck Analysis feature\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
+	},
+	"steam_sctrl_action_phot_z_j_out": {
+		"message": "포토 모드 축소",
+		"description": "Id: sctrl_action_phot_z_j_out\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"normal_cargo_tooltip": {
 		"message": "경량화물 및 중형화물 운송 업무에 최적화 됨",
@@ -447,13 +447,13 @@
 		"message": "포토 모드 촬영",
 		"description": "Id: sctrl_action_photosnap\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"steam_sctrl_action_photosman": {
-		"message": "포토 모드 갤러리 열기",
-		"description": "Id: sctrl_action_photosman\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
-	},
 	"hill_climbing_tooltip": {
 		"message": "오르막과 내리막을 더욱 부드럽게 주행하기 위해 최적화된 트럭 파워트레인",
 		"description": "Id: hill_climbing_tooltip\nTooltip description for the Hill Traversal bar in Truck Analysis\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
+	},
+	"steam_sctrl_action_photosman": {
+		"message": "포토 모드 갤러리 열기",
+		"description": "Id: sctrl_action_photosman\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"uneven_terrain_tooltip": {
 		"message": "평탄하지 않고 거친 표면을 지나갈 수 있는 능력",
@@ -463,13 +463,13 @@
 		"message": "포토 모드 플레이어 네임 토글",
 		"description": "Id: sctrl_action_photonames\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"analysis_popup_heavy_tooltip": {
-		"message": "이 항목은 중량화물 수송에 필수적임",
-		"description": "Id: analysis_popup_heavy_tooltip\nTooltip note for the Heavy Cargo bar in job popup\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
-	},
 	"steam_sctrl_action_photo_hctrl": {
 		"message": "포토 모드 컨트롤 윈도우 토글",
 		"description": "Id: sctrl_action_photo_hctrl\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	},
+	"analysis_popup_heavy_tooltip": {
+		"message": "이 항목은 중량화물 수송에 필수적임",
+		"description": "Id: analysis_popup_heavy_tooltip\nTooltip note for the Heavy Cargo bar in job popup\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
 	"steam_sctrl_action_photo_opts": {
 		"message": "포토 모드 설정 토글",
@@ -479,53 +479,53 @@
 		"message": "내 현재 상태",
 		"description": "Id: personal_t\nTitle of window containing information about the player's avatar. Please keep in upper case where possible."
 	},
-	"company_t": {
-		"message": "회사 현황",
-		"description": "Id: company_t\nTitle of window containing information about player's company. Please keep in upper case where possible."
-	},
 	"steam_sctrl_action_photores": {
 		"message": "포토 모드 설정 초기화",
 		"description": "Id: sctrl_action_photores\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"truck_t": {
-		"message": "내 트럭",
-		"description": "Id: truck_t\nTitle of window containing information about truck owned by the player. Please keep in upper case where possible."
+	"company_t": {
+		"message": "회사 현황",
+		"description": "Id: company_t\nTitle of window containing information about player's company. Please keep in upper case where possible."
 	},
 	"steam_sctrl_action_simple_accept": {
 		"message": "수락 버튼",
 		"description": "Id: sctrl_action_simple_accept\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"steam_sctrl_action_simple_cancel": {
-		"message": "취소 버튼",
-		"description": "Id: sctrl_action_simple_cancel\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	"truck_t": {
+		"message": "내 트럭",
+		"description": "Id: truck_t\nTitle of window containing information about truck owned by the player. Please keep in upper case where possible."
 	},
 	"driver_plate_t": {
 		"message": "운전자 닉네임 입력",
 		"description": "Id: driver_plate_t\nTitle of window used to enter text for the driver's plate."
 	},
-	"codriver_plate_t": {
-		"message": "교대 운전자 닉네임 입력",
-		"description": "Id: codriver_plate_t\nTitle of window used to enter text for the co-driver's plate."
+	"steam_sctrl_action_simple_cancel": {
+		"message": "취소 버튼",
+		"description": "Id: sctrl_action_simple_cancel\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"steam_sctrl_action_simple_context1": {
 		"message": "컨텍스트 1 버튼",
 		"description": "Id: sctrl_action_simple_context1\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"truck_upgrades_t": {
-		"message": "트럭 업그레이드",
-		"description": "Id: truck_upgrades_t\nTitle of the screen. Please keep in upper case where possible.\"\nGroup: Screen showing list of the upgrades."
+	"codriver_plate_t": {
+		"message": "교대 운전자 닉네임 입력",
+		"description": "Id: codriver_plate_t\nTitle of window used to enter text for the co-driver's plate."
 	},
 	"steam_sctrl_action_simple_context2": {
 		"message": "컨텍스트 2 버튼",
 		"description": "Id: sctrl_action_simple_context2\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"trailer_upgrades_t": {
-		"message": "트레일러 업그레이드",
-		"description": "Id: trailer_upgrades_t\nTitle of the screen. Please keep in upper case where possible.\"\nGroup: Screen showing list of the upgrades."
+	"truck_upgrades_t": {
+		"message": "트럭 업그레이드",
+		"description": "Id: truck_upgrades_t\nTitle of the screen. Please keep in upper case where possible.\"\nGroup: Screen showing list of the upgrades."
 	},
 	"steam_sctrl_action_simple_context3": {
 		"message": "컨텍스트 3 버튼",
 		"description": "Id: sctrl_action_simple_context3\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	},
+	"trailer_upgrades_t": {
+		"message": "트레일러 업그레이드",
+		"description": "Id: trailer_upgrades_t\nTitle of the screen. Please keep in upper case where possible.\"\nGroup: Screen showing list of the upgrades."
 	},
 	"steam_sctrl_action_simple_context4": {
 		"message": "컨텍스트 4 버튼",
@@ -535,13 +535,13 @@
 		"message": "트럭 업그레이드",
 		"description": "Id: truck_upgrades\nThe name of the screen containing truck upgrades.\nGroup: Screen showing list of the upgrades."
 	},
-	"steam_sctrl_action_simple_pov1_up": {
-		"message": "Dpad 위쪽 버튼",
-		"description": "Id: sctrl_action_simple_pov1_up\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
-	},
 	"trailer_upgrades": {
 		"message": "트레일러 업그레이드",
 		"description": "Id: trailer_upgrades\nThe name of the screen containing trailer upgrades.\nGroup: Screen showing list of the upgrades."
+	},
+	"steam_sctrl_action_simple_pov1_up": {
+		"message": "Dpad 위쪽 버튼",
+		"description": "Id: sctrl_action_simple_pov1_up\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"new_upgrades_about": {
 		"message": "사용할 수 있는 새로운 업그레이드를 확인하십시오.",
@@ -559,13 +559,13 @@
 		"message": "새로운 아이템 사용 가능",
 		"description": "Id: upgrades_new_items\nHeader line of the list of new upgrades.\nGroup: Screen showing list of the upgrades."
 	},
-	"steam_sctrl_action_simple_pov1_left": {
-		"message": "Dpad 왼쪽 버튼",
-		"description": "Id: sctrl_action_simple_pov1_left\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
-	},
 	"upgrades_gps": {
 		"message": "GPS를 가장 가까운 정비소로 설정",
 		"description": "Id: upgrades_gps\nButton which sets GPS target to the nearest shop.\nGroup: Screen showing list of the upgrades."
+	},
+	"steam_sctrl_action_simple_pov1_left": {
+		"message": "Dpad 왼쪽 버튼",
+		"description": "Id: sctrl_action_simple_pov1_left\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"steam_sctrl_action_simple_lb": {
 		"message": "왼쪽 숄더 버튼",
@@ -575,21 +575,21 @@
 		"message": "새 업그레이드가 존재합니다!",
 		"description": "Id: new_upgrades_notice\nShown as icon in corner of screen when new upgrades are available.\nGroup: Screen showing list of the upgrades."
 	},
-	"steam_sctrl_action_simple_rb": {
-		"message": "오른쪽 숄더 버튼",
-		"description": "Id: sctrl_action_simple_rb\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
-	},
 	"change_gps_to_service": {
 		"message": "내비게이션이 다른 목적지로 설정되었습니다.<br><br>가장 가까운 업그레이드 상점으로 목적지를 변경하시겠습니까?",
 		"description": "Id: change_gps_to_service\nGroup: Screen showing list of the upgrades."
 	},
-	"truck_action_t": {
-		"message": "트럭 서비스",
-		"description": "Id: truck_action_t\nTitle of window providing selection between various kinds of truck services (repairs, upgrades, paint shop). Please keep in upper case where possible."
+	"steam_sctrl_action_simple_rb": {
+		"message": "오른쪽 숄더 버튼",
+		"description": "Id: sctrl_action_simple_rb\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"steam_sctrl_action_simple_menu1": {
 		"message": "메뉴 1 버튼",
 		"description": "Id: sctrl_action_simple_menu1\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	},
+	"truck_action_t": {
+		"message": "트럭 서비스",
+		"description": "Id: truck_action_t\nTitle of window providing selection between various kinds of truck services (repairs, upgrades, paint shop). Please keep in upper case where possible."
 	},
 	"truck_service_t": {
 		"message": "서비스",
@@ -615,13 +615,13 @@
 		"message": "트럭을 정비 또는 수리합니다. 훌륭한 운전자는 자신의 차량을 항상 최상의 상태로 유지합니다.",
 		"description": "Id: truck_service_about\nHelp message associated with service icon.\nGroup: Truck service screen.\nAllows to repair damaged components of the truck."
 	},
-	"damage_t": {
-		"message": "대미지 리포트",
-		"description": "Id: damage_t\nHeader of section displaying status of individual components of the vehicle (engine, transmission, ....). Please keep in upper case where possible. Please keep in upper case where possible.\nGroup: Truck service screen.\nAllows to repair damaged components of the truck."
-	},
 	"steam_sctrl_action_simple_y": {
 		"message": "왼쪽 스틱 Y",
 		"description": "Id: sctrl_action_simple_y\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	},
+	"damage_t": {
+		"message": "대미지 리포트",
+		"description": "Id: damage_t\nHeader of section displaying status of individual components of the vehicle (engine, transmission, ....). Please keep in upper case where possible. Please keep in upper case where possible.\nGroup: Truck service screen.\nAllows to repair damaged components of the truck."
 	},
 	"steam_sctrl_action_simple_xy": {
 		"message": "왼쪽 스틱",
@@ -639,13 +639,13 @@
 		"message": "오른쪽 스틱 X",
 		"description": "Id: sctrl_action_simple_rx\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"truck_service_truck_t": {
-		"message": "트럭 대미지 리포트",
-		"description": "Id: truck_service_truck_t\nHeader of section displaying status of individual components of the truck. Please keep in upper case where possible.\nGroup: Truck service screen.\nAllows to repair damaged components of the truck."
-	},
 	"steam_sctrl_action_simple_ry": {
 		"message": "오른쪽 스틱 Y",
 		"description": "Id: sctrl_action_simple_ry\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	},
+	"truck_service_truck_t": {
+		"message": "트럭 대미지 리포트",
+		"description": "Id: truck_service_truck_t\nHeader of section displaying status of individual components of the truck. Please keep in upper case where possible.\nGroup: Truck service screen.\nAllows to repair damaged components of the truck."
 	},
 	"steam_sctrl_action_simple_rxy": {
 		"message": "오른쪽 스틱",
@@ -695,13 +695,13 @@
 		"message": "아시다시피, 트럭을 튜닝하거나 도색함으로써 당신은 당신의 트럭에 좀 더 애착을 갖게 될 것입니다.",
 		"description": "Id: truck_config_about\nHelp message associated with upgrade icon.\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
-	"steam_sctrl_action_simple_v2": {
-		"message": "축 2",
-		"description": "Id: sctrl_action_simple_v2\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
-	},
 	"price": {
 		"message": "가격",
 		"description": "Id: price\nLabel of line with combined price of all new parts in basket.\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
+	},
+	"steam_sctrl_action_simple_v2": {
+		"message": "축 2",
+		"description": "Id: sctrl_action_simple_v2\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"refund": {
 		"message": "환불",
@@ -735,29 +735,29 @@
 		"message": "축 4 X",
 		"description": "Id: sctrl_action_simple_v4x\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"tc_extra_price": {
-		"message": "추가 가격:",
-		"description": "Id: tc_extra_price\nFollowed by difference between the new price with all the modifications and the price of the original configuration.\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
-	},
 	"steam_sctrl_action_simple_v4y": {
 		"message": "축 4 Y",
 		"description": "Id: sctrl_action_simple_v4y\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"steam_sctrl_action_simple_v4": {
-		"message": "축 4",
-		"description": "Id: sctrl_action_simple_v4\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	"tc_extra_price": {
+		"message": "추가 가격:",
+		"description": "Id: tc_extra_price\nFollowed by difference between the new price with all the modifications and the price of the original configuration.\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
 	"tc_new_total": {
 		"message": "새로운 합계:",
 		"description": "Id: tc_new_total\nFollowed by total price of the new truck with all the selected modifications.\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
-	"spare_parts": {
-		"message": "환불된 부품",
-		"description": "Id: spare_parts\nRefunded parts title in the shopping cart\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
+	"steam_sctrl_action_simple_v4": {
+		"message": "축 4",
+		"description": "Id: sctrl_action_simple_v4\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"steam_sctrl_action_simple_lt": {
 		"message": "왼쪽 트리거",
 		"description": "Id: sctrl_action_simple_lt\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	},
+	"spare_parts": {
+		"message": "환불된 부품",
+		"description": "Id: spare_parts\nRefunded parts title in the shopping cart\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
 	"steam_sctrl_action_simple_rt": {
 		"message": "오른쪽 트리거",
@@ -767,21 +767,21 @@
 		"message": "환불",
 		"description": "Id: refund_t\nTitle of dialog box with missing parts refundation\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
-	"refund_spare_parts_msg": {
-		"message": "누락된 MOD가 감지되었습니다. 영향을 받는 차량 부품을 환불받을 수 있습니다.<br offset=35>'주문 확인'을 클릭하면 환불받을 수 있습니다.<br><color value=@@clr_sel@@>또는<color value=@@clr_txt@@><br>누락된 MOD를 나중에 다시 설치하려면 변경하지 말고 종료하십시오.",
-		"description": "Id: refund_spare_parts_msg\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
-	},
 	"steam_sctrl_action_simple_a1": {
 		"message": "트리거 1",
 		"description": "Id: sctrl_action_simple_a1\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"part_type_aftermarket": {
-		"message": "애프터마켓 부품",
-		"description": "Id: part_type_aftermarket\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
+	"refund_spare_parts_msg": {
+		"message": "누락된 MOD가 감지되었습니다. 영향을 받는 차량 부품을 환불받을 수 있습니다.<br offset=35>'주문 확인'을 클릭하면 환불받을 수 있습니다.<br><color value=@@clr_sel@@>또는<color value=@@clr_txt@@><br>누락된 MOD를 나중에 다시 설치하려면 변경하지 말고 종료하십시오.",
+		"description": "Id: refund_spare_parts_msg\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
 	"steam_sctrl_action_simple_a2": {
 		"message": "트리거 2",
 		"description": "Id: sctrl_action_simple_a2\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	},
+	"part_type_aftermarket": {
+		"message": "애프터마켓 부품",
+		"description": "Id: part_type_aftermarket\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
 	"steam_sctrl_action_simple_a3": {
 		"message": "트리거 3",
@@ -823,29 +823,29 @@
 		"message": "전체화면",
 		"description": "Id: overlay_fullscreen_activate\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
-	"overlay_fullscreen_deactivate": {
-		"message": "전체화면 종료",
-		"description": "Id: overlay_fullscreen_deactivate\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
-	},
 	"steam_sctrl_action_simple_b4": {
 		"message": "버튼 4",
 		"description": "Id: sctrl_action_simple_b4\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"steam_sctrl_action_simple_b5": {
-		"message": "버튼 5",
-		"description": "Id: sctrl_action_simple_b5\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	"overlay_fullscreen_deactivate": {
+		"message": "전체화면 종료",
+		"description": "Id: overlay_fullscreen_deactivate\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
 	"overlay_screenshot": {
 		"message": "스크린샷",
 		"description": "Id: overlay_screenshot\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
-	"overlay_att_truck": {
-		"message": "트럭 연결",
-		"description": "Id: overlay_att_truck\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
+	"steam_sctrl_action_simple_b5": {
+		"message": "버튼 5",
+		"description": "Id: sctrl_action_simple_b5\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"steam_sctrl_action_simple_b6": {
 		"message": "버튼 6",
 		"description": "Id: sctrl_action_simple_b6\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	},
+	"overlay_att_truck": {
+		"message": "트럭 연결",
+		"description": "Id: overlay_att_truck\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
 	"overlay_det_truck": {
 		"message": "트럭 분리",
@@ -895,21 +895,21 @@
 		"message": "입력 마법사 열기",
 		"description": "Id: decide_steam_input_mode_setup_simple\nButton opening Input Wizard.\nGroup: Steam Input mapping mode introduction message box."
 	},
-	"tooltip_apply_color_to_compatible": {
-		"message": "호환되는 모든 항목에 적용",
-		"description": "Id: tooltip_apply_color_to_compatible\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
-	},
 	"steam_input_mode": {
 		"message": "스팀 입력 매핑 모드",
 		"description": "Id: steam_input_mode\nLabel of the line.\nGroup: Selection of the Steam Input Mapping Mode\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
-	"steam_input_mode_simple": {
-		"message": "게임 내 매핑",
-		"description": "Id: steam_input_mode_simple\nDefault simple in-game layout.\nGroup: Selection of the Steam Input Mapping Mode\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
+	"tooltip_apply_color_to_compatible": {
+		"message": "호환되는 모든 항목에 적용",
+		"description": "Id: tooltip_apply_color_to_compatible\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
 	"tc_confirm_order": {
 		"message": "현재 설정을 그대로 진행하시겠습니까?<br>총 가격은 <color value=@@clr_sel@@>$CART_PRICE$<color value=@@clr_txt@@>입니다.",
 		"description": "Id: tc_confirm_order\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
+	},
+	"steam_input_mode_simple": {
+		"message": "게임 내 매핑",
+		"description": "Id: steam_input_mode_simple\nDefault simple in-game layout.\nGroup: Selection of the Steam Input Mapping Mode\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
 	"td_confirm": {
 		"message": "현재 설정을 그대로 진행하시겠습니까?",
@@ -919,21 +919,21 @@
 		"message": "스팀 클라이언트 매핑",
 		"description": "Id: steam_input_mode_advanced\nAdvanced external layout configured in Steam Client.\nGroup: Selection of the Steam Input Mapping Mode\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
-	"steam_input_mode_op_tooltip": {
-		"message": "@@controller_ps5@@, @@controller_xbox_one@@ 또는 @@controller_steam_deck@@와(과) 같은 게임패드에 대한 모드를 선택하여 스팀 입력 인터페이스를 선택합니다:<br>- \"스팀 클라이언트 매핑\" - 스팀 클라이언트를 통해 구성된 독립형 레이아웃을 사용합니다. 게임 내 버튼 힌트에 대한 지원이 제한적이며 게임 내 바인딩 구성이 없습니다.<br>_ \"게임 내 매핑\" - 범용 단순 레이아웃을 사용합니다. 전체 게임 내 키 바인딩 구성과 더 나은 버튼 힌트를 지원합니다. 이 모드로 전환할 때 입력 마법사를 실행하는 것이 좋습니다. 이것이 권장되는 모드입니다.",
-		"description": "Id: steam_input_mode_op_tooltip\nGroup: Tooltips.\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
-	},
 	"truck_diag_t": {
 		"message": "차량 진단",
 		"description": "Id: truck_diag_t\nTitle of the screen. Please keep in upper case where possible.\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
 	},
-	"steam_controller_steam": {
-		"message": "스팀 컨트롤러",
-		"description": "Id: controller_steam\nGroup: Supported controller names."
+	"steam_input_mode_op_tooltip": {
+		"message": "@@controller_ps5@@, @@controller_xbox_one@@ 또는 @@controller_steam_deck@@와(과) 같은 게임패드에 대한 모드를 선택하여 스팀 입력 인터페이스를 선택합니다:<br>- \"스팀 클라이언트 매핑\" - 스팀 클라이언트를 통해 구성된 독립형 레이아웃을 사용합니다. 게임 내 버튼 힌트에 대한 지원이 제한적이며 게임 내 바인딩 구성이 없습니다.<br>_ \"게임 내 매핑\" - 범용 단순 레이아웃을 사용합니다. 전체 게임 내 키 바인딩 구성과 더 나은 버튼 힌트를 지원합니다. 이 모드로 전환할 때 입력 마법사를 실행하는 것이 좋습니다. 이것이 권장되는 모드입니다.",
+		"description": "Id: steam_input_mode_op_tooltip\nGroup: Tooltips.\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
 	"truck_diag": {
 		"message": "차량 진단",
 		"description": "Id: truck_diag\nIcon allowing player to show damage on the truck.\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
+	},
+	"steam_controller_steam": {
+		"message": "스팀 컨트롤러",
+		"description": "Id: controller_steam\nGroup: Supported controller names."
 	},
 	"truck_diag_about": {
 		"message": "트럭에 대한 정보와 현재 상태를 확인할 수 있습니다.",
@@ -943,21 +943,21 @@
 		"message": "스팀덱",
 		"description": "Id: controller_steam_deck\nGroup: Supported controller names."
 	},
-	"steam_controller_steam_fusion": {
-		"message": "스팀 입력 컨트롤러",
-		"description": "Id: controller_steam_fusion\nGroup: Supported controller names."
-	},
 	"truck_diag_warning": {
 		"message": "차량 상태가 좋지 않습니다. 가능한 빨리 서비스를 받으십시오.",
 		"description": "Id: truck_diag_warning\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
 	},
-	"truck_diag_warning_minor_dmg": {
-		"message": "가까운 서비스 센터에서 차량을 수리할 수 있습니다.",
-		"description": "Id: truck_diag_warning_minor_dmg\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
+	"steam_controller_steam_fusion": {
+		"message": "스팀 입력 컨트롤러",
+		"description": "Id: controller_steam_fusion\nGroup: Supported controller names."
 	},
 	"steam_cloud_synchronization": {
 		"message": "스팀 클라우드 동기화:",
 		"description": "Id: steam_cloud_synchronization\nWhether is steam cloud synchronization active.\nGroup: Profile selection."
+	},
+	"truck_diag_warning_minor_dmg": {
+		"message": "가까운 서비스 센터에서 차량을 수리할 수 있습니다.",
+		"description": "Id: truck_diag_warning_minor_dmg\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
 	},
 	"truck_diag_tooltip_integrity_wear": {
 		"message": "유지 보수:",
@@ -975,21 +975,21 @@
 		"message": "Euro Truck Simulator 2 무료 평가판이 마음에 드셨다면 <LINK URL=@@steam_buy_url@@ COLOR=@@clr_link@@>스팀</LINK>에서 정식 버전을 구입해 주시기 바랍니다!",
 		"description": "Id: steam_demo\nMessage shown on the \"activation\" screen for Steam demo only build."
 	},
-	"steam_sys_no_steam": {
-		"message": "Euro Truck Simulator 2가 스팀 클라이언트에 접근할 수 없습니다. 문제 해결을 위한 제안입니다:\n\n1. 스팀 클라이언트가 실행 중인지 확인하십시오.\n2. 스팀 클라이언트의 버전을 업데이트했는지 확인하십시오.\n3. 자동 업데이트가 활성화되어 있고 게임이 최신 버전으로 업데이트되어 있는지 확인합니다.",
-		"description": "Id: sys_no_steam\nError message shown when the game version distributed over Steam can not communicate with the Steam client.\nGroup: Networking errors"
-	},
 	"truck_diag_tooltip_wear_unfixable": {
 		"message": "평균 마모:",
 		"description": "Id: truck_diag_tooltip_wear_unfixable\nLabel of unfixable wear in tooltip.\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
 	},
-	"truck_diag_tooltip_wear_unfixable_note": {
-		"message": "부품 교체를 통해 수리.",
-		"description": "Id: truck_diag_tooltip_wear_unfixable_note\nExplanation of unfixable wear in tooltip.\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
+	"steam_sys_no_steam": {
+		"message": "Euro Truck Simulator 2가 스팀 클라이언트에 접근할 수 없습니다. 문제 해결을 위한 제안입니다:\n\n1. 스팀 클라이언트가 실행 중인지 확인하십시오.\n2. 스팀 클라이언트의 버전을 업데이트했는지 확인하십시오.\n3. 자동 업데이트가 활성화되어 있고 게임이 최신 버전으로 업데이트되어 있는지 확인합니다.",
+		"description": "Id: sys_no_steam\nError message shown when the game version distributed over Steam can not communicate with the Steam client.\nGroup: Networking errors"
 	},
 	"steam_incompatible_dlc_steam": {
 		"message": "현재 설치된 DLC (다운로드 가능한 콘텐츠) 중 일부는 현재 게임 버전과 호환되지 않으므로 사용할 수 없습니다. 스팀 게임 캐시의 무결성을 확인하십시오.<br><br>호환되지 않는 콘텐츠는 다음과 같습니다:",
 		"description": "Id: incompatible_dlc_steam\nGroup: Message shown when there are DLC packs which are not compatible with the game."
+	},
+	"truck_diag_tooltip_wear_unfixable_note": {
+		"message": "부품 교체를 통해 수리.",
+		"description": "Id: truck_diag_tooltip_wear_unfixable_note\nExplanation of unfixable wear in tooltip.\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
 	},
 	"truck_diag_tooltip_wear": {
 		"message": "평균 대미지:",
@@ -1007,29 +1007,29 @@
 		"message": "수리 또는 부품 교체를 통해 수리.",
 		"description": "Id: truck_diag_tooltip_wear_note\nExplanation of damage in tooltip.\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
 	},
-	"steam_profile_migration_error": {
-		"message": "프로필 이전에 실패하였습니다",
-		"description": "Id: steam_profile_migration_error\nEdit screen, cannot migrate profile because of some internal error.\nGroup: Steam cloud."
-	},
 	"truck_diag_recommend_repairs": {
 		"message": "수리 제안",
 		"description": "Id: truck_diag_recommend_repairs\nLabel of button that offers actions (no action, repair or replace) recommended by service.\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
 	},
-	"truck_diag_request_restoration": {
-		"message": "전체 복원 요청",
-		"description": "Id: truck_diag_request_restoration\nLabel of button that performs vehicle total restoration.\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
+	"steam_profile_migration_error": {
+		"message": "프로필 이전에 실패하였습니다",
+		"description": "Id: steam_profile_migration_error\nEdit screen, cannot migrate profile because of some internal error.\nGroup: Steam cloud."
 	},
 	"steam_cloud_settings_label": {
 		"message": "스팀 클라우드 동기화",
 		"description": "Id: steam_cloud_settings_label\nEdit or create screen checkbox.\nGroup: Steam cloud."
 	},
-	"wear_unfixable": {
-		"message": "마모",
-		"description": "Id: wear_unfixable\nAccesory unfixable wear column table header.\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
+	"truck_diag_request_restoration": {
+		"message": "전체 복원 요청",
+		"description": "Id: truck_diag_request_restoration\nLabel of button that performs vehicle total restoration.\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
 	},
 	"steam_load_msg_out_of_steam_intro_has_space": {
 		"message": "스팀 클라우드는 저장하기 위한 공간이 충분히 있습니다.",
 		"description": "Id: load_msg_out_of_steam_intro_has_space\nLoad screen with out of steam warning when player removed enough save.\nGroup: Steam cloud."
+	},
+	"wear_unfixable": {
+		"message": "마모",
+		"description": "Id: wear_unfixable\nAccesory unfixable wear column table header.\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
 	},
 	"steam_load_msg_out_of_steam_intro_no_space": {
 		"message": "<color value=@@clr_red@@>스팀 클라우드의 용량이 부족합니다!<color value=@@clr_txt@@><br><br>계속하려면 일부 세이브 파일을 삭제하십시오. 다음은 플레이어를 돕기 위한 정보입니다:",
@@ -1079,13 +1079,13 @@
 		"message": "선택된 저장 <color value=@@clr_sel@@>$SAVE$<color value=@@clr_txt@@> has <color value=@@clr_sel@@>$BYTES$ MB<color value=@@clr_txt@@> <color value=@@clr_sel@@>$FILES$<color value=@@clr_txt@@> 의 파일이 있습니다.",
 		"description": "Id: load_msg_out_of_steam_selected_save\nSelected save info.\nGroup: Steam cloud."
 	},
-	"steam_load_msg_out_of_steam_box": {
-		"message": "스팀 클라우드의 용량이 부족합니다. 계속하려면 일부 세이브 파일을 삭제하십시오.<br><br>오른쪽 패널에서 자세한 정보를 읽으십시오.",
-		"description": "Id: load_msg_out_of_steam_box\nPopup when trying load game ignoring warning about steam cloud running out of space.\nGroup: Steam cloud."
-	},
 	"total": {
 		"message": "총 결제 금액:",
 		"description": "Id: total\nFollowed by to total price for the currently selected upgrades or repairs."
+	},
+	"steam_load_msg_out_of_steam_box": {
+		"message": "스팀 클라우드의 용량이 부족합니다. 계속하려면 일부 세이브 파일을 삭제하십시오.<br><br>오른쪽 패널에서 자세한 정보를 읽으십시오.",
+		"description": "Id: load_msg_out_of_steam_box\nPopup when trying load game ignoring warning about steam cloud running out of space.\nGroup: Steam cloud."
 	},
 	"steam_profile_migration_to_local_warning": {
 		"message": "프로필을 로컬 프로필 형태로 전환하면 해당 프로필은 접속한 스팀 계정과 관계없이 이 컴퓨터에서만 사용할 수 있습니다.",
@@ -31140,7 +31140,7 @@
 		"description": "Id: aca_msg_book3_backing_90_tight_cutscene2\nGroup: Book 3 Scenario backing_90_tight"
 	},
 	"aca_msg_book3_backing_90_tight_cutscene3": {
-		"message": "트레일러는 원하시는 대로 설정하면 됩니다. 예를 들어, 뒤쪽 트레일러를 미리 목적지 방향으로 향하게 설치할 수도 있습니다. 이 경우에는 직선 위치에서 시작하겠습니다. <br><br>간단하게 생각하세요. 뒤쪽 트레일러를 리드하면 됩니다.",
+		"message": "트레일러는 원하시는 대로 설정하면 됩니다, 예를 들어, 뒤쪽 트레일러를 미리 목적지 방향으로 향하게 설치할 수도 있습니다, 이 경우에는 직선 위치에서 시작하겠습니다. <br><br>간단하게 생각하세요 - 뒤쪽 트레일러를 리드하면 됩니다.",
 		"description": "Id: aca_msg_book3_backing_90_tight_cutscene3\nGroup: Book 3 Scenario backing_90_tight"
 	},
 	"aca_msg_book3_backing_90_tight_cutscene4": {
@@ -31682,5 +31682,221 @@
 	"aca_msg_book3_finex_end": {
 		"message": "@@aca_msg_book3_sup_end@@",
 		"description": "Id: aca_msg_book3_finex_end\nGroup: Book 3 Scenario finex"
+	},
+	"hint_engine_title": {
+		"message": "엔진 시동",
+		"description": "Id: hint_engine_title"
+	},
+	"hint_engine_text": {
+		"message": "엔진을 작동하려면 $KEY_engine$을(를) 사용하십시오.",
+		"description": "Id: hint_engine_text"
+	},
+	"hint_ignition_title": {
+		"message": "점화장치 시작",
+		"description": "Id: hint_ignition_title"
+	},
+	"hint_ignition_text": {
+		"message": "점화장치를 작동시키려면 $KEY_engineelect|KEY_engine$을(를) 누르십시오.",
+		"description": "Id: hint_ignition_text"
+	},
+	"hint_driv_arc_title": {
+		"message": "주행",
+		"description": "Id: hint_driv_arc_title"
+	},
+	"hint_driv_arc_text": {
+		"message": "$KEY_aforward+ALIAS_j_throttle+KEY_dforward$와 $KEY_abackward+ALIAS_j_brake+KEY_dbackward$을(를) 사용하여 전진 또는 후진하십시오.<br><offset vshift=8>$SPECIAL_steering$을(를) 사용하여 조향 하십시오.",
+		"description": "Id: hint_driv_arc_text"
+	},
+	"hint_driv_auto_title": {
+		"message": "주행",
+		"description": "Id: hint_driv_auto_title"
+	},
+	"hint_driv_auto_text": {
+		"message": "$KEY_aforward+ALIAS_j_throttle+KEY_dforward$와 $KEY_abackward+ALIAS_j_brake+KEY_dbackward$을(를) 사용하여 전진 또는 후진하십시오.<br><offset vshift=8>$SPECIAL_steering$을(를) 사용하여 조향 하십시오.<br><offset vshift=8>기어를 선택하려면 $KEY_gearup$ 키와 $KEY_geardown$ 키를 누르십시오.",
+		"description": "Id: hint_driv_auto_text"
+	},
+	"hint_driv_seq_title": {
+		"message": "주행",
+		"description": "Id: hint_driv_seq_title"
+	},
+	"hint_driv_seq_text": {
+		"message": "$KEY_aforward+ALIAS_j_throttle+KEY_dforward$와 $KEY_abackward+ALIAS_j_brake+KEY_dbackward$을(를) 사용하여 전진 또는 후진하십시오.<br><offset vshift=8>$SPECIAL_steering$을(를) 사용하여 조향 하십시오.<br><offset vshift=8>클러치 조작을 위해 $KEY_gearup$ 키와 $KEY_geardown$ 키를 누르십시오.",
+		"description": "Id: hint_driv_seq_text"
+	},
+	"hint_driv_hshift_title": {
+		"message": "주행",
+		"description": "Id: hint_driv_hshift_title"
+	},
+	"hint_driv_hshift_text": {
+		"message": "$KEY_aforward+ALIAS_j_throttle+KEY_dforward$와 $KEY_abackward+ALIAS_j_brake+KEY_dbackward$을(를) 사용하여 전진 또는 후진하십시오.<br><offset vshift=8>$SPECIAL_steering$을(를) 사용하여 조향 하십시오.<br><offset vshift=8>기어를 <color value=@@clr_sel@@>시프터<color value=@clr_txt@@>로 변경하십시오.",
+		"description": "Id: hint_driv_hshift_text"
+	},
+	"hint_depot_deliv_title": {
+		"message": "목적지에 접근하기",
+		"description": "Id: hint_depot_deliv_title"
+	},
+	"hint_depot_deliv_text": {
+		"message": "표시된 구역에 정차하여 최종 주차 구역의 난이도를 선택하고 해당 경험을 쌓으십시오.",
+		"description": "Id: hint_depot_deliv_text"
+	},
+	"hint_fin_deliv_title": {
+		"message": "배송 완료",
+		"description": "Id: hint_fin_deliv_title"
+	},
+	"hint_fin_deliv_text": {
+		"message": "선택한 주차 공간에 주차하세요. 배송 지점 근처에서 $KEY_activate$을(를) 눌러 건너뛸 수 있습니다.",
+		"description": "Id: hint_fin_deliv_text"
+	},
+	"hint_fin_deliv2_title": {
+		"message": "배송 완료",
+		"description": "Id: hint_fin_deliv2_title"
+	},
+	"hint_fin_deliv2_text": {
+		"message": "선택한 주차 공간에 주차하세요. 주차 단계를 건너뛰려면 @@desktop_menu_category_options@@에서 위젯을 활성화할 수 있습니다.",
+		"description": "Id: hint_fin_deliv2_text"
+	},
+	"hint_lights_title": {
+		"message": "라이트 켜기",
+		"description": "Id: hint_lights_title"
+	},
+	"hint_lights_text": {
+		"message": "$KEY_light$ 키를 눌러 조명을 켜세요. 키를 반복해서 누르면 다양한 모드로 전환됩니다.",
+		"description": "Id: hint_lights_text"
+	},
+	"hint_high_beam_title": {
+		"message": "상향등 켜기",
+		"description": "Id: hint_high_beam_title"
+	},
+	"hint_high_beam_text": {
+		"message": "$KEY_hblight$을(를) 사용하여 상향등 켜십시오.",
+		"description": "Id: hint_high_beam_text"
+	},
+	"hint_wipers_title": {
+		"message": "와이퍼 켜기",
+		"description": "Id: hint_wipers_title"
+	},
+	"hint_wipers_text": {
+		"message": "와이퍼를 켜고 다양한 속도 설정을 반복하려면 $KEY_wipers$을(를) 사용하십시오.",
+		"description": "Id: hint_wipers_text"
+	},
+	"hint_zoom_title": {
+		"message": "자세히 보기",
+		"description": "Id: hint_zoom_title"
+	},
+	"hint_zoom_text": {
+		"message": "운전석에서 확대하려면 $KEY_camzoom$키를 사용하세요. 줌 모드를 유지 또는 전환하도록 @@desktop_menu_category_options@@에서 설정할 수 있습니다.",
+		"description": "Id: hint_zoom_text"
+	},
+	"hint_cam_int_title": {
+		"message": "둘러보기",
+		"description": "Id: hint_cam_int_title"
+	},
+	"hint_cam_int_text": {
+		"message": "$KEY_cam1$을(를) 사용하여 카메라를 인테리어 시점으로 변경하십시오.",
+		"description": "Id: hint_cam_int_text"
+	},
+	"hint_cam_ext_title": {
+		"message": "둘러보기",
+		"description": "Id: hint_cam_ext_title"
+	},
+	"hint_cam_ext_text": {
+		"message": "$KEY_camcycle$ 키를 눌러 다양한 카메라 각도를 순환할 수 있습니다.<br><offset vshift=8>$KEY_cam2$ 키를 눌러 외부 시점으로 전환하십시오.",
+		"description": "Id: hint_cam_ext_text"
+	},
+	"hint_indicators_title": {
+		"message": "지표",
+		"description": "Id: hint_indicators_title"
+	},
+	"hint_indicators_text": {
+		"message": "방향지시등을 켜려면 $KEY_lblinker$와 $KEY_rblinker$을(를) 사용하십시오.",
+		"description": "Id: hint_indicators_text"
+	},
+	"hint_tow_title": {
+		"message": "견인 서비스",
+		"description": "Id: hint_tow_title"
+	},
+	"hint_tow_text": {
+		"message": "어려운 상황에서 벗어나지 못하면 견인 서비스를 이용할 수 있습니다. 접근하려면 $KEY_advmouse$을(를) 사용하여 @@quick_info_word@ 메뉴를 엽니다.",
+		"description": "Id: hint_tow_text"
+	},
+	"hint_diff_lock_title": {
+		"message": "차동기어 잠금",
+		"description": "Id: hint_diff_lock_title"
+	},
+	"hint_diff_lock_text": {
+		"message": "이동할 수 없다면 차동기어 잠금이 도움이 될 수 있습니다. $KEY_diflock$을(를) 사용하여 켜거나 @@desktop_menu_category_options@에서 차동기어 잠금을 켜십시오.",
+		"description": "Id: hint_diff_lock_text"
+	},
+	"hint_diff_unlock_title": {
+		"message": "차동기어 잠금 작동",
+		"description": "Id: hint_diff_unlock_title"
+	},
+	"hint_diff_unlock_text": {
+		"message": "일반 운전 중에 차동기어 잠금을 해제하지 않으면 손상될 위험이 있습니다. $KEY_diflock$을(를) 사용하여 끄거나 @@desktop_menu_category_options@에서 자동 차동기어 잠금을 켜십시오.",
+		"description": "Id: hint_diff_unlock_text"
+	},
+	"hint_wipers_off_title": {
+		"message": "와이퍼 끄기",
+		"description": "Id: hint_wipers_off_title"
+	},
+	"hint_wipers_off_text": {
+		"message": "와이퍼를 끄고 다양한 속도 설정을 반복하려면 $KEY_wipers$을(를) 사용하십시오.",
+		"description": "Id: hint_wipers_off_text"
+	},
+	"hint_world_map_title": {
+		"message": "맵 뷰",
+		"description": "Id: hint_world_map_title"
+	},
+	"hint_world_map_text": {
+		"message": "월드 맵을 열려면 $KEY_navmap$을(를) 사용하십시오.",
+		"description": "Id: hint_world_map_text"
+	},
+	"hint_pause_title": {
+		"message": "@@quick_info_word@@",
+		"description": "Id: hint_pause_title"
+	},
+	"hint_pause_text": {
+		"message": "$KEY_advmouse$ 키를 눌러 @@quick_info_word@@를 열면 편리한 단축키로 현재 상태를 한눈에 볼 수 있습니다.",
+		"description": "Id: hint_pause_text"
+	},
+	"hint_pause_border_title": {
+		"message": "현지 규정",
+		"description": "Id: hint_pause_border_title"
+	},
+	"hint_pause_border_text": {
+		"message": "$KEY_advmouse$을(를) 사용하여 @@quick_info_word@를 열고 접속한 지역에 대한 현지 규정을 확인하십시오.",
+		"description": "Id: hint_pause_border_text"
+	},
+	"hint_photo_trophy_title": {
+		"message": "@@landmark_word@@",
+		"description": "Id: hint_photo_trophy_title"
+	},
+	"hint_photo_trophy_text": {
+		"message": "$KEY_advmouse$를 사용하여 @@quick_info_word@@를 열고 @@photo_mode_word@@로 들어가 근처의 @@landmark_word@@를 캡처하십시오. <img src=/material/ui/map/photo_sight_not_captured.mat width=20 height=20>.",
+		"description": "Id: hint_photo_trophy_text"
+	},
+	"hint_viewpoint_title": {
+		"message": "@@viewpoint_title@@ 근처",
+		"description": "Id: hint_viewpoint_title"
+	},
+	"hint_viewpoint_text": {
+		"message": "@@viewpoint_title@@ <img src=/material/ui/map/viewpoint_unseen.mat width=20 height=20> 근처에 있으니 찾아서 활성화하면 컷신을 볼 수 있습니다.",
+		"description": "Id: hint_viewpoint_text"
+	},
+	"hint_resting_title": {
+		"message": "근처 휴식 공간",
+		"description": "Id: hint_resting_title"
+	},
+	"hint_resting_text": {
+		"message": "휴식 공간 <img src=/material/ui/map/parking_ico.mat width=20 height=20> 피로를 회복하고 안전하게 여정을 계속할 수 있도록 도와드립니다.",
+		"description": "Id: hint_resting_text"
+	},
+	"hint_gas_title": {
+		"message": "근처 주유소",
+		"description": "Id: hint_gas_title"
+	},
+	"hint_gas_text": {
+		"message": "주유소 <img src=/material/ui/map/gas_ico.mat width=20 height=20> 차량에 주유하는 데 사용할 수 있습니다.",
+		"description": "Id: hint_gas_text"
 	}
 }
