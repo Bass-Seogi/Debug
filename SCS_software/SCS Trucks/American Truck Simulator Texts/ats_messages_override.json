@@ -888,7 +888,7 @@
 		"description": "Id: cn_dump_truck\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_cn_dumpster": {
-		"message": "덤프스터",
+		"message": "덤스터",
 		"description": "Id: cn_dumpster\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_cn_ethanol": {
