@@ -88,7 +88,7 @@
 		"description": "Id: sctrl_action_set_layer_photo_walk\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"steam_sctrl_action_mouse_look": {
-		"message": "Mouse Look",
+		"message": "마우스 보기",
 		"description": "Id: sctrl_action_mouse_look\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"chassis_t": {
@@ -100,7 +100,7 @@
 		"description": "Id: chassis\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
 	"steam_sctrl_action_mouse_rel_position": {
-		"message": "Mouse Move",
+		"message": "마우스 이동",
 		"description": "Id: sctrl_action_mouse_rel_position\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"cabin_t": {
@@ -108,7 +108,7 @@
 		"description": "Id: cabin_t\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
 	"steam_sctrl_action_mouse_button_left": {
-		"message": "Mouse Left",
+		"message": "마우스 왼쪽",
 		"description": "Id: sctrl_action_mouse_button_left\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"cabin": {
@@ -116,7 +116,7 @@
 		"description": "Id: cabin\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
 	"steam_sctrl_action_mouse_button_right": {
-		"message": "Mouse Right",
+		"message": "마우스 오른쪽",
 		"description": "Id: sctrl_action_mouse_button_right\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"wheels_t": {
@@ -168,7 +168,7 @@
 		"description": "Id: accessory\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
 	"steam_sctrl_action_scrol_up": {
-		"message": "Scroll Up",
+		"message": "스크롤 업",
 		"description": "Id: sctrl_action_scrol_up\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"in_accessory_t": {
@@ -180,7 +180,7 @@
 		"description": "Id: in_accessory\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
 	"steam_sctrl_action_scrol_dwn": {
-		"message": "Scroll Down",
+		"message": "스크롤 다운",
 		"description": "Id: sctrl_action_scrol_dwn\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"paint_job_t": {
@@ -1256,7 +1256,7 @@
 		"description": "Id: exhaust\nGroup: Various accessory slots or accessory names."
 	},
 	"exhaust_l": {
-		"message": "좌측 배기관",
+		"message": "왼쪽 배기관",
 		"description": "Id: exhaust_l\nGroup: Various accessory slots or accessory names."
 	},
 	"exhaust_m": {
@@ -1264,7 +1264,7 @@
 		"description": "Id: exhaust_m\nAn open exhaust behind truck's cab. Usully one or two large vertical steel or chromed exhaust tubes.\nGroup: Various accessory slots or accessory names."
 	},
 	"exhaust_r": {
-		"message": "우측 배기관",
+		"message": "오른쪽 배기관",
 		"description": "Id: exhaust_r\nGroup: Various accessory slots or accessory names."
 	},
 	"f_badge": {
@@ -1368,11 +1368,11 @@
 		"description": "Id: filter\nAir filter accessoty.\nGroup: Various accessory slots or accessory names."
 	},
 	"flag_r": {
-		"message": "우측 창문 깃발",
+		"message": "오른쪽 창문 깃발",
 		"description": "Id: flag_r\nRight window flag\nGroup: Various accessory slots or accessory names."
 	},
 	"flag_l": {
-		"message": "좌측 창문 깃발",
+		"message": "왼쪽 창문 깃발",
 		"description": "Id: flag_l\nLeft window flag\nGroup: Various accessory slots or accessory names."
 	},
 	"frntglss_mid": {
@@ -1404,7 +1404,7 @@
 		"description": "Id: intlight_bgr\nInterio background light accessory\nGroup: Various accessory slots or accessory names."
 	},
 	"l_horn": {
-		"message": "좌측 경적",
+		"message": "왼쪽 경적",
 		"description": "Id: l_horn\nGroup: Various accessory slots or accessory names."
 	},
 	"l_pillow": {
@@ -1412,7 +1412,7 @@
 		"description": "Id: l_pillow\nInterior accessories placed on pillow place in back of the truck cabin\nGroup: Various accessory slots or accessory names."
 	},
 	"ln_mirror": {
-		"message": "좌측 노즈 미러",
+		"message": "왼쪽 노즈 미러",
 		"description": "Id: ln_mirror\nGroup: Various accessory slots or accessory names."
 	},
 	"m_mudflap": {
@@ -1456,7 +1456,7 @@
 		"description": "Id: r_grill\nGroup: Various accessory slots or accessory names."
 	},
 	"r_horn": {
-		"message": "우측 경적",
+		"message": "오른쪽 경적",
 		"description": "Id: r_horn\nGroup: Various accessory slots or accessory names."
 	},
 	"r_light": {
@@ -1476,7 +1476,7 @@
 		"description": "Id: rim\nWheel rim (older part name)\nGroup: Various accessory slots or accessory names."
 	},
 	"rn_mirror": {
-		"message": "우측 노즈 미러",
+		"message": "오른쪽 노즈 미러",
 		"description": "Id: rn_mirror\nGroup: Various accessory slots or accessory names."
 	},
 	"rwheel": {
@@ -1532,11 +1532,11 @@
 		"description": "Id: sidecover\nGroup: Various accessory slots or accessory names."
 	},
 	"sideskirt": {
-		"message": "사이드 스커트",
+		"message": "사이드스커트",
 		"description": "Id: sideskirt\nGroup: Various accessory slots or accessory names."
 	},
 	"sideskrt_bar": {
-		"message": "사이드 스커트 바",
+		"message": "사이드스커트 바",
 		"description": "Id: sideskrt_bar\nGroup: Various accessory slots or accessory names."
 	},
 	"steering_w": {
@@ -4516,7 +4516,7 @@
 		"description": "Id: blinker_auto_off_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"toy_phys_move_op_tooltip": {
-		"message": "활성화하면 일부 실내 액세서리가 차량의 물리적인 움직임에 반응합니다 (걸이 장식, 보블헤드 등).",
+		"message": "이 옵션을 활성화하면 일부 실내 액세서리가 차량의 물리적인 움직임에 반응합니다 (걸이 장식, 보블 헤드 등).",
 		"description": "Id: toy_phys_move_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"steer_cam_rotation_op_tooltip": {
@@ -4848,11 +4848,11 @@
 		"description": "Id: o_im_steering\nRotates wheel to the left or right.\nGroup: Names of various functionalities.\nGroup: Options/Keyboard\nScreen used to configure keyboard related options."
 	},
 	"o_im_left": {
-		"message": "스티어링 좌측",
+		"message": "스티어링 왼쪽",
 		"description": "Id: o_im_left\nRotates wheel to the left.\nGroup: Names of various functionalities.\nGroup: Options/Keyboard\nScreen used to configure keyboard related options."
 	},
 	"o_im_right": {
-		"message": "스티어링 우측",
+		"message": "스티어링 오른쪽",
 		"description": "Id: o_im_right\nRotates wheel to the right.\nGroup: Names of various functionalities.\nGroup: Options/Keyboard\nScreen used to configure keyboard related options."
 	},
 	"o_im_look_left": {
@@ -7440,7 +7440,7 @@
 		"description": "Id: i_mleft\nGroup: Name of various important keyboard and mouse buttons."
 	},
 	"i_mright": {
-		"message": "Mouse Right",
+		"message": "마우스 오른쪽",
 		"description": "Id: i_mright\nGroup: Name of various important keyboard and mouse buttons."
 	},
 	"i_mup": {
@@ -9600,7 +9600,7 @@
 		"description": "Id: cn_christmas_tree_lights\nGroup: Names of individual cargos."
 	},
 	"cn_christmas_wood_gifts": {
-		"message": "목재 크리스마스 선물",
+		"message": "나무 크리스마스 선물",
 		"description": "Id: cn_christmas_wood_gifts\nGroup: Names of individual cargos."
 	},
 	"cn_clothes": {
@@ -16952,7 +16952,7 @@
 		"description": "Id: bs_dryvan_side\nGroup: Trailer body sets"
 	},
 	"bs_dumper_steel": {
-		"message": "스틸 덤프",
+		"message": "강철 덤프",
 		"description": "Id: bs_dumper_steel\nGroup: Trailer body sets"
 	},
 	"bs_dumper_alu": {
@@ -16960,7 +16960,7 @@
 		"description": "Id: bs_dumper_alu\nGroup: Trailer body sets"
 	},
 	"bs_flatbed_steel": {
-		"message": "철제 바닥 평판",
+		"message": "강철 바닥 평판",
 		"description": "Id: bs_flatbed_steel\nGroup: Trailer body sets"
 	},
 	"bs_flatbed_wood": {
@@ -17012,7 +17012,7 @@
 		"description": "Id: bs_livestock_belly\nGroup: Trailer body sets"
 	},
 	"bs_log_steel": {
-		"message": "철제 바닥 로거",
+		"message": "강철 바닥 로거",
 		"description": "Id: bs_log_steel\nGroup: Trailer body sets"
 	},
 	"bs_log_wood": {
@@ -27528,7 +27528,7 @@
 		"description": "Id: badge_100th_anniversary\nGroup: Accessory Names"
 	},
 	"badge_aerocab": {
-		"message": "Aerocab",
+		"message": "에어로캡",
 		"description": "Id: badge_aerocab\nGroup: Accessory Names"
 	},
 	"badge_icon_900": {
@@ -27668,15 +27668,15 @@
 		"description": "Id: body_dropdeck\nGroup: Accessory Names"
 	},
 	"body_dropdeck_alu": {
-		"message": "알루미늄 드롭 데크",
+		"message": "알루미늄 드롭데크",
 		"description": "Id: body_dropdeck_alu\nGroup: Accessory Names"
 	},
 	"body_dropdeck_fir": {
-		"message": "전나무 드롭 데크",
+		"message": "전나무 드롭데크",
 		"description": "Id: body_dropdeck_fir\nGroup: Accessory Names"
 	},
 	"body_dropdeck_hardwood": {
-		"message": "활엽수 드롭 데크",
+		"message": "활엽수 드롭데크",
 		"description": "Id: body_dropdeck_hardwood\nGroup: Accessory Names"
 	},
 	"body_drybulk": {
@@ -28236,7 +28236,7 @@
 		"description": "Id: cab_door_classic\nClassical or vintage truck accesory\nGroup: Accessory Names"
 	},
 	"cab_door_safety_window": {
-		"message": "안전 창",
+		"message": "세이프티 윈도우",
 		"description": "Id: cab_door_safety_window\nSpecific name of accessory (eg. cabin door/window type in DAF 2021).\nGroup: Accessory Names"
 	},
 	"cab_door_standard": {
@@ -28440,7 +28440,7 @@
 		"description": "Id: cabin_ultra_cab_sleeper\nGroup: Accessory Names"
 	},
 	"carpet_basic": {
-		"message": "기본",
+		"message": "베이직",
 		"description": "Id: carpet_basic\nGroup: Accessory Names"
 	},
 	"carpet_duty": {
@@ -28448,11 +28448,11 @@
 		"description": "Id: carpet_duty\nBasic truck accesory\nGroup: Accessory Names"
 	},
 	"carpet_heavy_duty": {
-		"message": "Heavy Duty",
+		"message": "헤비 듀티",
 		"description": "Id: carpet_heavy_duty\nGroup: Accessory Names"
 	},
 	"carpet_kenworth_basic": {
-		"message": "Kenworth, 기본",
+		"message": "Kenworth, 베이직",
 		"description": "Id: carpet_kenworth_basic\nGroup: Accessory Names"
 	},
 	"carpet_kenworth_premium": {
@@ -29156,7 +29156,7 @@
 		"description": "Id: chassis_single_45_3axle_single\nGroup: Accessory Names"
 	},
 	"chassis_single_45_3axle_steer": {
-		"message": "45ft, 3 액슬, 조향가능",
+		"message": "45ft, 3액슬, 조향가능",
 		"description": "Id: chassis_single_45_3axle_steer\nGroup: Accessory Names"
 	},
 	"chassis_single_45_front": {
@@ -29208,11 +29208,11 @@
 		"description": "Id: chassis_single_50_3axle_single\nGroup: Accessory Names"
 	},
 	"chassis_single_50_3axle_steel": {
-		"message": "53ft, 3액슬, 강철",
+		"message": "50ft, 3액슬, 강철",
 		"description": "Id: chassis_single_50_3axle_steel\nSteel bumper or other accessory\nGroup: Accessory Names"
 	},
 	"chassis_single_50_3axle_steer": {
-		"message": "50ft, 3 액슬, 조향가능",
+		"message": "50ft, 3액슬, 조향가능",
 		"description": "Id: chassis_single_50_3axle_steer\nGroup: Accessory Names"
 	},
 	"chassis_single_50_spread": {
@@ -29236,7 +29236,7 @@
 		"description": "Id: chassis_single_53_4axle_spread\nGroup: Accessory Names"
 	},
 	"chassis_single_53_4axle_steer": {
-		"message": "53ft, 4 액슬, 조향가능",
+		"message": "53ft, 4액슬, 조향가능",
 		"description": "Id: chassis_single_53_4axle_steer\nGroup: Accessory Names"
 	},
 	"chassis_single_53_front": {
@@ -29324,7 +29324,7 @@
 		"description": "Id: chs_acc_painted_pipeguard_extinguisher\nPipeguard accessory name\nGroup: Accessory Names"
 	},
 	"chs_acc_painted_sideskirt": {
-		"message": "페인트 사이드스커트",
+		"message": "도색된 사이드스커트",
 		"description": "Id: chs_acc_painted_sideskirt\nGroup: Accessory Names"
 	},
 	"chs_acc_spare_tyre": {
@@ -29348,7 +29348,7 @@
 		"description": "Id: codrv_seat_100th_anniversary\nGroup: Accessory Names"
 	},
 	"codrv_seat_basic_grey": {
-		"message": "기본 그레이",
+		"message": "베이직 그레이",
 		"description": "Id: codrv_seat_basic_grey\nGroup: Accessory Names"
 	},
 	"codrv_seat_basic_prairie_buckskin": {
@@ -29788,7 +29788,7 @@
 		"description": "Id: dnuts_standard\nGroup: Accessory Names"
 	},
 	"doorhndl_basic": {
-		"message": "기본",
+		"message": "베이직",
 		"description": "Id: doorhndl_basic\ntype of sideskirts (or other accessory)\nGroup: Accessory Names"
 	},
 	"doorhndl_black_anthem_edition": {
@@ -29860,7 +29860,7 @@
 		"description": "Id: doorstep_aluminium\nAluminium mirror, doorhandle or other accessory\nGroup: Accessory Names"
 	},
 	"doorstep_aluminium_basic": {
-		"message": "알루미늄, 기본",
+		"message": "알루미늄, 베이직",
 		"description": "Id: doorstep_aluminium_basic\n\"Aluminium mirror, doorhandle or other accessory\", \"type of sideskirts (or other accessory)\" (AutoMerged)\nGroup: Accessory Names"
 	},
 	"doorstep_aluminium_exclusive": {
@@ -29872,7 +29872,7 @@
 		"description": "Id: doorstep_chromed\nChromed mirror, doorhandle or other accessory\nGroup: Accessory Names"
 	},
 	"doorstep_chromed_basic": {
-		"message": "크롬, 기본",
+		"message": "크롬, 베이직",
 		"description": "Id: doorstep_chromed_basic\n\"Chromed mirror, doorhandle or other accessory\", \"type of sideskirts (or other accessory)\" (AutoMerged)\nGroup: Accessory Names"
 	},
 	"doorstep_chromed_exclusive": {
@@ -29884,7 +29884,7 @@
 		"description": "Id: doorstep_chromed_ii\nChromed mirror, doorhandle or other accessory\nGroup: Accessory Names"
 	},
 	"doorstep_chromed_ii_basic": {
-		"message": "크롬 II, 기본",
+		"message": "크롬 II, 베이직",
 		"description": "Id: doorstep_chromed_ii_basic\n\"Chromed mirror, doorhandle or other accessory\", \"type of sideskirts (or other accessory)\" (AutoMerged)\nGroup: Accessory Names"
 	},
 	"doorstep_chromed_ii_exclusive": {
@@ -29908,7 +29908,7 @@
 		"description": "Id: doorstep_painted\nPainted mirror, doorhandle or other accessory\nGroup: Accessory Names"
 	},
 	"doorstep_painted_basic": {
-		"message": "페인트, 기본",
+		"message": "페인트, 베이직",
 		"description": "Id: doorstep_painted_basic\n\"Painted mirror, doorhandle or other accessory\", \"type of sideskirts (or other accessory)\" (AutoMerged)\nGroup: Accessory Names"
 	},
 	"doorstep_painted_exclusive": {
@@ -29920,7 +29920,7 @@
 		"description": "Id: doorstep_painted_ii\nPainted mirror, doorhandle or other accessory\nGroup: Accessory Names"
 	},
 	"doorstep_painted_ii_basic": {
-		"message": "페인트 II, 기본",
+		"message": "페인트 II, 베이직",
 		"description": "Id: doorstep_painted_ii_basic\n\"Painted mirror, doorhandle or other accessory\", \"type of sideskirts (or other accessory)\" (AutoMerged)\nGroup: Accessory Names"
 	},
 	"doorstep_painted_ii_exclusive": {
@@ -30504,7 +30504,7 @@
 		"description": "Id: f_body_standard\nStandard version of the interior or accesory\nGroup: Accessory Names"
 	},
 	"f_body_steel_wall": {
-		"message": "철제 벽",
+		"message": "강철 벽",
 		"description": "Id: f_body_steel_wall\nGroup: Accessory Names"
 	},
 	"f_body_turbo_cooler": {
@@ -30600,7 +30600,7 @@
 		"description": "Id: f_intake_chs_standard\nStandard version of the interior or accesory\nGroup: Accessory Names"
 	},
 	"f_light_chs_basic": {
-		"message": "기본",
+		"message": "베이직",
 		"description": "Id: f_light_chs_basic\ntype of sideskirts (or other accessory)\nGroup: Accessory Names"
 	},
 	"f_light_chs_chromed": {
@@ -30608,7 +30608,7 @@
 		"description": "Id: f_light_chs_chromed\nChromed mirror, doorhandle or other accessory\nGroup: Accessory Names"
 	},
 	"f_light_chs_drl": {
-		"message": "DRL",
+		"message": "주간주행등",
 		"description": "Id: f_light_chs_drl\nDaytime running lights\nGroup: Accessory Names"
 	},
 	"f_light_chs_exclusive": {
@@ -30776,7 +30776,7 @@
 		"description": "Id: f_turn_light_stock\nStock truck accesory\nGroup: Accessory Names"
 	},
 	"f_window_basic": {
-		"message": "기본",
+		"message": "베이직",
 		"description": "Id: f_window_basic\nGroup: Accessory Names"
 	},
 	"f_window_defrost": {
@@ -31044,7 +31044,7 @@
 		"description": "Id: fender_aluminium\nAluminium mirror, doorhandle or other accessory\nGroup: Accessory Names"
 	},
 	"fender_basic": {
-		"message": "기본",
+		"message": "베이직",
 		"description": "Id: fender_basic\ntype of sideskirts (or other accessory)\nGroup: Accessory Names"
 	},
 	"fender_chromed": {
@@ -31240,7 +31240,7 @@
 		"description": "Id: filters_air_filters_with_lights\nGroup: Accessory Names"
 	},
 	"filters_basic_air_filters": {
-		"message": "기본 에어필터",
+		"message": "베이직 에어필터",
 		"description": "Id: filters_basic_air_filters\nGroup: Accessory Names"
 	},
 	"filters_black_anthem_edition": {
@@ -32652,7 +32652,7 @@
 		"description": "Id: ftire_dynamix\nGroup: Accessory Names"
 	},
 	"ftire_dynamix_heavy_duty": {
-		"message": "Dynamix Heavy Duty",
+		"message": "다이나믹스 헤비 듀티",
 		"description": "Id: ftire_dynamix_heavy_duty\nGroup: Accessory Names"
 	},
 	"ftire_goodyear_endurance_lhs": {
@@ -32816,7 +32816,7 @@
 		"description": "Id: head_light_led\nGroup: Accessory Names"
 	},
 	"headache_r_basic": {
-		"message": "기본",
+		"message": "베이직",
 		"description": "Id: headache_r_basic\ntype of sideskirts (or other accessory)\nGroup: Accessory Names"
 	},
 	"headache_r_cabinet": {
@@ -33012,11 +33012,11 @@
 		"description": "Id: interior_100th_anniversary\nGroup: Accessory Names"
 	},
 	"interior_basic": {
-		"message": "기본",
+		"message": "베이직",
 		"description": "Id: interior_basic\ntype of sideskirts (or other accessory)\nGroup: Accessory Names"
 	},
 	"interior_basic_charcoal_black": {
-		"message": "기본 차콜 블랙",
+		"message": "베이직 차콜 블랙",
 		"description": "Id: interior_basic_charcoal_black\nGroup: Accessory Names"
 	},
 	"interior_basic_quarry_gray": {
@@ -33576,7 +33576,7 @@
 		"description": "Id: mudflap_aerox_2020\nSpecific accesory name (eg. Freightliner Cascadia)\nGroup: Accessory Names"
 	},
 	"mudflap_basic": {
-		"message": "기본",
+		"message": "베이직",
 		"description": "Id: mudflap_basic\ntype of sideskirts (or other accessory)\nGroup: Accessory Names"
 	},
 	"mudflap_black": {
@@ -33768,7 +33768,7 @@
 		"description": "Id: mudguard_aerox\nSpecific accesory name (eg. Freightliner Cascadia)\nGroup: Accessory Names"
 	},
 	"mudguard_basic": {
-		"message": "기본",
+		"message": "베이직",
 		"description": "Id: mudguard_basic\ntype of sideskirts (or other accessory)\nGroup: Accessory Names"
 	},
 	"mudguard_chromed": {
@@ -33852,15 +33852,15 @@
 		"description": "Id: mudguard_standard_white_logo\nGroup: Accessory Names"
 	},
 	"ornament_black_anthem_edition_bulldog": {
-		"message": "Black Anthem Edition 불독",
+		"message": "Black Anthem Edition 불도그",
 		"description": "Id: ornament_black_anthem_edition_bulldog\nGroup: Accessory Names"
 	},
 	"ornament_bulldog": {
-		"message": "불독",
+		"message": "불도그",
 		"description": "Id: ornament_bulldog\nGroup: Accessory Names"
 	},
 	"ornament_bulldog_with_pedigree": {
-		"message": "순종 불독",
+		"message": "순종 불도그",
 		"description": "Id: ornament_bulldog_with_pedigree\nGroup: Accessory Names"
 	},
 	"ornament_eagle": {
@@ -33956,7 +33956,7 @@
 		"description": "Id: r_chs_cover_tread_plate_inset\nGroup: Accessory Names"
 	},
 	"r_deflector_basic": {
-		"message": "기본",
+		"message": "베이직",
 		"description": "Id: r_deflector_basic\ntype of sideskirts (or other accessory)\nGroup: Accessory Names"
 	},
 	"r_deflector_exclusive": {
@@ -34292,7 +34292,7 @@
 		"description": "Id: rear_body_exclusive_chromed\n\"Luxury/Exclusive version of the interior or accesory\", \"Chromed mirror, doorhandle or other accessory\" (AutoMerged)\nGroup: Accessory Names"
 	},
 	"rear_body_exclusive_painted": {
-		"message": "고급형, 도색",
+		"message": "고급형, 페인트",
 		"description": "Id: rear_body_exclusive_painted\n\"Luxury/Exclusive version of the interior or accesory\", \"Painted mirror, doorhandle or other accessory\" (AutoMerged)\nGroup: Accessory Names"
 	},
 	"rear_body_painted": {
@@ -34300,7 +34300,7 @@
 		"description": "Id: rear_body_painted\nPainted mirror, doorhandle or other accessory\nGroup: Accessory Names"
 	},
 	"rear_body_painted_wall": {
-		"message": "페인트 벽",
+		"message": "도색된 벽",
 		"description": "Id: rear_body_painted_wall\nGroup: Accessory Names"
 	},
 	"rear_body_roll_up_door": {
@@ -34592,7 +34592,7 @@
 		"description": "Id: rtire_dynamix\nGroup: Accessory Names"
 	},
 	"rtire_dynamix_heavy_duty": {
-		"message": "Dynamix Heavy Duty",
+		"message": "다이나믹스 헤비 듀티",
 		"description": "Id: rtire_dynamix_heavy_duty\nGroup: Accessory Names"
 	},
 	"rtire_dynamix_wide": {
@@ -34760,7 +34760,7 @@
 		"description": "Id: s_logo_kenworth\nGroup: Accessory Names"
 	},
 	"s_logo_old_glory": {
-		"message": "Old Glory",
+		"message": "성조기",
 		"description": "Id: s_logo_old_glory\nGroup: Accessory Names"
 	},
 	"s_logo_patriot": {
@@ -35060,7 +35060,7 @@
 		"description": "Id: shub_standard_painted\nGroup: Accessory Names"
 	},
 	"sideflares_basic_chromed": {
-		"message": "기본 크롬",
+		"message": "베이직 크롬",
 		"description": "Id: sideflares_basic_chromed\nGroup: Accessory Names"
 	},
 	"sideflares_basic_painted": {
@@ -35296,7 +35296,7 @@
 		"description": "Id: sideskirt_aluminium_tank_d_shape\n\"Aluminium tank accessory (water, fuel, etc)\", \"D-shaped tank accessory (water, fuel, etc)\" (AutoMerged)\nGroup: Accessory Names"
 	},
 	"sideskirt_basic": {
-		"message": "기본",
+		"message": "베이직",
 		"description": "Id: sideskirt_basic\ntype of sideskirts (or other accessory)\nGroup: Accessory Names"
 	},
 	"sideskirt_basic_extended": {
@@ -35312,7 +35312,7 @@
 		"description": "Id: sideskirt_chromed\nChromed mirror, doorhandle or other accessory\nGroup: Accessory Names"
 	},
 	"sideskirt_chromed_basic": {
-		"message": "크롬 기본",
+		"message": "크롬 베이직",
 		"description": "Id: sideskirt_chromed_basic\nGroup: Accessory Names"
 	},
 	"sideskirt_chromed_combo_i": {
@@ -35372,7 +35372,7 @@
 		"description": "Id: sideskirt_duty_painted_chromed\n\"Basic but paintable truck accesory\", \"Chromed mirror, doorhandle or other accessory\" (AutoMerged)\nGroup: Accessory Names"
 	},
 	"sideskirt_duty_sideskirts": {
-		"message": "Duty 사이드스커트",
+		"message": "듀티 사이드스커트",
 		"description": "Id: sideskirt_duty_sideskirts\nGroup: Accessory Names"
 	},
 	"sideskirt_exclusive": {
@@ -35496,11 +35496,11 @@
 		"description": "Id: sideskrt_bar_aerox_2020\nSpecific accesory name (eg. Freightliner Cascadia)\nGroup: Accessory Names"
 	},
 	"sideskrt_bar_basic": {
-		"message": "기본",
+		"message": "베이직",
 		"description": "Id: sideskrt_bar_basic\nGroup: Accessory Names"
 	},
 	"sideskrt_bar_basic_chromed": {
-		"message": "기본 크롬",
+		"message": "베이직 크롬",
 		"description": "Id: sideskrt_bar_basic_chromed\nGroup: Accessory Names"
 	},
 	"sideskrt_bar_chromed": {
@@ -35624,7 +35624,7 @@
 		"description": "Id: steering_w_ace_with_black_line\nGroup: Accessory Names"
 	},
 	"steering_w_basic": {
-		"message": "기본",
+		"message": "베이직",
 		"description": "Id: steering_w_basic\ntype of sideskirts (or other accessory)\nGroup: Accessory Names"
 	},
 	"steering_w_black_anthem_edition": {
@@ -36056,7 +36056,7 @@
 		"description": "Id: sunshield_exclusive_chromed\nGroup: Accessory Names"
 	},
 	"sunshield_exclusive_painted": {
-		"message": "고급형, 도색",
+		"message": "고급형, 페인트",
 		"description": "Id: sunshield_exclusive_painted\nPainted mirror, doorhandle or other accessory\nGroup: Accessory Names"
 	},
 	"sunshield_globetrotter": {
@@ -36404,7 +36404,7 @@
 		"description": "Id: toy_ats_lunch_box\nGroup: Accessory Names"
 	},
 	"toy_ats_mug": {
-		"message": "ATS 머그",
+		"message": "ATS 머그잔",
 		"description": "Id: toy_ats_mug\nGroup: Accessory Names"
 	},
 	"toy_ats_pillow": {
@@ -36444,7 +36444,7 @@
 		"description": "Id: toy_beige_blanket\nGroup: Accessory Names"
 	},
 	"toy_black_ats_mug": {
-		"message": "검은색 ATS 머그",
+		"message": "검은색 ATS 머그잔",
 		"description": "Id: toy_black_ats_mug\nGroup: Accessory Names"
 	},
 	"toy_black_cat": {
@@ -36520,7 +36520,7 @@
 		"description": "Id: toy_breakfast_cereals\nGroup: Accessory Names"
 	},
 	"toy_bulldog_bobblehead": {
-		"message": "불독 보블헤드",
+		"message": "불도그 보블헤드",
 		"description": "Id: toy_bulldog_bobblehead\nGroup: Accessory Names"
 	},
 	"toy_burger": {
@@ -36624,15 +36624,15 @@
 		"description": "Id: toy_coffee_cup\nGroup: Accessory Names"
 	},
 	"toy_cone_of_academy": {
-		"message": "Cone of Academy",
+		"message": "콘 오브 아카데미",
 		"description": "Id: toy_cone_of_academy\nGroup: Accessory Names"
 	},
 	"toy_cone_of_excellence": {
-		"message": "Cone of Excellence",
+		"message": "콘 오브 엑설런스",
 		"description": "Id: toy_cone_of_excellence\nGroup: Accessory Names"
 	},
 	"toy_cone_of_proficiency": {
-		"message": "Cone of Proficiency",
+		"message": "콘 오브 프로피션시",
 		"description": "Id: toy_cone_of_proficiency\nGroup: Accessory Names"
 	},
 	"toy_count_catula_plush": {
@@ -36704,7 +36704,7 @@
 		"description": "Id: toy_festive_gingerbread_stamps\nGroup: Accessory Names"
 	},
 	"toy_festive_mug": {
-		"message": "페스티브 머그",
+		"message": "페스티브 머그잔",
 		"description": "Id: toy_festive_mug\nGroup: Accessory Names"
 	},
 	"toy_festive_tree": {
@@ -36776,7 +36776,7 @@
 		"description": "Id: toy_goodyear_cap\nGroup: Accessory Names"
 	},
 	"toy_goodyear_coffee_mug": {
-		"message": "Goodyear 커피 머그",
+		"message": "Goodyear 커피 머그잔",
 		"description": "Id: toy_goodyear_coffee_mug\nGroup: Accessory Names"
 	},
 	"toy_goodyear_mints": {
@@ -36788,7 +36788,7 @@
 		"description": "Id: toy_goodyear_money_box\nGroup: Accessory Names"
 	},
 	"toy_goodyear_mug": {
-		"message": "Goodyear 머그",
+		"message": "Goodyear 머그잔",
 		"description": "Id: toy_goodyear_mug\nGroup: Accessory Names"
 	},
 	"toy_goodyear_notebook": {
@@ -36904,7 +36904,7 @@
 		"description": "Id: toy_jcb_cap\nGroup: Accessory Names"
 	},
 	"toy_jcb_mug": {
-		"message": "JCB 머그",
+		"message": "JCB 머그잔",
 		"description": "Id: toy_jcb_mug\nGroup: Accessory Names"
 	},
 	"toy_jcb_notebook": {
@@ -36972,7 +36972,7 @@
 		"description": "Id: toy_krone_glasses\nGroup: Accessory Names"
 	},
 	"toy_krone_mug": {
-		"message": "Krone 머그",
+		"message": "Krone 머그잔",
 		"description": "Id: toy_krone_mug\nGroup: Accessory Names"
 	},
 	"toy_krone_plush_harvester": {
@@ -37012,7 +37012,7 @@
 		"description": "Id: toy_magical_spiral\nGroup: Accessory Names"
 	},
 	"toy_magneto_inductive_compass": {
-		"message": "자기 나침반",
+		"message": "자기 유도식 나침반",
 		"description": "Id: toy_magneto_inductive_compass\nGroup: Accessory Names"
 	},
 	"toy_mammoth_archie": {
@@ -37044,7 +37044,7 @@
 		"description": "Id: toy_michelin_bag\nGroup: Accessory Names"
 	},
 	"toy_michelin_bobblehead": {
-		"message": "Michelin 보블헤드",
+		"message": "Michelin 보블 헤드",
 		"description": "Id: toy_michelin_bobblehead\nGroup: Accessory Names"
 	},
 	"toy_michelin_bottle": {
@@ -37060,7 +37060,7 @@
 		"description": "Id: toy_michelin_coat\nGroup: Accessory Names"
 	},
 	"toy_michelin_coffee_mug_2020": {
-		"message": "Michelin 커피 머그 2020",
+		"message": "Michelin 커피 머그잔 2020",
 		"description": "Id: toy_michelin_coffee_mug_2020\nGroup: Accessory Names"
 	},
 	"toy_michelin_glasses": {
@@ -37100,7 +37100,7 @@
 		"description": "Id: toy_orange_air_freshener\nGroup: Accessory Names"
 	},
 	"toy_owl_mug": {
-		"message": "OWL 머그",
+		"message": "OWL 머그잔",
 		"description": "Id: toy_owl_mug\nGroup: Accessory Names"
 	},
 	"toy_paper_towels": {
@@ -37208,7 +37208,7 @@
 		"description": "Id: toy_scs_air_freshener\nGroup: Accessory Names"
 	},
 	"toy_scs_coffee_mug": {
-		"message": "SCS 커피 머그",
+		"message": "SCS 커피 머그잔",
 		"description": "Id: toy_scs_coffee_mug\nGroup: Accessory Names"
 	},
 	"toy_shoes": {
@@ -37852,7 +37852,7 @@
 		"description": "Id: pj_buffalo\nGroup: Names of paintjob accessories."
 	},
 	"pj_bulldog_s_way": {
-		"message": "불독의 길",
+		"message": "불도그의 길",
 		"description": "Id: pj_bulldog_s_way\nGroup: Names of paintjob accessories."
 	},
 	"pj_burning_skull": {
@@ -38256,7 +38256,7 @@
 		"description": "Id: pj_flash_drive\nGroup: Names of paintjob accessories."
 	},
 	"pj_flow_glow": {
-		"message": "Flow Glow",
+		"message": "흐르는 은은한 빛",
 		"description": "Id: pj_flow_glow\nGroup: Names of paintjob accessories."
 	},
 	"pj_flowing_flames": {
@@ -39228,7 +39228,7 @@
 		"description": "Id: pj_thunderbird\nGroup: Names of paintjob accessories."
 	},
 	"pj_tidal_surge": {
-		"message": "Tidal Surge",
+		"message": "해일",
 		"description": "Id: pj_tidal_surge\nGroup: Names of paintjob accessories."
 	},
 	"pj_timber_trail": {

@@ -900,7 +900,7 @@
 		"description": "Id: chipvan\nGroup: Trailer body type names (short/preview variant)."
 	},
 	"ats_dropdeck": {
-		"message": "드롭 데크",
+		"message": "드롭데크",
 		"description": "Id: dropdeck\nGroup: Trailer body type names (short/preview variant)."
 	},
 	"ats_dryvan": {
@@ -1040,7 +1040,7 @@
 		"description": "Id: tr_double_staa_pup\nGroup: Trailer configurations"
 	},
 	"ats_tr_double_staa_pup_4axle": {
-		"message": "STAA 더블 펍, 4 액슬",
+		"message": "STAA 더블 펍, 4액슬",
 		"description": "Id: tr_double_staa_pup_4axle\nGroup: Trailer configurations"
 	},
 	"ats_tr_jeep": {
@@ -1148,7 +1148,7 @@
 		"description": "Id: tr_single_45_3axle_single\nGroup: Trailer configurations"
 	},
 	"ats_tr_single_45_3axle_steer": {
-		"message": "45ft, 3 액슬, 조향가능",
+		"message": "45ft, 3액슬, 조향가능",
 		"description": "Id: tr_single_45_3axle_steer\nGroup: Trailer configurations"
 	},
 	"ats_tr_single_45_front": {
@@ -1204,7 +1204,7 @@
 		"description": "Id: tr_single_50_3axle_single\nGroup: Trailer configurations"
 	},
 	"ats_tr_single_50_3axle_steer": {
-		"message": "50ft, 3 액슬, 조향가능",
+		"message": "50ft, 3액슬, 조향가능",
 		"description": "Id: tr_single_50_3axle_steer\nGroup: Trailer configurations"
 	},
 	"ats_tr_single_50_spread": {
@@ -1228,7 +1228,7 @@
 		"description": "Id: tr_single_53_4axle_spread\nGroup: Trailer configurations"
 	},
 	"ats_tr_single_53_4axle_steer": {
-		"message": "53ft, 4 액슬, 조향가능",
+		"message": "53ft, 4액슬, 조향가능",
 		"description": "Id: tr_single_53_4axle_steer\nGroup: Trailer configurations"
 	},
 	"ats_tr_single_53_front": {
@@ -1328,19 +1328,19 @@
 		"description": "Id: bs_deep_drop\nGroup: Trailer body sets"
 	},
 	"ats_bs_dropdeck": {
-		"message": "드롭 데크",
+		"message": "드롭데크",
 		"description": "Id: bs_dropdeck\nGroup: Trailer body sets"
 	},
 	"ats_bs_dropdeck_alu": {
-		"message": "알루미늄 드롭 데크",
+		"message": "알루미늄 드롭데크",
 		"description": "Id: bs_dropdeck_alu\nGroup: Trailer body sets"
 	},
 	"ats_bs_dropdeck_fir": {
-		"message": "전나무 드롭 데크",
+		"message": "전나무 드롭데크",
 		"description": "Id: bs_dropdeck_fir\nGroup: Trailer body sets"
 	},
 	"ats_bs_dropdeck_hardwood": {
-		"message": "활엽수 드롭 데크",
+		"message": "활엽수 드롭데크",
 		"description": "Id: bs_dropdeck_hardwood\nGroup: Trailer body sets"
 	},
 	"ats_bs_drybulk": {
