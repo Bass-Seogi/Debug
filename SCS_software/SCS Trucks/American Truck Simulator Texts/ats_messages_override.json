@@ -1288,7 +1288,7 @@
 		"description": "Id: tr_dolly\nComponent chassis name (upgrade screen only)\nGroup: Trailer configurations"
 	},
 	"ats_tr_dolly_2": {
-		"message": "돌리, 2 액슬",
+		"message": "돌리, 2액슬",
 		"description": "Id: tr_dolly_2\nComponent chassis name (upgrade screen only)\nGroup: Trailer configurations"
 	},
 	"ats_bs_bellyvan": {

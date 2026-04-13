@@ -2292,7 +2292,7 @@
 		"description": "Id: cargo_type_inloader\nGroup: Cargo types.\nGroup: Job Market"
 	},
 	"cargo_type_livestock": {
-		"message": "라이브스톡",
+		"message": "가축",
 		"description": "Id: cargo_type_livestock\nGroup: Cargo types.\nGroup: Job Market"
 	},
 	"cargo_type_liquid": {
@@ -25776,7 +25776,7 @@
 		"description": "Id: aca_msg_book1_1_05_cutscene2\nGroup: Book 1 Scenario 1_05"
 	},
 	"aca_msg_book1_1_05_cutscene3": {
-		"message": "좌회전 신호와 우회전 신호를 작동해 보겠습니다.",
+		"message": "좌 우 회전 신호를 작동해 보겠습니다.",
 		"description": "Id: aca_msg_book1_1_05_cutscene3\nGroup: Book 1 Scenario 1_05"
 	},
 	"aca_msg_book1_1_05_cutscene4": {
@@ -31132,11 +31132,11 @@
 		"description": "Id: bumper_racing\nGroup: Accessory Names"
 	},
 	"bumper_robust": {
-		"message": "로버스트",
+		"message": "견고",
 		"description": "Id: bumper_robust\nGroup: Accessory Names"
 	},
 	"bumper_robust_painted": {
-		"message": "로버스트, 페인트",
+		"message": "견고, 페인트",
 		"description": "Id: bumper_robust_painted\nPainted mirror, doorhandle or other accessory\nGroup: Accessory Names"
 	},
 	"bumper_standard": {
@@ -32468,7 +32468,7 @@
 		"description": "Id: codrv_seat_progressive\nSpecific (or fancy) name of the interior or accesory\nGroup: Accessory Names"
 	},
 	"codrv_seat_robust": {
-		"message": "로버스트",
+		"message": "견고",
 		"description": "Id: codrv_seat_robust\nSpecific (or fancy) name of the interior or accesory\nGroup: Accessory Names"
 	},
 	"codrv_seat_standard": {
@@ -37540,11 +37540,11 @@
 		"description": "Id: interior_natura_uk_2025\nGroup: Accessory Names"
 	},
 	"interior_privilege": {
-		"message": "Privilege",
+		"message": "프리빌리지",
 		"description": "Id: interior_privilege\nGroup: Accessory Names"
 	},
 	"interior_privilege_uk": {
-		"message": "Privilege UK",
+		"message": "프리빌리지 UK",
 		"description": "Id: interior_privilege_uk\nGroup: Accessory Names"
 	},
 	"interior_production_optional": {
@@ -37572,11 +37572,11 @@
 		"description": "Id: interior_progressive_uk\nSpecific (or fancy) name of the interior or accesory\nGroup: Accessory Names"
 	},
 	"interior_robust": {
-		"message": "로버스트",
+		"message": "견고",
 		"description": "Id: interior_robust\nSpecific (or fancy) name of the interior or accesory\nGroup: Accessory Names"
 	},
 	"interior_robust_uk": {
-		"message": "로버스트 UK",
+		"message": "견고 UK",
 		"description": "Id: interior_robust_uk\nSpecific (or fancy) name of the interior or accesory\nGroup: Accessory Names"
 	},
 	"interior_route_66_edition": {
@@ -37996,7 +37996,7 @@
 		"description": "Id: mirror_stock_long\nExtended leg version of the front truck mirror\nGroup: Accessory Names"
 	},
 	"mirror_stock_privilege": {
-		"message": "순정 Privilege",
+		"message": "순정 프리빌리지",
 		"description": "Id: mirror_stock_privilege\nStock truck accesory\nGroup: Accessory Names"
 	},
 	"mudflap_actros": {
@@ -39120,7 +39120,7 @@
 		"description": "Id: rear_body_ladder_2x\nGroup: Accessory Names"
 	},
 	"rear_body_ladder_left": {
-		"message": "사다리, Left",
+		"message": "사다리, 왼쪽",
 		"description": "Id: rear_body_ladder_left\nGeneric left-sided accesory name (eg. hand rail, catwalk)\nGroup: Accessory Names"
 	},
 	"rear_body_ladder_painted": {
@@ -39128,7 +39128,7 @@
 		"description": "Id: rear_body_ladder_painted\nPainted mirror, doorhandle or other accessory\nGroup: Accessory Names"
 	},
 	"rear_body_ladder_right": {
-		"message": "사다리, Right",
+		"message": "사다리, 오른쪽",
 		"description": "Id: rear_body_ladder_right\nGeneric right-sided accesory name (eg. hand rail, catwalk)\nGroup: Accessory Names"
 	},
 	"rear_body_ladder_steel": {
@@ -39756,7 +39756,7 @@
 		"description": "Id: set_dashbrd_exclusive_painted\nLuxury/Exclusive painted version of the interior or accesory\nGroup: Accessory Names"
 	},
 	"set_dashbrd_long_table_black": {
-		"message": "검은색 롱 테이블",
+		"message": "검은색 긴 테이블",
 		"description": "Id: set_dashbrd_long_table_black\nLong version of table that can be placed on dashboard to enable player to place multiple items on it(mug,toys,etc)\nGroup: Accessory Names"
 	},
 	"set_dashbrd_long_table_exclusive": {
@@ -39812,7 +39812,7 @@
 		"description": "Id: sideskirt_basic_chromed\ntype of sideskirts (or other accessory), chromed\nGroup: Accessory Names"
 	},
 	"sideskirt_basic_painted": {
-		"message": "기본 페인트",
+		"message": "베이직 페인트",
 		"description": "Id: sideskirt_basic_painted\ntype of sideskirts (or other accessory), painted\nGroup: Accessory Names"
 	},
 	"sideskirt_chromed": {
@@ -39820,7 +39820,7 @@
 		"description": "Id: sideskirt_chromed\nChromed mirror, doorhandle or other accessory\nGroup: Accessory Names"
 	},
 	"sideskirt_double_toolbox_chromed": {
-		"message": "더블 크롬 툴박스",
+		"message": "더블 툴박스 크롬",
 		"description": "Id: sideskirt_double_toolbox_chromed\nVery expensive, chromed sideskirts, with two toolboxes inside it.\nGroup: Accessory Names"
 	},
 	"sideskirt_double_toolbox_painted": {
@@ -40096,7 +40096,7 @@
 		"description": "Id: steering_w_exclusive_black_2019\nLuxury/Exclusive version of the interior or accesory\nGroup: Accessory Names"
 	},
 	"steering_w_exclusive_evolution": {
-		"message": "Exclusive Evolution",
+		"message": "고급형 에볼루션",
 		"description": "Id: steering_w_exclusive_evolution\nLuxury/Exclusive version of the interior or accesory\nGroup: Accessory Names"
 	},
 	"steering_w_exclusive_line": {
@@ -40316,7 +40316,7 @@
 		"description": "Id: sunshld_stock_painted\nPaintable Stock accesory\nGroup: Accessory Names"
 	},
 	"sunshld_stock_privilege": {
-		"message": "순정 Privilege",
+		"message": "순정 프리빌리지",
 		"description": "Id: sunshld_stock_privilege\nStock truck accesory\nGroup: Accessory Names"
 	},
 	"sunshld_titan": {
@@ -41064,7 +41064,7 @@
 		"description": "Id: toy_krone_air_freshener\nGroup: Accessory Names"
 	},
 	"toy_krone_bear": {
-		"message": "Krone 곰",
+		"message": "Krone 베어",
 		"description": "Id: toy_krone_bear\nGroup: Accessory Names"
 	},
 	"toy_krone_bottle": {

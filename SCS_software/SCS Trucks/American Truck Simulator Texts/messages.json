@@ -2260,7 +2260,7 @@
 		"description": "Id: cargo_type_inloader\nGroup: Cargo types.\nGroup: Job Market"
 	},
 	"cargo_type_livestock": {
-		"message": "라이브스톡",
+		"message": "가축",
 		"description": "Id: cargo_type_livestock\nGroup: Cargo types.\nGroup: Job Market"
 	},
 	"cargo_type_liquid": {
@@ -23368,7 +23368,7 @@
 		"description": "Id: aca_msg_book1_1_05_cutscene2\nGroup: Book 1 Scenario 1_05"
 	},
 	"aca_msg_book1_1_05_cutscene3": {
-		"message": "좌회전 신호와 우회전 신호를 작동해 보겠습니다.",
+		"message": "좌 우 회전 신호를 작동해 보겠습니다.",
 		"description": "Id: aca_msg_book1_1_05_cutscene3\nGroup: Book 1 Scenario 1_05"
 	},
 	"aca_msg_book1_1_05_cutscene4": {
@@ -27744,7 +27744,7 @@
 		"description": "Id: body_live_floor_dumper\nGroup: Accessory Names"
 	},
 	"body_livestock": {
-		"message": "라이브스톡",
+		"message": "가축",
 		"description": "Id: body_livestock\nGroup: Accessory Names"
 	},
 	"body_livestock_belly": {
@@ -29944,7 +29944,7 @@
 		"description": "Id: doorstep_storm\nGroup: Accessory Names"
 	},
 	"doorstep_storm_basic": {
-		"message": "Storm, 기본",
+		"message": "Storm, 베이직",
 		"description": "Id: doorstep_storm_basic\nGroup: Accessory Names"
 	},
 	"doorstep_storm_exclusive": {
@@ -29956,7 +29956,7 @@
 		"description": "Id: doorstep_storm_ii\nGroup: Accessory Names"
 	},
 	"doorstep_storm_ii_basic": {
-		"message": "Storm II, 기본",
+		"message": "Storm II, 베이직",
 		"description": "Id: doorstep_storm_ii_basic\nGroup: Accessory Names"
 	},
 	"doorstep_storm_ii_exclusive": {
@@ -30292,11 +30292,11 @@
 		"description": "Id: exhaust_bottom_chromed\n\"Bottom version of accessory, eg exhaust.\", \"Chromed mirror, doorhandle or other accessory\" (AutoMerged)\nGroup: Accessory Names"
 	},
 	"exhaust_bullhorn_long": {
-		"message": "Bullhorn 롱",
+		"message": "확성기 롱",
 		"description": "Id: exhaust_bullhorn_long\nGroup: Accessory Names"
 	},
 	"exhaust_bullhorn_long_painted": {
-		"message": "Bullhorn 롱, 페인트",
+		"message": "확성기 롱, 페인트",
 		"description": "Id: exhaust_bullhorn_long_painted\nGroup: Accessory Names"
 	},
 	"exhaust_caliber": {
@@ -30376,11 +30376,11 @@
 		"description": "Id: exhaust_legacy\nGroup: Accessory Names"
 	},
 	"exhaust_plain_bullhorn_long": {
-		"message": "플레인 Bullhorn 롱",
+		"message": "플레인 확성기 롱",
 		"description": "Id: exhaust_plain_bullhorn_long\nGroup: Accessory Names"
 	},
 	"exhaust_plain_bullhorn_short": {
-		"message": "플레인 Bullhorn 숏",
+		"message": "플레인 확성기 숏",
 		"description": "Id: exhaust_plain_bullhorn_short\nGroup: Accessory Names"
 	},
 	"exhaust_plain_flattop_long": {
@@ -32628,7 +32628,7 @@
 		"description": "Id: frim_shadow\nGroup: Accessory Names"
 	},
 	"frim_steel_basic": {
-		"message": "강철 기본",
+		"message": "강철 베이직",
 		"description": "Id: frim_steel_basic\nGroup: Accessory Names"
 	},
 	"ftire_275_80_michelin_x_line_energy_z": {
@@ -32864,7 +32864,7 @@
 		"description": "Id: hndrail_right\nGeneric right-sided accesory name (eg. hand rail, catwalk)\nGroup: Accessory Names"
 	},
 	"hndrail_right_left": {
-		"message": "우 + 좌",
+		"message": "오른쪽 + 왼쪽",
 		"description": "Id: hndrail_right_left\n\"Generic right-sided accesory name (eg. hand rail, catwalk)\", \"Generic left-sided accesory name (eg. hand rail, catwalk)\" (AutoMerged)\nGroup: Accessory Names"
 	},
 	"hndrail_standard": {
@@ -34544,7 +34544,7 @@
 		"description": "Id: rrim_shadow\nGroup: Accessory Names"
 	},
 	"rrim_steel_basic": {
-		"message": "강철 기본",
+		"message": "강철 베이직",
 		"description": "Id: rrim_steel_basic\nGroup: Accessory Names"
 	},
 	"rtire_275_80_michelin_x_line_energy_d_plus": {
@@ -35064,7 +35064,7 @@
 		"description": "Id: sideflares_basic_chromed\nGroup: Accessory Names"
 	},
 	"sideflares_basic_painted": {
-		"message": "기본 페인트",
+		"message": "베이직 페인트",
 		"description": "Id: sideflares_basic_painted\nGroup: Accessory Names"
 	},
 	"sideflares_chromed": {
@@ -35300,7 +35300,7 @@
 		"description": "Id: sideskirt_basic\ntype of sideskirts (or other accessory)\nGroup: Accessory Names"
 	},
 	"sideskirt_basic_extended": {
-		"message": "기본, 연장",
+		"message": "베이직, 연장",
 		"description": "Id: sideskirt_basic_extended\n\"type of sideskirts (or other accessory)\", \"Longer/Extended version of the deflector or other accesory\" (AutoMerged)\nGroup: Accessory Names"
 	},
 	"sideskirt_black_anthem_edition": {
