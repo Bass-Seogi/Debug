@@ -1,0 +1,1762 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="52" original="/extra_texts/product_descriptions.json" source-language="en" target-language="ko" datatype="plaintext" project-id="317201" tool-id="crowdin">
+    <header>
+      <tool tool-id="crowdin" tool-name="Crowdin" tool-version="1.1"/>
+    </header>
+    <body>
+      <trans-unit id="46124" resname="ats_long_description">
+        <source>Experience legendary American trucks and deliver various cargoes across sunny California, sandy Nevada, and the Grand Canyon State of Arizona. American Truck Simulator takes you on a journey through the breathtaking landscapes and widely recognized landmarks around the States.
+
+Game mechanics are based on the highly successful model from Euro Truck Simulator 2 and have been expanded with new features, creating the most captivating game experience from SCS Software.
+
+American Truck Simulator puts you in the seat of a driver for hire entering the local freight market, making you work your way up to become an owner-operator, and go on to create one of the largest transportation companies in the United States.
+
+[h2]Features[/h2]
+
+[list]
+[*] Drive highly detailed truck models officially licensed from iconic truck manufacturers.
+[*] Your truck is your new home. Make it yours by changing cabins, chassis, paintjobs, adding tuning accessories or more powerful engines.
+[*] Lots of different cargoes to choose: From food to machinery to hazard cargoes.
+[*] Multiple types of trailers – from reefers to flatbeds, from dumpers to lowboys and goosenecks.
+[*] The longest trailers (up to 53 ft) will challenge your skills and patience while hauling and during parking.
+[*] Deliver your cargoes to a rich variety of companies and locations like refineries, oil storage, gas stations, car factories, or roadworks.
+
+[img]{STEAM_APP_IMAGE}/extras/locations.png[/img]
+[*] Various simulation settings for trucking enthusiasts: Air brake simulation; different types of brakes: retarder, Jake brake, trailer brake; multiple types of transmissions straight from real trucks, brake intensity, and more.
+[*] Feel like inside a real cabin: Adjust your seat, mirrors and position your head to get the best view of the road.
+[*] Drive safely, follow the rules and speed limits – police will fine you if you aren't careful!
+[*] Ensure that you are not delivering overweight cargo – you may be checked at the weigh scales.
+[*] Use the route adviser as your personal assistant during the travels.
+[*] Try the life of a truck driver for hire. By delivering the cargoes safely and improving your skills, become the owner of your own, successful company!
+[img]{STEAM_APP_IMAGE}/extras/trucker.png[/img]
+[*] Build your own fleet of trucks, buy garages, hire drivers, manage your company for maximum profits.
+[*] Make your trucking time better by listening to your favorite songs via built-in music player or streaming your favorite radio stations.
+[*] Capture your favorite moments with a photo mode offering rich set of editing options.
+[*] Great support for steering wheels, gamepads and other input devices.
+[*] Long-time support of the game, including new features.
+[*] Obtain challenging Steam achievements and collect all hand-painted Steam trading cards.
+[/list]
+
+[h2]World of Trucks[/h2]
+
+Take advantage of additional features of American Truck Simulator by joining our online community on [url=https://worldoftrucks.com/]World of Trucks[/url], our center for virtual truckers all around the world interested in Euro Truck Simulator 2, American Truck Simulator and future SCS Software's truck simulators. 
+
+[list]
+[*]Use in-game Photo Mode to capture the best moments and share them with thousands of people who love trucks.
+[*]Favorite the images you like the most and return to them anytime in the future.
+[*]Discuss the screenshots with everyone using World of Trucks.
+[*]See the best images hand-picked by the game creators in Editor's Pick updated almost every day. Try to get your own screenshot on this list!
+[*]Upload and use your custom avatar and license plate in the game.
+[*]More features coming soon!
+[/list]
+
+To join [url=http://worldoftrucks.com/]World of Trucks[/url], simply sign up with your Steam account [url=https://worldoftrucks.com/en/join.php]on the join page[/url]. You will need to own [url=https://store.steampowered.com/app/270880]American Truck Simulator[/url] or [url=https://store.steampowered.com/app/227300]Euro Truck Simulator 2[/url] to join World of Trucks.
+
+[b]World of Trucks is an optional service, registration on World of Trucks isn't required to play the game.[/b]</source>
+        <target state="translated">맑은 캘리포니아, 매마른 네바다나 애리조나의 그랜트 캐니언 주에서 멋진 미국 트럭으로 다양한 화물을 운송해보세요. 아메리칸 트럭 시뮬레이터는 당신을 주 곳곳의 아름다운 경치와 유명한 장소들로 여행을 보내줍니다.
+
+게임은 매우 성공적인 유로 트럭 시뮬레이터 2 를 기반으로 하며 SCS 소프트웨어의 매우 아름다운 게임 경험과 기능들이 함께합니다.
+
+아메리칸 트럭 시뮬레이터는 당신을 언젠가는 물류 회사의 주인이 되기 위하여 지역 화물 시장에 들어가는 당신의 트럭에 태워 드립니다. 미국의 가장 큰 물류 회사 중 하나를 만들어보십시오.
+[h2]특징[/h2]
+
+[list]
+[*] 공식 트럭 회사로부터 인증받은 매우 고품질인 트럭을 운전하십시오.
+[*] 트럭인 이제 당신의 새 집입니다. 캐빈, 샤시, 도색을 바꾸며 여러가지 튜닝 액세서리나 강력한 엔진을 장착하십시오.
+[*] 매우 많은 화물을 고를 수 있습니다. 음식에서부터 기계나 긴급한 화물까지 함께합니다.
+[*] 다양한 트레일러가 존재합니다. 덤프, 플랫베드, 리퍼, 로우보이, 구즈넥은 일부에 불과합니다.
+[*] 매우 긴 트레일러(53 ft에 달합니다!)를 주차하거나 운송하며 당신의 능력을 도전할 수 있습니다.
+[*] 당신의 화물들을 다양한 곳으로 배송하십시오. 주유소, 도로 공사 현장, 자동차 공장, 가게 보다도 다양합니다.
+
+[img]{STEAM_APP_IMAGE}/extras/locations.png[/img]
+[*] 트럭 경험을 위한 다양한 기능: 에어 브레이크 시뮬레이션; 다양한 브레이크: 리타더, 엔진 브레이크, 트레일러 브레이크; 실제 트럭을 기반으로 한 다양한 트랜스미션, 브레이크 강도, 그리고 더 있습니다.
+[*] 실제 운전석 안처럼: 도로를 잘 볼 수 있게 의자, 거울, 머리 각도를 조절할 수 있습니다.
+[*] 안전하게 교통 법규를 준수하며 운전하세요. 방심한다면 경찰이 벌금을 부과합니다!
+[*] 과중량 화물을 운송하는지 조심하십시오. 화물의 무게를 측정하기도 합니다.
+[*] 루트 어드바이저를 당신만의 여행 비서로 사용하십시오.
+[*] 고용되는 트럭 운전사로 살아보십시오. 화물을 안전게 운전하여 기술을 키우고, 당신만의 성공적인 회사를 차리세요!
+[img]{STEAM_APP_IMAGE}/extras/trucker.png[/img]
+[*] 당신만의 트럭을 구성하고, 차고를 사고, 운전사를 고용하고, 최고의 혜택과 함께 회사를 운영하세요.
+[*] 내장된 음악 플레이어로 당신의 음악이나 실시간 라디오를 청취할 수 있습니다.
+[*] 다양한 조절 설정이 포함된 포토 모드를 이용하여 아름다운 순간을 남기세요.
+[*] 게임패드, 스티어링 휠 등 다양한 장치를 매우 잘 지원합니다.
+[*] 오랫동안 새로운 컨텐츠를 포함한 업데이트를 진행합니다.
+[*] 스팀 업적을 성취하고 손으로 그린 트레이딩 카드를 얻으세요.
+[/list]
+
+[h2]World of Trucks[/h2]
+
+Euro Truck Simulator 2, American Truck Simulator, 언젠가 생길 게임 모두에 관심이 있는 전 세계 온라인 트럭 운전사들을 위한 온라인 커뮤니티 [url=https://worldoftrucks.com/]World of Trucks[/url]에서 게임의 추가적인 기능들을 경험할 수 있습니다.
+
+[list]
+[*]내장된 포토 모드로 사진을 찍어서 공유하세요.
+[*]좋아하는 사진을 남겼다가 미래에 보세요.
+[*]World of Trucks 사용자들과 사진에 대해 의견을 나누세요.
+[*]거의 매일 새로고침되는 에디터 선정 사진을 보십시오. 당신의 사진을 이 목록에 넣어볼 수 있을 겁니다!
+[*]직접 아바타와 번호판을 업로드하세요!
+[*]더 많은 기능들이 추가될 것입니다!
+[/list]
+
+[url=http://worldoftrucks.com/]World of Trucks[/url]에서 함께하시려면, 간단하게 [url=https://worldoftrucks.com/en/join.php]이곳[/url]에서 스팀 계정으로 가입하십시오. 진행하려면 [url=https://store.steampowered.com/app/270880]American Truck Simulator[/url] 또는 [url=https://store.steampowered.com/app/227300]Euro Truck Simulator 2[/url] 가 필요합니다.
+
+[b]World of Trucks 는 선택적인 서비스입니다. World of Trucks를 가입하는 것은 게임 플레이를 하기 위해 필요하지 않습니다.[/b]</target>
+        <context-group purpose="information">
+          <context context-type="source">ats_long_description
+
+Long description for American Truck Simulator.</context>
+        </context-group>
+        <note from="mg (mg07)" priority="4">@mehmetburhankeles Farkı göremedim, farkı nedir?</note>
+        <note from="Mehmet Burhan Keleş (mehmetburhankeles)" priority="4">@mg07 Weigh station ı denetim istasyonu olarak değiştirdim. Diğer stringlerle uyumlu olsun diye bunu da değiştirdim. Birkaç tane de imla hatasını düzelttim.</note>
+        <note from="mg (mg07)" priority="4">@mehmetburhankeles Tamamdır, elinize sağlık.</note>
+        <note from="mg (mg07)" priority="4">@mehmetburhankeles dâhilî, &quot;dahili&quot; diye yazılmış. onu düzelttim</note>
+        <note from="mg (mg07)" priority="4">@mehmetburhankeles zaten &quot;dâhilî&quot; yazmıyor mu şu an? göremedim bi yanlış varsa</note>
+        <note from="mg (mg07)" priority="4">sorun değil 👍🏻</note>
+      </trans-unit>
+      <trans-unit id="46126" resname="ats_special_announcement_just_updated_content">
+        <source>The Grand Canyon State, Arizona, is now available as a free update!</source>
+        <target state="translated">이제 무료로 애리조나 , 그랜드 캐니언 스테이트 업데이트를 이용할 수 있습니다!</target>
+        <context-group purpose="information">
+          <context context-type="source">ats_special_announcement_just_updated_content
+
+Content of the second special announcement for American Truck Simulator (above game description on Steam). Title Just Updated is automatically translated by Steam.</context>
+        </context-group>
+        <note from="Krezzin" priority="4">По мое мнение, най-добре е да се използва &quot;Щатът НА&quot;, след като изрично се визира Аризона, а забележителността е Гранд Каньон. В противен случай приемаме, че Гранд Каньон е щатът - но все пак може да се счете и за правилно, в зависимост от гледната точка.</note>
+      </trans-unit>
+      <trans-unit id="46128" resname="ats_short_description">
+        <source>Experience legendary American trucks and deliver various cargoes across sunny California, sandy Nevada, and the Grand Canyon State of Arizona. American Truck Simulator takes you on a journey through the breathtaking landscapes and widely recognized landmarks around the States.</source>
+        <target state="translated">전설적인 미국의 트럭 운전을 경험하고 따듯한 캘리포니아, 네바다의 사막, 그리고  애리조나 주의 그랜드 캐니언을 걸쳐 다양한 화물을 제공합니다. 아메리칸 시물레이터로 미국 주위의 숨 막히는 풍경과 널리 알려져 있는 랜드마크 를 통해 여행을 할 수 있습니다.</target>
+        <context-group purpose="information">
+          <context context-type="source">ats_short_description
+
+Short description for American Truck Simulator.</context>
+        </context-group>
+        <note from="REMOVED_USER" priority="4">The current approved translation is not correct, please review my translation:
+&quot;Proba os lendarios camións americanos e entrega diversas mercadorías pola solleira California, a areosa Nevada e o Estado do Grande Canón, Arizona. American Truck Simulator lévate de viaxe a través de espectaculares paisaxes e amplamente coñecidos lugares arredor dos Estados Unidos.&quot;</note>
+      </trans-unit>
+      <trans-unit id="46130" resname="ats_arizona_short_description">
+        <source>The Grand Canyon State welcomes you! Drive through the streets of its largest city and capital, Phoenix, and discover the distinctive southern centers Flagstaff and Tucson. Enjoy the sweeping, ever changing scenery of this corner state.</source>
+        <target state="translated">그랜드 캐년 주에서 여러분을 환영합니다! 주 최대 도시와 수도, 피닉스의 거리를 운전하고 특유의 남부 센터 인 플래그 스태프 (Flagstaff) 와 투손 (Tucson) 을 발견하십시오. 이 코너 상태의 광범위하고 끊임없이 변화하는 풍경을 즐기십시오.</target>
+        <context-group purpose="information">
+          <context context-type="source">ats_arizona_short_description
+
+Short description for ATS Arizona.</context>
+        </context-group>
+        <note from="Krezzin" priority="4">Тук, в допълнение на предишния ми коментар за &quot;Щатът НА&quot;, в случая, имаме &quot;The Grand Canyon State welcomes you&quot; -&quot; Добре дошли в щата на Гранд Каньон&quot;, вместо &quot;Добре дошли в щата Гранд Каньон&quot;, което е несъвсем удачният вариант</note>
+      </trans-unit>
+      <trans-unit id="46132" resname="ats_arizona_long_description">
+        <source>The Grand Canyon State welcomes you! Drive through the streets of its largest city and capital, Phoenix, and discover the distinctive southern centers Flagstaff and Tucson. Enjoy the sweeping, ever changing scenery of this corner state -  hypnotizing deserts, endless forests, deep canyons and wild mountains. Cross the Colorado river over unique bridges and explore many wonderful vistas and famous landmarks within this region.
+
+Arizona (Navajo: Hoozdo Hahoodzo) is the sixth largest and the 14th most populous of the 50 states. Southern Arizona is known for its desert climate, with very hot summers and mild winters. Northern Arizona features many pine forests, the Colorado Plateau, and some mountain ranges with much more moderate summer temperatures and significant winter snowfalls.
+
+[h2]Key Features[/h2]
+
+[list]
+[*] 15 new cities including the major ones: Phoenix, Tucson, Flagstaff
+[*] Famous Route 66 vistas and landmarks
+[*] Solid realistic road system
+[*] Large flyover custom junctions
+[*] Advanced AI vehicles behavior
+[*] Enhanced road surfaces
+[*] New companies plus 2 new company prefab variations
+[*] Grand Canyon and Colorado River sights
+[*] Breathtaking colorful desert
+[*] Arizona achievements to unlock!
+[/list]</source>
+        <target state="translated">그랜드 캐년 주에서! 주 최대 도시와 수도, 피닉스의 거리를 운전하고 특유의 남부 센터 인 플래그스태프와 투손을 발견하십시오. 이 코너 상태의 광범위하고 끊임없이 변화하는 풍경을 즐기십시오. 매혹적인 사막, 끝없는 숲, 깊은 협곡, 야생 산이 있습니다. 콜로라도 강을 건너 독특한 다리를 건너 이 지역의 많은 멋진 전망과 유명한 랜드마크를 탐험하십시오.
+
+애리조나(나바호어: Hoozdo Hahoodzo)는 50개 주 중에서 여섯 번째로 크고 14번째로 인구가 많습니다. 애리조나 남부는 매우 더운 여름과 온화한 겨울이 있는 사막 기후로 유명합니다. 애리조나 북부는 많은 소나무 숲, 콜로라도 고원, 그리고 훨씬 더 온화한 여름 기온과 상당한 겨울 강설량이 있는 몇몇 산맥이 있습니다.
+
+[h2]주요 특징[/h2]
+
+[list]
+[*] 피닉스, 투손, 플래그스태프를 포함한 주요 도시 15개
+[*] 유명한 66번 국도 전망과 랜드마크
+[*] 견고하고 사실적인 도로 시스템
+[*] 대형 고가도로 맞춤형 교차로
+[*] 고급 AI 차량 동작
+[*] 향상된 도로 표면
+[*] 새로운 회사와 2개의 새로운 회사 프리패브 변형
+[*] 그랜드 캐년과 콜로라도 강 전망
+[*] 숨 막힐 듯 아름다운 다채로운 사막
+[*] 잠금 해제할 수 있는 애리조나 업적!
+[/list]</target>
+        <context-group purpose="information">
+          <context context-type="source">ats_arizona_long_description
+
+Long description for ATS Arizona.</context>
+        </context-group>
+        <note from="mg (mg07)" priority="4">Kolarado değil, Kolorado.</note>
+        <note from="Mehmet Burhan Keleş (mehmetburhankeles)" priority="4">@mg07 Oldukça yanlış yazılmış. Onu düzelttim.</note>
+        <note from="Georgi (RacerBG)" priority="4">The currently approved translation is not correct, please review my translation:
+&quot;Добре дошли в щата на Гранд Каньон! Прекосете улиците на най-големия град и столица, Финикс, и открийте характерните южни центрове, Флагстаф и Туксон. Наследете се на динамично променящия се пейзаж в този краен щат - от увлекателни пустини, дълбоки гори и каньони, до диви планини. Пресечете река Колорадо по масивни мостове и изучете множеството чудесни места и забележителности в този район. 
+
+Аризона е шестият наред по големина и на 14-то място най-гъстонаселен щат от всички 50 щата. На юг, Аризона е известна със своя пустинен климат, с особено топлото лято и мека зима. Южна Аризона включва много борови гори, Колорадското плато и планински вериги, където летните температури са по-умерени, а зимите преминават в значителни снеговалежи.
+
+[h2]Основни характеристики[/h2]
+
+[list]
+[*]  Достъпни 15 нови града, включително: Финикс, Туксон, Флагстаф
+[*] Известният път 66 и с неговите панорамни гледки и забележителности
+[*] Реалистична пътна мрежа
+[*] Огромни и комплексни пътни възли
+[*] Подобрено поведение на водачите в трафика
+[*] Подобрени пътни настилки
+[*] Нови компании, а също така и допълнителни 2 места за товарене
+[*] Невероятни гледки от националния парк &quot;Гранд каньон&quot; и река Колорадо
+[*] Удивляваща с красотата си пустиня
+[*] и постижения за Аризона!
+[/list]&quot;</note>
+        <note from="Krezzin" priority="4">@RacerBG Approved and edited a bit.</note>
+        <note from="mg (mg07)" priority="4">Fazladan bir boşluk vardı.</note>
+      </trans-unit>
+      <trans-unit id="46156" resname="ets_long_description">
+        <source>Product description:
+&quot;Travel across Europe as king of the road, a trucker who delivers important cargo across impressive distances! With dozens of cities to explore from the UK, Belgium, Germany, Italy, the Netherlands, Poland, and many more, your endurance, skill and speed will all be pushed to their limits. If you have got what it takes to be part of an elite trucking force, get behind the wheel and prove it!&quot;
+
+Key features: 
+* Transport a vast variety of cargo across more than 60 European cities. 
+* Run your own business which continues to grow even as you complete  your freight deliveries. 
+* Build your own fleet of trucks, buy garages, hire drivers, manage your  company for maximum profits. 
+* A varied amount of truck tuning that range from performance to  cosmetic changes. 
+* Customize your vehicles with optional lights, bars, horns, beacons,  smoke exhausts, and more. 
+* Thousands of miles of real road networks with hundreds of famous  landmarks and structures.</source>
+        <target state="translated">제품 설명:\n&quot;중요한 화물들을 멀리멀리 나르는 도로 위의 왕인 트럭커가 되어 유럽 전역을 여행하십시오! 영국, 벨기에, 독일, 이탈리아, 네덜란드, 폴란드 등의 수많은 도시들을 탐험하며 당신의 인내심, 기술, 속도 모두가 한계까지 밀어붙여질 것입니다. 당신이 최고의 트럭 운전수 반열에 들 자질을 갖고있다면, 트럭에 올라타 이를 증명하십시오!&quot;\n\n주요 특징:\n*60개가 넘는 유럽 도시들에 수많은 종류의 화물을 운송하십시오.\n*당신이 화물 운송을 마칠때마다 꾸준히 성장하는 자신만의 사업을 시작하십시오.\n*당신만의 트럭 선단을 만들고, 차고를 사고, 운전수를 고용하며 최대의 이익을 위해 회사를 운영하십시오.\n*트럭의 성능에서부터 외관 변형까지 수많은 튜닝이 가능합니다.\n*조명, 파이프, 경적, 경광등, 배기장치 등을 이용해 당신의 자동차를 맞춤 설정하십시오.\n*수백가지의 유명한 랜드마크와 구조물들을 잇는 수천 마일의 실제 도로들이 있습니다.</target>
+        <context-group purpose="information">
+          <context context-type="source">ets_long_description
+
+Long description for Euro Truck Simulator 2.</context>
+        </context-group>
+        <note from="mg (mg07)" priority="4">60'ın üzerinde Avrupa ülkesi yazılmış. Avrupa şehri olması gerekiyor.</note>
+        <note from="Mehmet Burhan Keleş (mehmetburhankeles)" priority="4">@mg07 Teşekkürler.</note>
+      </trans-unit>
+      <trans-unit id="431350" resname="ets2_kassbohrer_short_description">
+        <source>Get ready to elevate your trucking experience with Kässbohrer trailers. With nine new Kässbohrer trailers and an additional seven cabin accessories, you will never miss the deadline to deliver your cargo!</source>
+        <target state="translated">Kässbohrer 트레일러로 트럭 운전 경험을 한 단계 업그레이드할 준비를 하세요. 새로운 Kässbohrer 트레일러 9대와 추가 캐빈 액세서리 7개로 화물을 배달할 마감일을 놓치지 않을 겁니다!</target>
+        <context-group purpose="information">
+          <context context-type="source">ets2_kassbohrer_short_description
+
+Short description for ETS2 Kässbohrer Trailer Pack.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="431352" resname="ets2_kassbohrer_long_description">
+        <source>Get ready to elevate your Euro Truck Simulator 2 experience with the new Kässbohrer Trailer Pack! Established in 1893, Kässbohrer has been at the forefront of vehicle engineering, continuously pushing the boundaries with its innovative designs. Using the latest technology, Kässbohrer trailers are made to meet the highest standards, offering unmatched flexibility and precision for all your transportation needs. With nine new Kässbohrer trailers and an additional seven cabin accessories, you will never miss the deadline to deliver your cargo!
+
+This Trailer Pack includes these trailers:
+
+- K.SCS X+
+- SCX HD
+- SCX L
+- K.SLA
+- K.SLL
+- K.SHG AVMH
+- K.SWAU
+- K.STC
+- K.DOLL XS
+
+Don’t forget to decorate your cabin with some beautiful accessories! In this DLC, you will find these Kässbohrer-themed decorations:
+
+- Kässbohrer Pillow
+- Kässbohrer Blanket
+- Kässbohrer Dog Bobblehead
+- Miniature K.STC Trailer
+- Kässbohrer Cap
+- Kässbohrer Flag
+- Kässbohrer Fuzzy Dice</source>
+        <target state="translated">새로운 Kässbohrer 트레일러 팩으로 Euro Truck Simulator 2 경험을 한 단계 업그레이드할 준비를 하세요! 1893년에 설립된 Kässbohrer는 차량 엔지니어링의 선두에 서서 혁신적인 디자인으로 끊임없이 경계를 넓혀 왔습니다. 최신 기술을 사용하여 Kässbohrer 트레일러는 가장 높은 기준을 충족하도록 제작되어 모든 운송 요구 사항에 대해 타의 추종을 불허하는 유연성과 정밀성을 제공합니다. 새로운 Kässbohrer 트레일러 9개와 추가 캐빈 액세서리 7개로 화물을 배달해야 하는 마감일을 절대 놓치지 않을 것입니다!
+
+이 트레일러 팩에는 다음 트레일러가 포함됩니다:
+
+- K.SCS X+
+- SCX HD
+- SCX L
+- K.SLA
+- K.SLL
+- K.SHG AVMH
+- K.SWAU
+- K.STC
+- K.DOLL XS
+
+아름다운 액세서리로 캐빈을 장식하는 것을 잊지 마세요! 이 DLC에서는 Kässbohrer 테마의 장식을 찾을 수 있습니다:
+
+- Kässbohrer Pillow
+- Kässbohrer Blanket
+- Kässbohrer Dog Bobblehead
+- Miniature K.STC Trailer
+- Kässbohrer Cap
+- Kässbohrer Flag
+- Kässbohrer Fuzzy Dice</target>
+        <context-group purpose="information">
+          <context context-type="source">ets2_kassbohrer_long_description
+
+Long description for ETS2 Kässbohrer Trailer Pack.</context>
+        </context-group>
+        <note from="REMOVED_USER" priority="4">Miniature K.STC Trailer, accessory with no translation chain</note>
+      </trans-unit>
+      <trans-unit id="431354" resname="ets2_kogel_short_description">
+        <source>Haul cargo with ease using these beautiful Kögel trailers! Renowned for its innovative designs and quality, Kögel manufactures a diverse range of trailers tailored to meet the evolving needs of logistics professionals worldwide. With 6 new Kögel trailers, 5 cabin accessories, wheel hubs, and nut covers, you'll never miss the deadline to deliver your cargo!</source>
+        <target state="translated">이 아름다운 Kögel 트레일러를 사용하여 쉽게 화물을 운반하세요! 혁신적인 디자인과 품질로 유명한 Kögel은 전 세계 물류 전문가의 변화하는 요구를 충족하도록 맞춤 제작된 다양한 트레일러를 제조합니다. 새로운 Kögel 트레일러 6개, 캐빈 액세서리 5개, 휠 허브, 너트 커버가 있으면 화물을 배달할 마감일을 놓치지 않을 것입니다!</target>
+        <context-group purpose="information">
+          <context context-type="source">ets2_kogel_short_description
+
+Short description for ETS2 Kögel Trailer Pack.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="431356" resname="ets2_kogel_long_description">
+        <source>Every truck needs a reliable trailer and that is exactly what the Kögel Trailer Pack brings to the world of Euro Truck Simulator 2! Kögel Trailer, based in Burtenbach, has a long history in the transportation industry being established back in 1934. Renowned for its innovative designs and commitment to quality, Kögel manufactures a diverse range of trailers tailored to meet the evolving needs of logistics professionals worldwide. With six new Kögel trailers, five cabin accessories, wheel hubs, and nut covers, you will never miss the deadline to deliver your cargo!
+
+This DLC includes these trailers:
+
+- Kögel Cargo
+- Kögel Cool
+- Kögel Tipper
+- Kögel Tankplex
+- Kögel Triplex
+- Kögel Duplex
+
+Don’t forget to decorate your cabin with some beautiful accessories! In this DLC, you will find these Kögel-themed decorations:
+
+- Kögel thermos
+- Kögel mug
+- Kögel work gloves
+- Kögel cap
+- Kögel minitruck
+
+This DLC also includes special wheel hubs and bolt covers:
+
+- Kögel Wheel Hubs
+- Kögel Nut Covers</source>
+        <target state="translated">모든 트럭에는 신뢰할 수 있는 트레일러가 필요하며, 이것이 바로 Kögel Trailer Pack이 Euro Truck Simulator 2의 세계에 가져온 것입니다! Burtenbach에 본사를 둔 Kögel Trailer는 1934년에 설립된 이래 운송 산업에서 오랜 역사를 가지고 있습니다. 혁신적인 디자인과 품질에 대한 헌신으로 유명한 Kögel은 전 세계 물류 전문가의 변화하는 요구에 맞게 맞춤 제작된 다양한 트레일러를 제조합니다. 새로운 Kögel 트레일러 6개, 캐빈 액세서리 5개, 휠 허브, 너트 커버가 있어 화물을 배달해야 하는 마감일을 절대 놓치지 않을 것입니다!
+
+이 DLC에는 다음 트레일러가 포함됩니다:
+
+- Kögel Cargo
+- Kögel Cool
+- Kögel Tipper
+- Kögel Tankplex
+- Kögel Triplex
+- Kögel Duplex
+
+아름다운 액세서리로 캐빈을 장식하는 것을 잊지 마세요! 이 DLC에서는 Kögel 테마 장식을 찾을 수 있습니다:
+
+- Kögel thermos
+- Kögel mug
+- Kögel work gloves
+- Kögel cap
+- Kögel minitruck
+
+이 DLC에는 특수 휠 허브와 볼트 커버도 포함되어 있습니다:
+
+- Kögel Wheel Hubs
+- Kögel Nut Covers</target>
+        <context-group purpose="information">
+          <context context-type="source">ets2_kogel_long_description
+
+Long description for ETS2 Kögel Trailer Pack.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="431358" resname="ets2_krone_short_description">
+        <source>Never miss a delivery deadline with these KRONE trailers! KRONE Trailer is one of the major vehicle and machine manufacturers in Europe. We are proud to bring their trailers into Euro Truck Simulator 2. Krone Trailer Pack gives you a good number of high-quality trailers for different cargoes, plus tuning parts, cabin accessories, and paint jobs.</source>
+        <target state="translated">이 KRONE 트레일러로 배달 마감일을 놓치지 마세요! KRONE Trailer는 유럽의 주요 차량 및 기계 제조업체 중 하나입니다. 저희는 그들의 트레일러를 Euro Truck Simulator 2에 도입하게 되어 자랑스럽습니다. Krone Trailer Pack은 다양한 화물에 적합한 고품질 트레일러를 다수 제공하며, 튜닝 부품, 캐빈 액세서리, 페인트 작업도 제공합니다.</target>
+        <context-group purpose="information">
+          <context context-type="source">ets2_krone_short_description
+
+Short description for ETS2 Krone Trailer Pack.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="431360" resname="ets2_krone_long_description">
+        <source>KRONE Trailer is one of the major vehicle and machine manufacturers in Europe. We are proud to bring their trailers into Euro Truck Simulator 2. Krone Trailer Pack gives you a good number of high-quality trailers for different cargoes, plus tuning parts, cabin accessories, and paint jobs.
+
+The content of this DLC includes:
+
+Trailers:
+
+- Profi Liner
+- Cool Liner
+- Dry Liner
+- Profi Liner HD Flatbed
+- Profi Liner + Load Carrier (double)
+- Box Liner
+- Profil Liner Building
+- Paper Liner
+- eDry Liner (available on Freight Market)
+- eCool Liner (available on Freight Market)
+
+Tuning &amp; accessories:
+
+- Easy Rider Tires
+- KRONE Hub
+- Front and Rear Chassis Accessories
+- Rear Bumpers
+- Rear Mudflaps
+- Coolers
+- KRONE Coffee Mug
+- KRONE Style Cap
+- KRONE Pennant
+- KRONE Harald Minifigure
+- Paint Jobs
+- … and more!</source>
+        <target state="translated">KRONE Trailer는 유럽의 주요 차량 및 기계 제조업체 중 하나입니다. 저희는 그들의 트레일러를 Euro Truck Simulator 2에 도입하게 되어 자랑스럽습니다. Krone Trailer Pack은 다양한 화물에 적합한 고품질 트레일러와 튜닝 부품, 캐빈 액세서리, 페인트 작업을 제공합니다.
+
+이 DLC의 콘텐츠에는 다음이 포함됩니다:
+
+트레일러:
+
+- Profi Liner
+- Cool Liner
+- Dry Liner
+- Profi Liner HD Flatbed
+- Profi Liner + Load Carrier (double)
+- Box Liner
+- Profil Liner Building
+- Paper Liner
+- eDry Liner (배송 시장에서 사용 가능)
+- eCool Liner (배송 시장에서 사용 가능)
+
+튜닝 &amp; 액세서리:
+
+- Easy Rider Tires
+- KRONE Hub
+- Front and Rear Chassis Accessories
+- Rear Bumpers
+- Rear Mudflaps
+- Coolers
+- KRONE Coffee Mug
+- KRONE Style Cap
+- KRONE Pennant
+- KRONE Harald Minifigure
+- Paint Jobs
+- … 그리고 더!</target>
+        <context-group purpose="information">
+          <context context-type="source">ets2_krone_long_description
+
+Long description for ETS2 Krone Trailer Pack.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="431362" resname="ets2_wielton_short_description">
+        <source>Haul cargo like the king of the road with Wielton trailers! The Wielton Trailer Pack DLC includes officially licensed content including several trailer types, with a variety of trailer and chassis sizes, cabin accessories, and customization options.</source>
+        <target state="translated">Wielton 트레일러로 도로의 왕처럼 화물을 운반하세요! Wielton Trailer Pack DLC에는 여러 트레일러 유형, 다양한 트레일러 및 섀시 크기, 캐빈 액세서리, 사용자 정의 옵션을 포함한 공식 라이선스 콘텐츠가 포함되어 있습니다.</target>
+        <context-group purpose="information">
+          <context context-type="source">ets2_wielton_short_description
+
+Short description for ETS2 Wielton Trailer Pack.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="431364" resname="ets2_wielton_long_description">
+        <source>Founded in 1996, Wielton S.A. has become one of Europe's top manufacturers of semi-trailers and trailers. With a focus on quality, durability, and innovation, Wielton consistently delivers exceptional trailers that meet the diverse needs of various clients.
+
+The Wielton Trailer Pack DLC includes officially licensed content including several trailer types, with various trailer and chassis sizes, cabin accessories, and customization options.
+
+The content of this DLC includes:
+
+- Bulk Master - High Volume Dumper
+- Strong Master - Steel Dumper (3 axle and 4 axle)
+- Weight Master - Aluminum Dumper
+- Curtain Master - Curtain Sider
+- Dropside Master - Dropside
+- Dry Master - Dry Van (2 axle and 3 axle)
+- Container Master NS3 P20 SL
+- Container Master NS3 P40 SL
+- Scrap Master - Dumper for Scrap Metal
+
+Also included in this DLC Pack is a wide variety of accessory options, including tool boxes, side protection, water tank, extinguisher, spare tire, mudflaps, fenders, rear doors, and officially licensed trailer paint jobs.</source>
+        <target state="translated">1996년에 설립된 Wielton S.A.는 유럽 최고의 세미트레일러 및 트레일러 제조업체 중 하나가 되었습니다. Wielton은 품질, 내구성 및 혁신에 중점을 두고 다양한 고객의 다양한 요구를 충족하는 뛰어난 트레일러를 지속적으로 제공합니다.
+
+Wielton Trailer Pack DLC에는 다양한 트레일러 및 섀시 크기, 캐빈 액세서리 및 사용자 정의 옵션이 있는 여러 트레일러 유형을 포함한 공식 라이선스 콘텐츠가 포함되어 있습니다.
+
+이 DLC의 콘텐츠에는 다음이 포함됩니다:
+
+- Bulk Master - High Volume Dumper
+- Strong Master - Steel Dumper (3 axle and 4 axle)
+- Weight Master - Aluminum Dumper
+- Curtain Master - Curtain Sider
+- Dropside Master - Dropside
+- Dry Master - Dry Van (2 axle and 3 axle)
+- Container Master NS3 P20 SL
+- Container Master NS3 P40 SL
+- Scrap Master - Dumper for Scrap Metal
+
+이 DLC 팩에는 도구 상자, 측면 보호 장치, 물 탱크, 소화기, 스페어 타이어, 머드플랩, 펜더, 뒷문, 공식 라이선스 트레일러 페인트 작업 등 다양한 액세서리 옵션도 포함되어 있습니다.</target>
+        <context-group purpose="information">
+          <context context-type="source">ets2_wielton_long_description
+
+Long description for ETS2 Wielton Trailer Pack.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="431366" resname="ets2_flags_short_description">
+        <source>Personalize your truck with a wide range of window flags! Whether you are fine tuning your truck to match your own unique design or rooting for your favorite sports team on match day.</source>
+        <target state="translated">다양한 윈도우 플래그로 트럭을 개인화하세요! 자신만의 독특한 디자인에 맞춰 트럭을 미세 조정하든 경기 당일 좋아하는 스포츠 팀을 응원하든 상관없습니다.</target>
+        <context-group purpose="information">
+          <context context-type="source">ets2_flags_short_description
+
+Short description for ETS2 Window Flags.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="431368" resname="ets2_flags_long_description">
+        <source>The Window Flags DLC offers a wide range of options to personalize your truck even further. Whether you are fine tuning your truck to match your own unique design or rooting for your favorite sports team on match day. The Window Flags DLC allows you to fly your flag with pride featuring hundreds of designs. Fluttering flags are simulated both at standstill and at different driving speeds. We also take into account different wind speeds. The resulting effect is a very real and dynamic flag!</source>
+        <target state="translated">윈도우 플래그 DLC는 트럭을 더욱 개인화할 수 있는 다양한 옵션을 제공합니다. 자신만의 독특한 디자인에 맞게 트럭을 미세 조정하든 경기 당일 좋아하는 스포츠 팀을 응원하든 상관없이 말이죠. 윈도우 플래그 DLC를 사용하면 수백 가지 디자인이 특징인 자랑스러운 깃발을 게양할 수 있습니다. 펄럭이는 깃발은 정지 상태와 다양한 주행 속도 모두에서 시뮬레이션됩니다. 또한 다양한 풍속도 고려합니다. 그 결과 매우 현실적이고 역동적인 깃발이 탄생했습니다!</target>
+        <context-group purpose="information">
+          <context context-type="source">ets2_flags_long_description
+
+Long description for ETS2 Window Flags.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="431370" resname="ats_michelin_short_description">
+        <source>Explore truck tires and accessories, officially licensed from Michelin for American Truck Simulator. To enhance the experience, we've added a variety of &quot;aftermarket&quot; goodies and paint jobs, creating a blend that's sure to bring joy to every Michelin enthusiast.</source>
+        <target state="translated">American Truck Simulator를 위해 Michelin 으로부터 공식적으로 라이센스를 받은 트럭 타이어와 액세서리를 살펴보세요. 경험을 향상시키기 위해 다양한 &quot;애프터마켓&quot; 상품과 도색을 추가하여 모든 Michelin 애호가에게 기쁨을 가져다 줄 혼합물을 만들었습니다.</target>
+        <context-group purpose="information">
+          <context context-type="source">ats_michelin_short_description
+
+Short description for ATS Michelin Fan Pack.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="431372" resname="ats_michelin_long_description">
+        <source>We're thrilled to present a fresh collection of truck tires and accessories, officially licensed from Michelin for American Truck Simulator. To enhance the experience, we've added a variety of &quot;aftermarket&quot; goodies and paint jobs, creating a blend that's sure to bring joy to every Michelin enthusiast.
+
+Michelin, a global giant in tire manufacturing with a rich history spanning over 120 years, is renowned for innovation. The unmistakable brand identity is embodied by Bibendum, the iconic Michelin Man, one of the oldest trademarks worldwide.
+
+Truck &amp; Trailer tires:
+
+Steer Tires:
+
+- X Line Energy Z 275/80 R 22.5
+- X Multi Energy Z2 295/75 R 22.5
+
+Drive Tires:
+
+- X Line Energy Z 275/80 R 22.5
+- X Multi Energy D 275/80 R 22.5
+- X Line Energy D+ 275/80 R 22.5
+- X Multi Energy Z2 295/75 R 22.5
+- X One Line Energy D 445/50 R 22.5
+- X One Line Grip D 445/50 R 22.5
+
+Trailer Tires:
+
+- X Line Energy Z 275/80 R 22.5
+- XTE 275/80 R 22.5
+- X Multi Energy Z2 295/75 R 22.5
+- X Line Energy T2 295/75 R 22.5
+- X One Multi Energy T 445/50 R 22.5
+- X One Line Energy T2 445/50 R 22.5
+- X Line Energy Z 275/80 R 22.5
+- XTE 275/80 R 22.5
+- X Multi Energy Z2 295/75 R 22.5
+- X Line Energy T2 295/75 R 22.5
+
+Truck and trailer paint jobs &amp; accessories:
+
+Truck paint jobs:
+
+- Michelin Bibendum
+- Michelin Tracks
+
+Trailer paint jobs:
+
+- Michelin Bibendum
+- Michelin Tracks
+
+Cabin accessories:
+
+- Michelin Cap
+- Michelin Gloves
+- Michelin Coat
+- Michelin Bottle
+- Michelin Bag
+- Michelin Coffee Mug
+- Michelin Glasses
+- Michelin Bobblehead
+- Michelin Notebook</source>
+        <target state="translated">Michelin에서 American Truck Simulator를 위해 공식적으로 라이센스를 받은 새로운 트럭 타이어와 액세서리 컬렉션을 선보이게 되어 기쁩니다. 경험을 향상시키기 위해 다양한 &quot;애프터마켓&quot; 상품과 도색을 추가하여 모든 Michelin 애호가에게 기쁨을 가져다 줄 혼합물을 만들었습니다.
+
+120년이 넘는 풍부한 역사를 가진 타이어 제조 분야의 글로벌 거인 Michelin은 혁신으로 유명합니다. 틀림없는 브랜드 아이덴티티는 전 세계에서 가장 오래된 상표 중 하나인 상징적인 Michelin 맨인 비벤덤에 의해 구현됩니다.
+
+트럭 및 트레일러 타이어:
+
+조향 타이어:
+
+- X Line Energy Z 275/80 R 22.5
+- X Multi Energy Z2 295/75 R 22.5
+
+드라이버 타이어:
+
+- X Line Energy Z 275/80 R 22.5
+- X Multi Energy D 275/80 R 22.5
+- X Line Energy D+ 275/80 R 22.5
+- X Multi Energy Z2 295/75 R 22.5
+- X One Line Energy D 445/50 R 22.5
+- X One Line Grip D 445/50 R 22.5
+
+트레일러 타이어:
+
+- X Line Energy Z 275/80 R 22.5
+- XTE 275/80 R 22.5
+- X Multi Energy Z2 295/75 R 22.5
+- X Line Energy T2 295/75 R 22.5
+- X One Multi Energy T 445/50 R 22.5
+- X One Line Energy T2 445/50 R 22.5
+- X Line Energy Z 275/80 R 22.5
+- XTE 275/80 R 22.5
+- X Multi Energy Z2 295/75 R 22.5
+- X Line Energy T2 295/75 R 22.5
+
+트럭과 트레일러 도색 &amp; 액세서리:
+
+트럭 도색:
+
+- Michelin Bibendum
+- Michelin Tracks
+
+트레일러 도색:
+
+- Michelin Bibendum
+- Michelin Tracks
+
+캐빈 액세서리:
+
+- Michelin Cap
+- Michelin Gloves
+- Michelin Coat
+- Michelin Bottle
+- Michelin Bag
+- Michelin Coffee Mug
+- Michelin Glasses
+- Michelin Bobblehead
+- Michelin Notebook</target>
+        <context-group purpose="information">
+          <context context-type="source">ats_michelin_long_description
+
+Long description for ATS Michelin Fan Pack.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="431374" resname="ats_arkansas_short_description">
+        <source>Welcome to the Natural State! Located in the south-central region of the United States, the state is a nature wonderland with three national forests, many State Parks, nearly 9,000 miles of pristine streams and rivers like the Arkansas and Mississippi, as well as the ever-stretching Ozark and Ouachita mountain ranges.</source>
+        <target state="translated">자연 상태에 오신 것을 환영합니다! 미국 중남부에 위치한 이 주는 3개의 국립 삼림, 많은 주립 공원, 아칸소와 미시시피와 같은 거의 9,000마일의 깨끗한 개울과 강, 그리고 끊임없이 뻗어 있는 오자크와 오아시타 산맥이 있는 자연의 원더랜드입니다.</target>
+        <context-group purpose="information">
+          <context context-type="source">ats_arkansas_short_description
+
+Short description for ATS Arkansas.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="431376" resname="ats_arkansas_long_description">
+        <source>Located in the south-central region of the United States, the state is a nature wonderland with three national forests, many State Parks, nearly 9,000 miles of pristine streams and rivers like the Arkansas and Mississippi, as well as the ever-stretching Ozark and Ouachita mountain ranges.
+
+While hauling cargo, you will be able to not only see some of these beautiful landscapes and areas, but travel through a variety of large and small towns and cities, where you'll find industries, landmarks and more.
+
+Take your time and enjoy every moment as you discover:
+
+- 10 explorable cities including Little Rock, Fortsmith, Fayetteville and Pine Bluff.
+- See several landmarks unique to Arkansas such as the historical centre of Hot Springs with its Bathhouse Row and National Park, iconic art murals, the majestic Arlington Hotel, courthouses, churches and more.
+- Enjoy trucking through 10 scenic towns (settlements)
+- Discover a variety of different viewpoints across Arkansas
+- See the famous Arkansas and Mississippi rivers which run through the State.
+- Drive across the impressively large Emmitt Sanders Lock and Dam, which has been in operation since December 1968!
+- Deliver to unique industries such as the Nuclear One power plant, and custom built River Port &amp; Timber Harvest depots.
+- Experience the new dynamic loading and unloading of logs onto your trailer.
+- Discover the hidden treasures of Arkansas's countryside, forest, swampland, viewpoints, road network and more.</source>
+        <target state="translated">미국 남중부 지역에 위치한 이 주는 3개의 국립 삼림, 많은 주립 공원, 아칸소와 미시시피와 같은 거의 9,000마일의 깨끗한 개울과 강, 그리고 끊임없이 뻗어 나가는 오자크와 오아치타 산맥이 있는 자연의 원더랜드입니다.
+
+화물을 운반하는 동안 이러한 아름다운 풍경과 지역을 볼 수 있을 뿐만 아니라 다양한 크고 작은 마을과 도시를 여행할 수 있으며, 그곳에서 산업, 랜드마크 등을 찾을 수 있습니다.
+
+시간을 내어 다음을 발견하면서 매 순간을 즐기세요:
+
+- 리틀록, 포트스미스, 파예트빌, 파인블러프를 포함한 탐험 가능한 도시 10곳.
+- 배스하우스 로우와 국립 공원이 있는 핫스프링스의 역사적 중심지, 상징적인 예술 벽화, 웅장한 알링턴 호텔, 법원, 교회 등 아칸소에서만 볼 수 있는 여러 랜드마크를 보세요.
+- 10개의 경치 좋은 마을(정착지)을 통과하는 트럭 운전을 즐기세요
+- 아칸소 전역의 다양한 전망대를 발견하세요
+- 주를 가로지르는 유명한 아칸소 강과 미시시피 강을 구경하세요.
+- 1968년 12월부터 운영되고 있는 인상적인 규모의 에밋 샌더스 록과 댐을 가로질러 운전하세요!
+- Nuclear One 발전소, 맞춤형 River Port &amp; Timber Harvest 창고와 같은 독특한 산업에 배달하세요.
+- 트레일러에 통나무를 적재하고 하역하는 새로운 역동적인 작업을 경험하세요.
+- 아칸소 시골, 숲, 습지, 전망대, 도로망 등의 숨겨진 보물을 발견하세요.</target>
+        <context-group purpose="information">
+          <context context-type="source">ats_arkansas_long_description
+
+Long description for ATS Arkansas.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="431378" resname="ats_forestry_short_description">
+        <source>Haul heavy machinery and decorate your truck with forest-themed accessories! Forest Machinery DLC is the next step in our series of heavy cargo expansions, which introduces machinery and equipment designed and designated for the hard-working people of the wood industry in American Truck Simulator.</source>
+        <target state="translated">무거운 기계를 운반하고 트럭을 숲 테마 액세서리로 장식하세요! Forest Machinery DLC는 American Truck Simulator에서 목재 산업의 근면한 사람들을 위해 설계 및 지정된 기계와 장비를 소개하는 무거운 화물 확장 시리즈의 다음 단계입니다.</target>
+        <context-group purpose="information">
+          <context context-type="source">ats_forestry_short_description
+
+Short description for ATS Forest Machinery.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="431380" resname="ats_forestry_long_description">
+        <source>Forest Machinery DLC is the next step in our series of heavy cargo expansions, which introduces machinery and equipment designed and designated for the hard-working people of the wood industry in American Truck Simulator.
+
+Their unique jobs demands specialised trailers and accessories. These exclusive cargoes can be found within &quot;woodworking&quot; state territories like Oregon, Washington, and Arkansas, but are also a part of the in-game economy across the USA. We did not forget to add something stylish for your cabin interior too!
+
+Feature List
+
+Towed Forest Machinery:
+
+- Forwarder
+- Log Harvester
+- Log Loader
+- Log Stacker
+- Mulcher
+- Stumper
+- Skidder
+
+Specialized Trailers:
+
+- Tub Grinder
+- Knuckleboom Loader
+
+Truck Accessories:
+
+- Headache Racks (2 versions for each cabin type)
+
+Cabin Toys:
+
+- Hanging Chainsaw toy
+- Ear Muffs
+- Mug
+- Hanging Road-sign</source>
+        <target state="translated">Forest Machinery DLC는 American Truck Simulator에서 목재 산업의 근면한 근로자들을 위해 설계 및 지정된 기계와 장비를 소개하는 일련의 중화물 확장팩의 다음 단계입니다.
+
+그들의 고유한 직업에는 특수 트레일러와 액세서리가 필요합니다. 이러한 독점적인 화물은 오리건, 워싱턴, 아칸소와 같은 &quot;목공&quot; 주 영토에서 찾을 수 있지만 미국 전역의 게임 내 경제의 일부이기도 합니다. 우리는 캐빈 인테리어에 세련된 것을 추가하는 것을 잊지 않았습니다!
+
+기능 목록
+
+견인 Forest Machinery:
+
+- Forwarder
+- Log Harvester
+- Log Loader
+- Log Stacker
+- Mulcher
+- Stumper
+- Skidder
+
+특수 트레일러:
+
+- Tub Grinder
+- Knuckleboom Loader
+
+트럭 액세서리:
+
+- Headache Racks (2 versions for each cabin type)
+
+캐빈 장난감:
+
+- Hanging Chainsaw toy
+- Ear Muffs
+- Mug
+- Hanging Road-sign</target>
+        <context-group purpose="information">
+          <context context-type="source">ats_forestry_long_description
+
+Long description for ATS Forest Machinery.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="431382" resname="ets2_greece_short_description">
+        <source>Embark on an exciting journey to the captivating landscapes of Greece! Picture yourself cruising through postcard-perfect villages, navigating winding roads, and passing iconic landmarks, immersing yourself in the centuries-old tapestry of Greek culture.</source>
+        <target state="translated">그리스의 매혹적인 풍경으로의 신나는 여행을 떠나보세요! 엽서에 나올 법한 마을을 순항하고, 구불구불한 길을 달리고, 상징적인 랜드마크를 지나며, 수세기 동안 이어져 온 그리스 문화의 태피스트리에 푹 빠져보세요.</target>
+        <context-group purpose="information">
+          <context context-type="source">ets2_greece_short_description
+
+Short description for ETS2 Greece.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="431384" resname="ets2_greece_long_description">
+        <source>Embark on an exciting journey to the captivating landscapes of Greece, where every route unveils the country's breathtaking beauty and rich history. Explore the charm of inland Greece and discover enchanting islands. Picture yourself cruising through postcard-perfect villages, navigating winding roads, and passing iconic landmarks, immersing yourself in the centuries-old tapestry of Greek culture.
+
+Get ready for a journey that goes beyond the ordinary, celebrating the sun-kissed coastlines and cultural wonders of this Mediterranean gem. Your trucking adventures are about to reach new heights:
+
+- Explore 15 major cities across Greece, including Athens and Thessaloniki, alongside smaller towns and settlements.
+- Travel via Ferry to the islands of Lesbos, Chios, Kefalonia, Crete and Rhodes.
+- Discover unique historical and natural landmarks including the Meteora Monasteries, the Fortress of Mytilene, Mount Olympus, the Corinth Canal and more!
+- Travel through diverse terrains, from historical cities to coastal roads and mountainous regions.
+- Drive across modern highways, winding country roads, and complex ports.
+- Deliver to unique depots such as Hotels, olive oil processing plants, marble quarries, and the bustling Piraeus port.
+- Discover a variety of viewpoints highlighting the Greek landscape and significant landmarks.</source>
+        <target state="translated">그리스의 매혹적인 풍경으로의 신나는 여행을 시작하세요. 모든 경로에서 나라의 숨 막힐 듯한 아름다움과 풍부한 역사가 드러납니다. 그리스 내륙의 매력을 탐험하고 매혹적인 섬을 발견하세요. 엽서에 나올 법한 마을을 순항하고, 구불구불한 길을 달리고, 상징적인 랜드마크를 지나며 수세기 동안 이어져 온 그리스 문화의 태피스트리에 푹 빠져보세요.
+
+평범함을 넘어서는 여행을 준비하세요. 이 지중해의 보석의 햇살이 비치는 해안선과 문화적 경이로움을 기념하세요. 트럭 운전 모험이 새로운 차원으로 접어들 것입니다.
+
+- 아테네와 테살로니키를 포함한 그리스의 15개 주요 도시와 작은 마을과 정착지를 탐험하세요.
+- 페리를 타고 레스보스, 키오스, 케팔로니아, 크레타, 로도스 섬으로 이동하세요.
+- 메테오라 수도원, 미틸레네 요새, 올림포스 산, 코린트 운하 등 독특한 역사적, 자연적 랜드마크를 발견하세요!
+- 역사적인 도시에서 해안 도로, 산악 지역까지 다양한 지형을 여행하세요.
+- 현대식 고속도로, 구불구불한 시골 도로, 복잡한 항구를 운전하세요.
+- 호텔, 올리브 오일 가공 공장, 대리석 채석장, 번화한 피레아스 항구와 같은 독특한 창고로 배달하세요.
+- 그리스 풍경과 중요한 랜드마크를 강조하는 다양한 관점을 발견하세요.</target>
+        <context-group purpose="information">
+          <context context-type="source">ets2_greece_long_description
+
+Long description for ETS2 Greece.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="461516" resname="ets2_greek_mythology_pack_short_description">
+        <source>Travel back to ancient times with the Greek Mythology Paint Jobs Pack! Perfect for hauling cargo across the scenic landscapes of Greece, these designs bring history and myth to life on the highways of Euro Truck Simulator 2. Now, every journey becomes a heroic odyssey.</source>
+        <target state="translated">그리스 신화 도색 팩으로 고대로 돌아가세요! 그리스의 아름다운 풍경을 가로질러 화물을 운반하기에 완벽한 이 디자인은 Euro Truck Simulator 2의 고속도로에서 역사와 신화를 생생하게 표현합니다. 이제 모든 여정이 영웅적인 오디세이가 됩니다.</target>
+        <context-group purpose="information">
+          <context context-type="source">ets2_greek_mythology_pack_short_description
+
+Short description for ETS2 Greek Mythology Pack.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="461518" resname="ets2_greek_mythology_pack_long_description">
+        <source>Travel back to ancient times with the Greek Mythology Paint Jobs Pack! Perfect for hauling cargo across the scenic landscapes of Greece, these designs bring history and myth to life on the highways of Euro Truck Simulator 2. Now, every journey becomes a heroic odyssey.
+This DLC lets you adorn your truck with the spirit of classic Greek myths through five detailed paint jobs inspired by legendary creatures. Each design captures the essence of a timeless tale from Greece’s epic past, transforming your truck into a chariot of ancient myths as you journey across Europe.
+Paint jobs included in this DLC:
+- Medusa
+- Hydra
+- Cerberus
+- Minotaur
+- Pegasus</source>
+        <target state="translated">그리스 신화 도색 팩으로 고대로 돌아가세요! 그리스의 아름다운 풍경을 가로질러 화물을 운반하기에 완벽한 이 디자인은 Euro Truck Simulator 2의 고속도로에서 역사와 신화를 생생하게 표현합니다. 이제 모든 여정이 영웅적인 오디세이가 됩니다.
+이 DLC를 사용하면 전설적인 생물에서 영감을 받은 5가지 세부 도색을 통해 트럭을 고전 그리스 신화의 정신으로 장식할 수 있습니다. 각 디자인은 그리스의 서사시적 과거에 대한 시대를 초월한 이야기의 본질을 포착하여 유럽을 여행하는 동안 트럭을 고대 신화의 전차로 바꿔줍니다.
+이 DLC에 포함된 페인트 작업:
+- 메두사
+- 히드라
+- 세르베루스
+- 미노타우로스
+- 페가수스</target>
+        <context-group purpose="information">
+          <context context-type="source">ets2_greek_mythology_pack_long_description
+
+Long description for ETS2 Greek Mythology Pack.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="461520" resname="ets2_modern_lines_paint_jobs_pack_short_description">
+        <source>Customize your truck with the Modern Lines Paint Jobs Pack! Each one of the designs included in this DLC has been handcrafted and selected by our talented artist &amp; vehicle teams for their stylish and contemporary design. This new pack includes six new matching paint jobs for your truck and trailer(s), all of which are fully paintable and customizable!</source>
+        <target state="translated">Modern Lines Paint Jobs Pack으로 트럭을 맞춤 설정하십시오! 이 DLC에 포함된 각 디자인은 재능 있는 아티스트와 차량 팀이 세련되고 현대적인 디자인을 위해 수작업으로 선택했습니다. 이 새로운 팩에는 트럭과 트레일러에 맞는 6개의 새로운 매칭 도색이 포함되어 있으며, 모두 완벽하게 페인트칠이 가능하고 맞춤 설정이 가능합니다!</target>
+        <context-group purpose="information">
+          <context context-type="source">ets2_modern_lines_paint_jobs_pack_short_description
+
+Short description for ETS2 Modern Lines Paint Jobs Pack.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="461522" resname="ets2_modern_lines_paint_jobs_pack_long_description">
+        <source>Each one of the designs included in this DLC has been handcrafted and selected by our talented artist &amp; vehicle teams for their stylish and contemporary design. This new pack includes six new matching paint jobs for both your truck and trailer(s), all of which are fully paintable and customizable to your liking!
+Each paint job is compatible with all current truck models and on all ownable paintable trailers (including cisterns, dumpers etc.) in Euro Truck Simulator 2. We can't wait to see what color combinations you come up with for your own rig or virtual trucking company!
+Included in this pack are the paint jobs:
+- Line Shift
+- Sport Profile
+- Highway
+- Electric Zap
+- Cruise Liner
+- Two Fold</source>
+        <target state="translated">이 DLC에 포함된 각 디자인은 세련되고 현대적인 디자인을 위해 재능 있는 아티스트 및 차량 팀이 직접 제작하고 선택했습니다. 이 새로운 팩에는 트럭과 트레일러에 맞는 6개의 새로운 매칭 도색이 포함되어 있으며, 모두 완벽하게 페인트할 수 있고 원하는 대로 사용자 정의할 수 있습니다!
+각 도색은 Euro Truck Simulator 2의 모든 현재 트럭 모델과 소유 가능한 모든 페인트 가능 트레일러(물탱크, 덤퍼 등 포함)와 호환됩니다. 여러분이 자신의 차량이나 가상 운송 회사에 어떤 색상 조합을 생각해 낼지 기대가 큽니다!
+이 팩에는 다음 페인트 작업이 포함되어 있습니다.
+- Line Shift
+- Sport Profile
+- Highway
+- Electric Zap
+- Cruise Liner
+- Two Fold</target>
+        <context-group purpose="information">
+          <context context-type="source">ets2_modern_lines_paint_jobs_pack_long_description
+
+Long description for ETS2 Modern Lines Paint Jobs Pack.</context>
+        </context-group>
+        <note from="Diego Tavares (Diego_Tavares)" priority="4">The first paragraph is basically the string https://crowdin.com/editor/scs-trucks/52/en-ptbr?view=comfortable#461520. I think it would be interesting to surprise this string.</note>
+      </trans-unit>
+      <trans-unit id="461524" resname="ets2_street_art_paint_jobs_pack_short_description">
+        <source>Freshen up your trucks with an original and modern livery. Introducing the Street Art Paint Jobs Pack, now available for all current truck models in Euro Truck Simulator 2 and to some of the ownable trailers as well!</source>
+        <target state="translated">독창적이고 현대적인 상징으로 트럭을 새롭게 꾸며보세요. Street Art Paint Jobs Pack을 소개합니다. 이제 Euro Truck Simulator 2의 모든 현재 트럭 모델과 일부 소유 가능한 트레일러에 사용할 수 있습니다!</target>
+        <context-group purpose="information">
+          <context context-type="source">ets2_street_art_paint_jobs_pack_short_description
+
+Short description for ETS2 Street Art Paint Jobs Pack.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="461526" resname="ets2_street_art_paint_jobs_pack_long_description">
+        <source>Freshen up your trucks with an original and modern livery. Introducing the Street Art Paint Jobs Pack, now available for all current truck models (except 8x4 chassis configurations) in Euro Truck Simulator 2 and to some of the ownable trailers as well!
+
+These new unique and colorful designs have been hand-crafted by our talented artists and are, of course, coming with predefined color presets alongside a fully customizable color palette, giving you a wider array of options when customizing your truck and trailer in the upgrade shop.
+
+This pack includes six marvelous paint schemes:
+
+- Truck Yeah!
+- Colour Leap
+- Lost for Words
+- Red Dragon
+- Wild
+- Play Worlds
+All of these themes are applicable to any in-game truck except for 8x4 chassis configurations.</source>
+        <target state="translated">독창적이고 현대적인 상징으로 트럭을 새롭게 꾸며보세요. Euro Truck Simulator 2의 모든 현재 트럭 모델(8x4 샤시 구성 제외)과 일부 소유 가능한 트레일러에 사용할 수 있는 Street Art Paint Jobs Pack을 소개합니다!
+
+이러한 새롭고 독특하고 다채로운 디자인은 재능 있는 아티스트가 직접 제작했으며, 물론 사전 정의된 색상 사전 설정과 완전히 사용자 정의 가능한 색상 팔레트가 함께 제공되어 업그레이드 숍에서 트럭과 트레일러를 사용자 정의할 때 더 다양한 옵션을 제공합니다.
+
+이 팩에는 6가지 놀라운 도색 구성표가 포함되어 있습니다.
+
+- Truck Yeah!
+- Colour Leap
+- Lost for Words
+- Red Dragon
+- Wild
+- Play Worlds
+이러한 모든 테마는 8x4 샤시 구성을 제외한 모든 게임 내 트럭에 적용할 수 있습니다.</target>
+        <context-group purpose="information">
+          <context context-type="source">ets2_street_art_paint_jobs_pack_long_description
+
+Long description for ETS2 Street Art Paint Jobs Pack.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="461528" resname="ets2_lunar_new_year_paint_jobs_pack_short_description">
+        <source>Customize your truck with the Lunar New Year Paint Jobs Pack! The Lunar New Year is celebrated across several countries and other territories in Asia. We hope these 12 beautiful paint designs representing each zodiac animal sign will bring you good luck now and in the coming years.</source>
+        <target state="translated">설날 도색 팩으로 트럭을 맞춤 설정하십시오! 설날은 아시아의 여러 국가와 다른 지역에서 기념합니다. 각 조디악 동물의 별자리를 나타내는 이 12가지 아름다운 페인트 디자인이 지금과 앞으로의 몇 년 동안 행운을 가져다주기를 바랍니다.</target>
+        <context-group purpose="information">
+          <context context-type="source">ets2_lunar_new_year_paint_jobs_pack_short_description
+
+Short description for ETS2 Lunar New Year Paint Jobs Pack.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="461530" resname="ets2_lunar_new_year_paint_jobs_pack_long_description">
+        <source>The Lunar New Year is largely observed in China, as well as in many other countries and territories across Asia, including South Korea, Singapore, Vietnam, Indonesia and Malaysia. It's most commonly associated with what's often called Chinese New Year or as the Spring Festival.
+
+We hope these 12 beautiful paint designs representing each zodiac animal sign in the traditional red and gold colors (starting from 2021: ox, tiger, rabbit, dragon, snake, horse, goat, monkey, rooster, dog, pig and rat) will bring you good luck now and in the coming years.</source>
+        <target state="translated">음력설은 중국에서 주로 기념되며, 한국, 싱가포르, 베트남, 인도네시아, 말레이시아를 포함한 아시아 전역에서도 기념합니다. 음력설은 흔히 중국 설날 또는 춘절이라고 불리는 것과 가장 관련이 있습니다.
+
+전통적인 붉은색과 금색으로 각 조디악 동물의 별자리를 나타내는 이 12가지 아름다운 페인트 디자인(2021년부터 시작: 소, 호랑이, 토끼, 용, 뱀, 말, 염소, 원숭이, 수탉, 개, 돼지, 쥐)이 지금과 앞으로의 몇 년 동안 행운을 가져다주기를 바랍니다.</target>
+        <context-group purpose="information">
+          <context context-type="source">ets2_lunar_new_year_paint_jobs_pack_long_description
+
+Long description for ETS2 Lunar New Year Paint Jobs Pack.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="461532" resname="ets2_space_paint_jobs_pack_short_description">
+        <source>Customize your truck with the Space Paint Jobs Pack!</source>
+        <target state="translated">스페이스 도색 팩으로 트럭을 맞춤 설정하십시오!</target>
+        <context-group purpose="information">
+          <context context-type="source">ets2_space_paint_jobs_pack_short_description
+
+Short description for ETS2 Space Paint Jobs Pack.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="461534" resname="ets2_space_paint_jobs_pack_long_description">
+        <source>Customize your truck with a unique set of tuning space exploration themed options!
+Space exploration inspired paint jobs
+
+- Spacewalk
+- Zarathustra
+- Flight of the ITS
+- Solar System
+- Space
+- Techno Nebula
+Cabin toys celebrating space exploration
+- Space Shuttle
+- Bobblehead Astronaut
+All of these themes are applicable to any in-game truck except for 8x4 chassis configurations.</source>
+        <target state="translated">독특한 튜닝 우주 탐험 테마 옵션으로 트럭을 사용자 지정하세요!
+우주 탐험에서 영감을 받은 도색
+
+- Spacewalk
+- Zarathustra
+- Flight of the ITS
+- Solar System
+- Space
+- Techno Nebula
+우주 탐험을 기념하는 캐빈 장난감
+- Space Shuttle
+- Bobblehead Astronaut
+이러한 모든 테마는 8x4 샤시 구성을 제외한 모든 게임 내 트럭에 적용할 수 있습니다.</target>
+        <context-group purpose="information">
+          <context context-type="source">ets2_space_paint_jobs_pack_long_description
+
+Long description for ETS2 Space Paint Jobs Pack.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="461536" resname="ets2_valentines_paint_jobs_pack_short_description">
+        <source>Express your passion! Show your feelings and decorate your truck with Valentine's paint jobs! Get it for yourself or as a gift for someone special.</source>
+        <target state="translated">당신의 열정을 표현하세요! 당신의 감정을 표현하고 밸런타인 페인트 작업으로 트럭을 장식하세요! 자신을 위해 또는 특별한 사람에게 선물로 구매하십시오.</target>
+        <context-group purpose="information">
+          <context context-type="source">ets2_valentines_paint_jobs_pack_short_description
+
+Short description for ETS2 Valentine's Paint Jobs Pack.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="461538" resname="ets2_valentines_paint_jobs_pack_long_description">
+        <source>Express your passion! Show your feelings and decorate your truck with Valentine's paint jobs! Get it for yourself or as a gift for someone special.
+Paint jobs
+
+- Sweetheart
+- Passion
+- Valentine Metallic
+- Girl Power
+- Heart Unlock
+- Dove of Love
+- Amor
+All of these themes are applicable to any in-game truck except for 8x4 chassis configurations.
+Cabin accessory
+
+- Cute Plush Heart</source>
+        <target state="translated">당신의 열정을 표현하세요! 당신의 감정을 표현하고 밸런타인 페인트 작업으로 트럭을 장식하세요! 자신을 위해 또는 특별한 사람에게 선물로 구매하십시오.
+도색
+
+- Sweetheart
+- Passion
+- Valentine Metallic
+- Girl Power
+- Heart Unlock
+- Dove of Love
+- Amor
+이러한 모든 테마는 8x4 샤시 구성을 제외한 모든 게임 내 트럭에 적용 가능합니다.
+캐빈 액세서리
+
+- Cute Plush Heart</target>
+        <context-group purpose="information">
+          <context context-type="source">ets2_valentines_paint_jobs_pack_long_description
+
+Long description for ETS2 Valentine's Paint Jobs Pack.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="461540" resname="ets2_pirate_paint_jobs_pack_short_description">
+        <source>Deck out yer truck wi' a choice o' paint jobs an' cabin toys!</source>
+        <target state="translated">트럭을 도색과 실내 장난감으로 장식해 보십시오!</target>
+        <context-group purpose="information">
+          <context context-type="source">ets2_pirate_paint_jobs_pack_short_description
+
+Short description for ETS2 Pirate Paint Jobs Pack.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="461542" resname="ets2_pirate_paint_jobs_pack_long_description">
+        <source>Paint yer truck wi' a choice o' 8 gentleman o' fortune themed paint jobs!
+
+- Pirate Flag Decal
+- Ghost Ship
+- Pirate Flag Metallic
+- Skull and Swords
+- Pirate Gods
+- Pirate Ahoy!
+- Pirate Ship
+- Pirate Shipreck
+All o' these themes be applicable t' any in-game truck except fer 8x4 chassis configurations.
+
+Bonus toys t' decorate yer truck cabin wi':
+
+- Pirate bobblehead
+- Parrot bobblehead
+- Ship in a bottle
+- Pirate Flag
+- Skull with cutlasses</source>
+        <target state="translated">8가지의 행운의 신사 테마 도색 중에서 선택하여 트럭을 칠하세요!
+
+- Pirate Flag Decal
+- Ghost Ship
+- Pirate Flag Metallic
+- Skull and Swords
+- Pirate Gods
+- Pirate Ahoy!
+- Pirate Ship
+- Pirate Shipreck
+이러한 모든 테마는 8x4 샤시 구성을 제외한 모든 게임 내 트럭에 적용할 수 있습니다.
+
+트럭 캐빈을 장식할 보너스 장난감:
+
+- Pirate bobblehead
+- Parrot bobblehead
+- Ship in a bottle
+- Pirate Flag
+- Skull with cutlasses</target>
+        <context-group purpose="information">
+          <context context-type="source">ets2_pirate_paint_jobs_pack_long_description
+
+Long description for ETS2 Pirate Paint Jobs Pack.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="461544" resname="ets2_prehistoric_paint_jobs_pack_short_description">
+        <source>Paint your truck with a choice of 6 prehistoric themed paint jobs!</source>
+        <target state="translated">6가지 선사시대 테마 페인트 작업 중 하나를 선택하여 트럭을 칠해보십시오!</target>
+        <context-group purpose="information">
+          <context context-type="source">ets2_prehistoric_paint_jobs_pack_short_description
+
+Short description for ETS2 Prehistoric Paint Jobs Pack.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="461546" resname="ets2_prehistoric_paint_jobs_pack_long_description">
+        <source>Paint your truck with a choice of 6 prehistoric themed paint jobs!
+
+- Ice Age
+- Winged Lizard
+- Sea Monster
+- Saber Tooth
+- Apex Predator
+- Horned Face
+All of these themes are applicable to any in-game truck except for 8x4 chassis configurations.</source>
+        <target state="translated">6가지 선사 시대 테마 도색 중에서 선택하여 트럭을 칠하세요!
+
+- Ice Age
+- Winged Lizard
+- Sea Monster
+- Saber Tooth
+- Apex Predator
+- Horned Face
+이러한 모든 테마는 8x4 샤시 구성을 제외한 모든 게임 내 트럭에 적용할 수 있습니다.</target>
+        <context-group purpose="information">
+          <context context-type="source">ets2_prehistoric_paint_jobs_pack_long_description
+
+Long description for ETS2 Prehistoric Paint Jobs Pack.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="461548" resname="ets2_viking_legends_short_description">
+        <source>Feel like a Viking god with a choice of 6 powerful paint jobs!</source>
+        <target state="translated">6가지 강력한 도색으로 바이킹 신이 된 기분을 느껴보세요!</target>
+        <context-group purpose="information">
+          <context context-type="source">ets2_viking_legends_short_description
+
+Short description for ETS2 Viking Legends.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="461550" resname="ets2_viking_legends_long_description">
+        <source>Feel like a Viking god with a choice of 6 powerful paint jobs!
+
+- Freya's Blessing
+- Loki's Cunning
+- Njord's Resilience
+- Odin's Wisdom
+- Thor's Fury
+- Tyr's Wrath
+All of these godly themes are applicable to any in-game truck except for 8x4 chassis configurations.</source>
+        <target state="translated">6가지 강력한 도색으로 바이킹 신이 된 기분을 느껴보세요!
+
+- Freya's Blessing
+- Loki's Cunning
+- Njord's Resilience
+- Odin's Wisdom
+- Thor's Fury
+- Tyr's Wrath
+이러한 모든 신성한 주제는 8x4 샤시 구성을 제외한 모든 게임 내 트럭에 적용할 수 있습니다.</target>
+        <context-group purpose="information">
+          <context context-type="source">ets2_viking_legends_long_description
+
+Long description for ETS2 Viking Legends.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="461552" resname="ets2_christmas_paint_jobs_pack_short_description">
+        <source>Celebrate that special time of the year! Customize your truck with a choice of six Christmas paint jobs including Magic Ribbons, Santa's Bag, Xmas Spririt, Gift Time, Santa Trucker, and Night of Wonders.</source>
+        <target state="translated">올해의 특별한 시간을 기념하세요! Magic Ribbons, Santa's Bag, Xmas Spririt, Gift Time, Santa Trucker, Night of Wonders를 포함한 6가지 크리스마스 도색으로 트럭을 맞춤 설정하십시오.</target>
+        <context-group purpose="information">
+          <context context-type="source">ets2_christmas_paint_jobs_pack_short_description
+
+Short description for ETS2 Christmas Paint Jobs Pack.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="461554" resname="ets2_christmas_paint_jobs_pack_long_description">
+        <source>That special time of the year! Customize your truck and some of your trailers with a choice of Christmas paint jobs!
+
+Paint schemes included:
+
+- Magic Ribbons
+- Santa's Bag
+- Xmas Spirit
+- Full Steam Santa
+- Clockwork Reindeer
+- Gift Time
+- Santa Trucker
+- Night of Wonders
+All of these themes are applicable to any in-game truck except for 8x4 chassis configurations. Three of these paint jobs (Clockwork Reindeer, Full Steam Santa, Santa Trucker) are also applicable to some of the in-game ownable trailers.</source>
+        <target state="translated">올해의 특별한 시간! 크리스마스 페인트 작업으로 트럭과 트레일러를 맞춤 설정하십시오!
+
+포함된 페인트 구성:
+
+- Magic Ribbons
+- Santa's Bag
+- Xmas Spirit
+- Full Steam Santa
+- Clockwork Reindeer
+- Gift Time
+- Santa Trucker
+- Night of Wonders
+이러한 모든 테마는 8x4 샤시 구성을 제외한 모든 게임 내 트럭에 적용할 수 있습니다. 이러한 도색 중 세 가지(Clockwork Reindeer, Full Steam Santa, Santa Trucker)는 일부 게임 내 소유 가능한 트레일러에도 적용할 수 있습니다.</target>
+        <context-group purpose="information">
+          <context context-type="source">ets2_christmas_paint_jobs_pack_long_description
+
+Long description for ETS2 Christmas Paint Jobs Pack.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="461556" resname="ets2_fantasy_paint_jobs_pack_short_description">
+        <source>Take your truck on an epic journey with 6 fantasy paint jobs!</source>
+        <target state="translated">6가지 환상적인 도색으로 트럭을 장대한 여행으로 이끌어 보십시오!</target>
+        <context-group purpose="information">
+          <context context-type="source">ets2_fantasy_paint_jobs_pack_short_description
+
+Short description for ETS2 Fantasy Paint Jobs Pack.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="461558" resname="ets2_fantasy_paint_jobs_pack_long_description">
+        <source>Take your truck to an epic fantasy journey with a choice of 6 fantasy paint jobs!
+
+- Dragon Dawn
+- Dark Huntress
+- Knight Oath
+- Orc Marauder
+- Charge!
+- Fire Mage
+All of these magical themes are applicable to any in-game truck except for 8x4 chassis configurations.</source>
+        <target state="translated">6가지 판타지 도색 중에서 선택하여 트럭을 장대한 판타지 여행으로 데려가세요!
+
+- Dragon Dawn
+- Dark Huntress
+- Knight Oath
+- Orc Marauder
+- Charge!
+- Fire Mage
+이러한 모든 마법 테마는 8x4 샤시 구성을 제외한 모든 게임 내 트럭에 적용할 수 있습니다.</target>
+        <context-group purpose="information">
+          <context context-type="source">ets2_fantasy_paint_jobs_pack_long_description
+
+Long description for ETS2 Fantasy Paint Jobs Pack.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="461560" resname="ets2_flip_paint_designs_short_description">
+        <source>Decorate your truck with 11 customizable paint jobs!</source>
+        <target state="translated">11가지의 사용자 정의 도색으로 트럭을 장식해보십시오!</target>
+        <context-group purpose="information">
+          <context context-type="source">ets2_flip_paint_designs_short_description
+
+Short description for ETS2 Flip Paint Designs.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="461562" resname="ets2_flip_paint_designs_long_description">
+        <source>Customize your truck with a choice of 11 customizable paint jobs taking advantage of advanced &quot;flip-flake&quot; paint effects!
+
+- Craftsman Classic
+- Zebra Pitch
+- Chain of Command
+- Hidden Message
+- Bokehlicious
+- Go Wild
+- Liquefied Dreams
+- Emerald Jungle
+- Play Season
+- Square Root
+- Rustic Charm
+All of these themes are applicable to any in-game truck.</source>
+        <target state="translated">고급 &quot;플립 플레이크&quot; 페인트 효과를 활용하여 11가지 사용자 정의 도색 중에서 선택하여 트럭을 맞춤 설정하십시오!
+
+- Craftsman Classic
+- Zebra Pitch
+- Chain of Command
+- Hidden Message
+- Bokehlicious
+- Go Wild
+- Liquefied Dreams
+- Emerald Jungle
+- Play Season
+- Square Root
+- Rustic Charm
+이러한 모든 테마는 게임 내 모든 트럭에 적용할 수 있습니다.</target>
+        <context-group purpose="information">
+          <context context-type="source">ets2_flip_paint_designs_long_description
+
+Long description for ETS2 Flip Paint Designs.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="461564" resname="ets2_metallic_paint_jobs_pack_short_description">
+        <source>Customize your truck with 10 unique Metallic paint jobs!</source>
+        <target state="translated">10가지 독특한 메탈릭 도색으로 트럭을 맞춤 설정하십시오!</target>
+        <context-group purpose="information">
+          <context context-type="source">ets2_metallic_paint_jobs_pack_short_description
+
+Short description for ETS2 Metallic Paint Jobs Pack.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="461566" resname="ets2_metallic_paint_jobs_pack_long_description">
+        <source>Customize your truck with a choice of 10 unique Metallic paint jobs!
+
+- Scales of Might
+- Grand Citrine Metallic
+- Amber Glory Metallic
+- Hi-Tech Fascination
+- Carbon Olive
+- Northern Blues
+- Aqua Serenity
+- Smoke Source
+- Sage Brush
+- Digitized Reality
+All of these themes are applicable to any in-game truck.</source>
+        <target state="translated">10가지 독특한 메탈릭 도색 중에서 선택하여 트럭을 맞춤 설정하십시오!
+
+- Scales of Might
+- Grand Citrine Metallic
+- Amber Glory Metallic
+- Hi-Tech Fascination
+- Carbon Olive
+- Northern Blues
+- Aqua Serenity
+- Smoke Source
+- Sage Brush
+- Digitized Reality
+이러한 모든 테마는 게임 내 모든 트럭에 적용할 수 있습니다.</target>
+        <context-group purpose="information">
+          <context context-type="source">ets2_metallic_paint_jobs_pack_long_description
+
+Long description for ETS2 Metallic Paint Jobs Pack.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="461568" resname="ets2_force_of_nature_paint_jobs_pack_short_description">
+        <source>Customize your truck with paint jobs inspired by elemental forces!</source>
+        <target state="translated">원소의 힘에서 영감을 받은 도색으로 트럭을 맞춤 설정하십시오!</target>
+        <context-group purpose="information">
+          <context context-type="source">ets2_force_of_nature_paint_jobs_pack_short_description
+
+Short description for ETS2 Force of Nature Paint Jobs Pack.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="461570" resname="ets2_force_of_nature_paint_jobs_pack_long_description">
+        <source>Customize your truck with a choice of six impressive paint jobs inspired by elemental forces!
+
+Paint schemes included:
+
+- Blazing Fire
+- Lightning Bolt
+- Magma Heat
+- Water Surge
+- Smoke Puffs
+- Human Spirit
+All of these powerful themes are applicable to any in-game truck except for 8x4 chassis configurations.</source>
+        <target state="translated">원소의 힘에서 영감을 받은 6가지 인상적인 도색 중에서 선택하여 트럭을 맞춤 설정하십시오!
+
+포함된 페인트 구성표:
+
+- 타오르는 불
+- 번개 볼트
+- 마그마 열
+- 물 급증
+- 연기 퍼프
+- 인간의 정신
+이러한 강력한 테마는 모두 8x4 섀시 구성을 제외한 모든 게임 내 트럭에 적용할 수 있습니다.</target>
+        <context-group purpose="information">
+          <context context-type="source">ets2_force_of_nature_paint_jobs_pack_long_description
+
+Long description for ETS2 Force of Nature Paint Jobs Pack.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="461572" resname="ets2_ice_cold_paint_jobs_pack_short_description">
+        <source>Customize your truck with a choice of six cool and snowy paint jobs!</source>
+        <target state="translated">6가지의 멋지고 눈 덮인 페인트 작업으로 트럭을 맞춤 설정하십시오!</target>
+        <context-group purpose="information">
+          <context context-type="source">ets2_ice_cold_paint_jobs_pack_short_description
+
+Short description for ETS2 Ice Cold Paint Jobs Pack.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="461574" resname="ets2_ice_cold_paint_jobs_pack_long_description">
+        <source>Customize your truck with a choice of six cool and snowy paint jobs!
+
+Paint schemes included:
+
+- Happy Snowman
+- Northern Lights
+- Glittering Snowflake
+- Cold Mystery
+- Mighty Polar Bear
+- Night Wolf
+All of these cool themes are applicable to any in-game truck except for 8x4 chassis configurations.</source>
+        <target state="translated">6가지의 멋지고 눈 덮인 도색으로 트럭을 맞춤 설정하십시오!
+
+포함된 페인트 구성:
+
+- 행복한 눈사람
+- 북극광
+- 반짝이는 눈송이
+- 차가운 미스터리
+- 강력한 북극곰
+- 나이트 울프
+이러한 멋진 테마는 모두 8x4 샤시 구성을 제외한 모든 게임 내 트럭에 적용할 수 있습니다.</target>
+        <context-group purpose="information">
+          <context context-type="source">ets2_ice_cold_paint_jobs_pack_long_description
+
+Long description for ETS2 Ice Cold Paint Jobs Pack.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="461576" resname="ets2_halloween_paint_jobs_pack_short_description">
+        <source>Decorate your truck with haunting paint jobs! Halloween is a great time to be different and make your truck stand out against the usual serious business look of vehicles found on the roads today. But these spine-chilling paint schemes are in fact perfectly good for use all year round - if you are into it!</source>
+        <target state="translated">트럭을 유령스러운 페인트 작업으로 장식하세요! 핼러윈은 다른 사람과 다르고 오늘날 도로에서 발견되는 차량의 진지하고 비즈니스적인 모습에서 트럭을 돋보이게 하는 좋은 시기입니다. 하지만 이러한 섬뜩한 페인트 구성은 사실 일년 내내 사용하기에 완벽합니다. 만약 당신이 그것을 좋아한다면!</target>
+        <context-group purpose="information">
+          <context context-type="source">ets2_halloween_paint_jobs_pack_short_description
+
+Short description for ETS2 Halloween Paint Jobs Pack.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="461578" resname="ets2_halloween_paint_jobs_pack_long_description">
+        <source>Customize your truck with a choice of ten dark and scary paint jobs! Halloween is a great time to be different and make your truck stand out against the usual serious business look of vehicles found on the roads today. But these spine-chilling paint schemes are in fact perfectly good for use all year round - if you are into it!
+
+Paint schemes included:
+
+- Halloween Pumpkin
+- Crying Wolf
+- Fallen Angel
+- Spider Web
+- Flaming Dragon
+- Grim Reaper
+- Paranormal Activity
+- Malevolent Moon
+- Bobblehead Pumpkin
+- Evil Bat
+All of these themes are applicable to any in-game truck except for 8x4 chassis configurations.</source>
+        <target state="translated">10가지의 어둡고 무서운 도색 중에서 선택하여 트럭을 맞춤 설정하십시오! 핼러윈은 다른 것과 차별화되고 오늘날 도로에서 볼 수 있는 차량의 진지하고 비즈니스적인 모습에서 트럭을 돋보이게 하는 좋은 시기입니다. 하지만 이러한 섬뜩한 페인트 구성은 사실 일년 내내 사용하기에 완벽합니다. 관심이 있다면 말이죠!
+
+포함된 페인트 구성:
+
+- 핼러윈 호박
+- 울부짖는 늑대
+- 타락한 천사
+- 거미줄
+- 불타는 용
+- 죽음의 사신
+- 초자연적 활동
+- 악의적인 달
+- 밥블헤드 호박
+- 사악한 박쥐
+이러한 모든 테마는 8x4 샤시 구성을 제외한 모든 게임 내 트럭에 적용할 수 있습니다.</target>
+        <context-group purpose="information">
+          <context context-type="source">ets2_halloween_paint_jobs_pack_long_description
+
+Long description for ETS2 Halloween Paint Jobs Pack.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="461580" resname="ets2_super_stripes_paint_jobs_pack_short_description">
+        <source>Freshen up your trucks with an original and modern livery. Introducing the Super Stripes Paint Jobs Pack!</source>
+        <target state="translated">독창적이고 현대적인 상징으로 트럭을 새롭게 꾸며보세요. Super Stripes Paint Jobs Pack을 소개합니다!</target>
+        <context-group purpose="information">
+          <context context-type="source">ets2_super_stripes_paint_jobs_pack_short_description
+
+Short description for ETS2 Super Stripes Paint Jobs Pack.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="461582" resname="ets2_super_stripes_paint_jobs_pack_long_description">
+        <source>Freshen up your trucks with an original and modern livery. Introducing the Super Stripes Paint Jobs Pack!
+
+These new unique and colorful designs have been hand-crafted by our talented artists and is the first paint job pack to feature predefined color presets alongside a fully customizable color palette, giving you a wider array of options when customizing your truck in the upgrade shop.
+
+This pack includes six marvelous paint schemes:
+
+- Meteor
+- Flash
+- Metro
+- Zap
+- Solid
+- Whirl
+All of these themes are applicable to any in-game truck except for 8x4 chassis configurations.</source>
+        <target state="translated">독창적이고 현대적인 상징으로 트럭을 새롭게 꾸며보세요. Super Stripes Paint Jobs Pack을 소개합니다!
+
+이러한 새롭고 독특하고 화려한 디자인은 재능 있는 아티스트가 직접 제작한 것으로, 완전히 사용자 정의 가능한 색상 팔레트와 함께 미리 정의된 색상 사전 설정을 특징으로 하는 최초의 도색 팩으로, 업그레이드 상점에서 트럭을 사용자 정의할 때 더 다양한 옵션을 제공합니다.
+
+이 팩에는 6가지 놀라운 페인트 구성표가 포함되어 있습니다.
+
+- Meteor
+- Flash
+- Metro
+- Zap
+- Solid
+- Whirl
+이러한 모든 테마는 8x4 샤시 구성을 제외한 모든 게임 내 트럭에 적용할 수 있습니다.</target>
+        <context-group purpose="information">
+          <context context-type="source">ets2_super_stripes_paint_jobs_pack_long_description
+
+Long description for ETS2 Super Stripes Paint Jobs Pack.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="461584" resname="ats_sports_paint_jobs_pack_short_description">
+        <source>Calling all Sports Fans! We are introducing the Sports Paint Job Pack for American Truck Simulator. Decorate your truck with these beautiful American sports-themed paint jobs. From the court to the rink, they will have your truck looking like a heavyweight champion in no time!</source>
+        <target state="translated">모든 스포츠 팬 여러분! 미국 트럭 시뮬레이터를 위한 스포츠 페인트 잡 팩을 소개합니다. 미국 스포츠를 테마로 한 아름다운 페인트 작업으로 트럭을 장식하세요. 코트에서 링크까지 트럭이 순식간에 헤비급 챔피언처럼 보일 것입니다!</target>
+        <context-group purpose="information">
+          <context context-type="source">ats_sports_paint_jobs_pack_short_description
+
+Short description for ATS Sports Paint Jobs Pack.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="461586" resname="ats_sports_paint_jobs_pack_long_description">
+        <source>Calling all Sports Fans! We are introducing the Sports Paint Job Pack for American Truck Simulator. Decorate your truck with these beautiful American sports-themed paint jobs. From the court to the rink, they will have your truck looking like a heavyweight champion in no time!
+
+With 5 matching truck &amp; trailer paint jobs, this pack is sure to turn heads on the road! You will find these paint jobs in this pack:
+
+- Touchdown!
+- Slam Dunk!
+- King of the Ring
+- Home Run
+- Goal for Glory</source>
+        <target state="translated">모든 스포츠 팬 여러분! 미국 트럭 시뮬레이터를 위한 스포츠 페인트 잡 팩을 소개합니다. 미국 스포츠를 테마로 한 아름다운 페인트 작업으로 트럭을 장식하세요. 코트에서 링크까지 트럭이 순식간에 헤비급 챔피언처럼 보일 것입니다!
+
+트럭과 트레일러 페인트 작업이 5개씩 일치하는 이 팩은 도로에서도 확실히 주목받을 수 있습니다! 이 팩에서 이러한 페인트 작업을 찾을 수 있습니다:
+
+- Touchdown!
+- Slam Dunk!
+- King of the Ring
+- Home Run
+- Goal for Glory</target>
+        <context-group purpose="information">
+          <context context-type="source">ats_sports_paint_jobs_pack_long_description
+
+Long description for ATS Sports Paint Jobs Pack.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="461588" resname="ats_steampunk_paint_jobs_pack_short_description">
+        <source>Customize your truck with the beautiful Steampunk Paint Jobs Pack! This pack is the perfect way to add some personality and style to your rig, with a single unique paint job for every truck, three common paints for all trucks, and two corresponding variants for ownable trailers.</source>
+        <target state="translated">아름다운 스팀펑크 도색 팩으로 트럭을 맞춤 설정하십시오! 이 팩은 모든 트럭에 대한 단일 고유 도색, 모든 트럭에 대한 세 가지 공통 페인트, 소유 가능한 트레일러에 대한 두 가지 해당 변형으로 차량에 개성과 스타일을 더하는 완벽한 방법입니다.</target>
+        <context-group purpose="information">
+          <context context-type="source">ats_steampunk_paint_jobs_pack_short_description
+
+Short description for ATS Steampunk Paint Jobs Pack.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="461590" resname="ats_steampunk_paint_jobs_pack_long_description">
+        <source>Just as the early beginnings of Steampunk reached into the pocket of the Victorian Era to create an alternate view of modern times, we’ve decided to go back to the past to bring you something new and unique as well. Get ready to take your American Truck Simulator experience to the next level with our Steampunk Paint Jobs Pack DLC!
+
+This pack is the perfect way to add some personality and style to your rig, with a single unique paint job for every truck, three common paints for all trucks, and two corresponding variants for ownable trailers. With all the paint jobs you’ll get to show off your love of this crafty subgenre of science fiction and truly stand out, whether you’ll be hauling cargo across the country or just cruising around on the roads.</source>
+        <target state="translated">스팀펑크의 초기가 빅토리아 시대로 거슬러 올라가 현대에 대한 대안적 관점을 만들어낸 것처럼, 우리는 과거로 돌아가서 여러분에게 새롭고 독특한 것을 제공하기로 했습니다. 스팀펑크 도색 팩 DLC로 American Truck Simulator 경험을 다음 단계로 끌어올릴 준비를 하세요!
+
+이 팩은 모든 트럭에 대한 단일 고유 도색, 모든 트럭에 대한 세 가지 공통 페인트, 소유 가능한 트레일러에 대한 두 가지 해당 변형으로 차량에 개성과 스타일을 더하는 완벽한 방법입니다. 모든 도색을 통해 이 교묘한 공상과학 하위 장르에 대한 사랑을 과시하고 전국을 가로질러 화물을 운반하든 도로를 순항하든 진정으로 눈에 띄게 될 것입니다.</target>
+        <context-group purpose="information">
+          <context context-type="source">ats_steampunk_paint_jobs_pack_long_description
+
+Long description for ATS Steampunk Paint Jobs Pack.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="461592" resname="ats_wild_west_paint_jobs_pack_short_description">
+        <source>Decorate your truck with the Wild West Paint Jobs Pack! Embark on a journey through some legendary stories and Western movies with one of these fantastic paint jobs for your truck and trailer! Would you become a desperado or a bounty hunter? Or maybe it's the right time to let everyone know there is a new sheriff in town?</source>
+        <target state="translated">Wild West Paint Jobs Pack으로 트럭을 장식하세요! 트럭과 트레일러를 위한 이 환상적인 도색 중 하나로 전설적인 이야기와 서부 영화 속 여행을 떠나보세요! 당신은 무법자가 될 것인가, 아니면 현상금 사냥꾼이 될 것인가? 아니면 마을에 새로운 보안관이 왔다는 것을 모두에게 알릴 적절한 때인가?</target>
+        <context-group purpose="information">
+          <context context-type="source">ats_wild_west_paint_jobs_pack_short_description
+
+Short description for ATS Wild West Paint Jobs Pack.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="461594" resname="ats_wild_west_paint_jobs_pack_long_description">
+        <source>Embark on a journey through some legendary stories and Western movies with one of these fantastic paint jobs for your truck and trailer!
+
+Would you become a desperado or a bounty hunter? Or maybe it's the right time to let everyone know there is a new sheriff in town?
+
+This paint jobs pack expansion contains 5 truck and 1 trailer paint jobs:
+
+- Final Draw
+- Calamity's Aim
+- Last Rites
+- Dead or Alive
+- Six-gun Sheriff
+- Wild West (Trailer Paint Job)
+
+Paint jobs are applicable to all truck/cabin/chassis combinations and to some of the players' ownable trailers as well!</source>
+        <target state="translated">트럭과 트레일러를 위한 이 환상적인 도색 중 하나로 전설적인 이야기와 서부 영화 속 여행을 떠나보세요!
+
+당신은 무법자가 될 것인가, 아니면 현상금 사냥꾼이 될 것인가? 아니면 마을에 새로운 보안관이 왔다는 것을 모든 사람에게 알릴 적절한 때일지도 모릅니다.
+
+이 페인트 작업 팩 확장팩에는 트럭 도색 5개와 트레일러 도색 1개가 들어 있습니다.
+
+- Final Draw
+- Calamity's Aim
+- Last Rites
+- Dead or Alive
+- Six-gun Sheriff
+- Wild West(트레일러 도색)
+
+도색은 모든 트럭/캐빈/샤시 조합과 일부 플레이어가 소유할 수 있는 트레일러에도 적용할 수 있습니다!</target>
+        <context-group purpose="information">
+          <context context-type="source">ats_wild_west_paint_jobs_pack_long_description
+
+Long description for ATS Wild West Paint Jobs Pack.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="461596" resname="ats_retrowave_paint_jobs_pack_short_description">
+        <source>Celebrate the '80s aesthetic with vibrant and colorful paint themes. Whether you're a fan of synthwave music/games/movies, cyberpunk, everything retro or if you just like pretty colors, you will certainly find your favorite in this pack.</source>
+        <target state="translated">생동감 넘치고 화려한 페인트 테마로 80년대의 미학을 기념하세요. 신스웨이브 음악/게임/영화, 사이버펑크, 모든 복고풍을 좋아하든, 그저 예쁜 색상을 좋아하든, 이 팩에서 가장 좋아하는 것을 확실히 찾을 수 있을 것입니다.</target>
+        <context-group purpose="information">
+          <context context-type="source">ats_retrowave_paint_jobs_pack_short_description
+
+Short description for ATS Retrowave Paint Jobs Pack.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="461598" resname="ats_retrowave_paint_jobs_pack_long_description">
+        <source>Celebrate the '80s aesthetic with bold, vibrant, and colorful paint themes. Whether you're a fan of synthwave music/games/movies, cyberpunk, everything retro or if you just like pretty colors, you will certainly find your favorite in this pack.
+
+The Retrowave Paint Jobs Pack includes 2 shared paint themes for all trucks and 2 unique paint themes for each truck, totalling 22 paint themes.</source>
+        <target state="translated">대담하고 생동감 넘치고 화려한 페인트 테마로 80년대의 미학을 기념하세요. 신스웨이브 음악/게임/영화, 사이버펑크, 모든 복고풍을 좋아하든, 그저 예쁜 색상을 좋아하든, 이 팩에서 가장 좋아하는 것을 확실히 찾을 수 있을 것입니다.
+
+Retrowave Paint Jobs 팩에는 모든 트럭에 대한 2개의 공유 페인트 테마와 각 트럭에 대한 2개의 고유한 페인트 테마가 포함되어 총 22개의 페인트 테마가 있습니다.</target>
+        <context-group purpose="information">
+          <context context-type="source">ats_retrowave_paint_jobs_pack_long_description
+
+Long description for ATS Retrowave Paint Jobs Pack.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="461600" resname="ats_space_paint_jobs_pack_short_description">
+        <source>Customize your truck with the Space Paint Jobs Pack! To celebrate the 50th anniversary of the Moon Landing, we are releasing a very special Space Paint Jobs Pack for American Truck Simulator, including a few unique accessory items for your truck cab. We are sure it'll make your rig look out of this world.</source>
+        <target state="translated">Space Paint Jobs Pack으로 트럭을 맞춤 설정하십시오! 달 착륙 50주년을 기념하여 American Truck Simulator용 매우 특별한 Space Paint Jobs Pack을 출시합니다. 여기에는 트럭 운전석을 위한 몇 가지 독특한 액세서리 아이템이 포함됩니다. 당신의 차량이 이 세상에서 가장 멋진 모습을 보일 것이라고 확신합니다.</target>
+        <context-group purpose="information">
+          <context context-type="source">ats_space_paint_jobs_pack_short_description
+
+Short description for ATS Space Paint Jobs Pack.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="461602" resname="ats_space_paint_jobs_pack_long_description">
+        <source>To celebrate the 50th anniversary of the Moon Landing, we are releasing a very special Space Paint Jobs Pack for American Truck Simulator, including a few unique accessory items for your truck cab. We are sure it'll make your rig look out of this world.
+Paint jobs for all trucks
+- Beyond the Rim
+- Space Shuttle
+- Giant Leap
+- Ad Astra
+- Extravehicular Activity
+Paint jobs for Peterbilt 389 and Kenworth W900
+- Lunar Reconnaissance
+Paint jobs for Peterbilt 579, Kenworth T680, Freightliner Cascadia, and Volvo VNL
+- Apollo 11
+Cabin accessories
+- Air Freshener Eagle
+- Apollo Lunar Module
+- Astronaut</source>
+        <target state="translated">달 착륙 50주년을 기념하여, American Truck Simulator용 매우 특별한 Space Paint Jobs Pack을 출시합니다. 여기에는 트럭 운전석을 위한 몇 가지 독특한 액세서리 아이템이 포함됩니다. 당신의 차량이 이 세상에서 가장 멋진 모습을 보일 것이라고 확신합니다.
+모든 트럭용 도색
+- Beyond the Rim
+- Space Shuttle
+- Giant Leap
+- Ad Astra
+- Extravehicular Activity
+Peterbilt 389 및 Kenworth W900용 도색
+- Lunar Reconnaissance
+Peterbilt 579, Kenworth T680, Freightliner Cascadia 및 Volvo VNL용 도색
+- Apollo 11
+캐빈 액세서리
+- Air Freshener Eagle
+- Apollo Lunar Module
+- Astronaut</target>
+        <context-group purpose="information">
+          <context context-type="source">ats_space_paint_jobs_pack_long_description
+
+Long description for ATS Space Paint Jobs Pack.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="461604" resname="ats_classic_stripes_paint_jobs_pack_short_description">
+        <source>Customize your truck and trailer with matching classic paint jobs!</source>
+        <target state="translated">트럭과 트레일러를 클래식한 페인트로 맞춤 설정하십시오!</target>
+        <context-group purpose="information">
+          <context context-type="source">ats_classic_stripes_paint_jobs_pack_short_description
+
+Short description for ATS Classic Stripes Paint Jobs Pack.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="461606" resname="ats_classic_stripes_paint_jobs_pack_long_description">
+        <source>Customize your truck and trailer with a choice of eight matching classic paint jobs! Achieve millions of color combinations to suit your taste with fully customizable color palette.
+
+Paint schemes included:
+
+- Aurora
+- Flair
+- Horizon
+- Infinity
+- Insight
+- Rush
+- Serenity
+- Union</source>
+        <target state="translated">8가지의 클래식 페인트 작업 중에서 선택하여 트럭과 트레일러를 맞춤 설정하십시오! 완전히 사용자 정의 가능한 색상 팔레트로 취향에 맞는 수백만 가지 색상 조합을 달성하십시오.
+
+포함된 페인트 구성표:
+
+- Aurora
+- Flair
+- Horizon
+- Infinity
+- Insight
+- Rush
+- Serenity
+- Union</target>
+        <context-group purpose="information">
+          <context context-type="source">ats_classic_stripes_paint_jobs_pack_long_description
+
+Long description for ATS Classic Stripes Paint Jobs Pack.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="461608" resname="ats_valetines_paint_jobs_pack_short_description">
+        <source>Express your passion! Show your feelings and decorate your truck with Valentine's paint jobs! Get it for yourself or as a gift for someone special.</source>
+        <target state="translated">당신의 열정을 표현하세요! 당신의 감정을 표현하고 밸런타인 페인트 작업으로 트럭을 장식하세요! 자신을 위해 또는 특별한 사람에게 선물로 구매하십시오.</target>
+        <context-group purpose="information">
+          <context context-type="source">ats_valetines_paint_jobs_pack_short_description
+
+Short description for ATS Valetine's Paint Jobs Pack.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="461610" resname="ats_valetines_paint_jobs_pack_long_description">
+        <source>Express your passion! Show your feelings and decorate your truck with Valentine's paint jobs! Get it for yourself or as a gift for someone special.
+Paint jobs:
+
+
+- Hearts N' Roses
+- Heartbreaker
+- Metallic Amor
+- True Love
+- The Rig of Love
+Steering wheel:
+- True Heart</source>
+        <target state="translated">당신의 열정을 표현하세요! 당신의 감정을 표현하고 밸런타인 페인트 작업으로 트럭을 장식하세요! 자신을 위해 또는 특별한 사람에게 선물로 구매하십시오.
+도색:
+
+
+- Hearts N' Roses
+- Heartbreaker
+- Metallic Amor
+- True Love
+- The Rig of Love
+스티어링 휠:
+- True Heart</target>
+        <context-group purpose="information">
+          <context context-type="source">ats_valetines_paint_jobs_pack_long_description
+
+Long description for ATS Valetine's Paint Jobs Pack.</context>
+        </context-group>
+        <note from="REMOVED_USER" priority="4">paint jobs be translatable in near future?</note>
+      </trans-unit>
+      <trans-unit id="461612" resname="ats_christmas_paint_jobs_pack_short_description">
+        <source>Celebrate that special time of the year! Customize your truck and some of the trailers with a choice of Christmas paint jobs!</source>
+        <target state="translated">올해의 특별한 시간을 기념하세요! 크리스마스 페인트 작업으로 트럭과 트레일러 중 일부를 맞춤 설정하십시오!</target>
+        <context-group purpose="information">
+          <context context-type="source">ats_christmas_paint_jobs_pack_short_description
+
+Short description for ATS Christmas Paint Jobs Pack.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="461614" resname="ats_christmas_paint_jobs_pack_long_description">
+        <source>That special time of the year! Customize your truck and some of the trailers with a choice of Christmas paint jobs!
+
+Paint schemes included:
+
+- X for Xmas
+- Deeply Frozen
+- Santa Driver
+- Red Freighter
+- Santa's Sled
+All of these themes are applicable to any in-game truck. Three of these paint jobs (Deeply Frozen, Red Freighter, Santa Driver) are also applicable to some of the ownable trailers too.</source>
+        <target state="translated">올해의 특별한 시간! 크리스마스 페인트 작업으로 트럭과 트레일러 중 일부를 맞춤 설정하십시오!
+
+포함된 페인트 구성표:
+
+- X for Xmas
+- Deeply Frozen
+- Santa Driver
+- Red Freighter
+- Santa's Sled
+이러한 모든 테마는 게임 내 모든 트럭에 적용할 수 있습니다. 이 도색 중 세 가지(Deeply Frozen, Red Freighter, Santa Driver)는 소유 가능한 트레일러 중 일부에도 적용할 수 있습니다.</target>
+        <context-group purpose="information">
+          <context context-type="source">ats_christmas_paint_jobs_pack_long_description
+
+Long description for ATS Christmas Paint Jobs Pack.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="461616" resname="ats_halloween_paint_jobs_pack_short_description">
+        <source>Decorate your truck with haunting paint jobs! Halloween is a great time to be different and make your truck stand out against the usual serious business look of vehicles found on the roads today.</source>
+        <target state="translated">트럭을 유령스러운 도색으로 장식하세요! 핼러윈은 다르고 오늘날 도로에서 발견되는 차량의 진지하고 비즈니스적인 모습에서 트럭을 돋보이게 하는 좋은 시기입니다.</target>
+        <context-group purpose="information">
+          <context context-type="source">ats_halloween_paint_jobs_pack_short_description
+
+Short description for ATS Halloween Paint Jobs Pack.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="461618" resname="ats_halloween_paint_jobs_pack_long_description">
+        <source>Customize your truck with a choice of dark and scary paint jobs! Halloween is a great time to be different and make your truck stand out against the usual serious business look of vehicles found on the roads today. These spine-chilling paint schemes are in fact perfectly good for use all year round - if you are into it!</source>
+        <target state="translated">어둡고 무서운 도색으로 트럭을 맞춤 설정하십시오! 핼러윈은 다르고 오늘날 도로에서 발견되는 차량의 진지하고 비즈니스적인 모습에서 트럭을 돋보이게 할 수 있는 좋은 시기입니다. 이러한 섬뜩한 페인트 구성은 사실 일년 내내 사용하기에 완벽합니다. 만약 당신이 그것을 좋아한다면!</target>
+        <context-group purpose="information">
+          <context context-type="source">ats_halloween_paint_jobs_pack_long_description
+
+Long description for ATS Halloween Paint Jobs Pack.</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="48" original="/extra_texts/installer_texts.json" source-language="en" target-language="ko" datatype="plaintext" project-id="317201" tool-id="crowdin">
+    <header>
+      <tool tool-id="crowdin" tool-name="Crowdin" tool-version="1.1"/>
+    </header>
+    <body>
+      <trans-unit id="46048" resname="no_steam">
+        <source>Steam version of the game is not supported by this installer. You need to install the DLC through Steam.</source>
+        <target state="translated">이 설치기는 스팀 버전을 지원하지 않습니다. 스팀을 통해 DLC를 설치하십시오.</target>
+        <context-group purpose="information">
+          <context context-type="source">Id: no_steam
+Error message shown when DLC installer detects that the user is trying to apply it to Steam version of the game.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="46050" resname="app_path_not_found">
+        <source>Unable to detect the folder containing {#BASE_PRODUCT_NAME}. Please select it.</source>
+        <target state="translated">{#BASE_PRODUCT_NAME}가 들어있는 폴더를 검색할 수 없습니다.</target>
+        <context-group purpose="information">
+          <context context-type="source">Id: app_path_not_found
+Error message shown when DLC installer is unable to automatically locate folder containing the game.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="46052" resname="not_found">
+        <source>The specified folder does not contain {#BASE_PRODUCT_NAME}. You need to select the folder containing the game.</source>
+        <target state="translated">지정된 폴더 안에 {#BASE_PRODUCT_NAME}가 포함되어 있지 않습니다. 게임이 들어있는 폴더를 선택하십시오.</target>
+        <context-group purpose="information">
+          <context context-type="source">Id: not_found
+Error message shown by DLC installer when the user selects folder which does not contain the game.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="46054" resname="not_dir">
+        <source>The specified folder does not exist. You need to select the folder containing {#BASE_PRODUCT_NAME}.</source>
+        <target state="translated">지정한 폴더가 존재하지 않습니다 당신은 {#BASE_PRODUCT_NAME} (이)가 들어있는 폴더를 선택해야합니다</target>
+        <context-group purpose="information">
+          <context context-type="source">Id: not_dir
+Error message shown by DLC installer when the selected folder does not exist.</context>
+        </context-group>
+        <note from="REMOVED_USER" priority="4">Mellor &quot;cartafol&quot;:
+&quot;O cartafol especificado non existe. Tes que indicar o cartafol que conteña {#BASE_PRODUCT_NAME}.&quot;</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
