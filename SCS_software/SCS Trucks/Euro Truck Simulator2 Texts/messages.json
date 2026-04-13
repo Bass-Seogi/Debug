@@ -35900,11 +35900,11 @@
 		"description": "Id: filter_plastic\nPlastic mirror, doorhandle or other accessory\nGroup: Accessory Names"
 	},
 	"flag_afghanistan": {
-		"message": "Afghanistan",
+		"message": "아프가니스탄",
 		"description": "Id: flag_afghanistan\nGroup: Accessory Names"
 	},
 	"flag_aland_islands": {
-		"message": "Aland Islands",
+		"message": "올란드 제도",
 		"description": "Id: flag_aland_islands\nGroup: Accessory Names"
 	},
 	"flag_albania": {
@@ -35912,11 +35912,11 @@
 		"description": "Id: flag_albania\nGroup: Accessory Names"
 	},
 	"flag_algeria": {
-		"message": "Algeria",
+		"message": "알제리",
 		"description": "Id: flag_algeria\nGroup: Accessory Names"
 	},
 	"flag_american_samoa": {
-		"message": "American Samoa",
+		"message": "아메리칸사모아",
 		"description": "Id: flag_american_samoa\nGroup: Accessory Names"
 	},
 	"flag_anarchy": {
@@ -35928,11 +35928,11 @@
 		"description": "Id: flag_andorra\nGroup: Accessory Names"
 	},
 	"flag_angola": {
-		"message": "Angola",
+		"message": "앙골라",
 		"description": "Id: flag_angola\nGroup: Accessory Names"
 	},
 	"flag_anguilla": {
-		"message": "Anguilla",
+		"message": "앵귈라",
 		"description": "Id: flag_anguilla\nGroup: Accessory Names"
 	},
 	"flag_antarctica": {
@@ -35940,19 +35940,19 @@
 		"description": "Id: flag_antarctica\nGroup: Accessory Names"
 	},
 	"flag_antigua_and_barbuda": {
-		"message": "Antigua and Barbuda",
+		"message": "앤티가 바부다",
 		"description": "Id: flag_antigua_and_barbuda\nGroup: Accessory Names"
 	},
 	"flag_argentina": {
-		"message": "Argentina",
+		"message": "아르헨티나",
 		"description": "Id: flag_argentina\nGroup: Accessory Names"
 	},
 	"flag_armenia": {
-		"message": "Armenia",
+		"message": "아르메니아",
 		"description": "Id: flag_armenia\nGroup: Accessory Names"
 	},
 	"flag_aruba": {
-		"message": "Aruba",
+		"message": "아루바",
 		"description": "Id: flag_aruba\nGroup: Accessory Names"
 	},
 	"flag_australia": {
@@ -35964,15 +35964,15 @@
 		"description": "Id: flag_austria\nGroup: Accessory Names"
 	},
 	"flag_azerbaijan": {
-		"message": "Azerbaijan",
+		"message": "아제르바이잔",
 		"description": "Id: flag_azerbaijan\nGroup: Accessory Names"
 	},
 	"flag_bahamas": {
-		"message": "Bahamas",
+		"message": "바하마",
 		"description": "Id: flag_bahamas\nGroup: Accessory Names"
 	},
 	"flag_bahrain": {
-		"message": "Bahrain",
+		"message": "바레인",
 		"description": "Id: flag_bahrain\nGroup: Accessory Names"
 	},
 	"flag_bangladesh": {
@@ -35980,7 +35980,7 @@
 		"description": "Id: flag_bangladesh\nGroup: Accessory Names"
 	},
 	"flag_barbados": {
-		"message": "Barbados",
+		"message": "바베이도스",
 		"description": "Id: flag_barbados\nGroup: Accessory Names"
 	},
 	"flag_belarus": {
@@ -35992,19 +35992,19 @@
 		"description": "Id: flag_belgium\nGroup: Accessory Names"
 	},
 	"flag_belize": {
-		"message": "Belize",
+		"message": "벨리즈",
 		"description": "Id: flag_belize\nGroup: Accessory Names"
 	},
 	"flag_benin": {
-		"message": "Benin",
+		"message": "베냉",
 		"description": "Id: flag_benin\nGroup: Accessory Names"
 	},
 	"flag_bermuda": {
-		"message": "Bermuda",
+		"message": "버뮤다",
 		"description": "Id: flag_bermuda\nGroup: Accessory Names"
 	},
 	"flag_bhutan": {
-		"message": "Bhutan",
+		"message": "부탄",
 		"description": "Id: flag_bhutan\nGroup: Accessory Names"
 	},
 	"flag_bosnia_and_herzegovina": {
@@ -36016,15 +36016,15 @@
 		"description": "Id: flag_botswana\nGroup: Accessory Names"
 	},
 	"flag_bouvet_island": {
-		"message": "Bouvet Island",
+		"message": "부베 섬",
 		"description": "Id: flag_bouvet_island\nGroup: Accessory Names"
 	},
 	"flag_brazil": {
-		"message": "Brazil",
+		"message": "브라질",
 		"description": "Id: flag_brazil\nGroup: Accessory Names"
 	},
 	"flag_british_indian_ocean_territory": {
-		"message": "British Indian Ocean Territory",
+		"message": "영국령 인도양 지역",
 		"description": "Id: flag_british_indian_ocean_territory\nGroup: Accessory Names"
 	},
 	"flag_broken_heart": {
@@ -36032,7 +36032,7 @@
 		"description": "Id: flag_broken_heart\nGroup: Accessory Names"
 	},
 	"flag_brunei_darussalam": {
-		"message": "Brunei Darussalam",
+		"message": "브루나이 다루살람",
 		"description": "Id: flag_brunei_darussalam\nGroup: Accessory Names"
 	},
 	"flag_bulgaria": {
@@ -36040,23 +36040,23 @@
 		"description": "Id: flag_bulgaria\nGroup: Accessory Names"
 	},
 	"flag_burkina_faso": {
-		"message": "Burkina Faso",
+		"message": "부르키나 파소",
 		"description": "Id: flag_burkina_faso\nGroup: Accessory Names"
 	},
 	"flag_burundi": {
-		"message": "Burundi",
+		"message": "부룬디",
 		"description": "Id: flag_burundi\nGroup: Accessory Names"
 	},
 	"flag_cabo_verde": {
-		"message": "Cabo Verde",
+		"message": "카보베르데",
 		"description": "Id: flag_cabo_verde\nGroup: Accessory Names"
 	},
 	"flag_cambodia": {
-		"message": "Cambodia",
+		"message": "캄보디아",
 		"description": "Id: flag_cambodia\nGroup: Accessory Names"
 	},
 	"flag_cameroon": {
-		"message": "Cameroon",
+		"message": "카메룬",
 		"description": "Id: flag_cameroon\nGroup: Accessory Names"
 	},
 	"flag_canada": {
@@ -36064,7 +36064,7 @@
 		"description": "Id: flag_canada\nGroup: Accessory Names"
 	},
 	"flag_cayman_islands": {
-		"message": "Cayman Islands",
+		"message": "케이맨 제도",
 		"description": "Id: flag_cayman_islands\nGroup: Accessory Names"
 	},
 	"flag_central_african_republic": {
@@ -36072,7 +36072,7 @@
 		"description": "Id: flag_central_african_republic\nGroup: Accessory Names"
 	},
 	"flag_chad": {
-		"message": "Chad",
+		"message": "차드",
 		"description": "Id: flag_chad\nGroup: Accessory Names"
 	},
 	"flag_checkered": {
@@ -36080,11 +36080,11 @@
 		"description": "Id: flag_checkered\nGroup: Accessory Names"
 	},
 	"flag_chile": {
-		"message": "Chile",
+		"message": "칠레",
 		"description": "Id: flag_chile\nGroup: Accessory Names"
 	},
 	"flag_china": {
-		"message": "China",
+		"message": "중국",
 		"description": "Id: flag_china\nGroup: Accessory Names"
 	},
 	"flag_christmas_island": {
@@ -36092,27 +36092,27 @@
 		"description": "Id: flag_christmas_island\nGroup: Accessory Names"
 	},
 	"flag_cocos_keeling_islands": {
-		"message": "Cocos (Keeling) Islands",
+		"message": "코코스 (킬링) 제도",
 		"description": "Id: flag_cocos_keeling_islands\nGroup: Accessory Names"
 	},
 	"flag_colombia": {
-		"message": "Colombia",
+		"message": "콜롬비아",
 		"description": "Id: flag_colombia\nGroup: Accessory Names"
 	},
 	"flag_comoros": {
-		"message": "Comoros",
+		"message": "코모로",
 		"description": "Id: flag_comoros\nGroup: Accessory Names"
 	},
 	"flag_congo": {
-		"message": "Congo",
+		"message": "콩고 공화국",
 		"description": "Id: flag_congo\nGroup: Accessory Names"
 	},
 	"flag_cook_islands": {
-		"message": "Cook Islands",
+		"message": "쿡 제도",
 		"description": "Id: flag_cook_islands\nGroup: Accessory Names"
 	},
 	"flag_costa_rica": {
-		"message": "Costa Rica",
+		"message": "코스타리카",
 		"description": "Id: flag_costa_rica\nGroup: Accessory Names"
 	},
 	"flag_croatia": {
@@ -36124,11 +36124,11 @@
 		"description": "Id: flag_crown\nGroup: Accessory Names"
 	},
 	"flag_cuba": {
-		"message": "Cuba",
+		"message": "쿠바",
 		"description": "Id: flag_cuba\nGroup: Accessory Names"
 	},
 	"flag_curacao": {
-		"message": "Curaçao",
+		"message": "퀴라소",
 		"description": "Id: flag_curacao\nGroup: Accessory Names"
 	},
 	"flag_cyprus": {
@@ -36144,31 +36144,31 @@
 		"description": "Id: flag_denmark\nGroup: Accessory Names"
 	},
 	"flag_djibouti": {
-		"message": "Djibouti",
+		"message": "지부티",
 		"description": "Id: flag_djibouti\nGroup: Accessory Names"
 	},
 	"flag_dominica": {
-		"message": "Dominica",
+		"message": "도미니카 연방",
 		"description": "Id: flag_dominica\nGroup: Accessory Names"
 	},
 	"flag_dominican_republic": {
-		"message": "Dominican Republic",
+		"message": "도미니카 공화국",
 		"description": "Id: flag_dominican_republic\nGroup: Accessory Names"
 	},
 	"flag_dr_congo": {
-		"message": "DR Congo",
+		"message": "콩고 민주 공화국",
 		"description": "Id: flag_dr_congo\nGroup: Accessory Names"
 	},
 	"flag_ecuador": {
-		"message": "Ecuador",
+		"message": "에콰도르",
 		"description": "Id: flag_ecuador\nGroup: Accessory Names"
 	},
 	"flag_egypt": {
-		"message": "Egypt",
+		"message": "이집트",
 		"description": "Id: flag_egypt\nGroup: Accessory Names"
 	},
 	"flag_el_salvador": {
-		"message": "El Salvador",
+		"message": "엘살바도르",
 		"description": "Id: flag_el_salvador\nGroup: Accessory Names"
 	},
 	"flag_england": {
@@ -36176,11 +36176,11 @@
 		"description": "Id: flag_england\nGroup: Accessory Names"
 	},
 	"flag_equatorial_guinea": {
-		"message": "Equatorial Guinea",
+		"message": "적도 기니",
 		"description": "Id: flag_equatorial_guinea\nGroup: Accessory Names"
 	},
 	"flag_eritrea": {
-		"message": "Eritrea",
+		"message": "에리트레아",
 		"description": "Id: flag_eritrea\nGroup: Accessory Names"
 	},
 	"flag_estonia": {
@@ -36188,11 +36188,11 @@
 		"description": "Id: flag_estonia\nGroup: Accessory Names"
 	},
 	"flag_ethiopia": {
-		"message": "Ethiopia",
+		"message": "에티오피아",
 		"description": "Id: flag_ethiopia\nGroup: Accessory Names"
 	},
 	"flag_falkland_islands": {
-		"message": "Falkland Islands",
+		"message": "포클랜드 제도",
 		"description": "Id: flag_falkland_islands\nGroup: Accessory Names"
 	},
 	"flag_faroe_islands": {
@@ -36200,7 +36200,7 @@
 		"description": "Id: flag_faroe_islands\nGroup: Accessory Names"
 	},
 	"flag_fiji": {
-		"message": "Fiji",
+		"message": "피지",
 		"description": "Id: flag_fiji\nGroup: Accessory Names"
 	},
 	"flag_finland": {
@@ -36228,15 +36228,15 @@
 		"description": "Id: flag_french_southern_territories\nGroup: Accessory Names"
 	},
 	"flag_gabon": {
-		"message": "Gabon",
+		"message": "가봉",
 		"description": "Id: flag_gabon\nGroup: Accessory Names"
 	},
 	"flag_gambia": {
-		"message": "Gambia",
+		"message": "감비아",
 		"description": "Id: flag_gambia\nGroup: Accessory Names"
 	},
 	"flag_georgia": {
-		"message": "Georgia",
+		"message": "조지아",
 		"description": "Id: flag_georgia\nGroup: Accessory Names"
 	},
 	"flag_germany": {
@@ -36244,7 +36244,7 @@
 		"description": "Id: flag_germany\nGroup: Accessory Names"
 	},
 	"flag_ghana": {
-		"message": "Ghana",
+		"message": "가나",
 		"description": "Id: flag_ghana\nGroup: Accessory Names"
 	},
 	"flag_gibraltar": {
@@ -36260,11 +36260,11 @@
 		"description": "Id: flag_greenland\nGroup: Accessory Names"
 	},
 	"flag_grenada": {
-		"message": "Grenada",
+		"message": "그레나다",
 		"description": "Id: flag_grenada\nGroup: Accessory Names"
 	},
 	"flag_guadeloupe": {
-		"message": "Guadeloupe",
+		"message": "과들루프",
 		"description": "Id: flag_guadeloupe\nGroup: Accessory Names"
 	},
 	"flag_guam": {
@@ -36272,23 +36272,23 @@
 		"description": "Id: flag_guam\nGroup: Accessory Names"
 	},
 	"flag_guatemala": {
-		"message": "Guatemala",
+		"message": "과테말라",
 		"description": "Id: flag_guatemala\nGroup: Accessory Names"
 	},
 	"flag_guernsey": {
-		"message": "Guernsey",
+		"message": "건지",
 		"description": "Id: flag_guernsey\nGroup: Accessory Names"
 	},
 	"flag_guinea": {
-		"message": "Guinea",
+		"message": "기니",
 		"description": "Id: flag_guinea\nGroup: Accessory Names"
 	},
 	"flag_guinea_bissau": {
-		"message": "Guinea-Bissau",
+		"message": "기니비사우",
 		"description": "Id: flag_guinea_bissau\nGroup: Accessory Names"
 	},
 	"flag_guyana": {
-		"message": "Guyana",
+		"message": "가이아나",
 		"description": "Id: flag_guyana\nGroup: Accessory Names"
 	},
 	"flag_haiti": {
@@ -36300,11 +36300,11 @@
 		"description": "Id: flag_heart\nGroup: Accessory Names"
 	},
 	"flag_holy_see": {
-		"message": "Holy See",
+		"message": "교황청",
 		"description": "Id: flag_holy_see\nGroup: Accessory Names"
 	},
 	"flag_honduras": {
-		"message": "Honduras",
+		"message": "온두라스",
 		"description": "Id: flag_honduras\nGroup: Accessory Names"
 	},
 	"flag_hong_kong": {
@@ -36320,19 +36320,19 @@
 		"description": "Id: flag_iceland\nGroup: Accessory Names"
 	},
 	"flag_india": {
-		"message": "India",
+		"message": "인도",
 		"description": "Id: flag_india\nGroup: Accessory Names"
 	},
 	"flag_indonesia": {
-		"message": "Indonesia",
+		"message": "인도네시아",
 		"description": "Id: flag_indonesia\nGroup: Accessory Names"
 	},
 	"flag_iran": {
-		"message": "Iran",
+		"message": "이란",
 		"description": "Id: flag_iran\nGroup: Accessory Names"
 	},
 	"flag_iraq": {
-		"message": "Iraq",
+		"message": "이라크",
 		"description": "Id: flag_iraq\nGroup: Accessory Names"
 	},
 	"flag_ireland": {
@@ -36340,11 +36340,11 @@
 		"description": "Id: flag_ireland\nGroup: Accessory Names"
 	},
 	"flag_isle_of_man": {
-		"message": "Isle of Man",
+		"message": "맨섬",
 		"description": "Id: flag_isle_of_man\nGroup: Accessory Names"
 	},
 	"flag_israel": {
-		"message": "Israel",
+		"message": "이스라엘",
 		"description": "Id: flag_israel\nGroup: Accessory Names"
 	},
 	"flag_italy": {
@@ -36352,15 +36352,15 @@
 		"description": "Id: flag_italy\nGroup: Accessory Names"
 	},
 	"flag_ivory_coast": {
-		"message": "Ivory Coast",
+		"message": "코트디부아르",
 		"description": "Id: flag_ivory_coast\nGroup: Accessory Names"
 	},
 	"flag_jamaica": {
-		"message": "Jamaica",
+		"message": "자메이카",
 		"description": "Id: flag_jamaica\nGroup: Accessory Names"
 	},
 	"flag_japan": {
-		"message": "Japan",
+		"message": "일본",
 		"description": "Id: flag_japan\nGroup: Accessory Names"
 	},
 	"flag_jersey": {
@@ -36380,11 +36380,11 @@
 		"description": "Id: flag_kazakhstan\nGroup: Accessory Names"
 	},
 	"flag_kenya": {
-		"message": "Kenya",
+		"message": "케냐",
 		"description": "Id: flag_kenya\nGroup: Accessory Names"
 	},
 	"flag_kiribati": {
-		"message": "Kiribati",
+		"message": "키리바시",
 		"description": "Id: flag_kiribati\nGroup: Accessory Names"
 	},
 	"flag_kosovo": {
@@ -36392,15 +36392,15 @@
 		"description": "Id: flag_kosovo\nGroup: Accessory Names"
 	},
 	"flag_kuwait": {
-		"message": "Kuwait",
+		"message": "쿠웨이트",
 		"description": "Id: flag_kuwait\nGroup: Accessory Names"
 	},
 	"flag_kyrgyzstan": {
-		"message": "Kyrgyzstan",
+		"message": "키르기스스탄",
 		"description": "Id: flag_kyrgyzstan\nGroup: Accessory Names"
 	},
 	"flag_laos": {
-		"message": "Laos",
+		"message": "라오스",
 		"description": "Id: flag_laos\nGroup: Accessory Names"
 	},
 	"flag_latvia": {
@@ -36408,19 +36408,19 @@
 		"description": "Id: flag_latvia\nGroup: Accessory Names"
 	},
 	"flag_lebanon": {
-		"message": "Lebanon",
+		"message": "레바논",
 		"description": "Id: flag_lebanon\nGroup: Accessory Names"
 	},
 	"flag_lesotho": {
-		"message": "Lesotho",
+		"message": "레소토",
 		"description": "Id: flag_lesotho\nGroup: Accessory Names"
 	},
 	"flag_liberia": {
-		"message": "Liberia",
+		"message": "라이베리아",
 		"description": "Id: flag_liberia\nGroup: Accessory Names"
 	},
 	"flag_libya": {
-		"message": "Libya",
+		"message": "리비아",
 		"description": "Id: flag_libya\nGroup: Accessory Names"
 	},
 	"flag_liechtenstein": {
@@ -36440,7 +36440,7 @@
 		"description": "Id: flag_luxembourg\nGroup: Accessory Names"
 	},
 	"flag_macao": {
-		"message": "Macao",
+		"message": "마카오",
 		"description": "Id: flag_macao\nGroup: Accessory Names"
 	},
 	"flag_macedonia": {
@@ -36448,15 +36448,15 @@
 		"description": "Id: flag_macedonia\nGroup: Accessory Names"
 	},
 	"flag_madagascar": {
-		"message": "Madagascar",
+		"message": "마다가스카르",
 		"description": "Id: flag_madagascar\nGroup: Accessory Names"
 	},
 	"flag_malawi": {
-		"message": "Malawi",
+		"message": "말라위",
 		"description": "Id: flag_malawi\nGroup: Accessory Names"
 	},
 	"flag_malaysia": {
-		"message": "Malaysia",
+		"message": "말레이시아",
 		"description": "Id: flag_malaysia\nGroup: Accessory Names"
 	},
 	"flag_maldives": {
@@ -36472,23 +36472,23 @@
 		"description": "Id: flag_malta\nGroup: Accessory Names"
 	},
 	"flag_marshall_islands": {
-		"message": "Marshall Islands",
+		"message": "마샬 제도",
 		"description": "Id: flag_marshall_islands\nGroup: Accessory Names"
 	},
 	"flag_martinique": {
-		"message": "Martinique",
+		"message": "마르티니크",
 		"description": "Id: flag_martinique\nGroup: Accessory Names"
 	},
 	"flag_mauritania": {
-		"message": "Mauritania",
+		"message": "모리타니",
 		"description": "Id: flag_mauritania\nGroup: Accessory Names"
 	},
 	"flag_mauritius": {
-		"message": "Mauritius",
+		"message": "모리셔스",
 		"description": "Id: flag_mauritius\nGroup: Accessory Names"
 	},
 	"flag_mayotte": {
-		"message": "Mayotte",
+		"message": "마요트",
 		"description": "Id: flag_mayotte\nGroup: Accessory Names"
 	},
 	"flag_mexico": {
@@ -36496,7 +36496,7 @@
 		"description": "Id: flag_mexico\nGroup: Accessory Names"
 	},
 	"flag_micronesia": {
-		"message": "Micronesia",
+		"message": "미크로네시아",
 		"description": "Id: flag_micronesia\nGroup: Accessory Names"
 	},
 	"flag_moldova": {
@@ -36516,31 +36516,31 @@
 		"description": "Id: flag_montenegro\nGroup: Accessory Names"
 	},
 	"flag_montserrat": {
-		"message": "Montserrat",
+		"message": "몬세라트",
 		"description": "Id: flag_montserrat\nGroup: Accessory Names"
 	},
 	"flag_morocco": {
-		"message": "Morocco",
+		"message": "모로코",
 		"description": "Id: flag_morocco\nGroup: Accessory Names"
 	},
 	"flag_mozambique": {
-		"message": "Mozambique",
+		"message": "모잠비크",
 		"description": "Id: flag_mozambique\nGroup: Accessory Names"
 	},
 	"flag_myanmar": {
-		"message": "Myanmar",
+		"message": "미얀마",
 		"description": "Id: flag_myanmar\nGroup: Accessory Names"
 	},
 	"flag_namibia": {
-		"message": "Namibia",
+		"message": "나미비아",
 		"description": "Id: flag_namibia\nGroup: Accessory Names"
 	},
 	"flag_nauru": {
-		"message": "Nauru",
+		"message": "나우루",
 		"description": "Id: flag_nauru\nGroup: Accessory Names"
 	},
 	"flag_nepal": {
-		"message": "Nepal",
+		"message": "네팔",
 		"description": "Id: flag_nepal\nGroup: Accessory Names"
 	},
 	"flag_netherlands": {
@@ -36604,7 +36604,7 @@
 		"description": "Id: flag_palau\nGroup: Accessory Names"
 	},
 	"flag_palestine": {
-		"message": "Palestine",
+		"message": "팔레스타인",
 		"description": "Id: flag_palestine\nGroup: Accessory Names"
 	},
 	"flag_panama": {
@@ -36612,15 +36612,15 @@
 		"description": "Id: flag_panama\nGroup: Accessory Names"
 	},
 	"flag_papua_new_guinea": {
-		"message": "Papua New Guinea",
+		"message": "파푸아뉴기니",
 		"description": "Id: flag_papua_new_guinea\nGroup: Accessory Names"
 	},
 	"flag_paraguay": {
-		"message": "Paraguay",
+		"message": "파라과이",
 		"description": "Id: flag_paraguay\nGroup: Accessory Names"
 	},
 	"flag_peru": {
-		"message": "Peru",
+		"message": "페루",
 		"description": "Id: flag_peru\nGroup: Accessory Names"
 	},
 	"flag_philippines": {
@@ -36628,11 +36628,11 @@
 		"description": "Id: flag_philippines\nGroup: Accessory Names"
 	},
 	"flag_pitcairn": {
-		"message": "Pitcairn",
+		"message": "핏케언",
 		"description": "Id: flag_pitcairn\nGroup: Accessory Names"
 	},
 	"flag_plurinational_state_of_bolivia": {
-		"message": "Plurinational State of Bolivia",
+		"message": "볼가리스 다민족국",
 		"description": "Id: flag_plurinational_state_of_bolivia\nGroup: Accessory Names"
 	},
 	"flag_poland": {
@@ -36648,7 +36648,7 @@
 		"description": "Id: flag_puerto_rico\nGroup: Accessory Names"
 	},
 	"flag_qatar": {
-		"message": "Qatar",
+		"message": "카타르",
 		"description": "Id: flag_qatar\nGroup: Accessory Names"
 	},
 	"flag_republic_of_korea": {
@@ -36684,7 +36684,7 @@
 		"description": "Id: flag_saint_vincent_and_the_grenadines\nGroup: Accessory Names"
 	},
 	"flag_samoa": {
-		"message": "Samoa",
+		"message": "사모아",
 		"description": "Id: flag_samoa\nGroup: Accessory Names"
 	},
 	"flag_san_marino": {
@@ -36692,11 +36692,11 @@
 		"description": "Id: flag_san_marino\nGroup: Accessory Names"
 	},
 	"flag_sao_tome_and_principe": {
-		"message": "Sao Tome and Principe",
+		"message": "상투메 프린시페",
 		"description": "Id: flag_sao_tome_and_principe\nGroup: Accessory Names"
 	},
 	"flag_saudi_arabia": {
-		"message": "Saudi Arabia",
+		"message": "사우디아라비아",
 		"description": "Id: flag_saudi_arabia\nGroup: Accessory Names"
 	},
 	"flag_scotland": {
@@ -36720,7 +36720,7 @@
 		"description": "Id: flag_scs_world_of_trucks_flag\nGroup: Accessory Names"
 	},
 	"flag_senegal": {
-		"message": "Senegal",
+		"message": "세네갈",
 		"description": "Id: flag_senegal\nGroup: Accessory Names"
 	},
 	"flag_serbia": {
@@ -36728,7 +36728,7 @@
 		"description": "Id: flag_serbia\nGroup: Accessory Names"
 	},
 	"flag_seychelles": {
-		"message": "Seychelles",
+		"message": "세이셀",
 		"description": "Id: flag_seychelles\nGroup: Accessory Names"
 	},
 	"flag_sgssi": {
@@ -36736,11 +36736,11 @@
 		"description": "Id: flag_sgssi\nGroup: Accessory Names"
 	},
 	"flag_sierra_leone": {
-		"message": "Sierra Leone",
+		"message": "시에라리온",
 		"description": "Id: flag_sierra_leone\nGroup: Accessory Names"
 	},
 	"flag_singapore": {
-		"message": "Singapore",
+		"message": "싱가포르",
 		"description": "Id: flag_singapore\nGroup: Accessory Names"
 	},
 	"flag_sint_maarten_dutch_part": {
@@ -36756,7 +36756,7 @@
 		"description": "Id: flag_slovenia\nGroup: Accessory Names"
 	},
 	"flag_solomon_islands": {
-		"message": "Solomon Islands",
+		"message": "솔로몬 제도",
 		"description": "Id: flag_solomon_islands\nGroup: Accessory Names"
 	},
 	"flag_somalia": {
@@ -36832,7 +36832,7 @@
 		"description": "Id: flag_thumbs_up\nGroup: Accessory Names"
 	},
 	"flag_timor_leste": {
-		"message": "Timor-Leste",
+		"message": "동티모르",
 		"description": "Id: flag_timor_leste\nGroup: Accessory Names"
 	},
 	"flag_togo": {
@@ -42328,7 +42328,7 @@
 		"description": "Id: pj_bratislava_sights\nGroup: Names of paintjob accessories."
 	},
 	"pj_brazilian_flag_decal": {
-		"message": "Brazilian Flag Decal",
+		"message": "브라질 깃발 데칼",
 		"description": "Id: pj_brazilian_flag_decal\nGroup: Names of paintjob accessories."
 	},
 	"pj_brazilian_flag_metallic": {
@@ -42376,11 +42376,11 @@
 		"description": "Id: pj_bubbles\nGroup: Names of paintjob accessories."
 	},
 	"pj_bulgarian_flag": {
-		"message": "Bulgarian Flag",
+		"message": "불가리아 깃발",
 		"description": "Id: pj_bulgarian_flag\nGroup: Names of paintjob accessories."
 	},
 	"pj_bulgarian_flag_decal": {
-		"message": "Bulgarian Flag Decal",
+		"message": "불가리아 깃발 데칼",
 		"description": "Id: pj_bulgarian_flag_decal\nGroup: Names of paintjob accessories."
 	},
 	"pj_bulgarian_flag_metallic": {
@@ -43156,11 +43156,11 @@
 		"description": "Id: pj_ivory_yellow\nGroup: Names of paintjob accessories."
 	},
 	"pj_jamaica_blue": {
-		"message": "Jamaica Blue",
+		"message": "자메이카 블루",
 		"description": "Id: pj_jamaica_blue\nGroup: Names of paintjob accessories."
 	},
 	"pj_japanese_flag_decal": {
-		"message": "Japanese Flag Decal",
+		"message": "일본 깃발 데칼",
 		"description": "Id: pj_japanese_flag_decal\nGroup: Names of paintjob accessories."
 	},
 	"pj_jet_black": {
@@ -44380,7 +44380,7 @@
 		"description": "Id: pj_unity_edition_austria\nGroup: Names of paintjob accessories."
 	},
 	"pj_unity_edition_belgium": {
-		"message": "Unity Edition Belgium",
+		"message": "Unity Edition 벨기에",
 		"description": "Id: pj_unity_edition_belgium\nGroup: Names of paintjob accessories."
 	},
 	"pj_unity_edition_czech_republic": {
@@ -44388,7 +44388,7 @@
 		"description": "Id: pj_unity_edition_czech_republic\nGroup: Names of paintjob accessories."
 	},
 	"pj_unity_edition_france": {
-		"message": "Unity Edition France",
+		"message": "Unity Edition 프랑스",
 		"description": "Id: pj_unity_edition_france\nGroup: Names of paintjob accessories."
 	},
 	"pj_unity_edition_germany": {
@@ -44408,7 +44408,7 @@
 		"description": "Id: pj_unity_edition_netherlands\nGroup: Names of paintjob accessories."
 	},
 	"pj_unity_edition_poland": {
-		"message": "Unity Edition Poland",
+		"message": "Unity Edition 폴란드",
 		"description": "Id: pj_unity_edition_poland\nGroup: Names of paintjob accessories."
 	},
 	"pj_unity_edition_portugal": {
@@ -44420,7 +44420,7 @@
 		"description": "Id: pj_unity_edition_russia\nGroup: Names of paintjob accessories."
 	},
 	"pj_unity_edition_slovakia": {
-		"message": "Unity Edition Slovakia",
+		"message": "Unity Edition 슬로바키아",
 		"description": "Id: pj_unity_edition_slovakia\nGroup: Names of paintjob accessories."
 	},
 	"pj_unity_edition_spain": {
@@ -44740,7 +44740,7 @@
 		"description": "Id: ls_a1_vievis_lithuania"
 	},
 	"ls_a2_e79_hemus_motorway_bulgaria": {
-		"message": "A2/E79 (Hemus Motorway), Bulgaria",
+		"message": "A2/E79 (Hemus Motorway), 불가리아",
 		"description": "Id: ls_a2_e79_hemus_motorway_bulgaria"
 	},
 	"ls_a2_greece": {
@@ -44788,7 +44788,7 @@
 		"description": "Id: ls_a49_e1_portugal_border_spain"
 	},
 	"ls_a61_e80_carcassone_france": {
-		"message": "A61/E80 (Carcassone), France",
+		"message": "A61/E80 (카르카손), 프랑스",
 		"description": "Id: ls_a61_e80_carcassone_france"
 	},
 	"ls_aarhus_denmark": {
@@ -44812,11 +44812,11 @@
 		"description": "Id: ls_ancona_italy"
 	},
 	"ls_antwerpen_center_belgium": {
-		"message": "Antwerpen Center, Belgium",
+		"message": "안트베르펜 중앙, 벨기에",
 		"description": "Id: ls_antwerpen_center_belgium"
 	},
 	"ls_antwerpen_container_port_belgium": {
-		"message": "Antwerpen Container Port, Belgium",
+		"message": "안트베르펜 컨테이너 항구, 벨기에",
 		"description": "Id: ls_antwerpen_container_port_belgium"
 	},
 	"ls_ap66_los_barrios_de_luna_spain": {
@@ -44872,7 +44872,7 @@
 		"description": "Id: ls_cernavoda_romania"
 	},
 	"ls_clermont_ferrand_france": {
-		"message": "Clermont-Ferrand, France",
+		"message": "클레르몽페랑, 프랑스",
 		"description": "Id: ls_clermont_ferrand_france"
 	},
 	"ls_d1_croatia": {
@@ -44880,7 +44880,7 @@
 		"description": "Id: ls_d1_croatia"
 	},
 	"ls_d7_rigny_usse_france": {
-		"message": "D7 (Rigny-Ussé), France",
+		"message": "D7 (리니-위세), 프랑스",
 		"description": "Id: ls_d7_rigny_usse_france"
 	},
 	"ls_d100_e80_turkey": {
@@ -44888,7 +44888,7 @@
 		"description": "Id: ls_d100_e80_turkey"
 	},
 	"ls_d941_le_puy_notre_dame_france": {
-		"message": "D941 (Le Puy-Notre-Dame), France",
+		"message": "D941 (르퓌-노트르담), 프랑스",
 		"description": "Id: ls_d941_le_puy_notre_dame_france"
 	},
 	"ls_daugavpils_latvia": {
@@ -44936,7 +44936,7 @@
 		"description": "Id: ls_duisburg_germany"
 	},
 	"ls_durres_albania": {
-		"message": "Durrës, Albania",
+		"message": "두러스, 알바니아",
 		"description": "Id: ls_durres_albania"
 	},
 	"ls_e25_mont_blanc_tunnel_italy": {
@@ -45064,7 +45064,7 @@
 		"description": "Id: ls_mytilene_lesbos_greece"
 	},
 	"ls_n12_a86_ile_de_france_france": {
-		"message": "N12/A86 (Île-de-France), 프랑스",
+		"message": "N12/A86 (일드프랑스), 프랑스",
 		"description": "Id: ls_n12_a86_ile_de_france_france"
 	},
 	"ls_narva_estonia": {
@@ -45092,7 +45092,7 @@
 		"description": "Id: ls_p4_zabljak_montenegro"
 	},
 	"ls_pireas_greece": {
-		"message": "Pireas, 그리스",
+		"message": "피레아스, 그리스",
 		"description": "Id: ls_pireas_greece"
 	},
 	"ls_porto_portugal": {
