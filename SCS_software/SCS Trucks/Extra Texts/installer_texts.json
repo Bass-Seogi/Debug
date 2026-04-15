@@ -12,7 +12,7 @@
         "description": "Id: not_found\nError message shown by DLC installer when the user selects folder which does not contain the game."
     },
     "not_dir": {
-        "message": "지정한 폴더가 존재하지 않습니다 당신은 {#BASE_PRODUCT_NAME} (이)가 들어있는 폴더를 선택해야합니다",
+        "message": "지정한 폴더가 존재하지 않습니다 당신은 {#BASE_PRODUCT_NAME}(이)가 들어있는 폴더를 선택해야 합니다.",
         "description": "Id: not_dir\nError message shown by DLC installer when the selected folder does not exist."
     }
 }

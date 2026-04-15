@@ -2017,7 +2017,7 @@ Achievement name for American Truck Simulator shown on the Steam website (http:/
       </trans-unit>
       <trans-unit id="462525" resname="NEW_ACHIEVEMENT_4_29_DESC">
         <source>Drive by the Billy The Kid Museum</source>
-        <target state="translated">Billy The Kid Museum를 지나 운전하십시오</target>
+        <target state="translated">Billy The Kid Museum를 지나십시오</target>
         <context-group purpose="information">
           <context context-type="source">NEW_ACHIEVEMENT_4_29_DESC
 
@@ -2027,7 +2027,7 @@ Achievement description for American Truck Simulator shown on the Steam website 
       </trans-unit>
       <trans-unit id="462527" resname="NEW_ACHIEVEMENT_4_29_SHORT">
         <source>Drive by the Billy The Kid Museum</source>
-        <target state="translated">Billy The Kid Museum를 지나 운전하십시오</target>
+        <target state="translated">Billy The Kid Museum를 지나십시오</target>
         <context-group purpose="information">
           <context context-type="source">NEW_ACHIEVEMENT_4_29_SHORT
 

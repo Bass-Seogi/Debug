@@ -7956,11 +7956,11 @@
 		"description": "Id: wanna_assistance_online\nGroup: Route adviser"
 	},
 	"wanna_recover": {
-		"message": "긴급출동 서비스가 당신과 트럭을 가장 가까운 도로로 안내해 드릴 수 있습니다. 비용은 $MONEY$이며, 여행에는 $TIME$이 소요됩니다.<br offset=30>동의하십니까?",
+		"message": "긴급출동 서비스가 당신과 트럭을 가장 가까운 도로로 안내해 드릴 수 있습니다. 비용은 $MONEY$이며 $TIME$이 소요됩니다.<br offset=30>동의하십니까?",
 		"description": "Id: wanna_recover\nGroup: Route adviser"
 	},
 	"wanna_recover_quick": {
-		"message": "긴급출동 서비스가 당신과 트럭을 가장 가까운 도로로 안내해 드릴 수 있습니다. 비용은 $MONEY$이며, 여행에는 $TIME$이 소요됩니다.<br>(비용은 고용주가 부담할 것입니다)<br offset=30>동의하십니까?",
+		"message": "긴급출동 서비스가 당신과 트럭을 가장 가까운 도로로 안내해 드릴 수 있습니다. 비용은 $MONEY$이며 $TIME$이 소요됩니다.<br>(비용은 고용주가 부담할 것입니다)<br offset=30>동의하십니까?",
 		"description": "Id: wanna_recover_quick\nGroup: Route adviser"
 	},
 	"wanna_recover_online": {
@@ -8576,7 +8576,7 @@
 		"description": "Id: adv_hud_finances_line\nWidget name for the current bank account balance and the last 7 days profit.\nGroup: Adviser Options\nGroup: Route adviser"
 	},
 	"adv_hud_finances_line_op_tooltip": {
-		"message": "총 은행 잔액과 7일 수익 흐름을 보여주며, 여기에는 동적 수익과 페널티가 포함됩니다.",
+		"message": "총 은행 잔액과 7일 수익 흐름을 보여주며, 여기에는 동적 수익과 위반이 포함됩니다.",
 		"description": "Id: adv_hud_finances_line_op_tooltip\nGroup: Adviser Options\nGroup: Route adviser"
 	},
 	"adv_hud_damage_line": {
@@ -8588,7 +8588,7 @@
 		"description": "Id: adv_hud_autopark\nGroup: Adviser Options\nGroup: Route adviser"
 	},
 	"adv_last_7_days": {
-		"message": "/ 7d",
+		"message": "/ 7일",
 		"description": "Id: adv_last_7_days\nIn the finances widget adviser profit for the last seven days is displayed using a profit icon and adv_in_7_days suffix. The suffix indicates the 7 day period and should be kept short due to limited space.\nGroup: Adviser Options\nGroup: Route adviser"
 	},
 	"adv_hud_invisible": {
@@ -11084,7 +11084,7 @@
 		"description": "Id: compman_most_profitable_title\nGroup: Company management screens"
 	},
 	"compman_graph_tooltip": {
-		"message": "지난 7일 동안의 회사 수익. 각 지점을 이동하여 정확한 일일 수익 가치를 확인하십시오.",
+		"message": "지난 7일간의 회사 수익. 각 지점을 이동하여 정확한 일일 수익 가치를 확인하십시오.",
 		"description": "Id: compman_graph_tooltip\nGroup: Company management screens"
 	},
 	"compman_graph_not_available": {
@@ -16340,7 +16340,7 @@
 		"description": "Id: trailer_status_on_job\nTrailer status name - trailer is being currently used on duty.\nGroup: Trailer ownership"
 	},
 	"trailer_utilization_last_7days": {
-		"message": "트레일러 사용 (지난 7일간)",
+		"message": "트레일러 사용 (지난 7일)",
 		"description": "Id: trailer_utilization_last_7days\nThe header of the trailer utilization graph.\nGroup: Trailer ownership"
 	},
 	"trailerman_current_state": {

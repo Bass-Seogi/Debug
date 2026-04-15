@@ -31,7 +31,7 @@ Error message shown by DLC installer when the user selects folder which does not
       </trans-unit>
       <trans-unit id="46054" resname="not_dir">
         <source>The specified folder does not exist. You need to select the folder containing {#BASE_PRODUCT_NAME}.</source>
-        <target state="translated">지정한 폴더가 존재하지 않습니다 당신은 {#BASE_PRODUCT_NAME} (이)가 들어있는 폴더를 선택해야합니다</target>
+        <target state="translated">지정한 폴더가 존재하지 않습니다 당신은 {#BASE_PRODUCT_NAME}(이)가 들어있는 폴더를 선택해야 합니다.</target>
         <context-group purpose="information">
           <context context-type="source">Id: not_dir
 Error message shown by DLC installer when the selected folder does not exist.</context>
