@@ -7,7 +7,7 @@
     <body>
       <trans-unit id="38" resname="NEW_ACHIEVEMENT_4_9_NAME">
         <source>Not a Problem</source>
-        <target state="translated">문제 없어</target>
+        <target state="translated">문제는 아니지</target>
         <context-group purpose="information">
           <context context-type="source">NEW_ACHIEVEMENT_4_9_NAME
 

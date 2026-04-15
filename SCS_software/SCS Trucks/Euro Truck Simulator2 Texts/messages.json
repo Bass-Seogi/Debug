@@ -9120,7 +9120,7 @@
 		"description": "Id: skill_distance_title\nGroup: Informations about individual ranks of Long distance skill.\nGroup: Skills screen\nAllows the player to use gained experience points to improve various skills."
 	},
 	"skill_distance_info": {
-		"message": "당신의 @@skill_distance_title@ 기술이 근무 중 이동할 수 있는 최대 거리를 결정합니다.",
+		"message": "당신의 @@skill_distance_title@@ 기술이 근무 중 이동할 수 있는 최대 거리를 결정합니다.",
 		"description": "Id: skill_distance_info\nGroup: Informations about individual ranks of Long distance skill.\nGroup: Skills screen\nAllows the player to use gained experience points to improve various skills."
 	},
 	"long_dist_desc_distance": {
@@ -9152,7 +9152,7 @@
 		"description": "Id: skill_heavy_title\nGroup: Informations about individual ranks of High Value Cargo skill.\nGroup: Skills screen\nAllows the player to use gained experience points to improve various skills."
 	},
 	"skill_heavy_info": {
-		"message": "당신의 @@skill_heavy_title@ 기술은 기업들이 당신을 얼마나 신뢰하는지를 결정합니다.",
+		"message": "당신의 @@skill_heavy_title@@ 기술은 기업들이 당신을 얼마나 신뢰하는지를 결정합니다.",
 		"description": "Id: skill_heavy_info\nGroup: Informations about individual ranks of High Value Cargo skill.\nGroup: Skills screen\nAllows the player to use gained experience points to improve various skills."
 	},
 	"valuable_desc_initial": {
@@ -9172,7 +9172,7 @@
 		"description": "Id: skill_jit_title\nGroup: Informations about individual ranks of Just-In-Time Delivery skill.\nGroup: Skills screen\nAllows the player to use gained experience points to improve various skills."
 	},
 	"skill_jit_info": {
-		"message": "당신의 @@skill_jit_title@ 기술이 빠듯한 마감일에 대한 보상을 결정합니다.",
+		"message": "당신의 @@skill_jit_title@@ 기술이 빠듯한 마감일에 대한 보상을 결정합니다.",
 		"description": "Id: skill_jit_info\nGroup: Informations about individual ranks of Just-In-Time Delivery skill.\nGroup: Skills screen\nAllows the player to use gained experience points to improve various skills."
 	},
 	"urgent_desc_initial_important": {
@@ -9204,7 +9204,7 @@
 		"description": "Id: skill_fragile_title\nGroup: Informations about individual ranks of Fragile Cargo skill.\nGroup: Skills screen\nAllows the player to use gained experience points to improve various skills."
 	},
 	"skill_fragile_info": {
-		"message": "당신의 @@skill_fragile_title@ 기술이 섬세한 물품을 운반하는 능력을 결정합니다.",
+		"message": "당신의 @@skill_fragile_title@@ 기술이 섬세한 물품을 운반하는 능력을 결정합니다.",
 		"description": "Id: skill_fragile_info\nGroup: Informations about individual ranks of Fragile Cargo skill.\nGroup: Skills screen\nAllows the player to use gained experience points to improve various skills."
 	},
 	"fragile_desc_initial": {
@@ -9224,7 +9224,7 @@
 		"description": "Id: skill_mechanical_title\nGroup: Informations about individual ranks of Ecodriving skill.\nGroup: Skills screen\nAllows the player to use gained experience points to improve various skills."
 	},
 	"skill_mechanical_info": {
-		"message": "당신의 @@skill_mechanical_title@ 기술은 연료 소비를 줄여줍니다.",
+		"message": "당신의 @@skill_mechanical_title@@ 기술은 연료 소비를 줄여줍니다.",
 		"description": "Id: skill_mechanical_info\nGroup: Informations about individual ranks of Ecodriving skill.\nGroup: Skills screen\nAllows the player to use gained experience points to improve various skills."
 	},
 	"ecodriving_desc_saved": {
@@ -30224,7 +30224,7 @@
 		"description": "Id: badge_v8\nGroup: Accessory Names"
 	},
 	"badge_v8_classic": {
-		"message": "V8 Classic",
+		"message": "V8 클래식",
 		"description": "Id: badge_v8_classic\nGroup: Accessory Names"
 	},
 	"badge_vabis": {
@@ -35424,7 +35424,7 @@
 		"description": "Id: fcover_coronet_painted\nGroup: Accessory Names"
 	},
 	"fcover_daf_eindhoven_special": {
-		"message": "DAF 아인트호벤 Special",
+		"message": "DAF 에인트호벤 Special",
 		"description": "Id: fcover_daf_eindhoven_special\nGroup: Accessory Names"
 	},
 	"fcover_daf_pacific": {
@@ -41012,7 +41012,7 @@
 		"description": "Id: toy_jcb_thermos\nGroup: Accessory Names"
 	},
 	"toy_jochen_hahn_iveco_model_1_50": {
-		"message": "Jochen Hahn Iveco Model 1:50",
+		"message": "Jochen Hahn Iveco 모델 1:50",
 		"description": "Id: toy_jochen_hahn_iveco_model_1_50\nGroup: Accessory Names"
 	},
 	"toy_kassbohrer_blanket": {
@@ -42228,7 +42228,7 @@
 		"description": "Id: pj_belgian_flag_decal\nGroup: Names of paintjob accessories."
 	},
 	"pj_belgian_flag_metallic": {
-		"message": "Belgian Flag Metallic",
+		"message": "벨기에 깃발 메탈릭",
 		"description": "Id: pj_belgian_flag_metallic\nGroup: Names of paintjob accessories."
 	},
 	"pj_bering_white": {
@@ -42592,7 +42592,7 @@
 		"description": "Id: pj_daf_original\nGroup: Names of paintjob accessories."
 	},
 	"pj_daf_pure_excellence": {
-		"message": "DAF Pure Excellence",
+		"message": "DAF Pure 엑설런스",
 		"description": "Id: pj_daf_pure_excellence\nGroup: Names of paintjob accessories."
 	},
 	"pj_daf_start_the_future": {
@@ -42608,7 +42608,7 @@
 		"description": "Id: pj_danish_explorer\nGroup: Names of paintjob accessories."
 	},
 	"pj_danish_fan_ribbon": {
-		"message": "Danish Fan Ribbon",
+		"message": "Danish 팬 리본",
 		"description": "Id: pj_danish_fan_ribbon\nGroup: Names of paintjob accessories."
 	},
 	"pj_danish_flag_decal": {
@@ -42892,7 +42892,7 @@
 		"description": "Id: pj_gentian_blue_ral_5010\nGroup: Names of paintjob accessories."
 	},
 	"pj_german_fan_ribbon": {
-		"message": "German Fan Ribbon",
+		"message": "German 팬 리본",
 		"description": "Id: pj_german_fan_ribbon\nGroup: Names of paintjob accessories."
 	},
 	"pj_german_flag_decal": {
@@ -43204,7 +43204,7 @@
 		"description": "Id: pj_kassbohrer_dark_steel\nGroup: Names of paintjob accessories."
 	},
 	"pj_kassbohrer_excellence": {
-		"message": "Kässbohrer 고급형",
+		"message": "Kässbohrer 엑설런스",
 		"description": "Id: pj_kassbohrer_excellence\nGroup: Names of paintjob accessories."
 	},
 	"pj_kassbohrer_first_ever": {
