@@ -504,7 +504,7 @@
 		"description": "Id: sctrl_action_simple_cancel\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"steam_sctrl_action_simple_context1": {
-		"message": "컨텍스트 1 버튼",
+		"message": "상황별 1 버튼",
 		"description": "Id: sctrl_action_simple_context1\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"codriver_plate_t": {
@@ -516,11 +516,11 @@
 		"description": "Id: truck_upgrades_t\nTitle of the screen. Please keep in upper case where possible.\"\nGroup: Screen showing list of the upgrades."
 	},
 	"steam_sctrl_action_simple_context2": {
-		"message": "컨텍스트 2 버튼",
+		"message": "상황별 2 버튼",
 		"description": "Id: sctrl_action_simple_context2\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"steam_sctrl_action_simple_context3": {
-		"message": "컨텍스트 3 버튼",
+		"message": "상황별 3 버튼",
 		"description": "Id: sctrl_action_simple_context3\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"trailer_upgrades_t": {
@@ -532,7 +532,7 @@
 		"description": "Id: truck_upgrades\nThe name of the screen containing truck upgrades.\nGroup: Screen showing list of the upgrades."
 	},
 	"steam_sctrl_action_simple_context4": {
-		"message": "컨텍스트 4 버튼",
+		"message": "상황별 4 버튼",
 		"description": "Id: sctrl_action_simple_context4\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"trailer_upgrades": {
@@ -7288,7 +7288,7 @@
 		"description": "Id: brightness_confirm\nGroup: Options/Brightness\nScreen used to configure brightness related options."
 	},
 	"brightness_reset": {
-		"message": "초기화",
+		"message": "재설정",
 		"description": "Id: brightness_reset\nGroup: Options/Brightness\nScreen used to configure brightness related options."
 	},
 	"brightness_slider_tooltip": {
@@ -21044,7 +21044,7 @@
 		"description": "Id: nm_cut_us84\nGoogle maps link: Unavailable\nGroup: Names of point of interest cutscenes."
 	},
 	"nm_cut_66w": {
-		"message": "루트 66w 휴게소",
+		"message": "국도 66w 휴게소",
 		"description": "Id: nm_cut_66w\nGoogle maps link: https://goo.gl/maps/5s5spQWHApfJfNnV6\nGroup: Names of point of interest cutscenes."
 	},
 	"nm_cut_us82": {
@@ -21812,7 +21812,7 @@
 		"description": "Id: landmark_ok_skydance\nGroup: Names of landmarks."
 	},
 	"landmark_ok_rt66": {
-		"message": "루트 66w 박물관",
+		"message": "66번 국도 박물관",
 		"description": "Id: landmark_ok_rt66\nGroup: Names of landmarks."
 	},
 	"landmark_ok_hericent": {
@@ -39804,7 +39804,7 @@
 		"description": "Id: ls_st_joseph"
 	},
 	"ls_state_route_20_washington_mountains": {
-		"message": "State Route 20 (워싱턴 산맥)",
+		"message": "주립 도로 20 (워싱턴 산맥)",
 		"description": "Id: ls_state_route_20_washington_mountains"
 	},
 	"ls_steamboat_springs": {
@@ -39856,91 +39856,91 @@
 		"description": "Id: ls_united_church_jonesboro"
 	},
 	"ls_us_route_2_two_medicine_river": {
-		"message": "U.S. Route 2 (Two Medicine River)",
+		"message": "U.S. 국도 2 (투 메디신 리버)",
 		"description": "Id: ls_us_route_2_two_medicine_river"
 	},
 	"ls_us_route_6_glenwood_canyon": {
-		"message": "U.S. Route 6 (글렌우드 캐니언)",
+		"message": "U.S. 국도 6 (글렌우드 캐니언)",
 		"description": "Id: ls_us_route_6_glenwood_canyon"
 	},
 	"ls_us_route_26_shoshone": {
-		"message": "U.S. Route 26 (쇼숀)",
+		"message": "U.S. 국도 26 (쇼쇼니)",
 		"description": "Id: ls_us_route_26_shoshone"
 	},
 	"ls_us_route_26_snake_river_plain": {
-		"message": "U.S. Route 26 (스네이크 리버 평원)",
+		"message": "U.S. 국도 26 (스네이크 리버 평원)",
 		"description": "Id: ls_us_route_26_snake_river_plain"
 	},
 	"ls_us_route_62_el_capitan": {
-		"message": "U.S. Route 62 (엘 카피탄)",
+		"message": "U.S. 국도 62 (엘 카피탄)",
 		"description": "Id: ls_us_route_62_el_capitan"
 	},
 	"ls_us_route_62_salt_flats": {
-		"message": "U.S. Route 62 (소금 평원)",
+		"message": "U.S. 국도 62 (소금 평원)",
 		"description": "Id: ls_us_route_62_salt_flats"
 	},
 	"ls_us_route_64": {
-		"message": "U.S. Route 64",
+		"message": "U.S. 국도 64",
 		"description": "Id: ls_us_route_64"
 	},
 	"ls_us_route_70_lake_texoma": {
-		"message": "U.S. Route 70 (텍소마 레이크)",
+		"message": "U.S. 국도 70 (텍소마 레이크)",
 		"description": "Id: ls_us_route_70_lake_texoma"
 	},
 	"ls_us_route_75_durant": {
-		"message": "U.S. Route 75 (듀런트)",
+		"message": "U.S. 국도 75 (듀런트)",
 		"description": "Id: ls_us_route_75_durant"
 	},
 	"ls_us_route_82_little_lake_bayou": {
-		"message": "U.S. Route 82 (리틀 레이크 바이우)",
+		"message": "U.S. 국도 82 (리틀 레이크 바이우)",
 		"description": "Id: ls_us_route_82_little_lake_bayou"
 	},
 	"ls_us_route_89_richfield": {
-		"message": "U.S. Route 89 (리치필드)",
+		"message": "U.S. 국도 89 (리치필드)",
 		"description": "Id: ls_us_route_89_richfield"
 	},
 	"ls_us_route_89_sevier": {
-		"message": "U.S. Route 89 (세비어)",
+		"message": "U.S. 국도 89 (세비어)",
 		"description": "Id: ls_us_route_89_sevier"
 	},
 	"ls_us_route_93": {
-		"message": "U.S. Route 93",
+		"message": "U.S. 국도 93",
 		"description": "Id: ls_us_route_93"
 	},
 	"ls_us_route_93_flathead_lake": {
-		"message": "U.S. Route 93 (플랫헤드 호)",
+		"message": "U.S. 국도 93 (플랫헤드 호)",
 		"description": "Id: ls_us_route_93_flathead_lake"
 	},
 	"ls_us_route_101_san_francisco": {
-		"message": "U.S. Route 101 (샌프란시스코)",
+		"message": "U.S. 국도 101 (샌프란시스코)",
 		"description": "Id: ls_us_route_101_san_francisco"
 	},
 	"ls_us_route_191_flaming_gorge": {
-		"message": "U.S. Route 191 (플레이밍 고지)",
+		"message": "U.S. 국도 191 (플레이밍 고지)",
 		"description": "Id: ls_us_route_191_flaming_gorge"
 	},
 	"ls_us_route_191_san_juan_county": {
-		"message": "U.S. Route 191 (샌환 군)",
+		"message": "U.S. 국도 191 (샌환 군)",
 		"description": "Id: ls_us_route_191_san_juan_county"
 	},
 	"ls_us_route_197": {
-		"message": "U.S. Route 197",
+		"message": "U.S. 국도 197",
 		"description": "Id: ls_us_route_197"
 	},
 	"ls_us_route_350_wind_farm_colorado": {
-		"message": "U.S. Route 350 (콜로라도 풍력 발전소)",
+		"message": "U.S. 국도 350 (콜로라도 풍력 발전소)",
 		"description": "Id: ls_us_route_350_wind_farm_colorado"
 	},
 	"ls_us_route_400": {
-		"message": "U.S. Route 400",
+		"message": "U.S. 국도 400",
 		"description": "Id: ls_us_route_400"
 	},
 	"ls_us_route_412": {
-		"message": "U.S. Route 412",
+		"message": "U.S. 국도 412",
 		"description": "Id: ls_us_route_412"
 	},
 	"ls_us_route_550_ouray": {
-		"message": "U.S. Route 550 (우레이)",
+		"message": "U.S. 국도 550 (우레이)",
 		"description": "Id: ls_us_route_550_ouray"
 	},
 	"ls_wichita": {

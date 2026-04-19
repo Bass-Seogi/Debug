@@ -514,7 +514,7 @@ Short version of achievement description for American Truck Simulator. Must fit 
       </trans-unit>
       <trans-unit id="70" resname="NEW_ACHIEVEMENT_4_17_NAME">
         <source>Copper State</source>
-        <target state="translated">구리 상태</target>
+        <target state="translated">코퍼 스테이트</target>
         <context-group purpose="information">
           <context context-type="source">NEW_ACHIEVEMENT_4_17_NAME
 
@@ -614,7 +614,7 @@ Achievement name for American Truck Simulator shown on the Steam website (http:/
       </trans-unit>
       <trans-unit id="80" resname="NEW_ACHIEVEMENT_4_19_DESC">
         <source>Get on the start of the Truck Racing circuit</source>
-        <target state="translated">트럭 레이싱 서킷을 방문하십시오</target>
+        <target state="translated">트럭 레이싱 서킷의 출발선에 서십시오</target>
         <context-group purpose="information">
           <context context-type="source">NEW_ACHIEVEMENT_4_19_DESC
 
@@ -624,7 +624,7 @@ Achievement description for American Truck Simulator shown on the Steam website 
       </trans-unit>
       <trans-unit id="462355" resname="NEW_ACHIEVEMENT_4_19_SHORT">
         <source>Get on the start of the Truck Racing circuit</source>
-        <target state="translated">트럭 레이싱 서킷을 방문하십시오</target>
+        <target state="translated">트럭 레이싱 서킷의 출발선에 서십시오</target>
         <context-group purpose="information">
           <context context-type="source">NEW_ACHIEVEMENT_4_19_SHORT
 
@@ -1069,7 +1069,7 @@ Achievement name for American Truck Simulator shown on the Steam website (http:/
       </trans-unit>
       <trans-unit id="462401" resname="NEW_ACHIEVEMENT_33_1_DESC">
         <source>Drive through the Eisenhower-Johnson Memorial Tunnel, the highest point on the US Interstate Highway System, in both directions</source>
-        <target state="translated">미국 주간 고속도로 중 가장 높은 곳에 자리한 Eisenhower-Johnson Memorial Tunnel을 양방향으로 통과하십시오</target>
+        <target state="translated">미국 주간 고속도로 중 가장 높은 곳에 자리한 아이젠하워-존슨 기념 터널을 양방향으로 통과하십시오</target>
         <context-group purpose="information">
           <context context-type="source">NEW_ACHIEVEMENT_33_1_DESC
 
@@ -1079,7 +1079,7 @@ Achievement description for American Truck Simulator shown on the Steam website 
       </trans-unit>
       <trans-unit id="462403" resname="NEW_ACHIEVEMENT_33_1_SHORT">
         <source>Drive through the Eisenhower-Johnson Memorial Tunnel in both directions</source>
-        <target state="translated">Eisenhower-Johnson Memorial Tunnel을 양방향으로 통과하십시오</target>
+        <target state="translated">아이젠하워-존슨 기념 터널을 양방향으로 통과하십시오</target>
         <context-group purpose="information">
           <context context-type="source">NEW_ACHIEVEMENT_33_1_SHORT
 
@@ -1226,7 +1226,7 @@ Achievement name for American Truck Simulator shown on the Steam website (http:/
       </trans-unit>
       <trans-unit id="462421" resname="NEW_ACHIEVEMENT_33_2_DESC">
         <source>Deliver a Tower and Nacelle to at least 1 Vitas Power wind turbine construction site in Colorado</source>
-        <target state="translated">콜로라도 내 Vitas Power 풍력 터빈 건설 현장 1곳에 풍력발전기 기둥과 나셀을 배송하십시오</target>
+        <target state="translated">콜로라도 내 비타스 파워 풍력 터빈 건설 현장 1곳에 풍력발전기 기둥과 나셀을 배송하십시오</target>
         <context-group purpose="information">
           <context context-type="source">NEW_ACHIEVEMENT_33_2_DESC
 
@@ -1236,7 +1236,7 @@ Achievement description for American Truck Simulator shown on the Steam website 
       </trans-unit>
       <trans-unit id="462423" resname="NEW_ACHIEVEMENT_33_2_SHORT">
         <source>Deliver a Tower and Nacelle to at least 1 Vitas Power wind turbine construction site in Colorado</source>
-        <target state="translated">콜로라도 내 Vitas Power 풍력 터빈 건설 현장 1곳에 풍력발전기 기둥과 나셀을 배송하십시오</target>
+        <target state="translated">콜로라도 내 비타스 파워 풍력 터빈 건설 현장 1곳에 풍력발전기 기둥과 나셀을 배송하십시오</target>
         <context-group purpose="information">
           <context context-type="source">NEW_ACHIEVEMENT_33_2_SHORT
 
@@ -1967,7 +1967,7 @@ Achievement description for American Truck Simulator shown on the Steam website 
       </trans-unit>
       <trans-unit id="462519" resname="NEW_ACHIEVEMENT_70_2_SHORT">
         <source>Make 3 deliveries from Utility Vehicle Factory (Lincoln) to RV dealers (Omaha, Norfolk, Columbus)</source>
-        <target state="translated">Utility Vehicle Factory(Lincoln)에서 RV 딜러(Omaha, Norfolk, Columbus)로 3회 배송</target>
+        <target state="translated">링컨의 유틸리티 차량 공장에서 오마하, 노퍽, 콜럼버스의 각 RV 딜러로 3회 배송</target>
         <context-group purpose="information">
           <context context-type="source">NEW_ACHIEVEMENT_70_2_SHORT
 
@@ -2017,7 +2017,7 @@ Achievement name for American Truck Simulator shown on the Steam website (http:/
       </trans-unit>
       <trans-unit id="462525" resname="NEW_ACHIEVEMENT_4_29_DESC">
         <source>Drive by the Billy The Kid Museum</source>
-        <target state="translated">Billy The Kid Museum를 지나십시오</target>
+        <target state="translated">빌리 더 키드 박물관을 지나십시오</target>
         <context-group purpose="information">
           <context context-type="source">NEW_ACHIEVEMENT_4_29_DESC
 
@@ -2027,7 +2027,7 @@ Achievement description for American Truck Simulator shown on the Steam website 
       </trans-unit>
       <trans-unit id="462527" resname="NEW_ACHIEVEMENT_4_29_SHORT">
         <source>Drive by the Billy The Kid Museum</source>
-        <target state="translated">Billy The Kid Museum를 지나십시오</target>
+        <target state="translated">빌리 더 키드 박물관을 지나십시오</target>
         <context-group purpose="information">
           <context context-type="source">NEW_ACHIEVEMENT_4_29_SHORT
 

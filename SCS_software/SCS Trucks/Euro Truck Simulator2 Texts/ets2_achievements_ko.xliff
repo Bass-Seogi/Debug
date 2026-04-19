@@ -1060,7 +1060,7 @@ Short version of achievement description for Euro Truck Simulator 2. Must fit wi
       </trans-unit>
       <trans-unit id="401826" resname="NEW_ACHIEVEMENT_29_28_NAME">
         <source>Rowing Through the Gears</source>
-        <target state="translated">기어 속 노 젓기</target>
+        <target state="translated">기어를 바꿔가며 노를 젓기</target>
         <context-group purpose="information">
           <context context-type="source">NEW_ACHIEVEMENT_29_28_NAME
 
@@ -1651,7 +1651,7 @@ Achievement name for Euro Truck Simulator 2 shown on the Steam website (http://s
       </trans-unit>
       <trans-unit id="462095" resname="NEW_ACHIEVEMENT_29_16_DESC">
         <source>Complete a delivery from Lisbon, Seville, and Pamplona to A Coruña</source>
-        <target state="translated">리스본, 세비야 그리고 팜플로나에서 라코루냐로 화물을 운송하십시오</target>
+        <target state="translated">리스본, 세비야 그리고 팜플로나에서 아코루냐로 화물을 운송하십시오</target>
         <context-group purpose="information">
           <context context-type="source">NEW_ACHIEVEMENT_29_16_DESC
 
@@ -1661,7 +1661,7 @@ Achievement description for Euro Truck Simulator 2 shown on the Steam website (h
       </trans-unit>
       <trans-unit id="462097" resname="NEW_ACHIEVEMENT_29_16_SHORT">
         <source>Complete a delivery from Lisbon, Seville, and Pamplona to A Coruña</source>
-        <target state="translated">리스본, 세비야 그리고 팜플로나에서 라코루냐로 화물을 운송하십시오</target>
+        <target state="translated">리스본, 세비야 그리고 팜플로나에서 아코루냐로 화물을 운송하십시오</target>
         <context-group purpose="information">
           <context context-type="source">NEW_ACHIEVEMENT_29_16_SHORT
 

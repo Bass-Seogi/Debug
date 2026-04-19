@@ -14000,7 +14000,7 @@
 		"description": "Id: ukraine\nGroup: Names of countries"
 	},
 	"a_coruna": {
-		"message": "라코루냐",
+		"message": "아코루냐",
 		"description": "Id: a_coruna\nGroup: Names of cities"
 	},
 	"aalborg": {
@@ -14828,7 +14828,7 @@
 		"description": "Id: ljubljana\nGroup: Names of cities"
 	},
 	"lleida": {
-		"message": "레리다",
+		"message": "예이다",
 		"description": "Id: lleida\nGroup: Names of cities"
 	},
 	"lodz": {
@@ -15028,7 +15028,7 @@
 		"description": "Id: olbia\nGroup: Names of cities"
 	},
 	"olhao": {
-		"message": "올량",
+		"message": "올랴오",
 		"description": "Id: olhao\nGroup: Names of cities"
 	},
 	"olkiluoto": {
@@ -15152,7 +15152,7 @@
 		"description": "Id: podgorica\nGroup: Names of cities"
 	},
 	"ponte_de_sor": {
-		"message": "폰트드소르",
+		"message": "폰테 데 소르",
 		"description": "Id: ponte_de_sor\nGroup: Names of cities"
 	},
 	"pori": {
@@ -15164,7 +15164,7 @@
 		"description": "Id: port_de_sagunt\nGroup: Names of cities"
 	},
 	"porto": {
-		"message": "포르투",
+		"message": "포르토",
 		"description": "Id: porto\nGroup: Names of cities"
 	},
 	"porto_torres": {
@@ -23572,11 +23572,11 @@
 		"description": "Id: ibe_cut_lisboa\nGroup: Names of viewpoint cutscenes"
 	},
 	"ibe_cut_olhao": {
-		"message": "올량",
+		"message": "올랴오",
 		"description": "Id: ibe_cut_olhao\nGroup: Names of viewpoint cutscenes"
 	},
 	"ibe_cut_porto": {
-		"message": "포르투 항구",
+		"message": "포르토 항구",
 		"description": "Id: ibe_cut_porto\nGroup: Names of viewpoint cutscenes"
 	},
 	"ibe_cut_puertollano": {
@@ -24172,7 +24172,7 @@
 		"description": "Id: landmark_guadiana\nGroup: Names of landmarks"
 	},
 	"landmark_stadiumporto": {
-		"message": "포르투의 드래곤 경기장",
+		"message": "포르토의 드래곤 경기장",
 		"description": "Id: landmark_stadiumporto\nGroup: Names of landmarks"
 	},
 	"landmark_lisbon": {

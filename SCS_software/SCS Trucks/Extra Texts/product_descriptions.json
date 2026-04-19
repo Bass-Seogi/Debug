@@ -48,11 +48,11 @@
     "description": "Long description for ETS2 Krone Trailer Pack."
   },
   "ets2_wielton_short_description": {
-    "message": "Wielton 트레일러로 도로의 왕처럼 화물을 운반하세요! Wielton Trailer Pack DLC에는 여러 트레일러 유형, 다양한 트레일러 및 섀시 크기, 캐빈 액세서리, 사용자 정의 옵션을 포함한 공식 라이선스 콘텐츠가 포함되어 있습니다.",
+    "message": "Wielton 트레일러로 도로의 왕처럼 화물을 운반하세요! Wielton Trailer Pack DLC에는 여러 트레일러 유형, 다양한 트레일러 및 샤시 크기, 캐빈 액세서리, 사용자 정의 옵션을 포함한 공식 라이선스 콘텐츠가 포함되어 있습니다.",
     "description": "Short description for ETS2 Wielton Trailer Pack."
   },
   "ets2_wielton_long_description": {
-    "message": "1996년에 설립된 Wielton S.A.는 유럽 최고의 세미트레일러 및 트레일러 제조업체 중 하나가 되었습니다. Wielton은 품질, 내구성 및 혁신에 중점을 두고 다양한 고객의 다양한 요구를 충족하는 뛰어난 트레일러를 지속적으로 제공합니다.\n\nWielton Trailer Pack DLC에는 다양한 트레일러 및 섀시 크기, 캐빈 액세서리 및 사용자 정의 옵션이 있는 여러 트레일러 유형을 포함한 공식 라이선스 콘텐츠가 포함되어 있습니다.\n\n이 DLC의 콘텐츠에는 다음이 포함됩니다:\n\n- Bulk Master - High Volume Dumper\n- Strong Master - Steel Dumper (3 axle and 4 axle)\n- Weight Master - Aluminum Dumper\n- Curtain Master - Curtain Sider\n- Dropside Master - Dropside\n- Dry Master - Dry Van (2 axle and 3 axle)\n- Container Master NS3 P20 SL\n- Container Master NS3 P40 SL\n- Scrap Master - Dumper for Scrap Metal\n\n이 DLC 팩에는 도구 상자, 측면 보호 장치, 물 탱크, 소화기, 스페어 타이어, 머드플랩, 펜더, 뒷문, 공식 라이선스 트레일러 페인트 작업 등 다양한 액세서리 옵션도 포함되어 있습니다.",
+    "message": "1996년에 설립된 Wielton S.A.는 유럽 최고의 세미트레일러 및 트레일러 제조업체 중 하나가 되었습니다. Wielton은 품질, 내구성 및 혁신에 중점을 두고 다양한 고객의 다양한 요구를 충족하는 뛰어난 트레일러를 지속적으로 제공합니다.\n\nWielton Trailer Pack DLC에는 다양한 트레일러 및 샤시 크기, 캐빈 액세서리 및 사용자 정의 옵션이 있는 여러 트레일러 유형을 포함한 공식 라이선스 콘텐츠가 포함되어 있습니다.\n\n이 DLC의 콘텐츠에는 다음이 포함됩니다:\n\n- Bulk Master - High Volume Dumper\n- Strong Master - Steel Dumper (3 axle and 4 axle)\n- Weight Master - Aluminum Dumper\n- Curtain Master - Curtain Sider\n- Dropside Master - Dropside\n- Dry Master - Dry Van (2 axle and 3 axle)\n- Container Master NS3 P20 SL\n- Container Master NS3 P40 SL\n- Scrap Master - Dumper for Scrap Metal\n\n이 DLC 팩에는 도구 상자, 측면 보호 장치, 물 탱크, 소화기, 스페어 타이어, 머드플랩, 펜더, 뒷문, 공식 라이선스 트레일러 페인트 작업 등 다양한 액세서리 옵션도 포함되어 있습니다.",
     "description": "Long description for ETS2 Wielton Trailer Pack."
   },
   "ets2_flags_short_description": {
@@ -204,7 +204,7 @@
     "description": "Short description for ETS2 Force of Nature Paint Jobs Pack."
   },
   "ets2_force_of_nature_paint_jobs_pack_long_description": {
-    "message": "원소의 힘에서 영감을 받은 6가지 인상적인 도색 중에서 선택하여 트럭을 맞춤 설정하십시오!\n\n포함된 페인트 구성표:\n\n- 타오르는 불\n- 번개 볼트\n- 마그마 열\n- 물 급증\n- 연기 퍼프\n- 인간의 정신\n이러한 강력한 테마는 모두 8x4 섀시 구성을 제외한 모든 게임 내 트럭에 적용할 수 있습니다.",
+    "message": "원소의 힘에서 영감을 받은 6가지 인상적인 도색 중에서 선택하여 트럭을 맞춤 설정하십시오!\n\n포함된 페인트 구성표:\n\n- 타오르는 불\n- 번개 볼트\n- 마그마 열\n- 물 급증\n- 연기 퍼프\n- 인간의 정신\n이러한 강력한 테마는 모두 8x4 샤시 구성을 제외한 모든 게임 내 트럭에 적용할 수 있습니다.",
     "description": "Long description for ETS2 Force of Nature Paint Jobs Pack."
   },
   "ets2_ice_cold_paint_jobs_pack_short_description": {
