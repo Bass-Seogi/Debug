@@ -508,11 +508,11 @@
 		"description": "Id: codriver_plate_t\nTitle of window used to enter text for the co-driver's plate."
 	},
 	"steam_sctrl_action_simple_context1": {
-		"message": "컨텍스트 1 버튼",
+		"message": "상황별 1 버튼",
 		"description": "Id: sctrl_action_simple_context1\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"steam_sctrl_action_simple_context2": {
-		"message": "컨텍스트 2 버튼",
+		"message": "상황별 2 버튼",
 		"description": "Id: sctrl_action_simple_context2\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"truck_upgrades_t": {
@@ -520,7 +520,7 @@
 		"description": "Id: truck_upgrades_t\nTitle of the screen. Please keep in upper case where possible.\"\nGroup: Screen showing list of the upgrades."
 	},
 	"steam_sctrl_action_simple_context3": {
-		"message": "컨텍스트 3 버튼",
+		"message": "상황별 3 버튼",
 		"description": "Id: sctrl_action_simple_context3\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"trailer_upgrades_t": {
@@ -528,7 +528,7 @@
 		"description": "Id: trailer_upgrades_t\nTitle of the screen. Please keep in upper case where possible.\"\nGroup: Screen showing list of the upgrades."
 	},
 	"steam_sctrl_action_simple_context4": {
-		"message": "컨텍스트 4 버튼",
+		"message": "상황별 4 버튼",
 		"description": "Id: sctrl_action_simple_context4\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"truck_upgrades": {
@@ -7320,7 +7320,7 @@
 		"description": "Id: brightness_confirm\nGroup: Options/Brightness\nScreen used to configure brightness related options."
 	},
 	"brightness_reset": {
-		"message": "초기화",
+		"message": "재설정",
 		"description": "Id: brightness_reset\nGroup: Options/Brightness\nScreen used to configure brightness related options."
 	},
 	"brightness_slider_tooltip": {
@@ -14060,7 +14060,7 @@
 		"description": "Id: andenes\nGroup: Names of cities"
 	},
 	"antwerp": {
-		"message": "앤트워프",
+		"message": "안트베르펜",
 		"description": "Id: antwerp\nGroup: Names of cities"
 	},
 	"argostoli": {
@@ -14352,7 +14352,7 @@
 		"description": "Id: dresden\nGroup: Names of cities"
 	},
 	"duisburg": {
-		"message": "뒤스부르크",
+		"message": "두이스부르크",
 		"description": "Id: duisburg\nGroup: Names of cities"
 	},
 	"dusseldorf": {
@@ -14372,7 +14372,7 @@
 		"description": "Id: edirne\nGroup: Names of cities"
 	},
 	"eindhoven": {
-		"message": "에인트호벤",
+		"message": "아인트호벤",
 		"description": "Id: eindhoven\nGroup: Names of cities"
 	},
 	"el_ejido": {
@@ -14380,7 +14380,7 @@
 		"description": "Id: el_ejido\nGroup: Names of cities"
 	},
 	"erfurt": {
-		"message": "에어푸르트",
+		"message": "에르푸르트",
 		"description": "Id: erfurt\nGroup: Names of cities"
 	},
 	"esbjerg": {
@@ -15600,7 +15600,7 @@
 		"description": "Id: wien\nGroup: Names of cities"
 	},
 	"werlte": {
-		"message": "웰터",
+		"message": "베를테",
 		"description": "Id: werlte\nGroup: Names of cities"
 	},
 	"winsen": {
@@ -23320,7 +23320,7 @@
 		"description": "Id: de_cut_rostock\nGoogle maps: https://goo.gl/maps/BTZ9Wb4RBGWGRKdJ8\nGroup: Names of viewpoint cutscenes"
 	},
 	"de_cut_duisburg": {
-		"message": "뒤스부르크 도심",
+		"message": "두이스부르크 도심",
 		"description": "Id: de_cut_duisburg\nGoogle maps: https://maps.app.goo.gl/d5vP7oAXrkR81Hp5A\nGroup: Names of viewpoint cutscenes"
 	},
 	"de_cut_kassel": {
@@ -23364,7 +23364,7 @@
 		"description": "Id: nl_cut_devlieter\nGoogle maps: https://maps.app.goo.gl/gUg9jzRb3vykVNfU8\nGroup: Names of viewpoint cutscenes"
 	},
 	"nl_cut_eindhoven": {
-		"message": "에인트호벤",
+		"message": "아인트호벤",
 		"description": "Id: nl_cut_eindhoven\nGoogle maps: https://maps.app.goo.gl/kDRPuRxrPTnvPSb39\nGroup: Names of viewpoint cutscenes"
 	},
 	"be_cut_ardennes": {
@@ -23376,7 +23376,7 @@
 		"description": "Id: lu_cut_luxembourg\nGoogle maps: https://maps.app.goo.gl/2JHAfASUmeYvfe869\nGroup: Names of viewpoint cutscenes"
 	},
 	"be_cut_antwerp": {
-		"message": "앤트워프",
+		"message": "안트베르펜",
 		"description": "Id: be_cut_antwerp\nGoogle maps: https://maps.app.goo.gl/n7YyZoBtLXRQLqqR9\nGroup: Names of viewpoint cutscenes"
 	},
 	"nl_cut_groningen": {
@@ -32828,11 +32828,11 @@
 		"description": "Id: doortrim_chromed_ii\nChromed mirror, doorhandle or other accessory\nGroup: Accessory Names"
 	},
 	"doortrim_daf_eindhoven": {
-		"message": "DAF 에인트호벤",
+		"message": "DAF 아인트호벤",
 		"description": "Id: doortrim_daf_eindhoven\nGroup: Accessory Names"
 	},
 	"doortrim_daf_eindhoven_special": {
-		"message": "DAF 에인트호벤 Special",
+		"message": "DAF 아인트호벤 Special",
 		"description": "Id: doortrim_daf_eindhoven_special\nGroup: Accessory Names"
 	},
 	"doortrim_daf_elegance": {
@@ -32884,15 +32884,15 @@
 		"description": "Id: doortrim_v8_style\nGroup: Accessory Names"
 	},
 	"drv_plate_daf_eindhoven_emblem": {
-		"message": "DAF 에인트호벤 엠블럼",
+		"message": "DAF 아인트호벤 엠블럼",
 		"description": "Id: drv_plate_daf_eindhoven_emblem\nGroup: Accessory Names"
 	},
 	"drv_plate_daf_eindhoven_emblem_led": {
-		"message": "DAF 에인트호벤 엠블럼 LED",
+		"message": "DAF 아인트호벤 엠블럼 LED",
 		"description": "Id: drv_plate_daf_eindhoven_emblem_led\nGroup: Accessory Names"
 	},
 	"drv_plate_daf_eindhoven_solid_led": {
-		"message": "DAF 에인트호벤 Solid LED",
+		"message": "DAF 아인트호벤 Solid LED",
 		"description": "Id: drv_plate_daf_eindhoven_solid_led\nGroup: Accessory Names"
 	},
 	"drv_plate_daf_emblem": {
@@ -33780,7 +33780,7 @@
 		"description": "Id: exhaust_m_collimation\nGroup: Accessory Names"
 	},
 	"exhaust_m_daf_eindhoven": {
-		"message": "DAF 에인트호벤",
+		"message": "DAF 아인트호벤",
 		"description": "Id: exhaust_m_daf_eindhoven\nGroup: Accessory Names"
 	},
 	"exhaust_m_diva": {
@@ -35424,7 +35424,7 @@
 		"description": "Id: fcover_coronet_painted\nGroup: Accessory Names"
 	},
 	"fcover_daf_eindhoven_special": {
-		"message": "DAF 에인트호벤 Special",
+		"message": "DAF 아인트호벤 Special",
 		"description": "Id: fcover_daf_eindhoven_special\nGroup: Accessory Names"
 	},
 	"fcover_daf_pacific": {
@@ -37040,15 +37040,15 @@
 		"description": "Id: frim_thunder\nGroup: Accessory Names"
 	},
 	"frntglss_mid_daf_eindhoven_emblem": {
-		"message": "DAF 에인트호벤 엠블럼",
+		"message": "DAF 아인트호벤 엠블럼",
 		"description": "Id: frntglss_mid_daf_eindhoven_emblem\nGroup: Accessory Names"
 	},
 	"frntglss_mid_daf_eindhoven_emblem_led": {
-		"message": "DAF 에인트호벤 엠블럼 LED",
+		"message": "DAF 아인트호벤 엠블럼 LED",
 		"description": "Id: frntglss_mid_daf_eindhoven_emblem_led\nGroup: Accessory Names"
 	},
 	"frntglss_mid_daf_eindhoven_solid_led": {
-		"message": "DAF 에인트호벤 Solid LED",
+		"message": "DAF 아인트호벤 Solid LED",
 		"description": "Id: frntglss_mid_daf_eindhoven_solid_led\nGroup: Accessory Names"
 	},
 	"frntglss_mid_daf_emblem": {
@@ -37752,11 +37752,11 @@
 		"description": "Id: intlight_bck_daf\nGroup: Accessory Names"
 	},
 	"intlight_bck_daf_eindhoven": {
-		"message": "DAF 에인트호벤",
+		"message": "DAF 아인트호벤",
 		"description": "Id: intlight_bck_daf_eindhoven\nGroup: Accessory Names"
 	},
 	"intlight_bck_daf_eindhoven_xf": {
-		"message": "DAF 에인트호벤 XF",
+		"message": "DAF 아인트호벤 XF",
 		"description": "Id: intlight_bck_daf_eindhoven_xf\nGroup: Accessory Names"
 	},
 	"intlight_bck_dragon_emblem": {
@@ -38016,7 +38016,7 @@
 		"description": "Id: mudflap_daf_black\nGroup: Accessory Names"
 	},
 	"mudflap_daf_eindhoven": {
-		"message": "DAF 에인트호벤",
+		"message": "DAF 아인트호벤",
 		"description": "Id: mudflap_daf_eindhoven\nGroup: Accessory Names"
 	},
 	"mudflap_daf_painted": {
@@ -38040,7 +38040,7 @@
 		"description": "Id: mudflap_daf_white\nGroup: Accessory Names"
 	},
 	"mudflap_eindhoven_daf_wide": {
-		"message": "에인트호벤 & DAF 와이드",
+		"message": "아인트호벤 & DAF 와이드",
 		"description": "Id: mudflap_eindhoven_daf_wide\nGroup: Accessory Names"
 	},
 	"mudflap_exclusive": {
@@ -38836,7 +38836,7 @@
 		"description": "Id: rcover_coronet_painted\nGroup: Accessory Names"
 	},
 	"rcover_daf_eindhoven_special": {
-		"message": "DAF 에인트호벤 Special",
+		"message": "DAF 아인트호벤 Special",
 		"description": "Id: rcover_daf_eindhoven_special\nGroup: Accessory Names"
 	},
 	"rcover_daf_special": {
@@ -39572,7 +39572,7 @@
 		"description": "Id: s_guard_chromed\nChromed mirror, doorhandle or other accessory\nGroup: Accessory Names"
 	},
 	"s_guard_daf_eindhoven": {
-		"message": "DAF 에인트호벤",
+		"message": "DAF 아인트호벤",
 		"description": "Id: s_guard_daf_eindhoven\nGroup: Accessory Names"
 	},
 	"s_guard_elegance": {
@@ -40668,7 +40668,7 @@
 		"description": "Id: toy_daf_cap\nCap that you can wear on your head, what is called trucker hat or mesh cap.\nGroup: Accessory Names"
 	},
 	"toy_daf_eindhoven_mug": {
-		"message": "DAF 에인트호벤 머그잔",
+		"message": "DAF 아인트호벤 머그잔",
 		"description": "Id: toy_daf_eindhoven_mug\nGroup: Accessory Names"
 	},
 	"toy_daf_leather_wallet": {
@@ -42048,7 +42048,7 @@
 		"description": "Id: windowtrim_chromed\nChromed mirror, doorhandle or other accessory\nGroup: Accessory Names"
 	},
 	"windowtrim_daf_eindhoven": {
-		"message": "DAF 에인트호벤",
+		"message": "DAF 아인트호벤",
 		"description": "Id: windowtrim_daf_eindhoven\nGroup: Accessory Names"
 	},
 	"windowtrim_daf_elegance": {
@@ -43508,7 +43508,7 @@
 		"description": "Id: pj_moss_green_ral_6005\nGroup: Names of paintjob accessories."
 	},
 	"pj_museum_of_icons": {
-		"message": "Museum of Icons",
+		"message": "아이콘 박물관",
 		"description": "Id: pj_museum_of_icons\nGroup: Names of paintjob accessories."
 	},
 	"pj_mustang_rider": {
@@ -44736,7 +44736,7 @@
 		"description": "Id: ls_a1_moraca_river_montenegro"
 	},
 	"ls_a1_vievis_lithuania": {
-		"message": "A1 (Vievis),리투아니아",
+		"message": "A1 (비에비스),리투아니아",
 		"description": "Id: ls_a1_vievis_lithuania"
 	},
 	"ls_a2_e79_hemus_motorway_bulgaria": {
@@ -44932,7 +44932,7 @@
 		"description": "Id: ls_dubrovnik_croatia"
 	},
 	"ls_duisburg_germany": {
-		"message": "뒤스부르크, 독일",
+		"message": "두이스부르크, 독일",
 		"description": "Id: ls_duisburg_germany"
 	},
 	"ls_durres_albania": {
