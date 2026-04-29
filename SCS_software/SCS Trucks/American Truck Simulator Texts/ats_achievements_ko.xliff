@@ -2608,6 +2608,7 @@ Achievement name for American Truck Simulator shown on the Steam website (http:/
 Id: NEW_ACHIEVEMENT_11_3_DESC
 Achievement description for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
         </context-group>
+        <note from="Alexander Tselikov (San_Sany4)" priority="4">@crowdin.loca the current translation is ambiguous</note>
       </trans-unit>
       <trans-unit id="493521" resname="NEW_ACHIEVEMENT_11_3_SHORT">
         <source>Complete at least 10 unique deliveries of oversize cargoes</source>
@@ -2638,6 +2639,7 @@ Achievement name for American Truck Simulator shown on the Steam website (http:/
 Id: NEW_ACHIEVEMENT_11_0_DESC
 Achievement description for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
         </context-group>
+        <note from="Alexander Tselikov (San_Sany4)" priority="4">@crowdin.loca the current translation is ambiguous</note>
       </trans-unit>
       <trans-unit id="462607" resname="NEW_ACHIEVEMENT_11_0_SHORT">
         <source>Complete deliveries on at least 10 oversize routes in base game</source>
