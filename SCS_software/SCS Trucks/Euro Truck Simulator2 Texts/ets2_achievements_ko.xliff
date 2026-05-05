@@ -1749,6 +1749,7 @@ Achievement name for Euro Truck Simulator 2 shown on the Steam website (http://s
 Id: NEW_ACHIEVEMENT_29_14_DESC
 Achievement description for Euro Truck Simulator 2 shown on the Steam website (http://steamcommunity.com/stats/227300/achievements/). Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
         </context-group>
+        <note from="Tobias Henricsson (TobiasHenricsson)" priority="4">Note: The common term for &quot;dangerous goods&quot; is &quot;Farligt gods&quot;, but the technical term is ADR. That's why I have ADR in parentheses.</note>
       </trans-unit>
       <trans-unit id="462109" resname="NEW_ACHIEVEMENT_29_14_SHORT">
         <source>Deliver ADR cargo to at least 2 solar power plants in Iberia</source>
@@ -2434,6 +2435,7 @@ Achievement description for Euro Truck Simulator 2 shown on the Steam website (h
 Id: NEW_ACHIEVEMENT_10_25_SHORT
 Short version of achievement description for Euro Truck Simulator 2. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit.</context>
         </context-group>
+        <note from="Tobias Henricsson (TobiasHenricsson)" priority="4">The spelling is correct. Spellcheckers often have a problem with Swedish words, as they are made from two words (in English) into one, long word.</note>
       </trans-unit>
       <trans-unit id="394" resname="NEW_ACHIEVEMENT_10_24_NAME">
         <source>Not a Big Problem</source>

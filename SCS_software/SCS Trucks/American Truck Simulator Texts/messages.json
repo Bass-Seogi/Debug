@@ -27608,7 +27608,7 @@
 		"description": "Id: body_acc_hose_2x\nGroup: Accessory Names"
 	},
 	"body_acc_hose_2x_duty": {
-		"message": "호스 2x, Duty",
+		"message": "호스 2x, 듀티",
 		"description": "Id: body_acc_hose_2x_duty\nBasic truck accesory\nGroup: Accessory Names"
 	},
 	"body_acc_hose_chromed": {
@@ -27912,11 +27912,11 @@
 		"description": "Id: bumper_chromed_modern\nModernized chromed mirror, doorhandle or other accessory\nGroup: Accessory Names"
 	},
 	"bumper_chromed_x": {
-		"message": "크롬 X",
+		"message": "크롬 Xceed",
 		"description": "Id: bumper_chromed_x\nChromed mirror, doorhandle or other accessory\nGroup: Accessory Names"
 	},
 	"bumper_chromed_x_fog_lights": {
-		"message": "크롬 X, 안개등",
+		"message": "크롬 Xceed, 안개등",
 		"description": "Id: bumper_chromed_x_fog_lights\nChromed mirror, doorhandle or other accessory\nGroup: Accessory Names"
 	},
 	"bumper_classic_i": {
@@ -27940,7 +27940,7 @@
 		"description": "Id: bumper_diva\nGroup: Accessory Names"
 	},
 	"bumper_duty": {
-		"message": "Duty",
+		"message": "듀티",
 		"description": "Id: bumper_duty\nGroup: Accessory Names"
 	},
 	"bumper_edge": {
@@ -28200,11 +28200,11 @@
 		"description": "Id: bumper_standard_s13_plastic\nGroup: Accessory Names"
 	},
 	"bumper_standard_x": {
-		"message": "일반형 X",
+		"message": "일반형 Xceed",
 		"description": "Id: bumper_standard_x\nStandard version of the interior or accesory\nGroup: Accessory Names"
 	},
 	"bumper_standard_x_fog_lights": {
-		"message": "일반형 X, 안개등",
+		"message": "일반형 Xceed, 안개등",
 		"description": "Id: bumper_standard_x_fog_lights\nStandard version of the interior or accesory\nGroup: Accessory Names"
 	},
 	"bumper_stock": {
@@ -28456,7 +28456,7 @@
 		"description": "Id: carpet_basic\nGroup: Accessory Names"
 	},
 	"carpet_duty": {
-		"message": "Duty",
+		"message": "듀티",
 		"description": "Id: carpet_duty\nBasic truck accesory\nGroup: Accessory Names"
 	},
 	"carpet_heavy_duty": {
@@ -29836,7 +29836,7 @@
 		"description": "Id: doorhndl_classic_painted\n\"Classical or vintage truck accesory\", \"Painted mirror, doorhandle or other accessory\" (AutoMerged)\nGroup: Accessory Names"
 	},
 	"doorhndl_duty": {
-		"message": "Duty",
+		"message": "듀티",
 		"description": "Id: doorhndl_duty\nBasic truck accesory\nGroup: Accessory Names"
 	},
 	"doorhndl_elite": {
@@ -29916,7 +29916,7 @@
 		"description": "Id: doorstep_chromed_ii_exclusive\n\"Chromed mirror, doorhandle or other accessory\", \"Luxury/Exclusive version of the interior or accesory\" (AutoMerged)\nGroup: Accessory Names"
 	},
 	"doorstep_circular": {
-		"message": "Circular",
+		"message": "원형",
 		"description": "Id: doorstep_circular\nGroup: Accessory Names"
 	},
 	"doorstep_diamond": {
@@ -31100,7 +31100,7 @@
 		"description": "Id: fender_classic\nClassical or vintage truck accesory\nGroup: Accessory Names"
 	},
 	"fender_duty": {
-		"message": "Duty",
+		"message": "듀티",
 		"description": "Id: fender_duty\nBasic truck accesory\nGroup: Accessory Names"
 	},
 	"fender_exclusive": {
@@ -31216,11 +31216,11 @@
 		"description": "Id: fender_storm_painted\nGroup: Accessory Names"
 	},
 	"fender_super_duty_full": {
-		"message": "Super Duty, 풀",
+		"message": "슈퍼 듀티, 풀",
 		"description": "Id: fender_super_duty_full\nGroup: Accessory Names"
 	},
 	"fender_super_duty_half": {
-		"message": "Super Duty, 하프",
+		"message": "슈퍼 듀티, 하프",
 		"description": "Id: fender_super_duty_half\nGroup: Accessory Names"
 	},
 	"fender_support_frame": {
@@ -31304,7 +31304,7 @@
 		"description": "Id: filters_default_air_filters\nGroup: Accessory Names"
 	},
 	"filters_duty": {
-		"message": "Duty",
+		"message": "듀티",
 		"description": "Id: filters_duty\nBasic truck accesory\nGroup: Accessory Names"
 	},
 	"filters_edge": {
@@ -32880,7 +32880,7 @@
 		"description": "Id: hndrail_chromed\nChromed mirror, doorhandle or other accessory\nGroup: Accessory Names"
 	},
 	"hndrail_duty": {
-		"message": "Duty",
+		"message": "듀티",
 		"description": "Id: hndrail_duty\nBasic truck accesory\nGroup: Accessory Names"
 	},
 	"hndrail_left": {
@@ -33468,19 +33468,19 @@
 		"description": "Id: mirror_classic_painted\n\"Classical or vintage truck accesory\", \"Painted mirror, doorhandle or other accessory\" (AutoMerged)\nGroup: Accessory Names"
 	},
 	"mirror_duty": {
-		"message": "Duty",
+		"message": "듀티",
 		"description": "Id: mirror_duty\nBasic truck accesory\nGroup: Accessory Names"
 	},
 	"mirror_duty_ii": {
-		"message": "Duty II",
+		"message": "듀티 II",
 		"description": "Id: mirror_duty_ii\nBasic truck accesory\nGroup: Accessory Names"
 	},
 	"mirror_duty_ii_painted": {
-		"message": "Duty II, 페인트",
+		"message": "듀티 II, 페인트",
 		"description": "Id: mirror_duty_ii_painted\n\"Basic truck accesory\", \"Painted mirror, doorhandle or other accessory\" (AutoMerged)\nGroup: Accessory Names"
 	},
 	"mirror_duty_painted": {
-		"message": "Duty, 페인트",
+		"message": "듀티, 페인트",
 		"description": "Id: mirror_duty_painted\n\"Basic truck accesory\", \"Painted mirror, doorhandle or other accessory\" (AutoMerged)\nGroup: Accessory Names"
 	},
 	"mirror_elite": {
@@ -33952,7 +33952,7 @@
 		"description": "Id: r_chs_cover_chromed_ii_double\n\"Chromed mirror, doorhandle or other accessory\", \"Double version of the accesory, eg exhaust.\" (AutoMerged)\nGroup: Accessory Names"
 	},
 	"r_chs_cover_circular": {
-		"message": "Circular",
+		"message": "원형",
 		"description": "Id: r_chs_cover_circular\nGroup: Accessory Names"
 	},
 	"r_chs_cover_cross": {
@@ -35392,19 +35392,19 @@
 		"description": "Id: sideskirt_chromed_tank_steps\nChromed tank accessory (water, fuel, etc)\nGroup: Accessory Names"
 	},
 	"sideskirt_duty": {
-		"message": "Duty",
+		"message": "듀티",
 		"description": "Id: sideskirt_duty\nBasic truck accesory\nGroup: Accessory Names"
 	},
 	"sideskirt_duty_chromed": {
-		"message": "Duty 크롬",
+		"message": "듀티 크롬",
 		"description": "Id: sideskirt_duty_chromed\n\"Basic truck accesory\", \"Chromed mirror, doorhandle or other accessory\" (AutoMerged)\nGroup: Accessory Names"
 	},
 	"sideskirt_duty_painted": {
-		"message": "Duty 페인트",
+		"message": "듀티 페인트",
 		"description": "Id: sideskirt_duty_painted\nBasic but paintable truck accesory\nGroup: Accessory Names"
 	},
 	"sideskirt_duty_painted_chromed": {
-		"message": "Duty 페인트 크롬",
+		"message": "듀티 페인트 크롬",
 		"description": "Id: sideskirt_duty_painted_chromed\n\"Basic but paintable truck accesory\", \"Chromed mirror, doorhandle or other accessory\" (AutoMerged)\nGroup: Accessory Names"
 	},
 	"sideskirt_duty_sideskirts": {
@@ -39580,7 +39580,7 @@
 		"description": "Id: ls_chicago_grant_park"
 	},
 	"ls_chicago_l_subway": {
-		"message": "시카고, 지하철 \"L\"",
+		"message": "시카고 L",
 		"description": "Id: ls_chicago_l_subway"
 	},
 	"ls_chicago_magdalene_statue": {

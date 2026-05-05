@@ -29832,7 +29832,7 @@
 		"description": "Id: air_tank_standard\nStandard version of the interior or accesory\nGroup: Accessory Names"
 	},
 	"b_detector_duty": {
-		"message": "Duty",
+		"message": "듀티",
 		"description": "Id: b_detector_duty\nBasic truck accesory\nGroup: Accessory Names"
 	},
 	"b_detector_painted": {
@@ -30776,11 +30776,11 @@
 		"description": "Id: body_scs_ecofix_painted\nPainted mirror, doorhandle or other accessory\nGroup: Accessory Names"
 	},
 	"body_scs_universal": {
-		"message": "S.CS UNIVERSAL",
+		"message": "S.CS 유니버설",
 		"description": "Id: body_scs_universal\nGroup: Accessory Names"
 	},
 	"body_scs_universal_painted": {
-		"message": "S.CS UNIVERSAL 페인트",
+		"message": "S.CS 유니버설 페인트",
 		"description": "Id: body_scs_universal_painted\nPainted mirror, doorhandle or other accessory\nGroup: Accessory Names"
 	},
 	"body_silo": {
@@ -30948,15 +30948,15 @@
 		"description": "Id: bumper_diva_painted\nPainted mirror, doorhandle or other accessory\nGroup: Accessory Names"
 	},
 	"bumper_duty": {
-		"message": "Duty",
+		"message": "듀티",
 		"description": "Id: bumper_duty\nBasic truck accesory\nGroup: Accessory Names"
 	},
 	"bumper_duty_2019": {
-		"message": "Duty 2019",
+		"message": "듀티 2019",
 		"description": "Id: bumper_duty_2019\nBasic truck accesory\nGroup: Accessory Names"
 	},
 	"bumper_duty_painted": {
-		"message": "Duty 페인트",
+		"message": "듀티 페인트",
 		"description": "Id: bumper_duty_painted\nBasic but paintable truck accesory\nGroup: Accessory Names"
 	},
 	"bumper_exclusive": {
@@ -38952,11 +38952,11 @@
 		"description": "Id: rdisc_dark_silver_painted\nGroup: Accessory Names"
 	},
 	"rdisc_duty_120": {
-		"message": "Duty 120",
+		"message": "듀티 120",
 		"description": "Id: rdisc_duty_120\nGroup: Accessory Names"
 	},
 	"rdisc_duty_chromed_120": {
-		"message": "Duty 크롬 120",
+		"message": "듀티 크롬 120",
 		"description": "Id: rdisc_duty_chromed_120\nGroup: Accessory Names"
 	},
 	"rdisc_duty_gloss_120": {
@@ -38968,7 +38968,7 @@
 		"description": "Id: rdisc_duty_lux_painted_120\nGroup: Accessory Names"
 	},
 	"rdisc_duty_painted_120": {
-		"message": "Duty 페인트 120",
+		"message": "듀티 페인트 120",
 		"description": "Id: rdisc_duty_painted_120\nGroup: Accessory Names"
 	},
 	"rdisc_endurance": {
@@ -39840,7 +39840,7 @@
 		"description": "Id: sideskirt_double_toolbox_painted\nVery expensive, painted sideskirts, with two toolboxes inside it.\nGroup: Accessory Names"
 	},
 	"sideskirt_duty": {
-		"message": "Duty",
+		"message": "듀티",
 		"description": "Id: sideskirt_duty\nBasic truck accesory\nGroup: Accessory Names"
 	},
 	"sideskirt_elegance": {
@@ -43056,7 +43056,7 @@
 		"description": "Id: pj_heavy_duty_surge\nGroup: Names of paintjob accessories."
 	},
 	"pj_heavy_duty_universal": {
-		"message": "헤비 듀티 Universal",
+		"message": "헤비 듀티 유니버설",
 		"description": "Id: pj_heavy_duty_universal\nGroup: Names of paintjob accessories."
 	},
 	"pj_hi_tech_fascination": {
