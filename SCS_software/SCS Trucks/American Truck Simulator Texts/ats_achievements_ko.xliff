@@ -1377,7 +1377,7 @@ Short version of achievement description for American Truck Simulator. Must fit 
 Id: NEW_ACHIEVEMENT_4_25_NAME
 Achievement name for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
         </context-group>
-        <note from="Diego Tavares (Diego_Tavares)" priority="4">The currently approved translation is not correct. Please review my suggestion:
+        <note from="Diego Tavares (DTavares2112)" priority="4">The currently approved translation is not correct. Please review my suggestion:
 &quot;Eu Pensei que isso era Pesado!?&quot;</note>
       </trans-unit>
       <trans-unit id="493435" resname="NEW_ACHIEVEMENT_4_25_DESC">
@@ -3509,7 +3509,7 @@ Short version of achievement description for American Truck Simulator. Must fit 
 Id: NEW_ACHIEVEMENT_70_15_NAME
 Achievement name for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
         </context-group>
-        <note from="Diego Tavares (Diego_Tavares)" priority="4">Explorador do Ozark</note>
+        <note from="Diego Tavares (DTavares2112)" priority="4">Explorador do Ozark</note>
       </trans-unit>
       <trans-unit id="462717" resname="NEW_ACHIEVEMENT_70_15_DESC">
         <source>View cutscenes from at least 12 viewpoints in Missouri</source>
@@ -3732,7 +3732,7 @@ Achievement name for American Truck Simulator shown on the Steam website (http:/
 Id: NEW_ACHIEVEMENT_70_24_DESC
 Achievement description for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
         </context-group>
-        <note from="Diego Tavares (Diego_Tavares)" priority="4">Preciso de uma correção nessa string. Para ficar de acordo com a realidade, porcos também são gados (assim como bovinos, caprinos, bufalinos etc):
+        <note from="Diego Tavares (DTavares2112)" priority="4">Preciso de uma correção nessa string. Para ficar de acordo com a realidade, porcos também são gados (assim como bovinos, caprinos, bufalinos etc):
 &quot;Complete uma entrega de carga de porcos vivos de duas fazendas de gado suíno em Iowa&quot;</note>
       </trans-unit>
       <trans-unit id="493523" resname="NEW_ACHIEVEMENT_70_24_SHORT">

@@ -856,7 +856,7 @@ Included in this pack are the paint jobs:
 
 Long description for ETS2 Modern Lines Paint Jobs Pack.</context>
         </context-group>
-        <note from="Diego Tavares (Diego_Tavares)" priority="4">The first paragraph is basically the string https://crowdin.com/editor/scs-trucks/52/en-ptbr?view=comfortable#461520. I think it would be interesting to surprise this string.</note>
+        <note from="Diego Tavares (DTavares2112)" priority="4">The first paragraph is basically the string https://crowdin.com/editor/scs-trucks/52/en-ptbr?view=comfortable#461520. I think it would be interesting to surprise this string.</note>
       </trans-unit>
       <trans-unit id="461524" resname="ets2_street_art_paint_jobs_pack_short_description">
         <source>Freshen up your trucks with an original and modern livery. Introducing the Street Art Paint Jobs Pack, now available for all current truck models in Euro Truck Simulator 2 and to some of the ownable trailers as well!</source>

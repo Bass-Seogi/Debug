@@ -889,7 +889,7 @@ Id: cn_frac_tank
 Group: Names of individual cargos.
 Group: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English).</context>
         </context-group>
-        <note from="Diego Tavares (Diego_Tavares)" priority="4">The currently approved translation is not correct. Please review my suggestion:
+        <note from="Diego Tavares (DTavares2112)" priority="4">The currently approved translation is not correct. Please review my suggestion:
 &quot;Tanque de Fraturamento&quot;</note>
       </trans-unit>
       <trans-unit id="28616" resname="ats_cn_frozen_fruits">
@@ -1936,7 +1936,7 @@ Group: Names of individual trailer, trailer chassis types or trailer virtual com
 Group: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English).</context>
         </context-group>
         <note from="Huỳnh Trọng Nghĩa (nghiaht901)" priority="4">https://www.fracnvac.com/Frac-Tanks.html</note>
-        <note from="Diego Tavares (Diego_Tavares)" priority="4">The currently approved translation is not correct. Please review my suggestion:
+        <note from="Diego Tavares (DTavares2112)" priority="4">The currently approved translation is not correct. Please review my suggestion:
 &quot;Tanque de Fraturamento&quot;</note>
       </trans-unit>
       <trans-unit id="28682" resname="ats_tn_fuel">
@@ -2574,6 +2574,7 @@ Id: thanks_using_rogers
 Group: Tollgate messages.
 Group: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English).</context>
         </context-group>
+        <note from="Lydia Cheung (lydiach)" priority="4">Does the Simplified Chinese proofreader know that the character &quot;·&quot; cannot be displayed in the game?</note>
       </trans-unit>
       <trans-unit id="347550" resname="ats_thanks_using_turner">
         <source>Thank you for using the Turner Turnpike.</source>

@@ -14,7 +14,7 @@
 Id: NEW_ACHIEVEMENT_4_16_NAME
 Achievement name for Euro Truck Simulator 2 shown on the Steam website (http://steamcommunity.com/stats/227300/achievements/). Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
         </context-group>
-        <note from="Diego Tavares (Diego_Tavares)" priority="4">The currently approved translation is not correct. Please review my suggestion:
+        <note from="Diego Tavares (DTavares2112)" priority="4">The currently approved translation is not correct. Please review my suggestion:
 &quot;Os Amigos estão Sempre Aqui para lhe Ajudar&quot;</note>
       </trans-unit>
       <trans-unit id="240" resname="NEW_ACHIEVEMENT_4_16_DESC">
@@ -351,7 +351,7 @@ Id: NEW_ACHIEVEMENT_4_14_NAME
 Achievement name for Euro Truck Simulator 2 shown on the Steam website (http://steamcommunity.com/stats/227300/achievements/). Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
         </context-group>
         <note from="Davide Scambelluri (fagiani)" priority="4">&quot;il lavoro vale la pena&quot; it's not a commonly used phrase construction in italian language.</note>
-        <note from="Diego Tavares (Diego_Tavares)" priority="4">The currently approved translation is not correct. Please review my suggestion:
+        <note from="Diego Tavares (DTavares2112)" priority="4">The currently approved translation is not correct. Please review my suggestion:
 &quot;O Trabalho só Vale a Pena se for Bem Feito!&quot;</note>
       </trans-unit>
       <trans-unit id="232" resname="NEW_ACHIEVEMENT_4_14_DESC">
@@ -881,7 +881,7 @@ Short version of achievement description for Euro Truck Simulator 2. Must fit wi
 Id: NEW_ACHIEVEMENT_4_1_NAME
 Achievement name for Euro Truck Simulator 2 shown on the Steam website (http://steamcommunity.com/stats/227300/achievements/). Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
         </context-group>
-        <note from="Diego Tavares (Diego_Tavares)" priority="4">The currently approved translation is not correct. Please review my suggestion:
+        <note from="Diego Tavares (DTavares2112)" priority="4">The currently approved translation is not correct. Please review my suggestion:
 &quot;Desbravador&quot;</note>
       </trans-unit>
       <trans-unit id="462003" resname="NEW_ACHIEVEMENT_4_1_DESC">
@@ -1520,7 +1520,7 @@ Short version of achievement description for Euro Truck Simulator 2. Must fit wi
 Id: NEW_ACHIEVEMENT_10_14_NAME
 Achievement name for Euro Truck Simulator 2 shown on the Steam website (http://steamcommunity.com/stats/227300/achievements/). Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
         </context-group>
-        <note from="Diego Tavares (Diego_Tavares)" priority="4">The currently approved translation is not correct. Please review my suggestion:
+        <note from="Diego Tavares (DTavares2112)" priority="4">The currently approved translation is not correct. Please review my suggestion:
 &quot;Eu Pensei que isso era Pesado!?&quot;</note>
       </trans-unit>
       <trans-unit id="493487" resname="NEW_ACHIEVEMENT_10_14_DESC">
@@ -1553,7 +1553,7 @@ Id: NEW_ACHIEVEMENT_10_13_NAME
 Achievement name for Euro Truck Simulator 2 shown on the Steam website (http://steamcommunity.com/stats/227300/achievements/). Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
         </context-group>
         <note from="Wolterhon" priority="4">&quot;На течет&quot; makes no sence.</note>
-        <note from="Diego Tavares (Diego_Tavares)" priority="4">The currently approved translation is not correct. Please review my suggestion:
+        <note from="Diego Tavares (DTavares2112)" priority="4">The currently approved translation is not correct. Please review my suggestion:
 &quot;No Pain No Gain&quot;</note>
       </trans-unit>
       <trans-unit id="462083" resname="NEW_ACHIEVEMENT_10_13_DESC">
@@ -2566,7 +2566,7 @@ Short version of achievement description for Euro Truck Simulator 2. Must fit wi
 Id: NEW_ACHIEVEMENT_10_22_NAME
 Achievement name for Euro Truck Simulator 2 shown on the Steam website (http://steamcommunity.com/stats/227300/achievements/). Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
         </context-group>
-        <note from="Diego Tavares (Diego_Tavares)" priority="4">The currently approved translation is not correct. Please review my suggestion:
+        <note from="Diego Tavares (DTavares2112)" priority="4">The currently approved translation is not correct. Please review my suggestion:
 &quot;Quanto Maior, Melhor&quot;</note>
       </trans-unit>
       <trans-unit id="493515" resname="NEW_ACHIEVEMENT_10_22_DESC">

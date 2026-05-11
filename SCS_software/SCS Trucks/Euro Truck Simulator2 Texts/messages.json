@@ -2072,7 +2072,7 @@
 		"description": "Id: take_job\nButton which will take the selected job. Shown for quick jobs or when the player is at pickup point of freght market job.\nGroup: Job Market"
 	},
 	"customize_job_offer": {
-		"message": "트레일러 선택",
+		"message": "트레일러 모양변경",
 		"description": "Id: customize_job_offer\nButton which will customize the selected freight market job.\nGroup: Job Market"
 	},
 	"cargo_waiting1": {
@@ -42668,7 +42668,7 @@
 		"description": "Id: pj_digitized_reality\nGroup: Names of paintjob accessories."
 	},
 	"pj_directions": {
-		"message": "방향",
+		"message": "디렉션",
 		"description": "Id: pj_directions\nGroup: Names of paintjob accessories."
 	},
 	"pj_discovery_grey_metallic": {
@@ -43068,7 +43068,7 @@
 		"description": "Id: pj_hidden_message\nGroup: Names of paintjob accessories."
 	},
 	"pj_highway": {
-		"message": "고속도로",
+		"message": "하이웨이",
 		"description": "Id: pj_highway\nGroup: Names of paintjob accessories."
 	},
 	"pj_honey_yellow": {
