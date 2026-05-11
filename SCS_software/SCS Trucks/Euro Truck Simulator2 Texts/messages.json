@@ -2072,7 +2072,7 @@
 		"description": "Id: take_job\nButton which will take the selected job. Shown for quick jobs or when the player is at pickup point of freght market job.\nGroup: Job Market"
 	},
 	"customize_job_offer": {
-		"message": "트레일러 모양변경",
+		"message": "트레일러 타입변경",
 		"description": "Id: customize_job_offer\nButton which will customize the selected freight market job.\nGroup: Job Market"
 	},
 	"cargo_waiting1": {
