@@ -904,7 +904,7 @@ Id: NEW_ACHIEVEMENT_4_1_SHORT
 Short version of achievement description for Euro Truck Simulator 2. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit.</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="524721" resname="ach_the_ultimate_trucker_name">
+      <trans-unit id="524721" resname="ach_the_ultimate_trucker_name" translate="no">
         <source>The Ultimate Trucker</source>
         <target state="translated">궁극의 트럭 운전사</target>
         <context-group purpose="information">
@@ -914,7 +914,7 @@ Id: ach_the_ultimate_trucker_name
 Achievement name for Euro Truck Simulator 2. Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="524723" resname="ach_the_ultimate_trucker_desc">
+      <trans-unit id="524723" resname="ach_the_ultimate_trucker_desc" translate="no">
         <source>Unlock all trophies</source>
         <target state="translated">모든 트로피 잠금 해제</target>
         <context-group purpose="information">
@@ -928,7 +928,7 @@ Achievement description for Euro Truck Simulator 2. Use the same units as in the
         <note from="Alexander Tselikov (San_Sany4)" priority="4">@Voytek I know that, but will it be a Playstation-exclusive &quot;trophy&quot;, or the other platforms (Steam, Xbox) will have it as well? Given an existence of &quot;short &lt;100 chars&quot; string version, which is a Xbox limitation, I presume they will have it. But there they typically don't call it &quot;trophies&quot;, they call it &quot;achievements&quot;.</note>
         <note from="Patrik Rak (Corleth)" priority="4">This one is indeed for the PlayStation platinum only.  Xbox won't have it. And the &lt;100 is indeed the Xbox limitation, but we didn't bother to change the whole system nor the context comments just for this single one. I guess it should not be a problem here either, as the description is so short anyway. Hope this helps. Thanks.</note>
       </trans-unit>
-      <trans-unit id="524725" resname="ach_the_ultimate_trucker_short">
+      <trans-unit id="524725" resname="ach_the_ultimate_trucker_short" translate="no">
         <source>Unlock all trophies</source>
         <target state="translated">모든 트로피 잠금 해제</target>
         <context-group purpose="information">

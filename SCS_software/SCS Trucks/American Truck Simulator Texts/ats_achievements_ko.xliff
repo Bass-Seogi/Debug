@@ -4028,7 +4028,7 @@ Id: NEW_ACHIEVEMENT_33_22_DESC
 Achievement description for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="462733" resname="ach_driving_academy_suffix">
+      <trans-unit id="462733" resname="ach_driving_academy_suffix" translate="no">
         <source>(Driving Academy)</source>
         <target state="translated">(드라이빙 아카데미)</target>
         <context-group purpose="information">
@@ -4048,7 +4048,7 @@ Id: ach_colorado_dlc_suffix
 Suffix for achievement descriptions for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Appended to every description requiring given DLC/module.</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="462741" resname="ach_heavy_cargo_pack_dlc_suffix">
+      <trans-unit id="462741" resname="ach_heavy_cargo_pack_dlc_suffix" translate="no">
         <source>(requires Heavy Cargo Pack DLC)</source>
         <target state="translated">(Heavy Cargo Pack DLC가 필요함)</target>
         <context-group purpose="information">
@@ -4138,7 +4138,7 @@ Id: ach_oregon_dlc_suffix
 Suffix for achievement descriptions for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Appended to every description requiring given DLC/module.</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="462759" resname="ach_special_transport_dlc_suffix">
+      <trans-unit id="462759" resname="ach_special_transport_dlc_suffix" translate="no">
         <source>(requires Special Transport DLC)</source>
         <target state="translated">(Special Transport DLC가 필요함)</target>
         <context-group purpose="information">

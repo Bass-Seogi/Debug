@@ -4972,6 +4972,7 @@ Group: Names of cities</context>
 Id: east_st_louis
 Group: Names of cities</context>
         </context-group>
+        <note from="Mads Teland (mads1153)" priority="4">In Norwegian translation this seems to have two double city names for some reason, but it has exactly same name on top and bottom after Illinois DLC was released. Possible SCS Software did something wrong on this one.</note>
       </trans-unit>
       <trans-unit id="59118" resname="ats_ehrenberg">
         <source>Ehrenberg</source>

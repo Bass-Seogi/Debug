@@ -6732,7 +6732,7 @@
 		"description": "Id: eye_preset_op_tooltip\nGroup: Configuration of extended view options.\nGroup: Options/Eye tracking\nScreen used to configure eye tracking related options"
 	},
 	"eye_head_mode_op_tooltip": {
-		"message": "헤드 트래킹 모드를 선택합니다:<br>- \"직접적\" 모드는 머리, 눈의 움직임과 게임 내 카메라 움직임이 직접적으로 일치하며 실내 시점에 권장됩니다.<br>- \"역동적\" 모드는 실제로 머리를 움직일 때만 카메라가 움직이며 시선이 완전히 중앙에 위치해 있는 것이 중요할 때 권장됩니다.",
+		"message": "헤드 트래킹 모드를 선택합니다:<br>- \"직접적\" 모드는 머리, 눈의 움직임과 게임 내 카메라 움직임이 직접적으로 일치하며 실내 시점에 권장됩니다.<br>- \"다이나믹\" 모드는 실제로 머리를 움직일 때만 카메라가 움직이며 시선이 완전히 중앙에 위치해 있는 것이 중요할 때 권장됩니다.",
 		"description": "Id: eye_head_mode_op_tooltip\nGroup: Configuration of extended view options.\nGroup: Options/Eye tracking\nScreen used to configure eye tracking related options"
 	},
 	"eye_autocenter_op_tooltip": {
@@ -22148,7 +22148,7 @@
 		"description": "Id: overlay_camera_walk\nGroup: Overlay icon labels."
 	},
 	"overlay_camera_zoom": {
-		"message": "확대",
+		"message": "줌",
 		"description": "Id: overlay_camera_zoom\nGroup: Overlay icon labels."
 	},
 	"overlay_camera_switch": {
@@ -38248,7 +38248,7 @@
 		"description": "Id: mudflap_stock_v8\nStock truck accesory\nGroup: Accessory Names"
 	},
 	"mudflap_stripes": {
-		"message": "줄",
+		"message": "Stripes",
 		"description": "Id: mudflap_stripes\nGroup: Accessory Names"
 	},
 	"mudflap_tirsan": {
@@ -43916,7 +43916,7 @@
 		"description": "Id: pj_scania_griffin_ebon_metallic\nGroup: Names of paintjob accessories."
 	},
 	"pj_scania_griffin_radiant_metallic": {
-		"message": "Scania 그리핀 Radiant 메탈릭",
+		"message": "Scania 그리핀 래디언트 메탈릭",
 		"description": "Id: pj_scania_griffin_radiant_metallic\nGroup: Names of paintjob accessories."
 	},
 	"pj_scania_griffin_special": {
