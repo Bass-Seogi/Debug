@@ -2961,6 +2961,9 @@ Achievement description for American Truck Simulator shown on the Steam website 
 Id: NEW_ACHIEVEMENT_11_25_SHORT
 Short version of achievement description for American Truck Simulator. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit.</context>
         </context-group>
+        <note from="Alexander Tselikov (San_Sany4)" priority="4">@QL_RU_T I believe the word «минимум» is unnecessary there. The achievement is granted as soon as you deliver to the 5th oil site. Delivering to more than 5 does not invalidate the achievement, and it's even impossible to do without meeting the achievement requirement first.
+
+Or at least replace «минимум» with something better sounding, like «хотя бы».</note>
       </trans-unit>
       <trans-unit id="87074" resname="NEW_ACHIEVEMENT_11_15_NAME">
         <source>Seattle Mole</source>

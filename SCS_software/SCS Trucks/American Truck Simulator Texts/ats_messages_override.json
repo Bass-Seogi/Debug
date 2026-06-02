@@ -1432,7 +1432,7 @@
 		"description": "Id: bs_wood_full_lowboy\nGroup: Trailer body sets"
 	},
 	"ats_bs_wood_alu_lowboy": {
-		"message": "나무-알루미늄 로우보이",
+		"message": "우드-알루미늄 로우보이",
 		"description": "Id: bs_wood_alu_lowboy\nGroup: Trailer body sets"
 	},
 	"ats_bs_reefer": {

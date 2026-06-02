@@ -4089,7 +4089,7 @@ Group: Trailer body sets</context>
       </trans-unit>
       <trans-unit id="133358" resname="ats_bs_wood_alu_lowboy">
         <source>Wooden-Aluminium Lowboy</source>
-        <target state="translated">나무-알루미늄 로우보이</target>
+        <target state="translated">우드-알루미늄 로우보이</target>
         <context-group purpose="information">
           <context context-type="source">ats_bs_wood_alu_lowboy
 
