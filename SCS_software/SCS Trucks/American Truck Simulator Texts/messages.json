@@ -7892,7 +7892,7 @@
 		"description": "Id: radio_changed\nNotification that playing track/stream have changed.\nGroup: Music/radio player"
 	},
 	"stream_safe": {
-		"message": "스트림-안전",
+		"message": "안전한 스트림",
 		"description": "Id: stream_safe\nText for enabling stream-safe mode (offline game radios that are designed to avoid content claims)\nGroup: Music/radio player"
 	},
 	"volume_up": {
@@ -8664,7 +8664,7 @@
 		"description": "Id: adv_hud_finances_line\nWidget name for the current bank account balance and the last 7 days profit.\nGroup: Adviser Options\nGroup: Route adviser"
 	},
 	"adv_hud_finances_line_op_tooltip": {
-		"message": "총 은행 잔액과 7일 수익 흐름을 보여주며, 여기에는 동적 수익과 위반이 포함됩니다.",
+		"message": "총 은행 잔액과 7일간의 수익 흐름을 보여주며, 여기에는 동적 수익과 위반이 포함됩니다.",
 		"description": "Id: adv_hud_finances_line_op_tooltip\nGroup: Adviser Options\nGroup: Route adviser"
 	},
 	"adv_hud_damage_line": {
@@ -11180,11 +11180,11 @@
 		"description": "Id: compman_no_trailer\nGroup: Company management screens"
 	},
 	"compman_company_profits": {
-		"message": "회사 수익 (지난 7일)",
+		"message": "회사 수익 (지난 7일간)",
 		"description": "Id: compman_company_profits\nGroup: Company management screens"
 	},
 	"compman_most_profitable_title": {
-		"message": "가장 수익성 높은 제품 (지난 7일)",
+		"message": "가장 수익성 높은 제품 (지난 7일간)",
 		"description": "Id: compman_most_profitable_title\nGroup: Company management screens"
 	},
 	"compman_graph_tooltip": {
@@ -11240,7 +11240,7 @@
 		"description": "Id: compman_summary_gavgprod\nGroup: Sumary informations about player's company.\nGroup: Company management screens"
 	},
 	"compman_summary_glastprofit": {
-		"message": "지난 7일간의 이익:",
+		"message": "지난 7일간의 수익:",
 		"description": "Id: compman_summary_glastprofit\nGroup: Sumary informations about player's company.\nGroup: Company management screens"
 	},
 	"compman_summary_gprofitday": {
@@ -13076,7 +13076,7 @@
 		"description": "Id: compw_trailers"
 	},
 	"compw_profit": {
-		"message": "7일간의 이익:",
+		"message": "7일간의 수익:",
 		"description": "Id: compw_profit\nDesktop company statistics. There is limited space allowing for two lines of 9 'W' characters each."
 	},
 	"12_speed": {
@@ -16444,7 +16444,7 @@
 		"description": "Id: trailer_status_on_job\nTrailer status name - trailer is being currently used on duty.\nGroup: Trailer ownership"
 	},
 	"trailer_utilization_last_7days": {
-		"message": "트레일러 사용 (지난 7일)",
+		"message": "트레일러 사용 (지난 7일간)",
 		"description": "Id: trailer_utilization_last_7days\nThe header of the trailer utilization graph.\nGroup: Trailer ownership"
 	},
 	"trailerman_current_state": {
@@ -20396,7 +20396,7 @@
 		"description": "Id: time_skip_not_complied_format\nGroup: Time skip feature"
 	},
 	"time_skip_to_next_mandatory_break_ok": {
-		"message": "$TIME$에",
+		"message": "$TIME$",
 		"description": "Id: time_skip_to_next_mandatory_break_ok\nGroup: Time skip feature"
 	},
 	"time_skip_to_next_mandatory_break_not_ok": {
@@ -20440,7 +20440,7 @@
 		"description": "Id: time_skip_rest_full\nGroup: Time skip feature"
 	},
 	"time_skip_tooltip_mandatory_break_not_met": {
-		"message": "이 휴식은 필수 휴식 시간 요건을 충족하지 못합니다. 다음 필수 휴식 시간까지 $LEFT_TIME$이 남습니다.",
+		"message": "이 휴식은 의무 휴식 시간 요건을 충족하지 못합니다. 다음 필수 휴식 시간까지 $LEFT_TIME$이 남습니다.",
 		"description": "Id: time_skip_tooltip_mandatory_break_not_met\nGroup: Time skip feature"
 	},
 	"time_skip_tooltip_mandatory_break_complied": {
@@ -27760,7 +27760,7 @@
 		"description": "Id: hint_resting_title"
 	},
 	"hint_resting_text": {
-		"message": "휴식 공간 <img src=/material/ui/map/parking_ico.mat width=20 height=20>은 피로를 회복하고 필수 휴식을 취하여 안전하게 여행을 계속할 수 있도록 도와줍니다.",
+		"message": "휴식 공간 <img src=/material/ui/map/parking_ico.mat width=20 height=20>은 피로를 회복하고 의무 휴식을 취하여 안전하게 여행을 계속할 수 있도록 도와줍니다.",
 		"description": "Id: hint_resting_text"
 	},
 	"hint_gas_title": {
