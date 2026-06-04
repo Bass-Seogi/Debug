@@ -8604,7 +8604,7 @@
 		"description": "Id: adv_hud_finances_line\nWidget name for the current bank account balance and the last 7 days profit.\nGroup: Adviser Options\nGroup: Route adviser"
 	},
 	"adv_hud_finances_line_op_tooltip": {
-		"message": "총 은행 잔액과 7일 수익 흐름을 보여주며, 여기에는 동적 수익과 위반이 포함됩니다.",
+		"message": "총 은행 잔액과 7일간의 수익 흐름을 보여주며, 여기에는 동적 수익과 위반이 포함됩니다.",
 		"description": "Id: adv_hud_finances_line_op_tooltip\nGroup: Adviser Options\nGroup: Route adviser"
 	},
 	"adv_hud_damage_line": {
@@ -11840,11 +11840,11 @@
 		"description": "Id: compman_no_trailer\nGroup: Company management screens"
 	},
 	"compman_company_profits": {
-		"message": "회사 수익 (지난 7일)",
+		"message": "회사 수익 (지난 7일간)",
 		"description": "Id: compman_company_profits\nGroup: Company management screens"
 	},
 	"compman_most_profitable_title": {
-		"message": "가장 수익성 높은 제품 (지난 7일)",
+		"message": "가장 수익성 높은 제품 (지난 7일간)",
 		"description": "Id: compman_most_profitable_title\nGroup: Company management screens"
 	},
 	"compman_graph_tooltip": {
@@ -11900,7 +11900,7 @@
 		"description": "Id: compman_summary_gavgprod\nGroup: Sumary informations about player's company.\nGroup: Company management screens"
 	},
 	"compman_summary_glastprofit": {
-		"message": "지난 7일간의 이익:",
+		"message": "지난 7일간의 수익:",
 		"description": "Id: compman_summary_glastprofit\nGroup: Sumary informations about player's company.\nGroup: Company management screens"
 	},
 	"compman_summary_gprofitday": {
@@ -13732,7 +13732,7 @@
 		"description": "Id: compw_trailers"
 	},
 	"compw_profit": {
-		"message": "7일간의 이익:",
+		"message": "7일간의 수익:",
 		"description": "Id: compw_profit\nDesktop company statistics. There is limited space allowing for two lines of 9 'W' characters each."
 	},
 	"12_speed": {
@@ -18740,7 +18740,7 @@
 		"description": "Id: trailer_status_on_job\nTrailer status name - trailer is being currently used on duty.\nGroup: Trailer ownership"
 	},
 	"trailer_utilization_last_7days": {
-		"message": "트레일러 사용 (지난 7일)",
+		"message": "트레일러 사용 (지난 7일간)",
 		"description": "Id: trailer_utilization_last_7days\nThe header of the trailer utilization graph.\nGroup: Trailer ownership"
 	},
 	"trailerman_current_state": {
