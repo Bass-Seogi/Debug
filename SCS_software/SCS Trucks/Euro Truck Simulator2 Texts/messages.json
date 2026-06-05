@@ -7972,7 +7972,7 @@
 		"description": "Id: stream_safe_hint_unmodded\nGroup: Music/radio player"
 	},
 	"stream_safe_hint_modded": {
-		"message": "커뮤니티에서 제작한 라디오 콘텐츠는 스트림 세이프로 표시됩니다. 검토되거나 보장되지 않으며 여전히 콘텐츠 클레임을 유발할 수 있습니다.",
+		"message": "커뮤니티에서 제작한 라디오 콘텐츠는 안전한 스트림으로 표시되어 있습니다. 검토되거나 보장되지 않으며 여전히 콘텐츠 클레임을 유발할 수 있습니다.",
 		"description": "Id: stream_safe_hint_modded\nGroup: Music/radio player"
 	},
 	"radio_update": {
@@ -30068,7 +30068,7 @@
 		"description": "Id: hint_resting_title"
 	},
 	"hint_resting_text": {
-		"message": "휴식 공간 <img src=/material/ui/map/parking_ico.mat width=20 height=20>은 피로를 회복하고 의무 휴식을 취하여 안전하게 여행을 계속할 수 있도록 도와줍니다.",
+		"message": "휴식 공간 <img src=/material/ui/map/parking_ico.mat width=20 height=20>은 피로를 회복하고 의무 휴식을 취하여 안전하게 여정을 계속할 수 있도록 도와줍니다.",
 		"description": "Id: hint_resting_text"
 	},
 	"hint_gas_title": {
@@ -41092,7 +41092,7 @@
 		"description": "Id: toy_cupid_s_cap\nGroup: Accessory Names"
 	},
 	"toy_cupid_s_dice": {
-		"message": "큐피드의 주사위",
+		"message": "큐피드의 주사위 더블",
 		"description": "Id: toy_cupid_s_dice\nGroup: Accessory Names"
 	},
 	"toy_cute_plush_heart": {
@@ -41536,7 +41536,7 @@
 		"description": "Id: toy_kassbohrer_cap\nGroup: Accessory Names"
 	},
 	"toy_kassbohrer_cubes": {
-		"message": "Kässbohrer 큐브",
+		"message": "Kässbohrer 주사위 더블",
 		"description": "Id: toy_kassbohrer_cubes\nGroup: Accessory Names"
 	},
 	"toy_kassbohrer_dog": {

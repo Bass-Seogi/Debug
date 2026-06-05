@@ -29812,7 +29812,7 @@
 		"description": "Id: hint_resting_title"
 	},
 	"hint_resting_text": {
-		"message": "휴식 공간 <img src=/material/ui/map/parking_ico.mat width=20 height=20> 피로를 회복하고 안전하게 여정을 계속할 수 있도록 도와드립니다.",
+		"message": "휴식 공간 <img src=/material/ui/map/parking_ico.mat width=20 height=20>은 피로를 회복하고 안전하게 여정을 계속할 수 있도록 도와줍니다.",
 		"description": "Id: hint_resting_text"
 	},
 	"hint_gas_title": {
@@ -40664,7 +40664,7 @@
 		"description": "Id: toy_craftsman_tree\nGroup: Accessory Names"
 	},
 	"toy_cupid_s_dice": {
-		"message": "큐피드의 주사위",
+		"message": "큐피드의 주사위 더블",
 		"description": "Id: toy_cupid_s_dice\nGroup: Accessory Names"
 	},
 	"toy_cute_plush_heart": {
@@ -41036,7 +41036,7 @@
 		"description": "Id: toy_kassbohrer_cap\nGroup: Accessory Names"
 	},
 	"toy_kassbohrer_cubes": {
-		"message": "Kässbohrer 큐브",
+		"message": "Kässbohrer 주사위 더블",
 		"description": "Id: toy_kassbohrer_cubes\nGroup: Accessory Names"
 	},
 	"toy_kassbohrer_dog": {
@@ -41676,7 +41676,7 @@
 		"description": "Id: toy_wingfoot_air_freshener\nGroup: Accessory Names"
 	},
 	"toy_winning_dice": {
-		"message": "승리의 주사위",
+		"message": "승리의 주사위 더블",
 		"description": "Id: toy_winning_dice\nAccessory name, DLC Pink Ribbon.\nGroup: Accessory Names"
 	},
 	"toy_winter_bauble": {
