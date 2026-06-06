@@ -8644,7 +8644,7 @@
 		"description": "Id: adv_hud_tachometer\nGroup: Adviser Options\nGroup: Route adviser"
 	},
 	"adv_hud_indicators": {
-		"message": "지표",
+		"message": "계기",
 		"description": "Id: adv_hud_indicators\nGroup: Adviser Options\nGroup: Route adviser"
 	},
 	"adv_hud_indicators_op_tooltip": {
@@ -8756,7 +8756,7 @@
 		"description": "Id: hud_mirrors_both\nGroup: Adviser Options\nGroup: Route adviser"
 	},
 	"adv_hud_legends_t": {
-		"message": "지표 상태",
+		"message": "계기 상태",
 		"description": "Id: adv_hud_legends_t\nGroup: Adviser Legends\nGroup: Route adviser"
 	},
 	"adv_hud_lgd_turn": {
@@ -29984,7 +29984,7 @@
 		"description": "Id: hint_cam_ext_text"
 	},
 	"hint_indicators_title": {
-		"message": "지표",
+		"message": "계기",
 		"description": "Id: hint_indicators_title"
 	},
 	"hint_indicators_text": {
