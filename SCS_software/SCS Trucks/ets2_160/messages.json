@@ -8608,7 +8608,7 @@
 		"description": "Id: adv_hud_finances_line_op_tooltip\nGroup: Adviser Options\nGroup: Route adviser"
 	},
 	"adv_hud_damage_line": {
-		"message": "데미지",
+		"message": "대미지",
 		"description": "Id: adv_hud_damage_line\nWidget name for displaying vehicle damage.\nGroup: Adviser Options\nGroup: Route adviser"
 	},
 	"adv_hud_autopark": {
