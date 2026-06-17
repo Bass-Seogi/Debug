@@ -32440,7 +32440,7 @@
 		"description": "Id: codrv_seat_comfort_fabric\nGroup: Accessory Names"
 	},
 	"codrv_seat_comfort_leather": {
-		"message": "Comfort 가죽",
+		"message": "편안한 가죽",
 		"description": "Id: codrv_seat_comfort_leather\nGroup: Accessory Names"
 	},
 	"codrv_seat_dynamic": {
@@ -32532,7 +32532,7 @@
 		"description": "Id: curtain_f_daf\nGroup: Accessory Names"
 	},
 	"curtain_f_gold_style": {
-		"message": "Gold Style",
+		"message": "골드 스타일",
 		"description": "Id: curtain_f_gold_style\nGroup: Accessory Names"
 	},
 	"curtain_f_golden_charm": {
@@ -36756,7 +36756,7 @@
 		"description": "Id: flag_singapore\nGroup: Accessory Names"
 	},
 	"flag_sint_maarten_dutch_part": {
-		"message": "Sint Maarten (Dutch part)",
+		"message": "신트 마르턴 (더치 파트)",
 		"description": "Id: flag_sint_maarten_dutch_part\nGroup: Accessory Names"
 	},
 	"flag_slovakia": {
@@ -42616,7 +42616,7 @@
 		"description": "Id: pj_danish_explorer\nGroup: Names of paintjob accessories."
 	},
 	"pj_danish_fan_ribbon": {
-		"message": "Danish 팬 리본",
+		"message": "덴마크 팬 리본",
 		"description": "Id: pj_danish_fan_ribbon\nGroup: Names of paintjob accessories."
 	},
 	"pj_danish_flag_decal": {
@@ -42696,15 +42696,15 @@
 		"description": "Id: pj_duellist\nGroup: Names of paintjob accessories."
 	},
 	"pj_dutch_flag_decal": {
-		"message": "네덜란드 깃발 데칼",
+		"message": "더치 깃발 데칼",
 		"description": "Id: pj_dutch_flag_decal\nGroup: Names of paintjob accessories."
 	},
 	"pj_dutch_flag_metallic": {
-		"message": "네덜란드 깃발 메탈릭",
+		"message": "더치 깃발 메탈릭",
 		"description": "Id: pj_dutch_flag_metallic\nGroup: Names of paintjob accessories."
 	},
 	"pj_dutch_lion": {
-		"message": "Dutch Lion",
+		"message": "더치 라이온",
 		"description": "Id: pj_dutch_lion\nGroup: Names of paintjob accessories."
 	},
 	"pj_e_tech": {
@@ -44616,7 +44616,7 @@
 		"description": "Id: pj_winding_road\nGroup: Names of paintjob accessories."
 	},
 	"pj_windmill_riverside": {
-		"message": "Windmill Riverside",
+		"message": "강변의 풍차",
 		"description": "Id: pj_windmill_riverside\nGroup: Names of paintjob accessories."
 	},
 	"pj_winged_lizard": {

@@ -20440,7 +20440,7 @@
 		"description": "Id: time_skip_tooltip_mandatory_break_complied\nGroup: Time skip feature"
 	},
 	"time_skip_tooltip_mandatory_break_cont": {
-		"message": "모든 <color value=@@clr_sel@@>$DRIVE_TIME$</color> 운전 시간마다 벌금을 피하기 위해 최소 <color value=@@clr_sel@@>$BREAK_TIME$</color> 시간 동안 의무적으로 휴식을 취해야 합니다.",
+		"message": "모든 <color value=@@clr_sel@@>$DRIVE_TIME$</color> 시간 운전 마다 벌금을 피하기 위해 최소 <color value=@@clr_sel@@>$BREAK_TIME$</color> 시간 동안 의무적으로 휴식을 취해야 합니다.",
 		"description": "Id: time_skip_tooltip_mandatory_break_cont\nGroup: Time skip feature"
 	},
 	"time_skip_tooltip_job_on_time": {
@@ -32556,7 +32556,7 @@
 		"description": "Id: flag_flag_of_singapore\nGroup: Accessory Names"
 	},
 	"flag_flag_of_sint_maarten_dutch_part": {
-		"message": "Sint Maarten 깃발 (Dutch part)",
+		"message": "신트 마르턴 깃발 (더치 파트)",
 		"description": "Id: flag_flag_of_sint_maarten_dutch_part\nGroup: Accessory Names"
 	},
 	"flag_flag_of_slovakia": {
@@ -39936,7 +39936,7 @@
 		"description": "Id: pj_we_were_first\nGroup: Names of paintjob accessories."
 	},
 	"pj_wedges": {
-		"message": "쐐기",
+		"message": "Wedges",
 		"description": "Id: pj_wedges\nGroup: Names of paintjob accessories."
 	},
 	"pj_western_tourer": {
