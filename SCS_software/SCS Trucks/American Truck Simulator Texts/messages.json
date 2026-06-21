@@ -20392,7 +20392,7 @@
 		"description": "Id: time_skip_to_next_mandatory_break_ok\nGroup: Time skip feature"
 	},
 	"time_skip_to_next_mandatory_break_not_ok": {
-		"message": "<font face=/font/small_bold.font><color value=@@clr_red@@>$TIME$에</font>",
+		"message": "<font face=/font/small_bold.font><color value=@@clr_red@@>$TIME$</font>",
 		"description": "Id: time_skip_to_next_mandatory_break_not_ok\nGroup: Time skip feature"
 	},
 	"time_skip_mandatory_break_complied": {
