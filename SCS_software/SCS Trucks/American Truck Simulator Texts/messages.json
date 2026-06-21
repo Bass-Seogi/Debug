@@ -20484,7 +20484,7 @@
 		"description": "Id: offence_mandatory_break\nGroup: Time skip feature"
 	},
 	"mandatory_break_simulation": {
-		"message": "의무 휴식 시뮬레이션",
+		"message": "의무 휴식 시물레이션",
 		"description": "Id: mandatory_break_simulation\nGroup: Time skip feature"
 	},
 	"mandatory_break_simulation_op_tooltip": {
@@ -20492,7 +20492,7 @@
 		"description": "Id: mandatory_break_simulation_op_tooltip\nGroup: Time skip feature"
 	},
 	"rest_state_simulation": {
-		"message": "휴식 상태 시뮬레이션",
+		"message": "휴식 상태 시물레이션",
 		"description": "Id: rest_state_simulation\nGroup: Time skip feature"
 	},
 	"rest_state_simulation_op_tooltip": {

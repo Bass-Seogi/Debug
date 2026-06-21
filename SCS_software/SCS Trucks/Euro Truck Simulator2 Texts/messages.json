@@ -23220,7 +23220,7 @@
 		"description": "Id: offence_mandatory_break\nGroup: Time skip feature"
 	},
 	"mandatory_break_simulation": {
-		"message": "의무 휴식 시뮬레이션",
+		"message": "의무 휴식 시물레이션",
 		"description": "Id: mandatory_break_simulation\nGroup: Time skip feature"
 	},
 	"mandatory_break_simulation_op_tooltip": {
@@ -23228,7 +23228,7 @@
 		"description": "Id: mandatory_break_simulation_op_tooltip\nGroup: Time skip feature"
 	},
 	"rest_state_simulation": {
-		"message": "휴식 상태 시뮬레이션",
+		"message": "휴식 상태 시물레이션",
 		"description": "Id: rest_state_simulation\nGroup: Time skip feature"
 	},
 	"rest_state_simulation_op_tooltip": {
@@ -45744,7 +45744,7 @@
 		"description": "Id: ls_a4_kassel_germany"
 	},
 	"ls_a5_olympic_flame_statue_and_rio_antirio_bridge_greece": {
-		"message": "A5(올림픽 성화상 및 리우-안티리오 브리), 그리스",
+		"message": "A5(올림픽 성화상 및 리우-안티리오 브리지), 그리스",
 		"description": "Id: ls_a5_olympic_flame_statue_and_rio_antirio_bridge_greece"
 	},
 	"ls_a6_vidiskiai_lithuania": {
