@@ -3868,11 +3868,11 @@
 		"description": "Id: hide\nHide speed limit display on the advisor.\nGroup: Adviser speed limit visualization\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"truck_limit": {
-		"message": "현재 차량 모드에 대한 제한 사항을 표시합니다",
+		"message": "현재 차량 제한속도 표시",
 		"description": "Id: truck_limit\nShow speed limits for trucks on the advisor.\nGroup: Adviser speed limit visualization\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"generic_limit": {
-		"message": "일반 차량 제한속도 표시",
+		"message": "자동차 제한속도 표시",
 		"description": "Id: generic_limit\nShow speed limits for ordinary cars on the advisor.\nGroup: Adviser speed limit visualization\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"adviser_speed_warning": {
