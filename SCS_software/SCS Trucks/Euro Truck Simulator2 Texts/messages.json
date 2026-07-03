@@ -1424,7 +1424,7 @@
 		"description": "Id: intlight_bgr\nInterio background light accessory\nGroup: Various accessory slots or accessory names."
 	},
 	"l_horn": {
-		"message": "왼쪽 경적",
+		"message": "좌측 경적",
 		"description": "Id: l_horn\nGroup: Various accessory slots or accessory names."
 	},
 	"l_pillow": {
@@ -1480,7 +1480,7 @@
 		"description": "Id: r_grill\nGroup: Various accessory slots or accessory names."
 	},
 	"r_horn": {
-		"message": "오른쪽 경적",
+		"message": "우측 경적",
 		"description": "Id: r_horn\nGroup: Various accessory slots or accessory names."
 	},
 	"r_light": {
@@ -23968,7 +23968,7 @@
 		"description": "Id: gr_cut_lixouri\nGoogle maps: https://maps.app.goo.gl/MdDXR2QhvpDshAtS6\nGroup: Names of viewpoint cutscenes"
 	},
 	"gr_cut_corinth": {
-		"message": "코린트 운하",
+		"message": "코린토스 운하",
 		"description": "Id: gr_cut_corinth\nGoogle maps: https://maps.app.goo.gl/SYLNRy6CxNTTR86G9\nGroup: Names of viewpoint cutscenes"
 	},
 	"gr_cut_souda": {
@@ -42832,11 +42832,11 @@
 		"description": "Id: r_grill_dutch_power_lightbox\nGroup: Accessory Names"
 	},
 	"f_logo_lit": {
-		"message": "Lit Logo",
+		"message": "라이트 로고",
 		"description": "Id: f_logo_lit\nGroup: Accessory Names"
 	},
 	"horn_ahooga": {
-		"message": "Ahooga",
+		"message": "아후가",
 		"description": "Id: horn_ahooga\nGroup: Accessory Names"
 	},
 	"horn_omnius_coltrane_750_stainless_steel": {
@@ -42844,7 +42844,7 @@
 		"description": "Id: horn_omnius_coltrane_750_stainless_steel\nGroup: Accessory Names"
 	},
 	"horn_whistle": {
-		"message": "휘파람",
+		"message": "휘슬",
 		"description": "Id: horn_whistle\nGroup: Accessory Names"
 	},
 	"light_modern_square_orange": {
@@ -45844,7 +45844,7 @@
 		"description": "Id: ls_a7_afsluitdijk_dam_netherlands"
 	},
 	"ls_a7_corinth_canal_greece": {
-		"message": "A7 (코린트 운하), 그리스",
+		"message": "A7 (코린토스 운하), 그리스",
 		"description": "Id: ls_a7_corinth_canal_greece"
 	},
 	"ls_a9_austria_border_slovenia": {

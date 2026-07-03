@@ -1404,7 +1404,7 @@
 		"description": "Id: intlight_bgr\nInterio background light accessory\nGroup: Various accessory slots or accessory names."
 	},
 	"l_horn": {
-		"message": "왼쪽 경적",
+		"message": "좌측 경적",
 		"description": "Id: l_horn\nGroup: Various accessory slots or accessory names."
 	},
 	"l_pillow": {
@@ -1456,7 +1456,7 @@
 		"description": "Id: r_grill\nGroup: Various accessory slots or accessory names."
 	},
 	"r_horn": {
-		"message": "오른쪽 경적",
+		"message": "우측 경적",
 		"description": "Id: r_horn\nGroup: Various accessory slots or accessory names."
 	},
 	"r_light": {
@@ -30572,11 +30572,11 @@
 		"description": "Id: exhaust_bottom_chromed\n\"Bottom version of accessory, eg exhaust.\", \"Chromed mirror, doorhandle or other accessory\" (AutoMerged)\nGroup: Accessory Names"
 	},
 	"exhaust_bullhorn_long": {
-		"message": "확성기 롱",
+		"message": "불혼 롱",
 		"description": "Id: exhaust_bullhorn_long\nGroup: Accessory Names"
 	},
 	"exhaust_bullhorn_long_painted": {
-		"message": "확성기 롱, 페인트",
+		"message": "불혼 롱, 페인트",
 		"description": "Id: exhaust_bullhorn_long_painted\nGroup: Accessory Names"
 	},
 	"exhaust_caliber": {
@@ -30656,11 +30656,11 @@
 		"description": "Id: exhaust_legacy\nGroup: Accessory Names"
 	},
 	"exhaust_plain_bullhorn_long": {
-		"message": "플레인 확성기 롱",
+		"message": "플레인 불혼 롱",
 		"description": "Id: exhaust_plain_bullhorn_long\nGroup: Accessory Names"
 	},
 	"exhaust_plain_bullhorn_short": {
-		"message": "플레인 확성기 숏",
+		"message": "플레인 불혼 숏",
 		"description": "Id: exhaust_plain_bullhorn_short\nGroup: Accessory Names"
 	},
 	"exhaust_plain_flattop_long": {

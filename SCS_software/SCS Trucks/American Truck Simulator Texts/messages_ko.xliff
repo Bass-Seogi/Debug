@@ -3871,7 +3871,7 @@ Group: Various accessory slots or accessory names.</context>
       </trans-unit>
       <trans-unit id="294897" resname="l_horn" translate="no">
         <source>Left Horn</source>
-        <target state="translated">왼쪽 경적</target>
+        <target state="translated">좌측 경적</target>
         <context-group purpose="information">
           <context context-type="source">l_horn
 
@@ -4008,7 +4008,7 @@ Group: Various accessory slots or accessory names.</context>
       </trans-unit>
       <trans-unit id="294901" resname="r_horn" translate="no">
         <source>Right Horn</source>
-        <target state="translated">오른쪽 경적</target>
+        <target state="translated">우측 경적</target>
         <context-group purpose="information">
           <context context-type="source">r_horn
 
@@ -82489,7 +82489,7 @@ Group: Accessory Names</context>
       </trans-unit>
       <trans-unit id="625193" resname="exhaust_bullhorn_long">
         <source>Bullhorn Long</source>
-        <target state="translated">확성기 롱</target>
+        <target state="translated">불혼 롱</target>
         <context-group purpose="information">
           <context context-type="source">exhaust_bullhorn_long
 
@@ -82500,7 +82500,7 @@ Group: Accessory Names</context>
       </trans-unit>
       <trans-unit id="625195" resname="exhaust_bullhorn_long_painted">
         <source>Bullhorn Long, Painted</source>
-        <target state="translated">확성기 롱, 페인트</target>
+        <target state="translated">불혼 롱, 페인트</target>
         <context-group purpose="information">
           <context context-type="source">exhaust_bullhorn_long_painted
 
@@ -82724,7 +82724,7 @@ Group: Accessory Names</context>
       </trans-unit>
       <trans-unit id="625235" resname="exhaust_plain_bullhorn_long">
         <source>Plain Bullhorn Long</source>
-        <target state="translated">플레인 확성기 롱</target>
+        <target state="translated">플레인 불혼 롱</target>
         <context-group purpose="information">
           <context context-type="source">exhaust_plain_bullhorn_long
 
@@ -82735,7 +82735,7 @@ Group: Accessory Names</context>
       </trans-unit>
       <trans-unit id="625237" resname="exhaust_plain_bullhorn_short">
         <source>Plain Bullhorn Short</source>
-        <target state="translated">플레인 확성기 숏</target>
+        <target state="translated">플레인 불혼 숏</target>
         <context-group purpose="information">
           <context context-type="source">exhaust_plain_bullhorn_short
 

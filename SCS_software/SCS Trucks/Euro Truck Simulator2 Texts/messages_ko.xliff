@@ -4003,7 +4003,7 @@ Group: Various accessory slots or accessory names.</context>
       </trans-unit>
       <trans-unit id="117836" resname="l_horn">
         <source>Left Horn</source>
-        <target state="translated">왼쪽 경적</target>
+        <target state="translated">좌측 경적</target>
         <context-group purpose="information">
           <context context-type="source">l_horn
 
@@ -4155,7 +4155,7 @@ Group: Various accessory slots or accessory names.</context>
       </trans-unit>
       <trans-unit id="117838" resname="r_horn">
         <source>Right Horn</source>
-        <target state="translated">오른쪽 경적</target>
+        <target state="translated">우측 경적</target>
         <context-group purpose="information">
           <context context-type="source">r_horn
 
@@ -65961,7 +65961,7 @@ Group: Names of viewpoint cutscenes</context>
       </trans-unit>
       <trans-unit id="431084" resname="gr_cut_corinth">
         <source>Corinth Canal</source>
-        <target state="translated">코린트 운하</target>
+        <target state="translated">코린토스 운하</target>
         <context-group purpose="information">
           <context context-type="source">gr_cut_corinth
 
@@ -116913,7 +116913,7 @@ Group: Accessory Names</context>
       </trans-unit>
       <trans-unit id="684534" resname="f_logo_lit">
         <source>Lit Logo</source>
-        <target state="translated">Lit Logo</target>
+        <target state="translated">라이트 로고</target>
         <context-group purpose="information">
           <context context-type="source">f_logo_lit
 
@@ -116924,7 +116924,7 @@ Group: Accessory Names</context>
       </trans-unit>
       <trans-unit id="684536" resname="horn_ahooga">
         <source>Ahooga</source>
-        <target state="translated">Ahooga</target>
+        <target state="translated">아후가</target>
         <context-group purpose="information">
           <context context-type="source">horn_ahooga
 
@@ -116946,7 +116946,7 @@ Group: Accessory Names</context>
       </trans-unit>
       <trans-unit id="684540" resname="horn_whistle">
         <source>Whistle</source>
-        <target state="translated">휘파람</target>
+        <target state="translated">휘슬</target>
         <context-group purpose="information">
           <context context-type="source">horn_whistle
 
@@ -125127,7 +125127,7 @@ Id: ls_a7_afsluitdijk_dam_netherlands</context>
       </trans-unit>
       <trans-unit id="637631" resname="ls_a7_corinth_canal_greece">
         <source>A7 (Corinth Canal), Greece</source>
-        <target state="translated">A7 (코린트 운하), 그리스</target>
+        <target state="translated">A7 (코린토스 운하), 그리스</target>
         <context-group purpose="information">
           <context context-type="source">ls_a7_corinth_canal_greece
 
