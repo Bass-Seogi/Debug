@@ -15840,7 +15840,7 @@
 		"description": "Id: widget_options_word\nGroup: Pause screen"
 	},
 	"current_country_info_t": {
-		"message": "현재 국가 규정",
+		"message": "현지 규정",
 		"description": "Id: current_country_info_t\nGroup: Pause screen"
 	},
 	"no_job_taken": {
@@ -22960,7 +22960,7 @@
 		"description": "Id: non_launchpad_home_tooltip\nGroup: Menu upper bar"
 	},
 	"current_country_info": {
-		"message": "현재 국가 규정",
+		"message": "현지 규정",
 		"description": "Id: current_country_info\ntooltip title\nGroup: Menu upper bar"
 	},
 	"road_class_local_road_urban": {
@@ -30004,7 +30004,7 @@
 		"description": "Id: hint_tow_title"
 	},
 	"hint_tow_text": {
-		"message": "어려운 상황에서 벗어나지 못하면 견인 서비스를 이용할 수 있습니다. 접근하려면 $KEY_advmouse$을(를) 사용하여 @@quick_info_word@ 메뉴를 엽니다.",
+		"message": "어려운 상황에서 벗어나지 못하면 견인 서비스를 이용할 수 있습니다. 접근하려면 $KEY_advmouse$을(를) 사용하여 @@quick_info_word@@ 메뉴를 엽니다.",
 		"description": "Id: hint_tow_text"
 	},
 	"hint_diff_lock_title": {
@@ -30052,7 +30052,7 @@
 		"description": "Id: hint_pause_border_title"
 	},
 	"hint_pause_border_text": {
-		"message": "$KEY_advmouse$을(를) 사용하여 @@quick_info_word@를 열고 접속한 지역에 대한 현지 규정을 확인하십시오.",
+		"message": "$KEY_advmouse$을(를) 사용하여 @@quick_info_word@@를 열고 접속한 지역에 대한 현지 규정을 확인하십시오.",
 		"description": "Id: hint_pause_border_text"
 	},
 	"hint_photo_trophy_title": {

@@ -37900,7 +37900,7 @@ Group: Pause screen</context>
       </trans-unit>
       <trans-unit id="588961" resname="current_country_info_t" translate="no">
         <source>LOCAL REGULATIONS</source>
-        <target state="translated">현재 국가 규정</target>
+        <target state="translated">현지 규정</target>
         <context-group purpose="information">
           <context context-type="source">current_country_info_t
 
@@ -74620,7 +74620,7 @@ Id: hint_tow_title</context>
       </trans-unit>
       <trans-unit id="590061" resname="hint_tow_text" translate="no">
         <source>If you can't get out of a difficult situation, you may use the towing service. To access it, open the @@quick_info_word@@ menu using $KEY_advmouse$.</source>
-        <target state="translated">어려운 상황에서 벗어나지 못하면 견인 서비스를 이용할 수 있습니다. 접근하려면 $KEY_advmouse$을(를) 사용하여 @@quick_info_word@ 메뉴를 엽니다.</target>
+        <target state="translated">어려운 상황에서 벗어나지 못하면 견인 서비스를 이용할 수 있습니다. 접근하려면 $KEY_advmouse$을(를) 사용하여 @@quick_info_word@@ 메뉴를 엽니다.</target>
         <context-group purpose="information">
           <context context-type="source">hint_tow_text
 
@@ -74728,7 +74728,7 @@ Id: hint_pause_border_title</context>
       </trans-unit>
       <trans-unit id="590085" resname="hint_pause_border_text" translate="no">
         <source>Use $KEY_advmouse$ to open @@quick_info_word@@ and see current regulations for the region you have entered.</source>
-        <target state="translated">$KEY_advmouse$을(를) 사용하여 @@quick_info_word@를 열고 접속한 지역에 대한 현지 규정을 확인하십시오.</target>
+        <target state="translated">$KEY_advmouse$을(를) 사용하여 @@quick_info_word@@를 열고 접속한 지역에 대한 현지 규정을 확인하십시오.</target>
         <context-group purpose="information">
           <context context-type="source">hint_pause_border_text
 
