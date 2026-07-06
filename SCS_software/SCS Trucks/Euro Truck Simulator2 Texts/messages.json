@@ -4516,7 +4516,7 @@
 		"description": "Id: air_brake_simulation_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"fuel_consumption_simulation_op_tooltip": {
-		"message": "비활성화 시 연료 소비는 주행 스타일이나 도로 상태에 영향을 받지 않습니다.<br><br>활성화 시 연료 소비는 주행 스타일, 화물 무게, 롤링 저항, 지형 프로필 등 여러 요인에 의해 영향을 받습니다. 더 이상 @@skill_mechanical_title@ 스킬의 영향을 받지 않습니다.",
+		"message": "비활성화 시 연료 소비는 주행 스타일이나 도로 상태에 영향을 받지 않습니다.<br><br>활성화 시 연료 소비는 주행 스타일, 화물 무게, 롤링 저항, 지형 프로필 등 여러 요인에 의해 영향을 받습니다. 더 이상 @@skill_mechanical_title@@ 스킬의 영향을 받지 않습니다.",
 		"description": "Id: fuel_consumption_simulation_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"abs_op_tooltip": {
@@ -9264,7 +9264,7 @@
 		"description": "Id: skill_heavy_info\nGroup: Informations about individual ranks of High Value Cargo skill.\nGroup: Skills screen\nAllows the player to use gained experience points to improve various skills."
 	},
 	"valuable_desc_initial": {
-		"message": "새로운 <color value=@@clr_skill_desc_highlight@>높은 값</color>배송 <color value=@@clr_skill_desc_highlight@>사용 가능</color>",
+		"message": "새로운 <color value=@@clr_skill_desc_highlight@@>높은 값</color>배송 <color value=@@clr_skill_desc_highlight@@>사용 가능</color>",
 		"description": "Id: valuable_desc_initial\nGroup: Informations about individual ranks of High Value Cargo skill.\nGroup: Skills screen\nAllows the player to use gained experience points to improve various skills."
 	},
 	"valuable_desc_revenue_bonus": {
@@ -9284,11 +9284,11 @@
 		"description": "Id: skill_jit_info\nGroup: Informations about individual ranks of Just-In-Time Delivery skill.\nGroup: Skills screen\nAllows the player to use gained experience points to improve various skills."
 	},
 	"urgent_desc_initial_important": {
-		"message": "새로운 <color value=@@clr_skill_desc_highlight@>중요</color>배송 <color value=@@clr_skill_desc_highlight@>사용 가능</color>",
+		"message": "새로운 <color value=@@clr_skill_desc_highlight@@>중요</color>배송 <color value=@@clr_skill_desc_highlight@@>사용 가능</color>",
 		"description": "Id: urgent_desc_initial_important\nGroup: Informations about individual ranks of Just-In-Time Delivery skill.\nGroup: Skills screen\nAllows the player to use gained experience points to improve various skills."
 	},
 	"urgent_desc_initial_urgent": {
-		"message": "새로운 <color value=@clr_skill_desc_highlight@>깁급</color> 배송 <color value=@clr_skill_desc_highlight@>사용 가능</color>",
+		"message": "새로운 <color value=@@clr_skill_desc_highlight@@>깁급</color> 배송 <color value=@@clr_skill_desc_highlight@@>사용 가능</color>",
 		"description": "Id: urgent_desc_initial_urgent\nGroup: Informations about individual ranks of Just-In-Time Delivery skill.\nGroup: Skills screen\nAllows the player to use gained experience points to improve various skills."
 	},
 	"urgent_desc_revenue_bonus_important": {
@@ -9316,7 +9316,7 @@
 		"description": "Id: skill_fragile_info\nGroup: Informations about individual ranks of Fragile Cargo skill.\nGroup: Skills screen\nAllows the player to use gained experience points to improve various skills."
 	},
 	"fragile_desc_initial": {
-		"message": "새로운 <color value=@clr_skill_desc_highlight@>파손 주의 화물</color> 배송<color value=@clr_skill_desc_highlight@>사용 가능</color>",
+		"message": "새로운 <color value=@@clr_skill_desc_highlight@@>파손 주의 화물</color> 배송<color value=@@clr_skill_desc_highlight@@>사용 가능</color>",
 		"description": "Id: fragile_desc_initial\nGroup: Informations about individual ranks of Fragile Cargo skill.\nGroup: Skills screen\nAllows the player to use gained experience points to improve various skills."
 	},
 	"fragile_desc_revenue_bonus": {
@@ -23192,7 +23192,7 @@
 		"description": "Id: time_skip_tooltip_job_late\nGroup: Time skip feature"
 	},
 	"time_skip_max_sleep_reached": {
-		"message": "<color value=@clr_red@>당신은 완전히 쉬게 될 것입니다</color>",
+		"message": "<color value=@@clr_red@@>당신은 완전히 쉬게 될 것입니다</color>",
 		"description": "Id: time_skip_max_sleep_reached\nGroup: Time skip feature"
 	},
 	"job_eta": {
@@ -25440,7 +25440,7 @@
 		"description": "Id: aca_msg_scenario_end\nGroup: Scenarios general"
 	},
 	"aca_msg_parking_orientation_title": {
-		"message": "시나리오 끝 제목",
+		"message": "@@aca_msg_scenario_end_title@@",
 		"description": "Id: aca_msg_parking_orientation_title\nGroup: Scenarios general"
 	},
 	"aca_msg_parking_orientation": {
@@ -26404,7 +26404,7 @@
 		"description": "Id: aca_msg_book1_2_04_check1\nGroup: Book 1 Scenario 2_04"
 	},
 	"aca_msg_book1_2_04_end": {
-		"message": "<font face=/font/big_bold.font>트럭을 고정하고 엔진을 끄십시오.</font>@aca_goal_tip@@ 인테리어 룩 프리셋을 사용하여 거울을 더 쉽게 볼 수 있습니다. 옵션 화면 - '@options_bindings_screen@' - 에서 해당 컨트롤을 확인하거나 변경할 수 있습니다.",
+		"message": "<font face=/font/big_bold.font>트럭을 고정하고 엔진을 끄십시오.</font>@@aca_goal_tip@@ 인테리어 룩 프리셋을 사용하여 거울을 더 쉽게 볼 수 있습니다. 옵션 화면 - '@@options_bindings_screen@@' - 에서 해당 컨트롤을 확인하거나 변경할 수 있습니다.",
 		"description": "Id: aca_msg_book1_2_04_end\nGroup: Book 1 Scenario 2_04"
 	},
 	"aca_scenario_book1_2_05_title": {
@@ -29916,7 +29916,7 @@
 		"description": "Id: hint_driv_hshift_title"
 	},
 	"hint_driv_hshift_text": {
-		"message": "$KEY_aforward+ALIAS_j_throttle+KEY_dforward$와 $KEY_abackward+ALIAS_j_brake+KEY_dbackward$을(를) 사용하여 전진 또는 후진하십시오.<br><offset vshift=8>$SPECIAL_steering$을(를) 사용하여 조향 하십시오.<br><offset vshift=8>기어를 <color value=@@clr_sel@@>시프터<color value=@clr_txt@@>로 변경하십시오.",
+		"message": "$KEY_aforward+ALIAS_j_throttle+KEY_dforward$와 $KEY_abackward+ALIAS_j_brake+KEY_dbackward$을(를) 사용하여 전진 또는 후진하십시오.<br><offset vshift=8>$SPECIAL_steering$을(를) 사용하여 조향 하십시오.<br><offset vshift=8>기어를 <color value=@@clr_sel@@>시프터<color value=@@clr_txt@@>로 변경하십시오.",
 		"description": "Id: hint_driv_hshift_text"
 	},
 	"hint_depot_deliv_title": {
@@ -30012,7 +30012,7 @@
 		"description": "Id: hint_diff_lock_title"
 	},
 	"hint_diff_lock_text": {
-		"message": "이동할 수 없다면 차동기어 잠금이 도움이 될 수 있습니다. $KEY_diflock$을(를) 사용하여 켜거나 @@desktop_menu_category_options@에서 차동기어 잠금을 켜십시오.",
+		"message": "이동할 수 없다면 차동기어 잠금이 도움이 될 수 있습니다. $KEY_diflock$을(를) 사용하여 켜거나 @@desktop_menu_category_options@@에서 차동기어 잠금을 켜십시오.",
 		"description": "Id: hint_diff_lock_text"
 	},
 	"hint_diff_unlock_title": {
@@ -30020,7 +30020,7 @@
 		"description": "Id: hint_diff_unlock_title"
 	},
 	"hint_diff_unlock_text": {
-		"message": "일반 운전 중에 차동기어 잠금을 해제하지 않으면 손상될 위험이 있습니다. $KEY_diflock$을(를) 사용하여 끄거나 @@desktop_menu_category_options@에서 자동 차동기어 잠금을 켜십시오.",
+		"message": "일반 운전 중에 차동기어 잠금을 해제하지 않으면 손상될 위험이 있습니다. $KEY_diflock$을(를) 사용하여 끄거나 @@desktop_menu_category_options@@에서 자동 차동기어 잠금을 켜십시오.",
 		"description": "Id: hint_diff_unlock_text"
 	},
 	"hint_wipers_off_title": {

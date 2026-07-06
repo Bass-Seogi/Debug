@@ -12698,7 +12698,7 @@ Screen used to configure gameplay related options.</context>
       </trans-unit>
       <trans-unit id="623245" resname="fuel_consumption_simulation_op_tooltip" translate="no">
         <source>When disabled, fuel consumption is not affected by driving style or road conditions.&lt;br&gt;&lt;br&gt;When enabled, fuel consumption is affected by several factors including driving style, cargo weight, rolling resistance, and terrain profiles. It is no longer affected by the @@skill_mechanical_title@@ skill.</source>
-        <target state="translated">비활성화 시 연료 소비는 주행 스타일이나 도로 상태에 영향을 받지 않습니다.&lt;br&gt;&lt;br&gt;활성화 시 연료 소비는 주행 스타일, 화물 무게, 롤링 저항, 지형 프로필 등 여러 요인에 의해 영향을 받습니다. 더 이상 @@skill_mechanical_title@ 스킬의 영향을 받지 않습니다.</target>
+        <target state="translated">비활성화 시 연료 소비는 주행 스타일이나 도로 상태에 영향을 받지 않습니다.&lt;br&gt;&lt;br&gt;활성화 시 연료 소비는 주행 스타일, 화물 무게, 롤링 저항, 지형 프로필 등 여러 요인에 의해 영향을 받습니다. 더 이상 @@skill_mechanical_title@@ 스킬의 영향을 받지 않습니다.</target>
         <context-group purpose="information">
           <context context-type="source">fuel_consumption_simulation_op_tooltip
 
@@ -26276,7 +26276,7 @@ Allows the player to use gained experience points to improve various skills.</co
       </trans-unit>
       <trans-unit id="623383" resname="valuable_desc_initial">
         <source>New &lt;color value=@@clr_skill_desc_highlight@@&gt;high value&lt;/color&gt; deliveries &lt;color value=@@clr_skill_desc_highlight@@&gt;available&lt;/color&gt;</source>
-        <target state="translated">새로운 &lt;color value=@@clr_skill_desc_highlight@&gt;높은 값&lt;/color&gt;배송 &lt;color value=@@clr_skill_desc_highlight@&gt;사용 가능&lt;/color&gt;</target>
+        <target state="translated">새로운 &lt;color value=@@clr_skill_desc_highlight@@&gt;높은 값&lt;/color&gt;배송 &lt;color value=@@clr_skill_desc_highlight@@&gt;사용 가능&lt;/color&gt;</target>
         <context-group purpose="information">
           <context context-type="source">valuable_desc_initial
 
@@ -26336,7 +26336,7 @@ Allows the player to use gained experience points to improve various skills.</co
       </trans-unit>
       <trans-unit id="623391" resname="urgent_desc_initial_important">
         <source>New &lt;color value=@@clr_skill_desc_highlight@@&gt;important&lt;/color&gt; deliveries &lt;color value=@@clr_skill_desc_highlight@@&gt;available&lt;/color&gt;</source>
-        <target state="translated">새로운 &lt;color value=@@clr_skill_desc_highlight@&gt;중요&lt;/color&gt;배송 &lt;color value=@@clr_skill_desc_highlight@&gt;사용 가능&lt;/color&gt;</target>
+        <target state="translated">새로운 &lt;color value=@@clr_skill_desc_highlight@@&gt;중요&lt;/color&gt;배송 &lt;color value=@@clr_skill_desc_highlight@@&gt;사용 가능&lt;/color&gt;</target>
         <context-group purpose="information">
           <context context-type="source">urgent_desc_initial_important
 
@@ -26348,7 +26348,7 @@ Allows the player to use gained experience points to improve various skills.</co
       </trans-unit>
       <trans-unit id="623393" resname="urgent_desc_initial_urgent">
         <source>New &lt;color value=@@clr_skill_desc_highlight@@&gt;urgent&lt;/color&gt; deliveries &lt;color value=@@clr_skill_desc_highlight@@&gt;available&lt;/color&gt;</source>
-        <target state="translated">새로운 &lt;color value=@clr_skill_desc_highlight@&gt;깁급&lt;/color&gt; 배송 &lt;color value=@clr_skill_desc_highlight@&gt;사용 가능&lt;/color&gt;</target>
+        <target state="translated">새로운 &lt;color value=@@clr_skill_desc_highlight@@&gt;깁급&lt;/color&gt; 배송 &lt;color value=@@clr_skill_desc_highlight@@&gt;사용 가능&lt;/color&gt;</target>
         <context-group purpose="information">
           <context context-type="source">urgent_desc_initial_urgent
 
@@ -26432,7 +26432,7 @@ Allows the player to use gained experience points to improve various skills.</co
       </trans-unit>
       <trans-unit id="623405" resname="fragile_desc_initial">
         <source>New &lt;color value=@@clr_skill_desc_highlight@@&gt;fragile goods&lt;/color&gt; deliveries &lt;color value=@@clr_skill_desc_highlight@@&gt;available&lt;/color&gt;</source>
-        <target state="translated">새로운 &lt;color value=@clr_skill_desc_highlight@&gt;파손 주의 화물&lt;/color&gt; 배송&lt;color value=@clr_skill_desc_highlight@&gt;사용 가능&lt;/color&gt;</target>
+        <target state="translated">새로운 &lt;color value=@@clr_skill_desc_highlight@@&gt;파손 주의 화물&lt;/color&gt; 배송&lt;color value=@@clr_skill_desc_highlight@@&gt;사용 가능&lt;/color&gt;</target>
         <context-group purpose="information">
           <context context-type="source">fragile_desc_initial
 
@@ -56210,7 +56210,7 @@ Group: Time skip feature</context>
       </trans-unit>
       <trans-unit id="683610" resname="time_skip_max_sleep_reached">
         <source>&lt;color value=@@clr_red@@&gt;You will be fully rested&lt;/color&gt;</source>
-        <target state="translated">&lt;color value=@clr_red@&gt;당신은 완전히 쉬게 될 것입니다&lt;/color&gt;</target>
+        <target state="translated">&lt;color value=@@clr_red@@&gt;당신은 완전히 쉬게 될 것입니다&lt;/color&gt;</target>
         <context-group purpose="information">
           <context context-type="source">time_skip_max_sleep_reached
 
@@ -62441,7 +62441,7 @@ Group: Chapters general</context>
       </trans-unit>
       <trans-unit id="588993" resname="aca_chapter_book3_1_completed">
         <source>@@aca_chapter3_finished_img@@&lt;br&gt;&lt;font face=/font/big.font&gt;Congratulations!&lt;br&gt;You've completed Chapter 1: @@aca_chapter_book3_1_title@@.&lt;br&gt;&lt;br&gt;You have experienced how to drive and manoeuvre with B-double trailers effectively.&lt;/font&gt;&lt;br&gt;&lt;br&gt;</source>
-        <target state="translated">@@aca_chapter3_finished_img@@&lt;br&gt;&lt;font face=/font/big.font&gt;축하합니다!&lt;br&gt;1장을 완료하셨습니다: @@aca_chapter_book3_1_title@@.&lt;br&gt;&lt;br&gt;이제 B-더블 트레일러를 효과적으로 운전하고 조작하는 방법을 익히셨습니다.&lt;/font&gt;&lt;br&gt;&lt;br&gt;</target>
+        <target state="translated">@@aca_chapter3_finished_img@@&lt;br&gt;&lt;font face=/font/big.font&gt;축하합니다!&lt;br&gt;챕터 1을 완료하셨습니다: @@aca_chapter_book3_1_title@@.&lt;br&gt;&lt;br&gt;이제 B-더블 트레일러를 효과적으로 운전하고 조작하는 방법을 익히셨습니다.&lt;/font&gt;&lt;br&gt;&lt;br&gt;</target>
         <context-group purpose="information">
           <context context-type="source">aca_chapter_book3_1_completed
 
@@ -62923,7 +62923,7 @@ Group: Scenarios general</context>
       </trans-unit>
       <trans-unit id="492995" resname="aca_msg_parking_orientation_title" translate="no">
         <source>@@aca_msg_scenario_end_title@@</source>
-        <target state="translated">시나리오 끝 제목</target>
+        <target state="translated">@@aca_msg_scenario_end_title@@</target>
         <context-group purpose="information">
           <context context-type="source">aca_msg_parking_orientation_title
 
@@ -65362,7 +65362,7 @@ Group: Book 1 Scenario 2_04</context>
       </trans-unit>
       <trans-unit id="683638" resname="aca_msg_book1_2_04_end">
         <source>&lt;font face=/font/big_bold.font&gt;Secure the truck and shut down the engine.&lt;/font&gt;@@aca_goal_tip@@ You can use Interior Look presets to make looking at mirrors easier. Check the Options Screen - '@@options_bindings_screen@@' - to see and/or change corresponding controls.</source>
-        <target state="translated">&lt;font face=/font/big_bold.font&gt;트럭을 고정하고 엔진을 끄십시오.&lt;/font&gt;@aca_goal_tip@@ 인테리어 룩 프리셋을 사용하여 거울을 더 쉽게 볼 수 있습니다. 옵션 화면 - '@options_bindings_screen@' - 에서 해당 컨트롤을 확인하거나 변경할 수 있습니다.</target>
+        <target state="translated">&lt;font face=/font/big_bold.font&gt;트럭을 고정하고 엔진을 끄십시오.&lt;/font&gt;@@aca_goal_tip@@ 인테리어 룩 프리셋을 사용하여 거울을 더 쉽게 볼 수 있습니다. 옵션 화면 - '@@options_bindings_screen@@' - 에서 해당 컨트롤을 확인하거나 변경할 수 있습니다.</target>
         <context-group purpose="information">
           <context context-type="source">aca_msg_book1_2_04_end
 
@@ -74422,7 +74422,7 @@ Id: hint_driv_hshift_title</context>
       </trans-unit>
       <trans-unit id="590017" resname="hint_driv_hshift_text" translate="no">
         <source>Use $KEY_aforward+ALIAS_j_throttle+KEY_dforward$ and $KEY_abackward+ALIAS_j_brake+KEY_dbackward$ to move forward or reverse.&lt;br&gt;&lt;offset vshift=8&gt;Use $SPECIAL_steering$ to steer.&lt;br&gt;&lt;offset vshift=8&gt;Change gears with &lt;color value=@@clr_sel@@&gt;shifter&lt;color value=@@clr_txt@@&gt;.</source>
-        <target state="translated">$KEY_aforward+ALIAS_j_throttle+KEY_dforward$와 $KEY_abackward+ALIAS_j_brake+KEY_dbackward$을(를) 사용하여 전진 또는 후진하십시오.&lt;br&gt;&lt;offset vshift=8&gt;$SPECIAL_steering$을(를) 사용하여 조향 하십시오.&lt;br&gt;&lt;offset vshift=8&gt;기어를 &lt;color value=@@clr_sel@@&gt;시프터&lt;color value=@clr_txt@@&gt;로 변경하십시오.</target>
+        <target state="translated">$KEY_aforward+ALIAS_j_throttle+KEY_dforward$와 $KEY_abackward+ALIAS_j_brake+KEY_dbackward$을(를) 사용하여 전진 또는 후진하십시오.&lt;br&gt;&lt;offset vshift=8&gt;$SPECIAL_steering$을(를) 사용하여 조향 하십시오.&lt;br&gt;&lt;offset vshift=8&gt;기어를 &lt;color value=@@clr_sel@@&gt;시프터&lt;color value=@@clr_txt@@&gt;로 변경하십시오.</target>
         <context-group purpose="information">
           <context context-type="source">hint_driv_hshift_text
 
@@ -74638,7 +74638,7 @@ Id: hint_diff_lock_title</context>
       </trans-unit>
       <trans-unit id="590065" resname="hint_diff_lock_text" translate="no">
         <source>If you cannot start moving, maybe differential lock could help you. Use $KEY_diflock$ to activate it or turn on automatic differential lock in @@desktop_menu_category_options@@.</source>
-        <target state="translated">이동할 수 없다면 차동기어 잠금이 도움이 될 수 있습니다. $KEY_diflock$을(를) 사용하여 켜거나 @@desktop_menu_category_options@에서 차동기어 잠금을 켜십시오.</target>
+        <target state="translated">이동할 수 없다면 차동기어 잠금이 도움이 될 수 있습니다. $KEY_diflock$을(를) 사용하여 켜거나 @@desktop_menu_category_options@@에서 차동기어 잠금을 켜십시오.</target>
         <context-group purpose="information">
           <context context-type="source">hint_diff_lock_text
 
@@ -74656,7 +74656,7 @@ Id: hint_diff_unlock_title</context>
       </trans-unit>
       <trans-unit id="590069" resname="hint_diff_unlock_text" translate="no">
         <source>You should unlock differential during regular driving or you risk its damage. Use $KEY_diflock$ to deactivate it or turn on automatic differential lock in @@desktop_menu_category_options@@.</source>
-        <target state="translated">일반 운전 중에 차동기어 잠금을 해제하지 않으면 손상될 위험이 있습니다. $KEY_diflock$을(를) 사용하여 끄거나 @@desktop_menu_category_options@에서 자동 차동기어 잠금을 켜십시오.</target>
+        <target state="translated">일반 운전 중에 차동기어 잠금을 해제하지 않으면 손상될 위험이 있습니다. $KEY_diflock$을(를) 사용하여 끄거나 @@desktop_menu_category_options@@에서 자동 차동기어 잠금을 켜십시오.</target>
         <context-group purpose="information">
           <context context-type="source">hint_diff_unlock_text
 
