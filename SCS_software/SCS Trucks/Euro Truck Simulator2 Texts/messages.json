@@ -3920,7 +3920,7 @@
 		"description": "Id: map_alignment\nDroplist for selection mode of map alignmet to north.\nGroup: Map alignment modes\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"align_flat": {
-		"message": "평면",
+		"message": "플랫",
 		"description": "Id: align_flat\nFlat map without any alignment or panning.\nGroup: Map alignment modes\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"align_north_locked": {
@@ -13412,7 +13412,7 @@
 		"description": "Id: credits_fmod\nGroup: Credits"
 	},
 	"credits_speedtree": {
-		"message": "이 소프트웨어의 일부는 SpeedTree® 기술 (©2024 유니티 테크놀로지스 SF 제공). 모든 권리 보유.",
+		"message": "Portions of this software utilize SpeedTree® technology (©2024 provided by Unity Technologies SF). All rights reserved.",
 		"description": "Id: credits_speedtree\nGroup: Credits"
 	},
 	"jpeg_credits": {
@@ -23060,15 +23060,15 @@
 		"description": "Id: link_locked_msg_current_session\nGroup: Screen link tooltips"
 	},
 	"health_warning": {
-		"message": "건강 경고",
+		"message": "Health warning",
 		"description": "Id: health_warning\nGroup: Intro Scene. Only translate into officially supported languages."
 	},
 	"health_warning_description": {
-		"message": "일부 사용자는 반짝거리는 빛 또는 불빛 패턴에 노출되면 간질 발작이나 의식 상실에 취약할 수 있습니다. 이러한 사용자는 특정 이미지를 시청하거나 비디오 게임을 하는 동안 발작을 경험할 수 있습니다. 깜박이는 불빛에 노출되었을 때 (발작 또는 의식 상실)과 관련된 증상이 있는 경우 의료 전문가와 상담하고 게임을 플레이하기 전에 필요한 모든 예방 조치를 취하십시오.<br offset=20>게임을 플레이하는 동안 다음과 같은 증상이 발생하는 경우: 어지러움, 시력, 눈 또는 근육 경련, 의식 상실, 방향 감각 상실, 경련, 비자발적 움직임, 즉시 비디오 게임 사용을 중단하고 의료 전문가와 상담하십시오.",
+		"message": "A small number of users may be susceptible to epileptic seizures or loss of consciousness when exposed to certain flashing lights or light patterns. Such individuals may experience a seizure while watching certain images or playing a video game. If you or anyone in your family has ever had symptoms related to epilepsy (seizures or loss of consciousness) when exposed to flashing lights, please consult a medical professional and take all necessary precautions prior to playing the game.<br offset=20>If you or your child experience any of the following symptoms while playing any video game: dizziness, altered vision, eye or muscle twitches, loss of consciousness, disorientation, convulsions, involuntary movements, discontinue use of the video game immediately and consult a medical professional.",
 		"description": "Id: health_warning_description\nGroup: Intro Scene. Only translate into officially supported languages."
 	},
 	"trademark": {
-		"message": "게임 내 차량의 모든 브랜드 이름, 상표, 등록 마크, 로고 및 기호는 정당한 소유자의 소유물입니다. 친절한 허가를 받아 사용됩니다. MAN® 상표 및 디자인은 MAN Truck & Bus AG의 등록 권리이며 SCS Software s.r.o. \"Mercedes-Benz\" 및 \"반지 속 세 개의 뾰족한 별\"은 다임러 AG의 상표이며 SCS Software s.r.o.의 라이선스 하에 사용됩니다. 르노 상표, 볼보 상표 및 디자인은 AB 볼보 그룹의 등록 권리 또는 라이선스 하에 사용되며 라이선스 하에 사용됩니다.",
+		"message": "All brand names, trademarks, registered marks, logos, and symbols on vehicles in the game are property of their rightful owners. Used with kind permission. The MAN® trademarks and designs are registered rights of MAN Truck & Bus AG and are used under license to SCS Software s.r.o. \"Mercedes-Benz\" and \"Three pointed star in a ring\" are trademarks of Daimler AG and used under license by SCS Software s.r.o. The RENAULT trademarks and designs are registered rights of or licensed to the AB Volvo Group and are used pursuant to a license. The VOLVO trademarks and designs are registered rights of or licensed to the AB Volvo Group and are used pursuant to a license.",
 		"description": "Id: trademark\nGroup: Intro Scene. Only translate into officially supported languages."
 	},
 	"sm_save_failed_not_enough_space": {
@@ -31520,7 +31520,7 @@
 		"description": "Id: cabin_active_space_super\nGroup: Accessory Names"
 	},
 	"cabin_active_super": {
-		"message": "Active Super",
+		"message": "액티브 슈퍼",
 		"description": "Id: cabin_active_super\nGroup: Accessory Names"
 	},
 	"cabin_aero_globetrotter": {
@@ -31588,7 +31588,7 @@
 		"description": "Id: cabin_high_roof\nGroup: Accessory Names"
 	},
 	"cabin_high_roof_sleeper": {
-		"message": "High Roof Sleeper",
+		"message": "하이 루프 슬리퍼",
 		"description": "Id: cabin_high_roof_sleeper\nGroup: Accessory Names"
 	},
 	"cabin_high_sleeper": {
@@ -31608,11 +31608,11 @@
 		"description": "Id: cabin_megaspace\nGroup: Accessory Names"
 	},
 	"cabin_normal": {
-		"message": "Normal",
+		"message": "노멀",
 		"description": "Id: cabin_normal\nGroup: Accessory Names"
 	},
 	"cabin_normal_roof": {
-		"message": "Normal Roof",
+		"message": "노멀 루프",
 		"description": "Id: cabin_normal_roof\nGroup: Accessory Names"
 	},
 	"cabin_sleeper": {
@@ -32868,7 +32868,7 @@
 		"description": "Id: curtain_f_volvo_blue\nGroup: Accessory Names"
 	},
 	"curtain_f_volvo_dark": {
-		"message": "Volvo Dark",
+		"message": "Volvo 다크",
 		"description": "Id: curtain_f_volvo_dark\nGroup: Accessory Names"
 	},
 	"curtain_f_white_rose": {
@@ -37712,11 +37712,11 @@
 		"description": "Id: interior_exclusive_black_uk_2019\nLuxury/Exclusive UK version of the interior or accesory\nGroup: Accessory Names"
 	},
 	"interior_exclusive_dark": {
-		"message": "고급형, Dark",
+		"message": "고급형, 다크",
 		"description": "Id: interior_exclusive_dark\n\"Luxury/Exclusive version of the interior or accesory\", \"Generic \"dark\" variant accesory name (eg. interior)\" (AutoMerged)\nGroup: Accessory Names"
 	},
 	"interior_exclusive_dark_uk": {
-		"message": "고급형, Dark, UK",
+		"message": "고급형, 다크, UK",
 		"description": "Id: interior_exclusive_dark_uk\n\"Luxury/Exclusive version of the interior or accesory\", \"Generic \"dark\" variant accesory name (eg. interior)\" (AutoMerged)\nGroup: Accessory Names"
 	},
 	"interior_exclusive_evolution": {
@@ -37892,11 +37892,11 @@
 		"description": "Id: interior_route_66_edition_uk\nGroup: Accessory Names"
 	},
 	"interior_smart_dash_advanced_dark": {
-		"message": "스마트 대시 고급, Dark",
+		"message": "스마트 대시 고급, 다크",
 		"description": "Id: interior_smart_dash_advanced_dark\n\"Specific (or fancy) name of the interior\", \"Generic \"dark\" variant accesory name (eg. interior)\" (AutoMerged)\nGroup: Accessory Names"
 	},
 	"interior_smart_dash_advanced_dark_uk": {
-		"message": "스마트 대시 고급, Dark UK",
+		"message": "스마트 대시 고급, 다크 UK",
 		"description": "Id: interior_smart_dash_advanced_dark_uk\n\"Specific (or fancy) name of the interior\", \"Generic \"dark\" variant accesory name (eg. interior)\" (AutoMerged)\nGroup: Accessory Names"
 	},
 	"interior_smart_dash_advanced_light": {
@@ -37916,11 +37916,11 @@
 		"description": "Id: interior_smart_dash_advanced_v8_uk\nSpecific (or fancy) name of the interior\nGroup: Accessory Names"
 	},
 	"interior_smart_dash_dark": {
-		"message": "스마트 대시, Dark",
+		"message": "스마트 대시, 다크",
 		"description": "Id: interior_smart_dash_dark\n\"Specific (or fancy) name of the interior\", \"Generic \"dark\" variant accesory name (eg. interior)\" (AutoMerged)\nGroup: Accessory Names"
 	},
 	"interior_smart_dash_dark_uk": {
-		"message": "스마트 대시, Dark UK",
+		"message": "스마트 대시, 다크 UK",
 		"description": "Id: interior_smart_dash_dark_uk\n\"Specific (or fancy) name of the interior\", \"Generic \"dark\" variant accesory name (eg. interior)\" (AutoMerged)\nGroup: Accessory Names"
 	},
 	"interior_smart_dash_light": {
@@ -37968,11 +37968,11 @@
 		"description": "Id: interior_standard_bigspace_uk\nStandard version of the interior or accesory\nGroup: Accessory Names"
 	},
 	"interior_standard_dark": {
-		"message": "일반형, Dark",
+		"message": "일반형, 다크",
 		"description": "Id: interior_standard_dark\n\"Standard version of the interior or accesory\", \"Generic \"dark\" variant accesory name (eg. interior)\" (AutoMerged)\nGroup: Accessory Names"
 	},
 	"interior_standard_dark_uk": {
-		"message": "일반형, Dark, UK",
+		"message": "일반형, 다크, UK",
 		"description": "Id: interior_standard_dark_uk\n\"Standard version of the interior or accesory\", \"Generic \"dark\" variant accesory name (eg. interior)\" (AutoMerged)\nGroup: Accessory Names"
 	},
 	"interior_standard_evolution": {
@@ -40268,7 +40268,7 @@
 		"description": "Id: sideskirt_exclusive_painted_ii\nLuxury/Exclusive painted version of the interior or accesory\nGroup: Accessory Names"
 	},
 	"sideskirt_flat": {
-		"message": "평면",
+		"message": "플랫",
 		"description": "Id: sideskirt_flat\nGroup: Accessory Names"
 	},
 	"sideskirt_full_protection_double_bar": {
@@ -43664,7 +43664,7 @@
 		"description": "Id: pj_digitized_reality\nGroup: Names of paintjob accessories."
 	},
 	"pj_directions": {
-		"message": "디렉션",
+		"message": "Directions",
 		"description": "Id: pj_directions\nGroup: Names of paintjob accessories."
 	},
 	"pj_discovery_grey_metallic": {
@@ -44216,7 +44216,7 @@
 		"description": "Id: pj_kassbohrer_co2\nGroup: Names of paintjob accessories."
 	},
 	"pj_kassbohrer_dark_steel": {
-		"message": "Kässbohrer Dark 강철",
+		"message": "Kässbohrer 다크 강철",
 		"description": "Id: pj_kassbohrer_dark_steel\nGroup: Names of paintjob accessories."
 	},
 	"pj_kassbohrer_excellence": {
@@ -44988,11 +44988,11 @@
 		"description": "Id: pj_schwarzmuller_custom\nGroup: Names of paintjob accessories."
 	},
 	"pj_schwarzmuller_red": {
-		"message": "Schwarzmüller Red",
+		"message": "Schwarzmüller 빨강",
 		"description": "Id: pj_schwarzmuller_red\nGroup: Names of paintjob accessories."
 	},
 	"pj_schwarzmuller_white": {
-		"message": "Schwarzmüller White",
+		"message": "Schwarzmüller 흰색",
 		"description": "Id: pj_schwarzmuller_white\nGroup: Names of paintjob accessories."
 	},
 	"pj_scorpio_red": {
@@ -45368,7 +45368,7 @@
 		"description": "Id: pj_tribal\nGroup: Names of paintjob accessories."
 	},
 	"pj_tribal_griffin_dark": {
-		"message": "Tribal Griffin Dark",
+		"message": "Tribal Griffin 다크",
 		"description": "Id: pj_tribal_griffin_dark\nGroup: Names of paintjob accessories."
 	},
 	"pj_tribal_griffin_light": {

@@ -11122,7 +11122,7 @@ Screen used to configure gameplay related options.</context>
       </trans-unit>
       <trans-unit id="1484" resname="align_flat">
         <source>Flat</source>
-        <target state="translated">평면</target>
+        <target state="translated">플랫</target>
         <context-group purpose="information">
           <context context-type="source">align_flat
 
@@ -38156,7 +38156,7 @@ Group: Credits</context>
       </trans-unit>
       <trans-unit id="623723" resname="credits_bullet" translate="no">
         <source>Bullet (c)  2003-2011 Erwin Coumans</source>
-        <target state="translated">Bullet (c)  2003-2011 Erwin Coumans</target>
+        <target>Bullet (c)  2003-2011 Erwin Coumans</target>
         <context-group purpose="information">
           <context context-type="source">credits_bullet
 
@@ -38166,7 +38166,7 @@ Group: Credits</context>
       </trans-unit>
       <trans-unit id="623729" resname="credits_ogg" translate="no">
         <source>Xiph.org Foundation</source>
-        <target state="translated">Xiph.org Foundation</target>
+        <target>Xiph.org Foundation</target>
         <context-group purpose="information">
           <context context-type="source">credits_ogg
 
@@ -38176,7 +38176,7 @@ Group: Credits</context>
       </trans-unit>
       <trans-unit id="623735" resname="credits_fmod" translate="no">
         <source>Made with FMOD Studio by Firelight Technologies Pty Ltd.</source>
-        <target state="translated">Made with FMOD Studio by Firelight Technologies Pty Ltd.</target>
+        <target>Made with FMOD Studio by Firelight Technologies Pty Ltd.</target>
         <context-group purpose="information">
           <context context-type="source">credits_fmod
 
@@ -38186,7 +38186,7 @@ Group: Credits</context>
       </trans-unit>
       <trans-unit id="638029" resname="credits_speedtree" translate="no">
         <source>Portions of this software utilize SpeedTree® technology (©2024 provided by Unity Technologies SF). All rights reserved.</source>
-        <target state="translated">이 소프트웨어의 일부는 SpeedTree® 기술 (©2024 유니티 테크놀로지스 SF 제공). 모든 권리 보유.</target>
+        <target>Portions of this software utilize SpeedTree® technology (©2024 provided by Unity Technologies SF). All rights reserved.</target>
         <context-group purpose="information">
           <context context-type="source">credits_speedtree
 
@@ -39279,6 +39279,7 @@ Id: reward</context>
 Id: xp
 Shortcut for experience points.</context>
         </context-group>
+        <note from="Lydia Cheung (lydiach)" priority="4">@QL_HANS_T Could you change the approved translation to “XP” since it’s a shortcut?</note>
       </trans-unit>
       <trans-unit id="4270" resname="distance">
         <source>Driven distance:</source>
@@ -63495,36 +63496,40 @@ Group: Screen link tooltips</context>
       </trans-unit>
       <trans-unit id="638033" resname="health_warning" translate="no">
         <source>Health warning</source>
-        <target state="translated">건강 경고</target>
+        <target>Health warning</target>
         <context-group purpose="information">
           <context context-type="source">health_warning
 
 Id: health_warning
 Group: Intro Scene. Only translate into officially supported languages.</context>
+          <context context-type="x-crowdin-label">Curated Only</context>
         </context-group>
       </trans-unit>
       <trans-unit id="638035" resname="health_warning_description" translate="no">
         <source>A small number of users may be susceptible to epileptic seizures or loss of consciousness when exposed to certain flashing lights or light patterns. Such individuals may experience a seizure while watching certain images or playing a video game. If you or anyone in your family has ever had symptoms related to epilepsy (seizures or loss of consciousness) when exposed to flashing lights, please consult a medical professional and take all necessary precautions prior to playing the game.&lt;br offset=20&gt;If you or your child experience any of the following symptoms while playing any video game: dizziness, altered vision, eye or muscle twitches, loss of consciousness, disorientation, convulsions, involuntary movements, discontinue use of the video game immediately and consult a medical professional.</source>
-        <target state="translated">일부 사용자는 반짝거리는 빛 또는 불빛 패턴에 노출되면 간질 발작이나 의식 상실에 취약할 수 있습니다. 이러한 사용자는 특정 이미지를 시청하거나 비디오 게임을 하는 동안 발작을 경험할 수 있습니다. 깜박이는 불빛에 노출되었을 때 (발작 또는 의식 상실)과 관련된 증상이 있는 경우 의료 전문가와 상담하고 게임을 플레이하기 전에 필요한 모든 예방 조치를 취하십시오.&lt;br offset=20&gt;게임을 플레이하는 동안 다음과 같은 증상이 발생하는 경우: 어지러움, 시력, 눈 또는 근육 경련, 의식 상실, 방향 감각 상실, 경련, 비자발적 움직임, 즉시 비디오 게임 사용을 중단하고 의료 전문가와 상담하십시오.</target>
+        <target>A small number of users may be susceptible to epileptic seizures or loss of consciousness when exposed to certain flashing lights or light patterns. Such individuals may experience a seizure while watching certain images or playing a video game. If you or anyone in your family has ever had symptoms related to epilepsy (seizures or loss of consciousness) when exposed to flashing lights, please consult a medical professional and take all necessary precautions prior to playing the game.&lt;br offset=20&gt;If you or your child experience any of the following symptoms while playing any video game: dizziness, altered vision, eye or muscle twitches, loss of consciousness, disorientation, convulsions, involuntary movements, discontinue use of the video game immediately and consult a medical professional.</target>
         <context-group purpose="information">
           <context context-type="source">health_warning_description
 
 Id: health_warning_description
 Group: Intro Scene. Only translate into officially supported languages.</context>
+          <context context-type="x-crowdin-label">Curated Only</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="683850" resname="trademark">
+      <trans-unit id="683850" resname="trademark" translate="no">
         <source>All brand names, trademarks, registered marks, logos, and symbols on vehicles in the game are property of their rightful owners. Used with kind permission. The MAN® trademarks and designs are registered rights of MAN Truck &amp; Bus AG and are used under license to SCS Software s.r.o. &quot;Mercedes-Benz&quot; and &quot;Three pointed star in a ring&quot; are trademarks of Daimler AG and used under license by SCS Software s.r.o. The RENAULT trademarks and designs are registered rights of or licensed to the AB Volvo Group and are used pursuant to a license. The VOLVO trademarks and designs are registered rights of or licensed to the AB Volvo Group and are used pursuant to a license.</source>
-        <target state="translated">게임 내 차량의 모든 브랜드 이름, 상표, 등록 마크, 로고 및 기호는 정당한 소유자의 소유물입니다. 친절한 허가를 받아 사용됩니다. MAN® 상표 및 디자인은 MAN Truck &amp; Bus AG의 등록 권리이며 SCS Software s.r.o. &quot;Mercedes-Benz&quot; 및 &quot;반지 속 세 개의 뾰족한 별&quot;은 다임러 AG의 상표이며 SCS Software s.r.o.의 라이선스 하에 사용됩니다. 르노 상표, 볼보 상표 및 디자인은 AB 볼보 그룹의 등록 권리 또는 라이선스 하에 사용되며 라이선스 하에 사용됩니다.</target>
+        <target>All brand names, trademarks, registered marks, logos, and symbols on vehicles in the game are property of their rightful owners. Used with kind permission. The MAN® trademarks and designs are registered rights of MAN Truck &amp; Bus AG and are used under license to SCS Software s.r.o. &quot;Mercedes-Benz&quot; and &quot;Three pointed star in a ring&quot; are trademarks of Daimler AG and used under license by SCS Software s.r.o. The RENAULT trademarks and designs are registered rights of or licensed to the AB Volvo Group and are used pursuant to a license. The VOLVO trademarks and designs are registered rights of or licensed to the AB Volvo Group and are used pursuant to a license.</target>
         <context-group purpose="information">
           <context context-type="source">trademark
 
 Id: trademark
 Group: Intro Scene. Only translate into officially supported languages.</context>
+          <context context-type="x-crowdin-label">Curated Only</context>
         </context-group>
         <note from="Alexander Tselikov (San_Sany4)" priority="4">@QL_RU_T for your information, the game's font does not have the «french quotes», so the game does not render those symbols. Ask SCS for improvement or use &quot;regular&quot; quotes. This applies for all the other strings that are shown in the game as well.</note>
         <note from="DrGreg212" priority="4">Again, are we sure that RENAULT is licensed to the Volvo group?</note>
         <note from="Alexander Tselikov (San_Sany4)" priority="4">@DrGreg212 I understand it like that: Volvo owns Renault Trucks, but they don't own rights for something like name or logo. So they license it from some other company like Renault Group (the car maker) or its parent.</note>
+        <note from="Viktor Dobrovolný (Nettle)" priority="4">@DrGreg212 It's exactly as Alexander said. Volvo owns Renault Trucks so in this case they are the final holder/user of the trademark.</note>
       </trans-unit>
       <trans-unit id="493351" resname="sm_save_failed_not_enough_space">
         <source>There is not enough storage space to save the game or create a new save. Free up some space and try again.</source>
@@ -85538,7 +85543,7 @@ Group: Accessory Names</context>
       </trans-unit>
       <trans-unit id="630871" resname="cabin_active_super">
         <source>Active Super</source>
-        <target state="translated">Active Super</target>
+        <target state="translated">액티브 슈퍼</target>
         <context-group purpose="information">
           <context context-type="source">cabin_active_super
 
@@ -85724,7 +85729,7 @@ Group: Accessory Names</context>
       </trans-unit>
       <trans-unit id="630905" resname="cabin_high_roof_sleeper">
         <source>High Roof Sleeper</source>
-        <target state="translated">High Roof Sleeper</target>
+        <target state="translated">하이 루프 슬리퍼</target>
         <context-group purpose="information">
           <context context-type="source">cabin_high_roof_sleeper
 
@@ -85778,7 +85783,7 @@ Group: Accessory Names</context>
       </trans-unit>
       <trans-unit id="630915" resname="cabin_normal">
         <source>Normal</source>
-        <target state="translated">Normal</target>
+        <target state="translated">노멀</target>
         <context-group purpose="information">
           <context context-type="source">cabin_normal
 
@@ -85789,7 +85794,7 @@ Group: Accessory Names</context>
       </trans-unit>
       <trans-unit id="630917" resname="cabin_normal_roof">
         <source>Normal Roof</source>
-        <target state="translated">Normal Roof</target>
+        <target state="translated">노멀 루프</target>
         <context-group purpose="information">
           <context context-type="source">cabin_normal_roof
 
@@ -89214,7 +89219,7 @@ Group: Accessory Names</context>
       </trans-unit>
       <trans-unit id="631535" resname="curtain_f_volvo_dark">
         <source>Volvo Dark</source>
-        <target state="translated">Volvo Dark</target>
+        <target state="translated">Volvo 다크</target>
         <context-group purpose="information">
           <context context-type="source">curtain_f_volvo_dark
 
@@ -97427,6 +97432,9 @@ Group: Accessory Names</context>
           <context context-type="x-crowdin-label">Accessory</context>
         </context-group>
         <note from="QL_RU_T" priority="4">solid as solid colour?</note>
+        <note from="Adam Fojtík (morrelo)" priority="4">@QL_RU_T &quot;solid&quot; as in &quot;full, completely covered shape&quot;.
+
+It's used as a name for a wheel hub cover. The &quot;Pacific&quot; hub covers generally cover only the area directly around wheel nuts, but &quot;solid&quot; in this case means that this particular variant has full solid cover in the middle, i.e. it covers not only the nuts, but also the middle of the hub.</note>
       </trans-unit>
       <trans-unit id="632987" resname="fcover_pacific_solid_painted">
         <source>Pacific Solid Painted</source>
@@ -102785,7 +102793,7 @@ Group: Accessory Names</context>
       </trans-unit>
       <trans-unit id="633953" resname="interior_exclusive_dark">
         <source>Exclusive, Dark</source>
-        <target state="translated">고급형, Dark</target>
+        <target state="translated">고급형, 다크</target>
         <context-group purpose="information">
           <context context-type="source">interior_exclusive_dark
 
@@ -102797,7 +102805,7 @@ Group: Accessory Names</context>
       </trans-unit>
       <trans-unit id="633955" resname="interior_exclusive_dark_uk">
         <source>Exclusive, Dark, UK</source>
-        <target state="translated">고급형, Dark, UK</target>
+        <target state="translated">고급형, 다크, UK</target>
         <context-group purpose="information">
           <context context-type="source">interior_exclusive_dark_uk
 
@@ -103304,7 +103312,7 @@ Group: Accessory Names</context>
       </trans-unit>
       <trans-unit id="634043" resname="interior_smart_dash_advanced_dark">
         <source>Smart Dash Advanced, Dark</source>
-        <target state="translated">스마트 대시 고급, Dark</target>
+        <target state="translated">스마트 대시 고급, 다크</target>
         <context-group purpose="information">
           <context context-type="source">interior_smart_dash_advanced_dark
 
@@ -103316,7 +103324,7 @@ Group: Accessory Names</context>
       </trans-unit>
       <trans-unit id="634045" resname="interior_smart_dash_advanced_dark_uk">
         <source>Smart Dash Advanced, Dark UK</source>
-        <target state="translated">스마트 대시 고급, Dark UK</target>
+        <target state="translated">스마트 대시 고급, 다크 UK</target>
         <context-group purpose="information">
           <context context-type="source">interior_smart_dash_advanced_dark_uk
 
@@ -103376,7 +103384,7 @@ Group: Accessory Names</context>
       </trans-unit>
       <trans-unit id="634055" resname="interior_smart_dash_dark">
         <source>Smart Dash, Dark</source>
-        <target state="translated">스마트 대시, Dark</target>
+        <target state="translated">스마트 대시, 다크</target>
         <context-group purpose="information">
           <context context-type="source">interior_smart_dash_dark
 
@@ -103388,7 +103396,7 @@ Group: Accessory Names</context>
       </trans-unit>
       <trans-unit id="634057" resname="interior_smart_dash_dark_uk">
         <source>Smart Dash, Dark UK</source>
-        <target state="translated">스마트 대시, Dark UK</target>
+        <target state="translated">스마트 대시, 다크 UK</target>
         <context-group purpose="information">
           <context context-type="source">interior_smart_dash_dark_uk
 
@@ -103529,7 +103537,7 @@ Group: Accessory Names</context>
       </trans-unit>
       <trans-unit id="634081" resname="interior_standard_dark">
         <source>Standard, Dark</source>
-        <target state="translated">일반형, Dark</target>
+        <target state="translated">일반형, 다크</target>
         <context-group purpose="information">
           <context context-type="source">interior_standard_dark
 
@@ -103541,7 +103549,7 @@ Group: Accessory Names</context>
       </trans-unit>
       <trans-unit id="634083" resname="interior_standard_dark_uk">
         <source>Standard, Dark, UK</source>
-        <target state="translated">일반형, Dark, UK</target>
+        <target state="translated">일반형, 다크, UK</target>
         <context-group purpose="information">
           <context context-type="source">interior_standard_dark_uk
 
@@ -110003,7 +110011,7 @@ Group: Accessory Names</context>
       </trans-unit>
       <trans-unit id="635171" resname="sideskirt_flat">
         <source>Flat</source>
-        <target state="translated">평면</target>
+        <target state="translated">플랫</target>
         <context-group purpose="information">
           <context context-type="source">sideskirt_flat
 
@@ -119191,7 +119199,7 @@ Group: Names of paintjob accessories.</context>
       </trans-unit>
       <trans-unit id="636579" resname="pj_directions">
         <source>Directions</source>
-        <target state="translated">디렉션</target>
+        <target state="translated">Directions</target>
         <context-group purpose="information">
           <context context-type="source">pj_directions
 
@@ -120697,7 +120705,7 @@ Group: Names of paintjob accessories.</context>
       </trans-unit>
       <trans-unit id="636849" resname="pj_kassbohrer_dark_steel">
         <source>Kässbohrer Dark Steel</source>
-        <target state="translated">Kässbohrer Dark 강철</target>
+        <target state="translated">Kässbohrer 다크 강철</target>
         <context-group purpose="information">
           <context context-type="source">pj_kassbohrer_dark_steel
 
@@ -122809,7 +122817,7 @@ Group: Names of paintjob accessories.</context>
       </trans-unit>
       <trans-unit id="637223" resname="pj_schwarzmuller_red">
         <source>Schwarzmüller Red</source>
-        <target state="translated">Schwarzmüller Red</target>
+        <target state="translated">Schwarzmüller 빨강</target>
         <context-group purpose="information">
           <context context-type="source">pj_schwarzmuller_red
 
@@ -122820,7 +122828,7 @@ Group: Names of paintjob accessories.</context>
       </trans-unit>
       <trans-unit id="637225" resname="pj_schwarzmuller_white">
         <source>Schwarzmüller White</source>
-        <target state="translated">Schwarzmüller White</target>
+        <target state="translated">Schwarzmüller 흰색</target>
         <context-group purpose="information">
           <context context-type="source">pj_schwarzmuller_white
 
@@ -123840,7 +123848,7 @@ Group: Names of paintjob accessories.</context>
       </trans-unit>
       <trans-unit id="637399" resname="pj_tribal_griffin_dark">
         <source>Tribal Griffin Dark</source>
-        <target state="translated">Tribal Griffin Dark</target>
+        <target state="translated">Tribal Griffin 다크</target>
         <context-group purpose="information">
           <context context-type="source">pj_tribal_griffin_dark
 

@@ -3884,7 +3884,7 @@
 		"description": "Id: map_alignment\nDroplist for selection mode of map alignmet to north.\nGroup: Map alignment modes\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"align_flat": {
-		"message": "평면",
+		"message": "플랫",
 		"description": "Id: align_flat\nFlat map without any alignment or panning.\nGroup: Map alignment modes\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"align_north_locked": {
@@ -12648,7 +12648,7 @@
 		"description": "Id: credits_fmod\nGroup: Credits"
 	},
 	"credits_speedtree": {
-		"message": "이 소프트웨어의 일부는 SpeedTree® 기술 (©2024 유니티 테크놀로지스 SF 제공). 모든 권리 보유.",
+		"message": "Portions of this software utilize SpeedTree® technology (©2024 provided by Unity Technologies SF). All rights reserved.",
 		"description": "Id: credits_speedtree\nGroup: Credits"
 	},
 	"jpeg_credits": {
@@ -20312,15 +20312,15 @@
 		"description": "Id: link_locked_msg_current_session\nGroup: Screen link tooltips"
 	},
 	"health_warning": {
-		"message": "건강 경고",
+		"message": "Health warning",
 		"description": "Id: health_warning\nGroup: Intro Scene. Only translate into officially supported languages."
 	},
 	"health_warning_description": {
-		"message": "일부 사용자는 반짝거리는 빛 또는 불빛 패턴에 노출되면 간질 발작이나 의식 상실에 취약할 수 있습니다. 이러한 사용자는 특정 이미지를 시청하거나 비디오 게임을 하는 동안 발작을 경험할 수 있습니다. 깜박이는 불빛에 노출되었을 때 (발작 또는 의식 상실)과 관련된 증상이 있는 경우 의료 전문가와 상담하고 게임을 플레이하기 전에 필요한 모든 예방 조치를 취하십시오.<br offset=20>게임을 플레이하는 동안 다음과 같은 증상이 발생하는 경우: 어지러움, 시력, 눈 또는 근육 경련, 의식 상실, 방향 감각 상실, 경련, 비자발적 움직임, 즉시 비디오 게임 사용을 중단하고 의료 전문가와 상담하십시오.",
+		"message": "A small number of users may be susceptible to epileptic seizures or loss of consciousness when exposed to certain flashing lights or light patterns. Such individuals may experience a seizure while watching certain images or playing a video game. If you or anyone in your family has ever had symptoms related to epilepsy (seizures or loss of consciousness) when exposed to flashing lights, please consult a medical professional and take all necessary precautions prior to playing the game.<br offset=20>If you or your child experience any of the following symptoms while playing any video game: dizziness, altered vision, eye or muscle twitches, loss of consciousness, disorientation, convulsions, involuntary movements, discontinue use of the video game immediately and consult a medical professional.",
 		"description": "Id: health_warning_description\nGroup: Intro Scene. Only translate into officially supported languages."
 	},
 	"trademark": {
-		"message": "게임 내 차량의 모든 브랜드 이름, 상표, 등록 마크, 로고 및 기호는 정당한 소유자의 소유물입니다. 친절한 허가를 받아 사용됩니다. International® 및 모든 International Truck 상표는 International Truck Intelligent Property Company, LLC에서 라이선스를 받은 상표입니다. 볼보 상표와 디자인은 AB Volvo Group의 등록 권리 또는 라이선스를 받았으며 라이선스에 따라 사용됩니다. MACK 상표와 디자인은 AB Volvo Group의 등록 권리이며 라이선스에 따라 사용됩니다. Western Star는 Daimler Trucks North America LLC의 상표이며 SCS Software s.r.o. Freightliner는 Daimler Trucks North America LLC의 상표이며 SCS Software s.r.o. 라이선스 하에 사용됩니다.",
+		"message": "All brand names, trademarks, registered marks, logos, and symbols on vehicles in the game are property of their rightful owners. Used with kind permission. International® and all International Truck trademarks are trademarks licensed by INTERNATIONAL TRUCK INTELLECTUAL PROPERTY COMPANY, LLC. The VOLVO trademarks and designs are registered rights of or licensed to the AB Volvo Group and are used pursuant to a license. The MACK trademarks and designs are registered rights of the AB Volvo Group and are used pursuant to a license. Western Star is a trademark of Daimler Trucks North America LLC and is used under license to SCS Software s.r.o. Freightliner is a trademark of Daimler Trucks North America LLC and is used under license to SCS Software s.r.o.",
 		"description": "Id: trademark\nGroup: Intro Scene. Only translate into officially supported languages."
 	},
 	"sm_save_failed_not_enough_space": {
@@ -28480,7 +28480,7 @@
 		"description": "Id: bumper_texas\nGroup: Accessory Names"
 	},
 	"bumper_texas_flat": {
-		"message": "Texas 평면",
+		"message": "텍사스 플랫",
 		"description": "Id: bumper_texas_flat\nGroup: Accessory Names"
 	},
 	"bumper_thor": {
@@ -33232,11 +33232,11 @@
 		"description": "Id: int_trim_100th_anniversary\nGroup: Accessory Names"
 	},
 	"int_trim_burlwood_dark": {
-		"message": "Burlwood Dark",
+		"message": "Burlwood 다크",
 		"description": "Id: int_trim_burlwood_dark\nGroup: Accessory Names"
 	},
 	"int_trim_burlwood_dark_full": {
-		"message": "Burlwood Dark Full",
+		"message": "Burlwood 다크 풀",
 		"description": "Id: int_trim_burlwood_dark_full\nGroup: Accessory Names"
 	},
 	"int_trim_burlwood_olive": {
@@ -33344,7 +33344,7 @@
 		"description": "Id: interior_core\nGroup: Accessory Names"
 	},
 	"interior_dark_wooden": {
-		"message": "Dark Wooden",
+		"message": "다크 우드",
 		"description": "Id: interior_dark_wooden\nGroup: Accessory Names"
 	},
 	"interior_diamond": {
@@ -33436,7 +33436,7 @@
 		"description": "Id: interior_legacy\nGroup: Accessory Names"
 	},
 	"interior_light_wooden": {
-		"message": "Light Wooden",
+		"message": "라이트 우드",
 		"description": "Id: interior_light_wooden\nGroup: Accessory Names"
 	},
 	"interior_limited": {
@@ -38532,11 +38532,11 @@
 		"description": "Id: pj_cypress\nGroup: Names of paintjob accessories."
 	},
 	"pj_dark_blue": {
-		"message": "Dark Blue",
+		"message": "다크 블루",
 		"description": "Id: pj_dark_blue\nGroup: Names of paintjob accessories."
 	},
 	"pj_dark_city": {
-		"message": "Dark City",
+		"message": "다크 시티",
 		"description": "Id: pj_dark_city\nGroup: Names of paintjob accessories."
 	},
 	"pj_dark_green": {
@@ -38548,11 +38548,11 @@
 		"description": "Id: pj_dark_grey\nGroup: Names of paintjob accessories."
 	},
 	"pj_dark_purple": {
-		"message": "Dark Purple",
+		"message": "다크 퍼플",
 		"description": "Id: pj_dark_purple\nGroup: Names of paintjob accessories."
 	},
 	"pj_dark_red_metallic": {
-		"message": "Dark Red Metallic",
+		"message": "다크 레드 메탈릭",
 		"description": "Id: pj_dark_red_metallic\nGroup: Names of paintjob accessories."
 	},
 	"pj_dead_or_alive": {

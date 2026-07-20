@@ -6131,7 +6131,7 @@ Group: Names of cities</context>
       </trans-unit>
       <trans-unit id="371514" resname="ats_north_platte">
         <source>North Platte</source>
-        <target state="translated">노스플랫</target>
+        <target state="translated">노스 플랫</target>
         <context-group purpose="information">
           <context context-type="source">ats_north_platte
 

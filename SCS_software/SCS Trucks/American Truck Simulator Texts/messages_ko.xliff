@@ -8129,6 +8129,7 @@ Id: dlc_category_map
 Button/tab in DLC browser. Please keep it as short as possible.
 Group: DLC browser.</context>
         </context-group>
+        <note from="Sebastián Horváth (Eduard_Kenobi)" priority="4">Should not be this string as plural &quot;Maps&quot;? There is multiple map DLCs currently.</note>
       </trans-unit>
       <trans-unit id="524157" resname="dlc_category_cargo">
         <source>Cargo</source>
@@ -10869,7 +10870,7 @@ Screen used to configure gameplay related options.</context>
       </trans-unit>
       <trans-unit id="24616" resname="align_flat" translate="no">
         <source>Flat</source>
-        <target state="translated">평면</target>
+        <target state="translated">플랫</target>
         <context-group purpose="information">
           <context context-type="source">align_flat
 
@@ -35760,47 +35761,52 @@ Id: credits_thanks
 Group: Credits</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="623585" resname="credits_bullet">
+      <trans-unit id="623585" resname="credits_bullet" translate="no">
         <source>Bullet (c)  2003-2011 Erwin Coumans</source>
-        <target state="translated">Bullet (c)  2003-2011 Erwin Coumans</target>
+        <target>Bullet (c)  2003-2011 Erwin Coumans</target>
         <context-group purpose="information">
           <context context-type="source">credits_bullet
 
 Id: credits_bullet
 Group: Credits</context>
+          <context context-type="x-crowdin-label">Curated Only</context>
         </context-group>
         <note from="Mads Teland (mads1153)" priority="4">Should this be not translated and just copied into as a string?</note>
+        <note from="Viktor Dobrovolný (Nettle)" priority="4">@mads1153 Yes, either copied or left as they are. This is actually true for all the credits related strings, I made them hidden as to not cause further confusion.</note>
       </trans-unit>
-      <trans-unit id="623587" resname="credits_ogg">
+      <trans-unit id="623587" resname="credits_ogg" translate="no">
         <source>Xiph.org Foundation</source>
-        <target state="translated">Xiph.org Foundation</target>
+        <target>Xiph.org Foundation</target>
         <context-group purpose="information">
           <context context-type="source">credits_ogg
 
 Id: credits_ogg
 Group: Credits</context>
+          <context context-type="x-crowdin-label">Curated Only</context>
         </context-group>
         <note from="Mads Teland (mads1153)" priority="4">Should this be not translated and just copied into as a string?</note>
       </trans-unit>
-      <trans-unit id="623589" resname="credits_fmod">
+      <trans-unit id="623589" resname="credits_fmod" translate="no">
         <source>Made with FMOD Studio by Firelight Technologies Pty Ltd.</source>
-        <target state="translated">Made with FMOD Studio by Firelight Technologies Pty Ltd.</target>
+        <target>Made with FMOD Studio by Firelight Technologies Pty Ltd.</target>
         <context-group purpose="information">
           <context context-type="source">credits_fmod
 
 Id: credits_fmod
 Group: Credits</context>
+          <context context-type="x-crowdin-label">Curated Only</context>
         </context-group>
         <note from="Mads Teland (mads1153)" priority="4">Should this be not translated and just copied into as a string?</note>
       </trans-unit>
-      <trans-unit id="638001" resname="credits_speedtree">
+      <trans-unit id="638001" resname="credits_speedtree" translate="no">
         <source>Portions of this software utilize SpeedTree® technology (©2024 provided by Unity Technologies SF). All rights reserved.</source>
-        <target state="translated">이 소프트웨어의 일부는 SpeedTree® 기술 (©2024 유니티 테크놀로지스 SF 제공). 모든 권리 보유.</target>
+        <target>Portions of this software utilize SpeedTree® technology (©2024 provided by Unity Technologies SF). All rights reserved.</target>
         <context-group purpose="information">
           <context context-type="source">credits_speedtree
 
 Id: credits_speedtree
 Group: Credits</context>
+          <context context-type="x-crowdin-label">Curated Only</context>
         </context-group>
       </trans-unit>
       <trans-unit id="27136" resname="jpeg_credits" translate="no">
@@ -55847,35 +55853,39 @@ Id: link_locked_msg_current_session
 Group: Screen link tooltips</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="638003" resname="health_warning">
+      <trans-unit id="638003" resname="health_warning" translate="no">
         <source>Health warning</source>
-        <target state="translated">건강 경고</target>
+        <target>Health warning</target>
         <context-group purpose="information">
           <context context-type="source">health_warning
 
 Id: health_warning
 Group: Intro Scene. Only translate into officially supported languages.</context>
+          <context context-type="x-crowdin-label">Curated Only</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="638005" resname="health_warning_description">
+      <trans-unit id="638005" resname="health_warning_description" translate="no">
         <source>A small number of users may be susceptible to epileptic seizures or loss of consciousness when exposed to certain flashing lights or light patterns. Such individuals may experience a seizure while watching certain images or playing a video game. If you or anyone in your family has ever had symptoms related to epilepsy (seizures or loss of consciousness) when exposed to flashing lights, please consult a medical professional and take all necessary precautions prior to playing the game.&lt;br offset=20&gt;If you or your child experience any of the following symptoms while playing any video game: dizziness, altered vision, eye or muscle twitches, loss of consciousness, disorientation, convulsions, involuntary movements, discontinue use of the video game immediately and consult a medical professional.</source>
-        <target state="translated">일부 사용자는 반짝거리는 빛 또는 불빛 패턴에 노출되면 간질 발작이나 의식 상실에 취약할 수 있습니다. 이러한 사용자는 특정 이미지를 시청하거나 비디오 게임을 하는 동안 발작을 경험할 수 있습니다. 깜박이는 불빛에 노출되었을 때 (발작 또는 의식 상실)과 관련된 증상이 있는 경우 의료 전문가와 상담하고 게임을 플레이하기 전에 필요한 모든 예방 조치를 취하십시오.&lt;br offset=20&gt;게임을 플레이하는 동안 다음과 같은 증상이 발생하는 경우: 어지러움, 시력, 눈 또는 근육 경련, 의식 상실, 방향 감각 상실, 경련, 비자발적 움직임, 즉시 비디오 게임 사용을 중단하고 의료 전문가와 상담하십시오.</target>
+        <target>A small number of users may be susceptible to epileptic seizures or loss of consciousness when exposed to certain flashing lights or light patterns. Such individuals may experience a seizure while watching certain images or playing a video game. If you or anyone in your family has ever had symptoms related to epilepsy (seizures or loss of consciousness) when exposed to flashing lights, please consult a medical professional and take all necessary precautions prior to playing the game.&lt;br offset=20&gt;If you or your child experience any of the following symptoms while playing any video game: dizziness, altered vision, eye or muscle twitches, loss of consciousness, disorientation, convulsions, involuntary movements, discontinue use of the video game immediately and consult a medical professional.</target>
         <context-group purpose="information">
           <context context-type="source">health_warning_description
 
 Id: health_warning_description
 Group: Intro Scene. Only translate into officially supported languages.</context>
+          <context context-type="x-crowdin-label">Curated Only</context>
         </context-group>
         <note from="Mads Teland (mads1153)" priority="4">Why is there 5 non-breaking spaces in source text?</note>
+        <note from="Viktor Dobrovolný (Nettle)" priority="4">@mads1153 to keep indefinite articles and nouns together on a single line. It's not used much throughout the game though.</note>
       </trans-unit>
-      <trans-unit id="638039" resname="trademark">
+      <trans-unit id="638039" resname="trademark" translate="no">
         <source>All brand names, trademarks, registered marks, logos, and symbols on vehicles in the game are property of their rightful owners. Used with kind permission. International® and all International Truck trademarks are trademarks licensed by INTERNATIONAL TRUCK INTELLECTUAL PROPERTY COMPANY, LLC. The VOLVO trademarks and designs are registered rights of or licensed to the AB Volvo Group and are used pursuant to a license. The MACK trademarks and designs are registered rights of the AB Volvo Group and are used pursuant to a license. Western Star is a trademark of Daimler Trucks North America LLC and is used under license to SCS Software s.r.o. Freightliner is a trademark of Daimler Trucks North America LLC and is used under license to SCS Software s.r.o.</source>
-        <target state="translated">게임 내 차량의 모든 브랜드 이름, 상표, 등록 마크, 로고 및 기호는 정당한 소유자의 소유물입니다. 친절한 허가를 받아 사용됩니다. International® 및 모든 International Truck 상표는 International Truck Intelligent Property Company, LLC에서 라이선스를 받은 상표입니다. 볼보 상표와 디자인은 AB Volvo Group의 등록 권리 또는 라이선스를 받았으며 라이선스에 따라 사용됩니다. MACK 상표와 디자인은 AB Volvo Group의 등록 권리이며 라이선스에 따라 사용됩니다. Western Star는 Daimler Trucks North America LLC의 상표이며 SCS Software s.r.o. Freightliner는 Daimler Trucks North America LLC의 상표이며 SCS Software s.r.o. 라이선스 하에 사용됩니다.</target>
+        <target>All brand names, trademarks, registered marks, logos, and symbols on vehicles in the game are property of their rightful owners. Used with kind permission. International® and all International Truck trademarks are trademarks licensed by INTERNATIONAL TRUCK INTELLECTUAL PROPERTY COMPANY, LLC. The VOLVO trademarks and designs are registered rights of or licensed to the AB Volvo Group and are used pursuant to a license. The MACK trademarks and designs are registered rights of the AB Volvo Group and are used pursuant to a license. Western Star is a trademark of Daimler Trucks North America LLC and is used under license to SCS Software s.r.o. Freightliner is a trademark of Daimler Trucks North America LLC and is used under license to SCS Software s.r.o.</target>
         <context-group purpose="information">
           <context context-type="source">trademark
 
 Id: trademark
 Group: Intro Scene. Only translate into officially supported languages.</context>
+          <context context-type="x-crowdin-label">Curated Only</context>
         </context-group>
       </trans-unit>
       <trans-unit id="493371" resname="sm_save_failed_not_enough_space" translate="no">
@@ -58041,6 +58051,8 @@ Group: Names of point of interest cutscenes.</context>
         </context-group>
         <note from="Alexander Tselikov (San_Sany4)" priority="4">Is this viewpoint of the town on the shore of the lake, or the lake itself?</note>
         <note from="JohnnyW" priority="4">@San_Sany4 I'm also interested in this answer.</note>
+        <note from="QL Localization (crowdin.loca)" priority="4">It's the viewpoint for the whole town, although the lake is indeed the centre point.
+Using the translation of the name of the town would be the correct way.</note>
       </trans-unit>
       <trans-unit id="555771" resname="la_cut_port_fourchon">
         <source>Port Fourchon</source>
@@ -60893,6 +60905,8 @@ Group: Names of landmarks.</context>
 Id: landmark_ar_lockdam4
 Group: Names of landmarks.</context>
         </context-group>
+        <note from="Diego Tavares (DTavares2112)" priority="4">The currently approved translation is not correct. Please review my suggestion:
+&quot;Eclusa &amp; barragem #4&quot;</note>
       </trans-unit>
       <trans-unit id="396866" resname="landmark_ar_lakeport">
         <source>Lakeport Plantation</source>
@@ -76645,7 +76659,7 @@ Group: Accessory Names</context>
       </trans-unit>
       <trans-unit id="624157" resname="bumper_texas_flat">
         <source>Texas Flat</source>
-        <target state="translated">Texas 평면</target>
+        <target state="translated">텍사스 플랫</target>
         <context-group purpose="information">
           <context context-type="source">bumper_texas_flat
 
@@ -84123,6 +84137,8 @@ Id: fcover_standard_chromed
 Group: Accessory Names</context>
           <context context-type="x-crowdin-label">Accessory</context>
         </context-group>
+        <note from="idiaz037" priority="4">This string isn't translated in game, maybe because it ends in chrome instead of chromed?</note>
+        <note from="Viktor Dobrovolný (Nettle)" priority="4">@idiaz037 Thanks for the report here as well! It seems to be the same case as with the star_chromed. I'll let the team know.</note>
       </trans-unit>
       <trans-unit id="625487" resname="fcover_standard_painted">
         <source>Standard Painted</source>
@@ -84156,6 +84172,8 @@ Id: fcover_star_chromed
 Group: Accessory Names</context>
           <context context-type="x-crowdin-label">Accessory</context>
         </context-group>
+        <note from="idiaz037" priority="4">This string isn't translated in game, maybe because it ends in chrome instead of chromed?</note>
+        <note from="Viktor Dobrovolný (Nettle)" priority="4">@idiaz037 Thanks for the report! It seems to be a typo in the code. I'll let the team know.</note>
       </trans-unit>
       <trans-unit id="625493" resname="fcover_star_painted">
         <source>Star Painted</source>
@@ -89868,7 +89886,7 @@ Group: Accessory Names</context>
       </trans-unit>
       <trans-unit id="626513" resname="int_trim_burlwood_dark">
         <source>Burlwood Dark</source>
-        <target state="translated">Burlwood Dark</target>
+        <target state="translated">Burlwood 다크</target>
         <context-group purpose="information">
           <context context-type="source">int_trim_burlwood_dark
 
@@ -89879,7 +89897,7 @@ Group: Accessory Names</context>
       </trans-unit>
       <trans-unit id="626515" resname="int_trim_burlwood_dark_full">
         <source>Burlwood Dark Full</source>
-        <target state="translated">Burlwood Dark Full</target>
+        <target state="translated">Burlwood 다크 풀</target>
         <context-group purpose="information">
           <context context-type="source">int_trim_burlwood_dark_full
 
@@ -90179,7 +90197,7 @@ Group: Accessory Names</context>
       </trans-unit>
       <trans-unit id="626569" resname="interior_dark_wooden">
         <source>Dark Wooden</source>
-        <target state="translated">Dark Wooden</target>
+        <target state="translated">다크 우드</target>
         <context-group purpose="information">
           <context context-type="source">interior_dark_wooden
 
@@ -90432,7 +90450,7 @@ Group: Accessory Names</context>
       </trans-unit>
       <trans-unit id="626615" resname="interior_light_wooden">
         <source>Light Wooden</source>
-        <target state="translated">Light Wooden</target>
+        <target state="translated">라이트 우드</target>
         <context-group purpose="information">
           <context context-type="source">interior_light_wooden
 
@@ -104471,7 +104489,7 @@ Group: Names of paintjob accessories.</context>
       </trans-unit>
       <trans-unit id="629123" resname="pj_dark_blue">
         <source>Dark Blue</source>
-        <target state="translated">Dark Blue</target>
+        <target state="translated">다크 블루</target>
         <context-group purpose="information">
           <context context-type="source">pj_dark_blue
 
@@ -104482,7 +104500,7 @@ Group: Names of paintjob accessories.</context>
       </trans-unit>
       <trans-unit id="629125" resname="pj_dark_city">
         <source>Dark City</source>
-        <target state="translated">Dark City</target>
+        <target state="translated">다크 시티</target>
         <context-group purpose="information">
           <context context-type="source">pj_dark_city
 
@@ -104515,7 +104533,7 @@ Group: Names of paintjob accessories.</context>
       </trans-unit>
       <trans-unit id="629131" resname="pj_dark_purple">
         <source>Dark Purple</source>
-        <target state="translated">Dark Purple</target>
+        <target state="translated">다크 퍼플</target>
         <context-group purpose="information">
           <context context-type="source">pj_dark_purple
 
@@ -104526,7 +104544,7 @@ Group: Names of paintjob accessories.</context>
       </trans-unit>
       <trans-unit id="629133" resname="pj_dark_red_metallic">
         <source>Dark Red Metallic</source>
-        <target state="translated">Dark Red Metallic</target>
+        <target state="translated">다크 레드 메탈릭</target>
         <context-group purpose="information">
           <context context-type="source">pj_dark_red_metallic
 

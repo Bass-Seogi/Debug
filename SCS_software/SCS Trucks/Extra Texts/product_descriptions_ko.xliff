@@ -54,11 +54,11 @@ Take advantage of additional features of American Truck Simulator by joining our
 To join [url=http://worldoftrucks.com/]World of Trucks[/url], simply sign up with your Steam account [url=https://worldoftrucks.com/en/join.php]on the join page[/url]. You will need to own [url=https://store.steampowered.com/app/270880]American Truck Simulator[/url] or [url=https://store.steampowered.com/app/227300]Euro Truck Simulator 2[/url] to join World of Trucks.
 
 [b]World of Trucks is an optional service, registration on World of Trucks isn't required to play the game.[/b]</source>
-        <target state="translated">맑은 캘리포니아, 매마른 네바다나 애리조나의 그랜트 캐니언 주에서 멋진 미국 트럭으로 다양한 화물을 운송해보세요. 아메리칸 트럭 시뮬레이터는 당신을 주 곳곳의 아름다운 경치와 유명한 장소들로 여행을 보내줍니다.
+        <target state="translated">맑은 캘리포니아, 매마른 네바다나 애리조나의 그랜트 캐니언 주에서 멋진 미국 트럭으로 다양한 화물을 운송해보세요. American Truck Simulator는 당신을 주 곳곳의 아름다운 경치와 유명한 장소들로 여행을 보내줍니다.
 
-게임은 매우 성공적인 유로 트럭 시뮬레이터 2 를 기반으로 하며 SCS 소프트웨어의 매우 아름다운 게임 경험과 기능들이 함께합니다.
+게임은 매우 성공적인 Euro Truck Simulator 2 를 기반으로 하며 SCS 소프트웨어의 매우 아름다운 게임 경험과 기능들이 함께합니다.
 
-아메리칸 트럭 시뮬레이터는 당신을 언젠가는 물류 회사의 주인이 되기 위하여 지역 화물 시장에 들어가는 당신의 트럭에 태워 드립니다. 미국의 가장 큰 물류 회사 중 하나를 만들어보십시오.
+American Truck Simulator는 당신을 언젠가는 물류 회사의 주인이 되기 위하여 지역 화물 시장에 들어가는 당신의 트럭에 태워 드립니다. 미국의 가장 큰 물류 회사 중 하나를 만들어보십시오.
 [h2]특징[/h2]
 
 [list]
@@ -70,7 +70,7 @@ To join [url=http://worldoftrucks.com/]World of Trucks[/url], simply sign up wit
 [*] 당신의 화물들을 다양한 곳으로 배송하십시오. 주유소, 도로 공사 현장, 자동차 공장, 가게 보다도 다양합니다.
 
 [img]{STEAM_APP_IMAGE}/extras/locations.png[/img]
-[*] 트럭 경험을 위한 다양한 기능: 에어 브레이크 시뮬레이션; 다양한 브레이크: 리타더, 엔진 브레이크, 트레일러 브레이크; 실제 트럭을 기반으로 한 다양한 트랜스미션, 브레이크 강도, 그리고 더 있습니다.
+[*] 트럭 경험을 위한 다양한 기능: 에어 브레이크 시물레이션; 다양한 브레이크: 리타더, 엔진 브레이크, 트레일러 브레이크; 실제 트럭을 기반으로 한 다양한 트랜스미션, 브레이크 강도, 그리고 더 있습니다.
 [*] 실제 운전석 안처럼: 도로를 잘 볼 수 있게 의자, 거울, 머리 각도를 조절할 수 있습니다.
 [*] 안전하게 교통 법규를 준수하며 운전하세요. 방심한다면 경찰이 벌금을 부과합니다!
 [*] 과중량 화물을 운송하는지 조심하십시오. 화물의 무게를 측정하기도 합니다.
@@ -494,7 +494,7 @@ Short description for ETS2 Window Flags.</context>
       </trans-unit>
       <trans-unit id="431368" resname="ets2_flags_long_description">
         <source>The Window Flags DLC offers a wide range of options to personalize your truck even further. Whether you are fine tuning your truck to match your own unique design or rooting for your favorite sports team on match day. The Window Flags DLC allows you to fly your flag with pride featuring hundreds of designs. Fluttering flags are simulated both at standstill and at different driving speeds. We also take into account different wind speeds. The resulting effect is a very real and dynamic flag!</source>
-        <target state="translated">윈도우 플래그 DLC는 트럭을 더욱 개인화할 수 있는 다양한 옵션을 제공합니다. 자신만의 독특한 디자인에 맞게 트럭을 미세 조정하든 경기 당일 좋아하는 스포츠 팀을 응원하든 상관없이 말이죠. 윈도우 플래그 DLC를 사용하면 수백 가지 디자인이 특징인 자랑스러운 깃발을 게양할 수 있습니다. 펄럭이는 깃발은 정지 상태와 다양한 주행 속도 모두에서 시뮬레이션됩니다. 또한 다양한 풍속도 고려합니다. 그 결과 매우 현실적이고 다이나믹인 깃발이 탄생했습니다!</target>
+        <target state="translated">윈도우 플래그 DLC는 트럭을 더욱 개인화할 수 있는 다양한 옵션을 제공합니다. 자신만의 독특한 디자인에 맞게 트럭을 미세 조정하든 경기 당일 좋아하는 스포츠 팀을 응원하든 상관없이 말이죠. 윈도우 플래그 DLC를 사용하면 수백 가지 디자인이 특징인 자랑스러운 깃발을 게양할 수 있습니다. 펄럭이는 깃발은 정지 상태와 다양한 주행 속도 모두에서 Simulated 됩니다. 또한 다양한 풍속도 고려합니다. 그 결과 매우 현실적이고 다이나믹인 깃발이 탄생했습니다!</target>
         <context-group purpose="information">
           <context context-type="source">ets2_flags_long_description
 
@@ -780,7 +780,7 @@ Get ready for a journey that goes beyond the ordinary, celebrating the sun-kisse
 
 - 아테네와 테살로니키를 포함한 그리스의 15개 주요 도시와 작은 마을과 정착지를 탐험하세요.
 - 페리를 타고 레스보스, 키오스, 케팔로니아, 크레타, 로도스 섬으로 이동하세요.
-- 메테오라 수도원, 미틸레네 요새, 올림포스 산, 코린트 운하 등 독특한 역사적, 자연적 랜드마크를 발견하세요!
+- 메테오라 수도원, 미틸레네 요새, 올림포스 산, 코린토스 운하 등 독특한 역사적, 자연적 랜드마크를 발견하세요!
 - 역사적인 도시에서 해안 도로, 산악 지역까지 다양한 지형을 여행하세요.
 - 현대식 고속도로, 구불구불한 시골 도로, 복잡한 항구를 운전하세요.
 - 호텔, 올리브 오일 가공 공장, 대리석 채석장, 번화한 피레아스 항구와 같은 독특한 창고로 배달하세요.
@@ -1471,7 +1471,7 @@ Long description for ETS2 Super Stripes Paint Jobs Pack.</context>
       </trans-unit>
       <trans-unit id="461584" resname="ats_sports_paint_jobs_pack_short_description">
         <source>Calling all Sports Fans! We are introducing the Sports Paint Job Pack for American Truck Simulator. Decorate your truck with these beautiful American sports-themed paint jobs. From the court to the rink, they will have your truck looking like a heavyweight champion in no time!</source>
-        <target state="translated">모든 스포츠 팬 여러분! 미국 트럭 시뮬레이터를 위한 스포츠 페인트 잡 팩을 소개합니다. 미국 스포츠를 테마로 한 아름다운 페인트 작업으로 트럭을 장식하세요. 코트에서 링크까지 트럭이 순식간에 헤비급 챔피언처럼 보일 것입니다!</target>
+        <target state="translated">모든 스포츠 팬 여러분! American Truck Simulator를 위한 스포츠 페인트 잡 팩을 소개합니다. 미국 스포츠를 테마로 한 아름다운 페인트 작업으로 트럭을 장식하세요. 코트에서 링크까지 트럭이 순식간에 헤비급 챔피언처럼 보일 것입니다!</target>
         <context-group purpose="information">
           <context context-type="source">ats_sports_paint_jobs_pack_short_description
 
@@ -1488,7 +1488,7 @@ With 5 matching truck &amp; trailer paint jobs, this pack is sure to turn heads 
 - King of the Ring
 - Home Run
 - Goal for Glory</source>
-        <target state="translated">모든 스포츠 팬 여러분! 미국 트럭 시뮬레이터를 위한 스포츠 페인트 잡 팩을 소개합니다. 미국 스포츠를 테마로 한 아름다운 페인트 작업으로 트럭을 장식하세요. 코트에서 링크까지 트럭이 순식간에 헤비급 챔피언처럼 보일 것입니다!
+        <target state="translated">모든 스포츠 팬 여러분! American Truck Simulator를 위한 스포츠 페인트 잡 팩을 소개합니다. 미국 스포츠를 테마로 한 아름다운 페인트 작업으로 트럭을 장식하세요. 코트에서 링크까지 트럭이 순식간에 헤비급 챔피언처럼 보일 것입니다!
 
 트럭과 트레일러 페인트 작업이 5개씩 일치하는 이 팩은 도로에서도 확실히 주목받을 수 있습니다! 이 팩에서 이러한 페인트 작업을 찾을 수 있습니다:
 
