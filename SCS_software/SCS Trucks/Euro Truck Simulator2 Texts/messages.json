@@ -13416,7 +13416,7 @@
 		"description": "Id: credits_speedtree\nGroup: Credits"
 	},
 	"jpeg_credits": {
-		"message": "이 소프트웨어는 Independent JPEG Group의 작업 중 일부를 기반으로 합니다.",
+		"message": "This software is based in part on the work of the Independent JPEG Group.",
 		"description": "Id: jpeg_credits\nGroup: Credits"
 	},
 	"truck_browser_t": {
@@ -37788,11 +37788,11 @@
 		"description": "Id: interior_exclusive_v8_uk\nLuxury/Exclusive version of the interior or accesory\nGroup: Accessory Names"
 	},
 	"interior_exclusive_wood": {
-		"message": "고급형, 나무",
+		"message": "고급형, 우드",
 		"description": "Id: interior_exclusive_wood\nLuxury/Exclusive version of the interior or accesory\nGroup: Accessory Names"
 	},
 	"interior_exclusive_wood_uk": {
-		"message": "고급형, 나무 UK",
+		"message": "고급형, 우드 UK",
 		"description": "Id: interior_exclusive_wood_uk\nLuxury/Exclusive version of the interior or accesory\nGroup: Accessory Names"
 	},
 	"interior_fh16": {

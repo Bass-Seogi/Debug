@@ -12652,7 +12652,7 @@
 		"description": "Id: credits_speedtree\nGroup: Credits"
 	},
 	"jpeg_credits": {
-		"message": "이 소프트웨어는 Independent JPEG Group의 작업 중 일부를 기반으로 합니다.",
+		"message": "This software is based in part on the work of the Independent JPEG Group.",
 		"description": "Id: jpeg_credits\nGroup: Credits"
 	},
 	"truck_browser_t": {

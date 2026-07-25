@@ -38194,14 +38194,15 @@ Id: credits_speedtree
 Group: Credits</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="4154" resname="jpeg_credits">
+      <trans-unit id="4154" resname="jpeg_credits" translate="no">
         <source>This software is based in part on the work of the Independent JPEG Group.</source>
-        <target state="translated">이 소프트웨어는 Independent JPEG Group의 작업 중 일부를 기반으로 합니다.</target>
+        <target>This software is based in part on the work of the Independent JPEG Group.</target>
         <context-group purpose="information">
           <context context-type="source">jpeg_credits
 
 Id: jpeg_credits
 Group: Credits</context>
+          <context context-type="x-crowdin-label">Curated Only</context>
         </context-group>
       </trans-unit>
       <trans-unit id="371050" resname="truck_browser_t">
@@ -103020,7 +103021,7 @@ Group: Accessory Names</context>
       </trans-unit>
       <trans-unit id="633991" resname="interior_exclusive_wood">
         <source>Exclusive, Wood</source>
-        <target state="translated">고급형, 나무</target>
+        <target state="translated">고급형, 우드</target>
         <context-group purpose="information">
           <context context-type="source">interior_exclusive_wood
 
@@ -103032,7 +103033,7 @@ Group: Accessory Names</context>
       </trans-unit>
       <trans-unit id="633993" resname="interior_exclusive_wood_uk">
         <source>Exclusive, Wood UK</source>
-        <target state="translated">고급형, 나무 UK</target>
+        <target state="translated">고급형, 우드 UK</target>
         <context-group purpose="information">
           <context context-type="source">interior_exclusive_wood_uk
 
