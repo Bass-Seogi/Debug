@@ -21,7 +21,7 @@
   
 <p align="left"> 
 <h2 align="left"># 1. 링크에서 파일 받기</h2>
-- https://github.com/Bass-Seogi/Debug/blob/main/SCS_software/SCS%20Trucks/Euro%20Truck%20Simulator2%20Texts/messages.json
+<a href="https://github.com/Bass-Seogi/Debug/blob/main/SCS_software/SCS%20Trucks/Euro%20Truck%20Simulator2%20Texts/messages.json target="blank">
 <img src="https://github.com/Bass-Seogi/Debug/blob/main/d1.png"/>
 
 <h2 align="left"># 2. 내문서 / 유트2 폴더에 붙혀 넣기</h2>
