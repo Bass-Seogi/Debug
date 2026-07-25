@@ -27,5 +27,5 @@
 <h2 align="left">2. 내문서 / 유트2 폴더에 붙혀 넣기</h2>
 <img src="https://github.com/Bass-Seogi/Debug/blob/main/d2.png"/> </p>
 
-<h2 align="left">3. 언어 설정 ~~한국어~~를 가장 아래  **`Debug` **로 설정</h2>
+    <h2 align="left">3. 언어 설정 한국어를 가장 아래 Debug로 설정</h2>
 <img src="https://github.com/Bass-Seogi/Debug/blob/main/d3.png"/> </p>
