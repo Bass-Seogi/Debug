@@ -17,6 +17,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
+<p align="left"><h1 align="center">언어 디버그 설정 Debug 설정 법</h1></p>
+  
 <p align="left"> 
 <h3 align="left"># 1. 링크에서 파일 받기</h3>
 - https://github.com/Bass-Seogi/Debug/blob/main/SCS_software/SCS%20Trucks/Euro%20Truck%20Simulator2%20Texts/messages.json
