@@ -20,12 +20,14 @@
 <p align="left"><h1 align="center">언어 디버그 설정 Debug 설정 법</h1></p>
   
 <p align="left"> 
-<h2 align="left">1. 링크에서 파일 받기
-<a href="https://github.com/Bass-Seogi/Debug/blob/main/SCS_software/SCS%20Trucks/Euro%20Truck%20Simulator2%20Texts/messages.json" target="blank">https://github.com/Bass-Seogi/Debug</a></h2>
-<img src="https://github.com/Bass-Seogi/Debug/blob/main/d1.png"/>
+<h2 align="left">1. 링크에서 파일 받기</h2>
+<img src="https://github.com/Bass-Seogi/Debug/blob/main/e1.png"/>
+<img src="https://github.com/Bass-Seogi/Debug/blob/main/a1.png"/>
 
-<h2 align="left">2. 내문서 / 유트2 폴더에 붙혀 넣기</h2>
-<img src="https://github.com/Bass-Seogi/Debug/blob/main/d2.png"/> </p>
+
+<h2 align="left">2. 내문서 / ETS2 or ATS 폴더에 붙혀 넣기</h2>
+<img src="https://github.com/Bass-Seogi/Debug/blob/main/e2.png"/> </p>
+<img src="https://github.com/Bass-Seogi/Debug/blob/main/a2.png"/> </p>
 
 <h2 align="left">3. 언어 설정 한국어를 가장 아래 Debug로 설정</h2>
-<img src="https://github.com/Bass-Seogi/Debug/blob/main/d3.png"/> </p>
+<img src="https://github.com/Bass-Seogi/Debug/blob/main/f3.png"/> </p>
