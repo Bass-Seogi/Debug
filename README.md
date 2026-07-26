@@ -20,9 +20,12 @@
 <p align="left"><h1 align="center">언어 디버그 설정 Debug 설정 법</h1></p>
   
 <p align="left"> 
-<h2 align="left">1. 링크에서 파일 받기</h2>
-<img src="https://github.com/Bass-Seogi/Debug/blob/main/e1.png"/>
-<img src="https://github.com/Bass-Seogi/Debug/blob/main/a1.png"/>
+<h2 align="left">1. 링크에서 파일 받기<br>
+<a href="https://github.com/Bass-Seogi/Debug/blob/main/SCS_software/SCS%20Trucks/Euro%20Truck%20Simulator2%20Texts/messages.json">ETS2 기본</a><br>
+<img src="https://github.com/Bass-Seogi/Debug/blob/main/e1.png"/><br>
+<a href="https://github.com/Bass-Seogi/Debug/blob/main/SCS_software/SCS%20Trucks/Euro%20Truck%20Simulator2%20Texts/messages.json">ATS 기본</a><br>
+<a href="https://github.com/Bass-Seogi/Debug/blob/main/SCS_software/SCS%20Trucks/American%20Truck%20Simulator%20Texts/ats_messages_override.json">ATS 필요</a><br>
+<img src="https://github.com/Bass-Seogi/Debug/blob/main/a1.png"/></h2>
 
 
 <h2 align="left">2. 내문서 / ETS2 or ATS 폴더에 붙혀 넣기</h2>
