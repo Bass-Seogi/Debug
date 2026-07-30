@@ -76171,7 +76171,7 @@ Group: Accessory Names</context>
       </trans-unit>
       <trans-unit id="624061" resname="bumper_mirage">
         <source>Mirage</source>
-        <target state="translated">신기루</target>
+        <target state="translated">Mirage</target>
         <context-group purpose="information">
           <context context-type="source">bumper_mirage
 
@@ -76181,7 +76181,7 @@ Group: Accessory Names</context>
       </trans-unit>
       <trans-unit id="624063" resname="bumper_mirage_painted">
         <source>Mirage, Painted</source>
-        <target state="translated">신기루, 페인트</target>
+        <target state="translated">Mirage, 페인트</target>
         <context-group purpose="information">
           <context context-type="source">bumper_mirage_painted
 
@@ -104610,7 +104610,7 @@ Group: Names of paintjob accessories.</context>
       </trans-unit>
       <trans-unit id="629145" resname="pj_desert_mirage">
         <source>Desert Mirage</source>
-        <target state="translated">사막 신기루</target>
+        <target state="translated">Mirage</target>
         <context-group purpose="information">
           <context context-type="source">pj_desert_mirage
 

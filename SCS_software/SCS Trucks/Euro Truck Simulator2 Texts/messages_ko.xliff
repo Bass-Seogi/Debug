@@ -51740,7 +51740,7 @@ Group: Desktop backgrounds names</context>
       </trans-unit>
       <trans-unit id="11088" resname="northern_lights">
         <source>Northern Lights</source>
-        <target state="translated">노던 라이트</target>
+        <target state="translated">오로라</target>
         <context-group purpose="information">
           <context context-type="source">northern_lights
 
@@ -67811,7 +67811,7 @@ Group: Names of landmarks</context>
       </trans-unit>
       <trans-unit id="555413" resname="landmark_lights_cathedral">
         <source>Cathedral of The Northern Lights</source>
-        <target state="translated">북극광 대성당</target>
+        <target state="translated">오로라 대성당</target>
         <context-group purpose="information">
           <context context-type="source">landmark_lights_cathedral
 
@@ -81814,7 +81814,7 @@ Group: Accessory Names</context>
       </trans-unit>
       <trans-unit id="630209" resname="b_grill_mirage">
         <source>Mirage</source>
-        <target state="translated">신기루</target>
+        <target state="translated">Mirage</target>
         <context-group purpose="information">
           <context context-type="source">b_grill_mirage
 
@@ -81834,7 +81834,7 @@ Group: Accessory Names</context>
       </trans-unit>
       <trans-unit id="630213" resname="b_grill_painted_mirage">
         <source>Painted Mirage</source>
-        <target state="translated">페인트 신기루</target>
+        <target state="translated">페인트 Mirage</target>
         <context-group purpose="information">
           <context context-type="source">b_grill_painted_mirage
 
@@ -89231,7 +89231,7 @@ Group: Accessory Names</context>
       </trans-unit>
       <trans-unit id="631537" resname="curtain_f_white_rose">
         <source>White Rose</source>
-        <target state="translated">하얀색 장미</target>
+        <target state="translated">화이트 로즈</target>
         <context-group purpose="information">
           <context context-type="source">curtain_f_white_rose
 
@@ -95031,7 +95031,7 @@ Group: Accessory Names</context>
       </trans-unit>
       <trans-unit id="632565" resname="f_grill_mirage">
         <source>Mirage</source>
-        <target state="translated">신기루</target>
+        <target state="translated">Mirage</target>
         <context-group purpose="information">
           <context context-type="source">f_grill_mirage
 
@@ -107013,7 +107013,7 @@ Group: Accessory Names</context>
       </trans-unit>
       <trans-unit id="634629" resname="r_grill_mirage">
         <source>Mirage</source>
-        <target state="translated">신기루</target>
+        <target state="translated">Mirage</target>
         <context-group purpose="information">
           <context context-type="source">r_grill_mirage
 
@@ -111174,7 +111174,7 @@ Group: Accessory Names</context>
       </trans-unit>
       <trans-unit id="635375" resname="sunshld_mirage">
         <source>Mirage</source>
-        <target state="translated">신기루</target>
+        <target state="translated">Mirage</target>
         <context-group purpose="information">
           <context context-type="source">sunshld_mirage
 
@@ -121746,7 +121746,7 @@ Group: Names of paintjob accessories.</context>
       </trans-unit>
       <trans-unit id="637033" resname="pj_northern_lights">
         <source>Northern Lights</source>
-        <target state="translated">노던 라이트</target>
+        <target state="translated">오로라</target>
         <context-group purpose="information">
           <context context-type="source">pj_northern_lights
 

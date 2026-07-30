@@ -28288,11 +28288,11 @@
 		"description": "Id: bumper_low_painted_fog_lights\n\"Name specification of low bumper\", \"Painted mirror, doorhandle or other accessory\" (AutoMerged)\nGroup: Accessory Names"
 	},
 	"bumper_mirage": {
-		"message": "신기루",
+		"message": "Mirage",
 		"description": "Id: bumper_mirage\nGroup: Accessory Names"
 	},
 	"bumper_mirage_painted": {
-		"message": "신기루, 페인트",
+		"message": "Mirage, 페인트",
 		"description": "Id: bumper_mirage_painted\nGroup: Accessory Names"
 	},
 	"bumper_modern": {
@@ -38576,7 +38576,7 @@
 		"description": "Id: pj_deeply_frozen\nGroup: Names of paintjob accessories."
 	},
 	"pj_desert_mirage": {
-		"message": "사막 신기루",
+		"message": "Mirage",
 		"description": "Id: pj_desert_mirage\nGroup: Names of paintjob accessories."
 	},
 	"pj_digital_camo": {

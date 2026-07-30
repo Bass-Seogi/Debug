@@ -18508,7 +18508,7 @@
 		"description": "Id: top_world\nGroup: Desktop backgrounds names"
 	},
 	"northern_lights": {
-		"message": "노던 라이트",
+		"message": "오로라",
 		"description": "Id: northern_lights\nGroup: Desktop backgrounds names"
 	},
 	"under_bridge": {
@@ -24676,7 +24676,7 @@
 		"description": "Id: landmark_hardanger\nGroup: Names of landmarks"
 	},
 	"landmark_lights_cathedral": {
-		"message": "북극광 대성당",
+		"message": "오로라 대성당",
 		"description": "Id: landmark_lights_cathedral\nGroup: Names of landmarks"
 	},
 	"landmark_arctic_cathedral": {
@@ -30196,7 +30196,7 @@
 		"description": "Id: b_grill_hs_bump_bar_painted\n\"bottom grill accessory name, HS Schoch naming\", \"Painted mirror, doorhandle or other accessory\" (AutoMerged)\nGroup: Accessory Names"
 	},
 	"b_grill_mirage": {
-		"message": "신기루",
+		"message": "Mirage",
 		"description": "Id: b_grill_mirage\nGroup: Accessory Names"
 	},
 	"b_grill_momentum": {
@@ -30204,7 +30204,7 @@
 		"description": "Id: b_grill_momentum\nGroup: Accessory Names"
 	},
 	"b_grill_painted_mirage": {
-		"message": "페인트 신기루",
+		"message": "페인트 Mirage",
 		"description": "Id: b_grill_painted_mirage\nGroup: Accessory Names"
 	},
 	"b_grill_painted_pride": {
@@ -32872,7 +32872,7 @@
 		"description": "Id: curtain_f_volvo_dark\nGroup: Accessory Names"
 	},
 	"curtain_f_white_rose": {
-		"message": "하얀색 장미",
+		"message": "화이트 로즈",
 		"description": "Id: curtain_f_white_rose\nGroup: Accessory Names"
 	},
 	"curtain_f_winter_style": {
@@ -34928,7 +34928,7 @@
 		"description": "Id: f_grill_joker_painted\nGroup: Accessory Names"
 	},
 	"f_grill_mirage": {
-		"message": "신기루",
+		"message": "Mirage",
 		"description": "Id: f_grill_mirage\nGroup: Accessory Names"
 	},
 	"f_grill_painted_net": {
@@ -39184,7 +39184,7 @@
 		"description": "Id: r_grill_joker\nGroup: Accessory Names"
 	},
 	"r_grill_mirage": {
-		"message": "신기루",
+		"message": "Mirage",
 		"description": "Id: r_grill_mirage\nGroup: Accessory Names"
 	},
 	"r_grill_painted": {
@@ -40676,7 +40676,7 @@
 		"description": "Id: sunshld_locus_painted\nPainted mirror, doorhandle or other accessory\nGroup: Accessory Names"
 	},
 	"sunshld_mirage": {
-		"message": "신기루",
+		"message": "Mirage",
 		"description": "Id: sunshld_mirage\nGroup: Accessory Names"
 	},
 	"sunshld_painted": {
@@ -44596,7 +44596,7 @@
 		"description": "Id: pj_northern_blues\nGroup: Names of paintjob accessories."
 	},
 	"pj_northern_lights": {
-		"message": "노던 라이트",
+		"message": "오로라",
 		"description": "Id: pj_northern_lights\nGroup: Names of paintjob accessories."
 	},
 	"pj_northern_tides": {
