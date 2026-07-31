@@ -2853,6 +2853,7 @@ Group: Steam cloud.</context>
         <note from="Krezzin" priority="4">@JohnBart Works the same way, simple enough to understand both variants.</note>
         <note from="Wolterhon" priority="4">Still steam</note>
         <note from="idiaz037" priority="4">Yep, it's still written as steam the second time. Also, maybe it would sound better as &quot;there is already a Steam profile...&quot;?</note>
+        <note from="QL Localization (crowdin.loca)" priority="4">@Nettle This can be marked as &quot;Solved&quot; as it is now solved in the source.</note>
       </trans-unit>
       <trans-unit id="555193" resname="steam_migration_target_profile_already_exists">
         <source>Cannot migrate the profile, another profile with the same name already exists.</source>
@@ -11172,7 +11173,7 @@ Group: Options/Gameplay
 Screen used to configure gameplay related options.</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="684498" resname="precision_exploration">
+      <trans-unit id="684498" resname="precision_exploration" translate="no">
         <source>Precision exploration</source>
         <target state="translated">정밀 탐색</target>
         <context-group purpose="information">
@@ -11185,7 +11186,7 @@ Group: Options/Gameplay
 Screen used to configure gameplay related options.</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="684500" resname="proximity_exploration">
+      <trans-unit id="684500" resname="proximity_exploration" translate="no">
         <source>Proximity exploration</source>
         <target state="translated">근접 탐색</target>
         <context-group purpose="information">
@@ -13419,10 +13420,12 @@ Id: chat_close_automatic_op_tooltip
 Group: Tooltips.
 Group: Options/Gameplay
 Screen used to configure gameplay related options.</context>
+          <context context-type="x-crowdin-label">Temp</context>
         </context-group>
         <note from="Mel85" priority="4">I think there is a mistake in the tooltip text because the option related to this tooltip is &quot;Close chat input after sending the message&quot;, so when it's enabled (checked), it closes the chat input bar instead of &quot;remain active&quot; after a message is sent.</note>
         <note from="Mads Teland (mads1153)" priority="4">@Mel85 Yep, that's confusing.</note>
         <note from="Ngu Mèo (MeoNguMinecraft)" priority="4">@Mel85 right</note>
+        <note from="QL Localization (crowdin.loca)" priority="4">@Nettle can you please check? I believe what Mel is saying is correct, maybe adjusting the source to &quot;When disabled&quot; would fix the confusion.</note>
       </trans-unit>
       <trans-unit id="370450" resname="chat_full_fade_out_op_tooltip">
         <source>When enabled, chat messages will fade out several seconds after each message.</source>
@@ -18920,6 +18923,7 @@ Screen used to configure input related to game controllers (axes, force feedback
         </context-group>
         <note from="RivaStyle" priority="4">It should be &quot;through&quot;, not &quot;though&quot;.</note>
         <note from="Mads Teland (mads1153)" priority="4">@RivaStyle It seems to be fixed.</note>
+        <note from="QL Localization (crowdin.loca)" priority="4">@Nettle EN source is fixed here, I think this can be marked as solved.</note>
       </trans-unit>
       <trans-unit id="370672" resname="force_feedback_gearbox_grind_op_tooltip">
         <source>Adjusts the intensity of the gearbox grinding effects.</source>
@@ -20306,7 +20310,7 @@ Id: portal_transport
 Group: XMAS event
 Group: Options/Eye tracking
 Screen used to configure eye tracking related options</context>
-          <context context-type="x-crowdin-label">Temp</context>
+          <context context-type="x-crowdin-label">Cert</context>
         </context-group>
       </trans-unit>
       <trans-unit id="348236" resname="trip_land_len_estimate">
@@ -21206,7 +21210,9 @@ Id: reverting_in
 Shown in message box if the user applies some complex settings. Followed by number of seconds before the settings are reverted unless the player confirms the message box. For example &quot;Reverting in 18 seconds.&quot;
 Group: Options/Graphics
 Screen used to configure graphics related options.</context>
+          <context context-type="x-crowdin-label">Temp</context>
         </context-group>
+        <note from="QL Localization (crowdin.loca)" priority="4">@Nettle There's a space introduced in game after the colon (not present in CrowdIn string). Is this something it can be fixed or will you waive it?</note>
       </trans-unit>
       <trans-unit id="2034" resname="sec">
         <source>seconds</source>
@@ -21427,6 +21433,7 @@ Screen used to configure graphics related options.</context>
         </context-group>
         <note from="Mel85" priority="4">There is a mistake at &quot;anitialiasing&quot; which should be &quot;antialiasing&quot;</note>
         <note from="Diego Tavares (DTavares2112)" priority="4">&quot;antialiasing&quot; is wrong</note>
+        <note from="QL Localization (crowdin.loca)" priority="4">@Nettle EN source is fixed here, I believe we can mark this as solved.</note>
       </trans-unit>
       <trans-unit id="370798" resname="refl_detail_op_tooltip">
         <source>Adjusts the detail of reflections seen on vehicle surfaces, windows and other reflective surfaces such as puddles, wet roads and open bodies of water.&lt;br&gt;&lt;br&gt;&lt;color value=@@clr_txt_d@@&gt;This setting usually has a moderate impact on performance.&lt;br&gt;&lt;br&gt;Changes to this setting will take effect only after a manual restart of the game.</source>
@@ -23544,6 +23551,7 @@ Group: Route adviser</context>
         <note from="Krezzin" priority="4">ETA е краткото на Estimated Time of Arrival или &quot;Приблизително време до пристигане&quot;. Използването на цялото изречение не е възможно, защото този надпис се изписва на Пътния съветник в горната част, където мястото е ограничено. Затова трябва подходящо съкращение. &quot;ПВП = приблизително време на пристигане&quot; ... &quot;ВДП = време до пристигане&quot; или... нещо по-разбираемо. За което не се сещам в момента. В противен случай остава ETA.</note>
         <note from="Patrik Rak (Corleth)" priority="4">Current spanish translation is too long. It doesn't fit into the adviser window. We would need to make it shorter, something like 4 characters at maximum.</note>
         <note from="REMOVED_USER" priority="4">Ok @Corleth. The exact translation is &quot;llegada estimada&quot;. We can't put &quot;ETA&quot; because in Spain it's the name of a terrorist gang. &quot;Llegada&quot; is also valid.</note>
+        <note from="QL Localization (crowdin.loca)" priority="4">Issue not relevant anymore. There's an icon in game now instead of &quot;ETA&quot;.</note>
       </trans-unit>
       <trans-unit id="2320" resname="job_income">
         <source>Job income</source>
@@ -24066,7 +24074,7 @@ Group: Route adviser</context>
 
 Id: job_offer
 Group: Route adviser</context>
-          <context context-type="x-crowdin-label">Temp</context>
+          <context context-type="x-crowdin-label">Cert</context>
         </context-group>
       </trans-unit>
       <trans-unit id="2364" resname="garage">
@@ -24077,7 +24085,7 @@ Group: Route adviser</context>
 
 Id: garage
 Group: Route adviser</context>
-          <context context-type="x-crowdin-label">Temp</context>
+          <context context-type="x-crowdin-label">Cert</context>
         </context-group>
         <note from="Krezzin" priority="4">Does key make a difference for other types of control devices if its translated for the equivalent of PC keyboard, e.g. is &quot;button&quot; better to use or streamline it to &quot;key&quot;. Saying this due to that we have &quot;клавиш - key&quot; and &quot;бутон - button&quot; can mean the same.
 
@@ -24131,7 +24139,7 @@ Group: Route adviser</context>
 
 Id: enter_dealer
 Group: Route adviser</context>
-          <context context-type="x-crowdin-label">Temp</context>
+          <context context-type="x-crowdin-label">Cert</context>
         </context-group>
       </trans-unit>
       <trans-unit id="2376" resname="closed_dealer">
@@ -24162,7 +24170,7 @@ Group: Route adviser</context>
 
 Id: enter_recruit
 Group: Route adviser</context>
-          <context context-type="x-crowdin-label">Temp</context>
+          <context context-type="x-crowdin-label">Cert</context>
         </context-group>
       </trans-unit>
       <trans-unit id="2380" resname="closed_recruit">
@@ -24193,7 +24201,7 @@ Group: Route adviser</context>
 
 Id: attach_load
 Group: Route adviser</context>
-          <context context-type="x-crowdin-label">Temp</context>
+          <context context-type="x-crowdin-label">Cert</context>
         </context-group>
       </trans-unit>
       <trans-unit id="587719" resname="attach_load_advanced">
@@ -24205,7 +24213,7 @@ Group: Route adviser</context>
 Id: attach_load_advanced
 Adviser text for advanced coupling only shown after fifth wheel is locked and player should press button to finish coupling.
 Group: Route adviser</context>
-          <context context-type="x-crowdin-label">Temp</context>
+          <context context-type="x-crowdin-label">Cert</context>
         </context-group>
       </trans-unit>
       <trans-unit id="587721" resname="unload_load">
@@ -24216,7 +24224,7 @@ Group: Route adviser</context>
 
 Id: unload_load
 Group: Route adviser</context>
-          <context context-type="x-crowdin-label">Temp</context>
+          <context context-type="x-crowdin-label">Cert</context>
         </context-group>
       </trans-unit>
       <trans-unit id="2392" resname="disconnecting">
@@ -24297,7 +24305,7 @@ Group: Route adviser</context>
 
 Id: parking
 Group: Route adviser</context>
-          <context context-type="x-crowdin-label">Temp</context>
+          <context context-type="x-crowdin-label">Cert</context>
         </context-group>
       </trans-unit>
       <trans-unit id="2406" resname="park_nf">
@@ -24328,7 +24336,7 @@ Group: Route adviser</context>
 
 Id: viewpoint_msg
 Group: Route adviser</context>
-          <context context-type="x-crowdin-label">Temp</context>
+          <context context-type="x-crowdin-label">Cert</context>
         </context-group>
       </trans-unit>
       <trans-unit id="132864" resname="viewpoint_found">
@@ -24432,7 +24440,7 @@ Group: Route adviser</context>
 
 Id: gas_station_hint
 Group: Route adviser</context>
-          <context context-type="x-crowdin-label">Temp</context>
+          <context context-type="x-crowdin-label">Cert</context>
         </context-group>
       </trans-unit>
       <trans-unit id="2420" resname="diesel_price">
@@ -24526,7 +24534,7 @@ Group: Route adviser</context>
 
 Id: toll_one_time
 Group: Route adviser</context>
-          <context context-type="x-crowdin-label">Temp</context>
+          <context context-type="x-crowdin-label">Cert</context>
         </context-group>
       </trans-unit>
       <trans-unit id="587725" resname="toll_one_time_quick">
@@ -24537,7 +24545,7 @@ Group: Route adviser</context>
 
 Id: toll_one_time_quick
 Group: Route adviser</context>
-          <context context-type="x-crowdin-label">Temp</context>
+          <context context-type="x-crowdin-label">Cert</context>
         </context-group>
       </trans-unit>
       <trans-unit id="587727" resname="toll_start">
@@ -24548,7 +24556,7 @@ Group: Route adviser</context>
 
 Id: toll_start
 Group: Route adviser</context>
-          <context context-type="x-crowdin-label">Temp</context>
+          <context context-type="x-crowdin-label">Cert</context>
         </context-group>
       </trans-unit>
       <trans-unit id="2442" resname="toll_start_automatic">
@@ -24569,7 +24577,7 @@ Group: Route adviser</context>
 
 Id: toll_end
 Group: Route adviser</context>
-          <context context-type="x-crowdin-label">Temp</context>
+          <context context-type="x-crowdin-label">Cert</context>
         </context-group>
       </trans-unit>
       <trans-unit id="587731" resname="toll_end_quick">
@@ -24580,7 +24588,7 @@ Group: Route adviser</context>
 
 Id: toll_end_quick
 Group: Route adviser</context>
-          <context context-type="x-crowdin-label">Temp</context>
+          <context context-type="x-crowdin-label">Cert</context>
         </context-group>
       </trans-unit>
       <trans-unit id="2448" resname="toll_end_calc">
@@ -25048,7 +25056,7 @@ Group: Route adviser</context>
 
 Id: job_delivery
 Group: Route adviser</context>
-          <context context-type="x-crowdin-label">Temp</context>
+          <context context-type="x-crowdin-label">Cert</context>
         </context-group>
       </trans-unit>
       <trans-unit id="587743" resname="adv_hud_options_t">
@@ -38801,6 +38809,8 @@ Window allowing user to launch one from the adjusters.</context>
         </context-group>
         <note from="Krezzin" priority="4">&quot;Window allowing user to launch one from the adjusters.&quot; What the heck does that mean? Are cabin adjustments, mirror adjustments and seat adjustment options having quick access buttons already? Whoever adds the new lines, either upload a picture to the string or explain in few words. Its few seconds of work to be done...</note>
         <note from="Alexander Tselikov (San_Sany4)" priority="4">@crowdin.loca Other vehicles that are not trucks are coming to the games, namely cars and buses, so you should reconsider using the word &quot;truck&quot; in translation.</note>
+        <note from="QL Localization (crowdin.loca)" priority="4">We should review the word &quot;vehicle&quot; in all languages to make sure it's neutral and does not mention only &quot;truck&quot;</note>
+        <note from="Viktor Dobrovolný (Nettle)" priority="4">@crowdin.loca We are currently going through all the related terms and making this change everywhere in the game - I'll remove the proofread mark when importing it to Crowdin and add a label so anyone can check it for the other languages.</note>
       </trans-unit>
       <trans-unit id="4214" resname="lights">
         <source>Adjust Lights</source>
@@ -40083,6 +40093,7 @@ Group: Names of cities</context>
         </context-group>
         <note from="Luthiery Costa (Eryman)" priority="4">O nome correto é Aalborg. Em dinamarquês (e outras linguas similares, acredito), pode-se trocar o &quot;aa&quot; pelo &quot;å&quot;. Isso deve ter causado a confusão.</note>
         <note from="劉學庭 (Cola_Liu)" priority="4">@SCS_software</note>
+        <note from="QL Localization (crowdin.loca)" priority="4">@Cola_Liu can you please let us know why the translation is wrong? Is it because 市 was added? Do you have an objective reason on why it should not be added?</note>
       </trans-unit>
       <trans-unit id="555293" resname="aarhus">
         <source>Aarhus</source>
@@ -46148,7 +46159,7 @@ Group: Input wizard</context>
 Id: automatic_gb_setup_desc
 Group: Automatic gearbox setup page
 Group: Input wizard</context>
-          <context context-type="x-crowdin-label">Temp</context>
+          <context context-type="x-crowdin-label">Cert</context>
         </context-group>
       </trans-unit>
       <trans-unit id="4744" resname="automatic_gb_setup_desc2">
@@ -46650,6 +46661,7 @@ Id: photo_album_overlay_next_tab
 Group: Photo Album and Photo Mode menu and windows.</context>
         </context-group>
         <note from="REMOVED_USER" priority="4">no previous tab???</note>
+        <note from="QL Localization (crowdin.loca)" priority="4">I will solve this issue here and reopen in the visible string.</note>
       </trans-unit>
       <trans-unit id="263329" resname="photo_album_overlay_play_viewpoint" translate="no">
         <source>View</source>
@@ -49478,9 +49490,11 @@ Group: Texts on screens related to World of Trucks online jobs</context>
 Id: online_jobs_completed_count
 number of completed WOTR jobs
 Group: Texts on screens related to World of Trucks online jobs</context>
+          <context context-type="x-crowdin-label">Temp</context>
         </context-group>
         <note from="Mads Teland (mads1153)" priority="4">There is missing &quot;:&quot; at the end because other strings above on Job completed screen has already &quot;:&quot; at the end.</note>
         <note from="Diego Tavares (DTavares2112)" priority="4">@mads1153 I noticed this too. @Corleth you need to add &quot;:&quot; to the string.</note>
+        <note from="QL Localization (crowdin.loca)" priority="4">@Nettle Could you check this missing : in English?</note>
       </trans-unit>
       <trans-unit id="5264" resname="error_report_progress_t">
         <source>INVALID CONTRACT</source>
@@ -50451,8 +50465,11 @@ Group: Strings related to accessory filtering feature.</context>
 Id: base
 The category of the accessories that are inside the base game files.
 Group: Strings related to accessory filtering feature.</context>
+          <context context-type="x-crowdin-label">Temp</context>
         </context-group>
         <note from="Lydia Cheung (lydiach)" priority="4">In the Chinese Simplified localization, this string is also currently used in the ATS, causing users to see the words &quot;Euro Truck Simulator 2 Content&quot; in the ATS. The ATS version of this string is missing.</note>
+        <note from="QL Localization (crowdin.loca)" priority="4">@Nettle can you please have a look? I am not sure where to find this in the game. May be outdated.</note>
+        <note from="Viktor Dobrovolný (Nettle)" priority="4">The ATS/ETS2 strings containing the game names are currently undergoing maintenance - this should be solved in the next localization run before the patch 1.61</note>
       </trans-unit>
       <trans-unit id="5368" resname="inventory">
         <source>Steam Inventory Content</source>
@@ -51257,7 +51274,7 @@ Group: Strings related to special missions and the whole project of ovs.</contex
 Id: special_job_offer
 Text on gps advisor that is showed when player drive on the trigger for special mission pickup.
 Group: Strings related to special missions and the whole project of ovs.</context>
-          <context context-type="x-crowdin-label">Temp</context>
+          <context context-type="x-crowdin-label">Cert</context>
         </context-group>
       </trans-unit>
       <trans-unit id="5508" resname="special_job_offer_title">
@@ -51788,6 +51805,8 @@ Id: snowy_scene
 Group: Desktop backgrounds names</context>
         </context-group>
         <note from="Alexander Tselikov (San_Sany4)" priority="4">Is it supposed to be more like &quot;snít&quot; or &quot;přát&quot;?</note>
+        <note from="QL Localization (crowdin.loca)" priority="4">@Nettle could you provide more context for this string?</note>
+        <note from="Viktor Dobrovolný (Nettle)" priority="4">@San_Sany4 @crowdin.loca It is a name for a desktop image, so it doesn't really convey any important meaning. That said, in CZ we have it translated as &quot;... sen&quot; so &quot;snít&quot; adjacent.</note>
       </trans-unit>
       <trans-unit id="396974" resname="dark_studio" translate="no">
         <source>Black Light Studio</source>
@@ -51988,7 +52007,7 @@ Group: Trailer ownership</context>
 
 Id: job_load
 Group: Trailer ownership</context>
-          <context context-type="x-crowdin-label">Temp</context>
+          <context context-type="x-crowdin-label">Cert</context>
         </context-group>
       </trans-unit>
       <trans-unit id="16660" resname="job_autoload_title">
@@ -52031,7 +52050,7 @@ Group: Trailer ownership</context>
 
 Id: job_unload
 Group: Trailer ownership</context>
-          <context context-type="x-crowdin-label">Temp</context>
+          <context context-type="x-crowdin-label">Cert</context>
         </context-group>
       </trans-unit>
       <trans-unit id="369954" resname="dynamic_cargo_job_load_title">
@@ -56428,7 +56447,7 @@ Group: X-mas event</context>
 
 Id: xmas_cargo_pickup
 Group: X-mas event</context>
-          <context context-type="x-crowdin-label">Temp</context>
+          <context context-type="x-crowdin-label">Cert</context>
         </context-group>
       </trans-unit>
       <trans-unit id="431246" resname="xmass_missing_cargo_load_title">
@@ -63232,6 +63251,7 @@ Group: Menu upper bar</context>
         <note from="Patrik Rak (Corleth)" priority="4">Indeed, already changed to state in ATS,  will appear here soon.</note>
         <note from="Diego Tavares (DTavares2112)" priority="4">The currently approved translation is not correct. Please review my suggestion:
 &quot;Legislação local&quot;</note>
+        <note from="QL Localization (crowdin.loca)" priority="4">@Nettle I think we can mark this one as solved?</note>
       </trans-unit>
       <trans-unit id="370008" resname="road_class_local_road_urban">
         <source>City</source>
@@ -65778,8 +65798,10 @@ Group: Names of viewpoint cutscenes</context>
 Id: blkw_cut_kovacica_wind_park
 Google maps: https://goo.gl/maps/4neg8fRPC4SmdxFn6
 Group: Names of viewpoint cutscenes</context>
+          <context context-type="x-crowdin-label">Temp</context>
         </context-group>
         <note from="Luthiery Costa (Eryman)" priority="4">Missing the č as in Kovačica</note>
+        <note from="QL Localization (crowdin.loca)" priority="4">@Nettle Could you check the missing accent in English?</note>
       </trans-unit>
       <trans-unit id="326477" resname="blkw_cut_pristina">
         <source>Center of Pristina</source>
@@ -65928,9 +65950,11 @@ Group: Names of viewpoint cutscenes</context>
 Id: gr_cut_kalabaka
 Google maps: https://maps.app.goo.gl/2jsCt2HR8utFz8UGA
 Group: Names of viewpoint cutscenes</context>
+          <context context-type="x-crowdin-label">Temp</context>
         </context-group>
         <note from="Alexander Tselikov (San_Sany4)" priority="4">Shouldn't it be Kalambaka?</note>
         <note from="scan720" priority="4">The City is called Kalambaka, so you forgot the M</note>
+        <note from="QL Localization (crowdin.loca)" priority="4">@Nettle can you fix this in English?</note>
       </trans-unit>
       <trans-unit id="431078" resname="gr_cut_monastery">
         <source>Monastery of Agios Nectarios</source>
@@ -66202,11 +66226,13 @@ Group: Names of viewpoint cutscenes</context>
 Id: poc_cut_bjornfjell
 Google maps: https://maps.app.goo.gl/Vpnno7K7L64531ok9
 Group: Names of viewpoint cutscenes</context>
+          <context context-type="x-crowdin-label">Temp</context>
         </context-group>
         <note from="RivaStyle" priority="4">Given that the place's in Sweden (and the Maps link), the name should be Björnfjell instead of the proposed one.</note>
         <note from="Adam Hoas (adamhoas99)" priority="4">@RivaStyle Bjørnfjell is a small village in Norway. It's placed in Narvik's munincipal.</note>
         <note from="RivaStyle" priority="4">@adamhoas99 ok, the main problem was that the Maps link in the description pointed to the Customs station on the Swedish side.</note>
         <note from="Adam Hoas (adamhoas99)" priority="4">Yeah, it's a bad placement so I understand the confusion. :)</note>
+        <note from="QL Localization (crowdin.loca)" priority="4">@Nettle this one may require some source adjustments? Maybe checking with GD would help.</note>
       </trans-unit>
       <trans-unit id="555365" resname="poc_cut_trondheim">
         <source>Trondheim</source>
@@ -67518,10 +67544,12 @@ Group: Names of landmarks</context>
 
 Id: landmark_turtolan
 Group: Names of landmarks</context>
+          <context context-type="x-crowdin-label">Temp</context>
         </context-group>
         <note from="JohnnyW" priority="4">Should this string mean the same thing as the &lt;Turtola village church&gt; from Pello, Finland?</note>
         <note from="RivaStyle" priority="4">@JohnnyW yes, &quot;Turtolan&quot; in Finnish just means &quot;of Turtola&quot;, so the place should be named &quot;Turtola Church&quot;</note>
         <note from="RivaStyle" priority="4">Marking as a mistake for correction, &quot;Turtolan kirkko&quot; is the Finnish way to say &quot;Turtola church&quot;.</note>
+        <note from="QL Localization (crowdin.loca)" priority="4">@Nettle as the guys say above, the EN source should actually be &quot;Turtola Church&quot; without the &quot;n&quot; at the end.</note>
       </trans-unit>
       <trans-unit id="555377" resname="landmark_kalajoki">
         <source>Kalajoki Church</source>
@@ -69817,6 +69845,7 @@ Group: Scenarios general</context>
         </context-group>
         <note from="Diego Tavares (DTavares2112)" priority="4">Missing text to be translated</note>
         <note from="Adam Hoas (adamhoas99)" priority="4">Do we need to translate this into the correct saying in the language or leave is blank?</note>
+        <note from="QL Localization (crowdin.loca)" priority="4">This is an in-game tag, so no need for translation.</note>
       </trans-unit>
       <trans-unit id="492583" resname="aca_msg_parking_orientation">
         <source>You're in the right spot, but facing the wrong way.&lt;br&gt;&lt;br&gt;&lt;font face=/font/big_bold.font&gt;Turn the truck around before completing the scenario.&lt;/font&gt;</source>
@@ -69836,11 +69865,13 @@ Group: Scenarios general</context>
 
 Id: aca_msg_book1_intro_cutscene01
 Group: Book 1 intro</context>
+          <context context-type="x-crowdin-label">Temp</context>
         </context-group>
         <note from="Alexander Tselikov (San_Sany4)" priority="4">Wait, is &quot;Driving Academy&quot; now a single string that would be placed inline in other strings? That's a horrible idea! In languages that have cases (including Czech), it must be in different cases in different sentences. But this way it has to be in the same case, like Nominative, which would make for unnatural and overly complicated or elaborate translations to work around this. I really believe you should reconsider this change.</note>
         <note from="Γιώργος Βαρδ (gg.vardoukelis)" priority="4">@San_Sany4 totally agree</note>
         <note from="krmarci" priority="4">Same issue in Hungarian.</note>
         <note from="Ngu Mèo (MeoNguMinecraft)" priority="4">I think this string is missing somewhere?</note>
+        <note from="QL Localization (crowdin.loca)" priority="4">@Nettle Is there a way we can implement this suggestion?</note>
       </trans-unit>
       <trans-unit id="397450" resname="aca_msg_book1_intro_cutscene02">
         <source>The following scenarios represent the first step on your journey to professional truck driving.</source>
@@ -71520,6 +71551,8 @@ Group: Book 1 Scenario 1_05</context>
 
 &quot;to the high-speed setting&quot; - it will be right.</note>
         <note from="Tobias Henricsson (TobiasHenricsson)" priority="4">@_ResTed_ I disagree (even though I should have seen it much earlier). My interpretation is that we are going from interval wipers to continous wipers, although at a low speed. If so, this string is correct. It should be: Off - Interval - Low - High. And in this context, you change from interval to low speed.</note>
+        <note from="QL Localization (crowdin.loca)" priority="4">@Nettle could you please clarify this query?</note>
+        <note from="Viktor Dobrovolný (Nettle)" priority="4">It is as @TobiasHenricsson says. It could be further clarified as &quot;...to switch the windscreen wipers to the continuous low-speed setting.&quot; or a similar phrase, but for now I would leave it as is in EN. If you feel it needs to be clearer in your language, feel free to add or suggest it.</note>
       </trans-unit>
       <trans-unit id="397796" resname="aca_msg_book1_1_05_wipers3">
         <source>Now the wipers are working at a consistent speed to clear the rain.&lt;font face=/font/big_bold.font&gt;&lt;br&gt;&lt;br&gt;Press @@imv_nrm_wipers@@ once more to set the high-speed setting. &lt;/font&gt;</source>
@@ -72284,9 +72317,11 @@ Group: Book 1 Scenario 2_04</context>
 
 Id: aca_scenario_book1_2_05_title
 Group: Book 1 Scenario 2_05</context>
+          <context context-type="x-crowdin-label">Temp</context>
         </context-group>
         <note from="Diego Tavares (DTavares2112)" priority="4">For some reason, in Brazilian Portuguese, the information that appears is the string ID &quot;aca_scenario_book1_2_05_title&quot;. Below is a screenshot.
 https://prnt.sc/CBl5TYj-EWTN</note>
+        <note from="QL Localization (crowdin.loca)" priority="4">@Nettle could you please check if this is still present in game?</note>
       </trans-unit>
       <trans-unit id="397972" resname="aca_scenario_book1_2_05_desc">
         <source>In this scenario, we'll reverse the truck into a parking spot next to a kerb.</source>
@@ -73586,8 +73621,10 @@ Group: Book 1 Scenario 3_01</context>
 
 Id: aca_msg_book1_3_01_stop5
 Group: Book 1 Scenario 3_01</context>
+          <context context-type="x-crowdin-label">Temp</context>
         </context-group>
         <note from="REMOVED_USER" priority="4">This step is repeated with the previous one. Possible continuity error?</note>
+        <note from="QL Localization (crowdin.loca)" priority="4">@Nettle - could you help with more context/screenshot for this one? We want to understand if this is still relevant.</note>
       </trans-unit>
       <trans-unit id="398282" resname="aca_msg_book1_3_01_disc5">
         <source>Once again, in real life, the trucker would have to exit the vehicle, lower the landing gear, disconnect the air and electrical lines, and release the fifth wheel locking mechanism. &lt;br&gt;&lt;br&gt;&lt;font face=/font/big_bold.font&gt;We simplify this process for you, so pressing @@imv_nrm_attach@@ will disconnect the trailer. &lt;/font&gt;</source>
@@ -81107,8 +81144,10 @@ Id: hint_driv_seq_title</context>
           <context context-type="source">hint_driv_seq_text
 
 Id: hint_driv_seq_text</context>
+          <context context-type="x-crowdin-label">Temp</context>
         </context-group>
         <note from="RivaStyle" priority="4">Are the keys right to control the clutch? The key should usually be different from the gearbox ones.</note>
+        <note from="QL Localization (crowdin.loca)" priority="4">@Nettle can you please check this one out too? I believe we may not get the message that should be conveyed.</note>
       </trans-unit>
       <trans-unit id="589905" resname="hint_driv_hshift_title">
         <source>Driving</source>
@@ -83186,8 +83225,10 @@ Group: Accessory Names</context>
 Id: body_cargo
 Kogel trailer
 Group: Accessory Names</context>
+          <context context-type="x-crowdin-label">Temp</context>
         </context-group>
         <note from="QL_RU_T" priority="4">please describe or provide a picture. Is it a proper name?</note>
+        <note from="QL Localization (crowdin.loca)" priority="4">@Nettle can you help?</note>
       </trans-unit>
       <trans-unit id="630453" resname="body_chem_tank_chrom">
         <source>Chemical Tank Chrome</source>
@@ -112378,7 +112419,7 @@ Group: Accessory Names</context>
           <context context-type="x-crowdin-label">Accessory</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="635575" resname="toy_cupid_s_dice" translate="no">
+      <trans-unit id="635575" resname="toy_cupid_s_dice">
         <source>Cupid's Dice</source>
         <target state="translated">큐피드의 주사위 더블</target>
         <context-group purpose="information">
@@ -115384,7 +115425,7 @@ Id: toy_trucker_pillow
 Group: Accessory Names</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="636041" resname="toy_trucker_s_rose" translate="no">
+      <trans-unit id="636041" resname="toy_trucker_s_rose">
         <source>Trucker's Rose</source>
         <target state="translated">트럭커의 장미</target>
         <context-group purpose="information">
@@ -125201,9 +125242,11 @@ Id: ls_a49_e1_portugal_border_spain</context>
           <context context-type="source">ls_a61_e80_carcassone_france
 
 Id: ls_a61_e80_carcassone_france</context>
-          <context context-type="x-crowdin-label">Geo</context>
+          <context context-type="x-crowdin-label-1">Geo</context>
+          <context context-type="x-crowdin-label-2">Temp</context>
         </context-group>
         <note from="Dawid Dziewa (dawid2849)" priority="4">The correct spelling is &quot;Carcassonne&quot; and not &quot;Carcassone&quot;.</note>
+        <note from="QL Localization (crowdin.loca)" priority="4">@Nettle English source might need update.</note>
       </trans-unit>
       <trans-unit id="637645" resname="ls_aarhus_denmark">
         <source>Aarhus, Denmark</source>

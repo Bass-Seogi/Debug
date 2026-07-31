@@ -1499,6 +1499,10 @@
 		"message": "오클라호마",
 		"description": "Id: oklahoma\nGroup: Names of countries/states"
 	},
+	"ats_south_dakota": {
+		"message": "사우스다코타",
+		"description": "Id: south_dakota\nGroup: Names of countries/states"
+	},
 	"ats_oregon": {
 		"message": "오리건",
 		"description": "Id: oregon\nGroup: Names of countries/states"

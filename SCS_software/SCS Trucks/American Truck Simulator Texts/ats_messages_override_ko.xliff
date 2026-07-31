@@ -4261,6 +4261,16 @@ Id: oklahoma
 Group: Names of countries/states</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="685658" resname="ats_south_dakota">
+        <source>South Dakota</source>
+        <target state="translated">사우스다코타</target>
+        <context-group purpose="information">
+          <context context-type="source">ats_south_dakota
+
+Id: south_dakota
+Group: Names of countries/states</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="46030" resname="ats_oregon">
         <source>Oregon</source>
         <target state="translated">오리건</target>
