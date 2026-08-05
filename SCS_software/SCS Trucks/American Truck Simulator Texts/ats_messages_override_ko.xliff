@@ -2169,10 +2169,12 @@ Group: Text deviations for American Truck Simulator. Please, use only terms appr
 Id: tn_lodeking_brilliance
 Group: Names of individual trailer, trailer chassis types or trailer virtual company look names. (for trailer listing screen)
 Group: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English).</context>
+          <context context-type="x-crowdin-label">Temp</context>
         </context-group>
         <note from="RivaStyle" priority="4">The brand should be &quot;Lode King&quot;, with space and capital K.
 
 https://www.lodeking.com/</note>
+        <note from="QL Localization (crowdin.loca)" priority="4">@Nettle this one should be checked too, trademark compliance.</note>
       </trans-unit>
       <trans-unit id="461205" resname="ats_tn_lodeking_distinction">
         <source>Lodeking Distinction</source>
@@ -3686,6 +3688,7 @@ Group: Trailer configurations</context>
         </context-group>
         <note from="Lydia Cheung (lydiach)" priority="4">The currently approved translation is not correct. Please review my suggestion:
 &quot;牵引拖台&quot;</note>
+        <note from="QL_HANS_T" priority="4">@lydiach Adopted.</note>
       </trans-unit>
       <trans-unit id="637865" resname="ats_tr_dolly_2">
         <source>Dolly, 2 Axles</source>
@@ -3911,6 +3914,7 @@ Group: Trailer body sets</context>
 &quot;Plate-forme&quot;</note>
         <note from="Mel85" priority="4">&quot;Plate-forme&quot; is more fr_ca</note>
         <note from="Erick Araujo (arrobaraujo)" priority="4">@TarsoMagno could fix the translation on this one, please?</note>
+        <note from="QL_BR_T" priority="4">@arrobaraujo Let us know what the suggestion is, please? For now, this has been flagged as solved.</note>
       </trans-unit>
       <trans-unit id="223410" resname="ats_bs_flatbed_alu">
         <source>Aluminium Flatbed</source>

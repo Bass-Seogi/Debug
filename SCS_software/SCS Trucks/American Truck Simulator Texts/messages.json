@@ -7,69 +7,69 @@
 		"message": "스팀 컨트롤러",
 		"description": "Id: steam_controller\nName of Steam Controller input device. It is followed by ID number (e.g. `Steam Controller 000000123456789A`).\nGroup: Steam Controller UI localization in game"
 	},
-	"moded_game": {
-		"message": "무단으로 변경된 데이터가 게임에 포함되어있습니다. 수정된 게임은 지원 대상이 아닙니다. 문제 또는 충돌이 발생할 경우 MOD를 제거하시기 바랍니다!",
-		"description": "Id: moded_game"
-	},
 	"steam_emulated_controller": {
 		"message": "스팀 호환 컨트롤러",
 		"description": "Id: steam_emulated_controller\nName of input device which is emulated by Steam Controler API. It is followed by ID number (e.g. `Steam Emulated Controller 000000123456789A`).\nGroup: Steam Controller UI localization in game"
 	},
-	"europe.mbd": {
-		"message": "유럽",
-		"description": "Id: europe.mbd\nMap names"
+	"moded_game": {
+		"message": "무단으로 변경된 데이터가 게임에 포함되어있습니다. 수정된 게임은 지원 대상이 아닙니다. 문제 또는 충돌이 발생할 경우 MOD를 제거하시기 바랍니다!",
+		"description": "Id: moded_game"
 	},
 	"steam_sctrl_action_set_simple": {
 		"message": "심플",
 		"description": "Id: sctrl_action_set_simple\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"loading": {
-		"message": "잠시만 기다려주십시오 ...",
-		"description": "Id: loading\nText shown on the loading screen."
+	"europe.mbd": {
+		"message": "유럽",
+		"description": "Id: europe.mbd\nMap names"
 	},
 	"steam_sctrl_action_set_ui": {
 		"message": "UI",
 		"description": "Id: sctrl_action_set_ui\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"steam_sctrl_action_set_layer_default": {
-		"message": "기본값",
-		"description": "Id: sctrl_action_set_layer_default\nGroup: Steam Controller UI localizations in Steam client"
+	"loading": {
+		"message": "잠시만 기다려주십시오 ...",
+		"description": "Id: loading\nText shown on the loading screen."
 	},
 	"loading_no_job": {
 		"message": "바람처럼 자유로움",
 		"description": "Id: loading_no_job"
 	},
-	"current_job_title": {
-		"message": "현재 배차",
-		"description": "Id: current_job_title"
+	"steam_sctrl_action_set_layer_default": {
+		"message": "기본값",
+		"description": "Id: sctrl_action_set_layer_default\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"steam_sctrl_action_set_layer_map": {
 		"message": "지도",
 		"description": "Id: sctrl_action_set_layer_map\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"desktop": {
-		"message": "바탕화면",
-		"description": "Id: desktop\nIcon label under \"Back to desktop\" button"
+	"current_job_title": {
+		"message": "현재 배차",
+		"description": "Id: current_job_title"
 	},
 	"steam_sctrl_action_set_layer_truck_config": {
 		"message": "트럭 구성",
 		"description": "Id: sctrl_action_set_layer_truck_config\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"engine_t": {
-		"message": "엔진",
-		"description": "Id: engine_t\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
+	"desktop": {
+		"message": "바탕화면",
+		"description": "Id: desktop\nIcon label under \"Back to desktop\" button"
 	},
 	"steam_sctrl_action_set_layer_walking": {
 		"message": "보행",
 		"description": "Id: sctrl_action_set_layer_walking\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"steam_sctrl_action_set_driving": {
-		"message": "주행",
-		"description": "Id: sctrl_action_set_driving\nGroup: Steam Controller UI localizations in Steam client"
+	"engine_t": {
+		"message": "엔진",
+		"description": "Id: engine_t\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
 	"engine": {
 		"message": "엔진",
 		"description": "Id: engine\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
+	},
+	"steam_sctrl_action_set_driving": {
+		"message": "주행",
+		"description": "Id: sctrl_action_set_driving\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"transmission_t": {
 		"message": "변속기",
@@ -79,45 +79,45 @@
 		"message": "포토 모드",
 		"description": "Id: sctrl_action_set_layer_photo_mode\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"transmission": {
-		"message": "변속기",
-		"description": "Id: transmission\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
-	},
 	"steam_sctrl_action_set_layer_photo_walk": {
 		"message": "포토 모드 보행",
 		"description": "Id: sctrl_action_set_layer_photo_walk\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"steam_sctrl_action_mouse_look": {
-		"message": "마우스 보기",
-		"description": "Id: sctrl_action_mouse_look\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	"transmission": {
+		"message": "변속기",
+		"description": "Id: transmission\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
 	"chassis_t": {
 		"message": "샤시",
 		"description": "Id: chassis_t\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
-	"chassis": {
-		"message": "샤시",
-		"description": "Id: chassis\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
+	"steam_sctrl_action_mouse_look": {
+		"message": "마우스 보기",
+		"description": "Id: sctrl_action_mouse_look\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"steam_sctrl_action_mouse_rel_position": {
 		"message": "마우스 이동",
 		"description": "Id: sctrl_action_mouse_rel_position\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"steam_sctrl_action_mouse_button_left": {
-		"message": "마우스 왼쪽",
-		"description": "Id: sctrl_action_mouse_button_left\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	"chassis": {
+		"message": "샤시",
+		"description": "Id: chassis\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
 	"cabin_t": {
 		"message": "캐빈",
 		"description": "Id: cabin_t\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
-	"cabin": {
-		"message": "캐빈",
-		"description": "Id: cabin\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
+	"steam_sctrl_action_mouse_button_left": {
+		"message": "마우스 왼쪽",
+		"description": "Id: sctrl_action_mouse_button_left\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"steam_sctrl_action_mouse_button_right": {
 		"message": "마우스 오른쪽",
 		"description": "Id: sctrl_action_mouse_button_right\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	},
+	"cabin": {
+		"message": "캐빈",
+		"description": "Id: cabin\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
 	"steam_sctrl_action_pause": {
 		"message": "일시 정지",
@@ -135,37 +135,37 @@
 		"message": "휠",
 		"description": "Id: wheels\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
-	"steam_sctrl_action_steering": {
-		"message": "조향",
-		"description": "Id: sctrl_action_steering\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
-	},
 	"interior_t": {
 		"message": "인테리어",
 		"description": "Id: interior_t\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
-	"interior": {
-		"message": "인테리어",
-		"description": "Id: interior\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
+	"steam_sctrl_action_steering": {
+		"message": "조향",
+		"description": "Id: sctrl_action_steering\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"steam_sctrl_action_aforward": {
 		"message": "가속/전진",
 		"description": "Id: sctrl_action_aforward\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"accessory_t": {
-		"message": "액세서리",
-		"description": "Id: accessory_t\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
+	"interior": {
+		"message": "인테리어",
+		"description": "Id: interior\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
 	"steam_sctrl_action_abackward": {
 		"message": "브레이크/후진",
 		"description": "Id: sctrl_action_abackward\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"steam_sctrl_action_clutch": {
-		"message": "클러치",
-		"description": "Id: sctrl_action_clutch\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	"accessory_t": {
+		"message": "액세서리",
+		"description": "Id: accessory_t\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
 	"accessory": {
 		"message": "액세서리",
 		"description": "Id: accessory\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
+	},
+	"steam_sctrl_action_clutch": {
+		"message": "클러치",
+		"description": "Id: sctrl_action_clutch\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"in_accessory_t": {
 		"message": "인테리어 액세서리",
@@ -183,21 +183,21 @@
 		"message": "인테리어 액세서리",
 		"description": "Id: in_accessory\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
-	"steam_sctrl_action_mapzoom_in": {
-		"message": "지도 확대",
-		"description": "Id: sctrl_action_mapzoom_in\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
-	},
 	"paint_job_t": {
 		"message": "순정 색상",
 		"description": "Id: paint_job_t\nHeader of list containing stock colors.\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
-	"paint_job": {
-		"message": "순정 색상",
-		"description": "Id: paint_job\nHeader of list containing stock colors.\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
+	"steam_sctrl_action_mapzoom_in": {
+		"message": "지도 확대",
+		"description": "Id: sctrl_action_mapzoom_in\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"steam_sctrl_action_mapzoom_out": {
 		"message": "지도 축소",
 		"description": "Id: sctrl_action_mapzoom_out\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	},
+	"paint_job": {
+		"message": "순정 색상",
+		"description": "Id: paint_job\nHeader of list containing stock colors.\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
 	"steam_sctrl_action_selectfcs": {
 		"message": "선택",
@@ -207,13 +207,13 @@
 		"message": "도색",
 		"description": "Id: every_paint_job_t\nHeader of list containing all paint jobs.\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
-	"steam_sctrl_action_skip": {
-		"message": "건너뛰기",
-		"description": "Id: sctrl_action_skip\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
-	},
 	"every_paint_job": {
 		"message": "도색",
 		"description": "Id: every_paint_job\nHeader of list containing all paint jobs.\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
+	},
+	"steam_sctrl_action_skip": {
+		"message": "건너뛰기",
+		"description": "Id: sctrl_action_skip\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"brand_t": {
 		"message": "차량 디자인",
@@ -223,13 +223,13 @@
 		"message": "왼쪽",
 		"description": "Id: sctrl_action_j_left\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"brand": {
-		"message": "차량 디자인",
-		"description": "Id: brand\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
-	},
 	"steam_sctrl_action_j_right": {
 		"message": "오른쪽",
 		"description": "Id: sctrl_action_j_right\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	},
+	"brand": {
+		"message": "차량 디자인",
+		"description": "Id: brand\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
 	"steam_sctrl_action_j_up": {
 		"message": "위",
@@ -247,13 +247,13 @@
 		"message": "아래",
 		"description": "Id: sctrl_action_j_down\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"steam_sctrl_action_joy_nav_prv": {
-		"message": "이전 화면",
-		"description": "Id: sctrl_action_joy_nav_prv\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
-	},
 	"truck_analysis_popup_t": {
 		"message": "차량 분석",
 		"description": "Id: truck_analysis_popup_t\nHeader of the pop-up when taking heavy cargo\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
+	},
+	"steam_sctrl_action_joy_nav_prv": {
+		"message": "이전 화면",
+		"description": "Id: sctrl_action_joy_nav_prv\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"steam_sctrl_action_joy_nav_nxt": {
 		"message": "다음 화면",
@@ -263,21 +263,21 @@
 		"message": "차량 구성",
 		"description": "Id: current_truck_params\nHeader inside the truck analysis widget for truck parameters\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
-	"steam_sctrl_action_joy_sec_prv": {
-		"message": "이전 탭",
-		"description": "Id: sctrl_action_joy_sec_prv\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
-	},
 	"current_truck_parameters": {
 		"message": "차량 구성",
 		"description": "Id: current_truck_parameters\nHeader inside the truck analysis pop-up for truck parameters\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
-	"steam_sctrl_action_joy_sec_nxt": {
-		"message": "다음 탭",
-		"description": "Id: sctrl_action_joy_sec_nxt\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	"steam_sctrl_action_joy_sec_prv": {
+		"message": "이전 탭",
+		"description": "Id: sctrl_action_joy_sec_prv\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"normal_cargo": {
 		"message": "일반 화물",
 		"description": "Id: normal_cargo\nname of the bar for normal cargo suitability\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
+	},
+	"steam_sctrl_action_joy_sec_nxt": {
+		"message": "다음 탭",
+		"description": "Id: sctrl_action_joy_sec_nxt\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"heavy_cargo": {
 		"message": "중량화물",
@@ -295,21 +295,21 @@
 		"message": "바로가기 1 홀드",
 		"description": "Id: sctrl_action_shortcut_1h\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"hill_climbing": {
-		"message": "등판능력",
-		"description": "Id: hill_climbing\nname of the bar for truck's performance to take up on hills, up or down\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
-	},
 	"steam_sctrl_action_shortcut_2": {
 		"message": "바로가기 2",
 		"description": "Id: sctrl_action_shortcut_2\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"steam_sctrl_action_shortcut_2h": {
-		"message": "바로가기 2 홀드",
-		"description": "Id: sctrl_action_shortcut_2h\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	"hill_climbing": {
+		"message": "등판능력",
+		"description": "Id: hill_climbing\nname of the bar for truck's performance to take up on hills, up or down\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
 	"uneven_terrain": {
 		"message": "비포장도로",
 		"description": "Id: uneven_terrain\nname of the bar for truck's performance to take up on broken / uneven terrain / grassy terrain\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
+	},
+	"steam_sctrl_action_shortcut_2h": {
+		"message": "바로가기 2 홀드",
+		"description": "Id: sctrl_action_shortcut_2h\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"steam_sctrl_action_shortcut_3": {
 		"message": "바로가기 3",
@@ -319,13 +319,13 @@
 		"message": "토크",
 		"description": "Id: engine_torque\ntruck's engine torque value in Nm / newton-meters\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
-	"first_gear_ratio": {
-		"message": "최초 기어비",
-		"description": "Id: first_gear_ratio\nFirst Gear Ratio of the gearbox\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
-	},
 	"steam_sctrl_action_shortcut_3h": {
 		"message": "바로가기 3 홀드",
 		"description": "Id: sctrl_action_shortcut_3h\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	},
+	"first_gear_ratio": {
+		"message": "최초 기어비",
+		"description": "Id: first_gear_ratio\nFirst Gear Ratio of the gearbox\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
 	"last_gear_ratio": {
 		"message": "최종 기어비",
@@ -343,13 +343,13 @@
 		"message": "바로가기 4 홀드",
 		"description": "Id: sctrl_action_shortcut_4h\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"steam_sctrl_action_j_cam_lk": {
-		"message": "트럭 장면 카메라 보기",
-		"description": "Id: sctrl_action_j_cam_lk\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
-	},
 	"effective_wheel_base": {
 		"message": "유효 축간거리",
 		"description": "Id: effective_wheel_base\ntruck's wheelbase in meters, m\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
+	},
+	"steam_sctrl_action_j_cam_lk": {
+		"message": "트럭 장면 카메라 보기",
+		"description": "Id: sctrl_action_j_cam_lk\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"steam_sctrl_action_j_cam_mv": {
 		"message": "트럭 장면 카메라 이동",
@@ -359,13 +359,13 @@
 		"message": "조향각도",
 		"description": "Id: steer_angle\nmaximum degree angle of streeting wheels\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
-	"retarder_analysis": {
-		"message": "리타더",
-		"description": "Id: retarder_analysis\nretarder presense value yes / no\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
-	},
 	"steam_sctrl_action_j_trzoom_in": {
 		"message": "트럭 장면 확대",
 		"description": "Id: sctrl_action_j_trzoom_in\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	},
+	"retarder_analysis": {
+		"message": "리타더",
+		"description": "Id: retarder_analysis\nretarder presense value yes / no\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
 	"powered_axles": {
 		"message": "구동 축",
@@ -375,13 +375,13 @@
 		"message": "트럭 장면 축소",
 		"description": "Id: sctrl_action_j_trzoom_out\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"steam_sctrl_action_j_mapzom_in": {
-		"message": "지도 확대",
-		"description": "Id: sctrl_action_j_mapzom_in\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
-	},
 	"liftable_axles": {
 		"message": "가변축",
 		"description": "Id: liftable_axles\namount of liftable axles truck has\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
+	},
+	"steam_sctrl_action_j_mapzom_in": {
+		"message": "지도 확대",
+		"description": "Id: sctrl_action_j_mapzom_in\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"axles": {
 		"message": "액슬 개수",
@@ -391,13 +391,13 @@
 		"message": "지도 축소",
 		"description": "Id: sctrl_action_j_mapzom_out\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"steam_sctrl_action_j_panscroll": {
-		"message": "스크롤 / 팬",
-		"description": "Id: sctrl_action_j_panscroll\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
-	},
 	"gear_count": {
 		"message": "기어 개수",
 		"description": "Id: gear_count\namount of gears in trucks's transmission\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
+	},
+	"steam_sctrl_action_j_panscroll": {
+		"message": "스크롤 / 팬",
+		"description": "Id: sctrl_action_j_panscroll\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"steam_sctrl_action_photo_mode": {
 		"message": "포토 모드",
@@ -407,29 +407,29 @@
 		"message": "엔진 마력",
 		"description": "Id: power\ntruck's engine power\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
-	"steam_sctrl_action_phot_z_j_in": {
-		"message": "포토 모드 확대",
-		"description": "Id: sctrl_action_phot_z_j_in\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
-	},
 	"truck_analysis_heavy_introduction": {
 		"message": "중량화물을 운송하려고 합니다. 현재 트럭 구성을 검토하여 문제가 없는지 확인하십시오.",
 		"description": "Id: truck_analysis_heavy_introduction\nDescription in the truck analysis pop-up window when taking heavy cargo job\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
-	"steam_sctrl_action_phot_z_j_out": {
-		"message": "포토 모드 축소",
-		"description": "Id: sctrl_action_phot_z_j_out\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	"steam_sctrl_action_phot_z_j_in": {
+		"message": "포토 모드 확대",
+		"description": "Id: sctrl_action_phot_z_j_in\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"truck_analysis_info_tooltip": {
 		"message": "예상되는 운송 수단을 감안할 때, 운전기술 및 법적 제한사항을 고려하여 차량을 조정하십시오.",
 		"description": "Id: truck_analysis_info_tooltip\nGeneral tooltip description of Truck Analysis feature\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
-	"normal_cargo_tooltip": {
-		"message": "경량화물 및 중형화물 운송 업무에 최적화 됨",
-		"description": "Id: normal_cargo_tooltip\nTooltip description for the Normal Cargo bar in Truck Analysis\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
+	"steam_sctrl_action_phot_z_j_out": {
+		"message": "포토 모드 축소",
+		"description": "Id: sctrl_action_phot_z_j_out\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"steam_sctrl_action_photoup": {
 		"message": "포토 모드 카메라 업",
 		"description": "Id: sctrl_action_photoup\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	},
+	"normal_cargo_tooltip": {
+		"message": "경량화물 및 중형화물 운송 업무에 최적화 됨",
+		"description": "Id: normal_cargo_tooltip\nTooltip description for the Normal Cargo bar in Truck Analysis\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
 	"heavy_cargo_tooltip": {
 		"message": "중량화물 및 특수화물 운송 업무에 최적화 됨",
@@ -479,13 +479,13 @@
 		"message": "내 현재 상태",
 		"description": "Id: personal_t\nTitle of window containing information about the player's avatar. Please keep in upper case where possible."
 	},
-	"company_t": {
-		"message": "회사 현황",
-		"description": "Id: company_t\nTitle of window containing information about player's company. Please keep in upper case where possible."
-	},
 	"steam_sctrl_action_photores": {
 		"message": "포토 모드 설정 초기화",
 		"description": "Id: sctrl_action_photores\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	},
+	"company_t": {
+		"message": "회사 현황",
+		"description": "Id: company_t\nTitle of window containing information about player's company. Please keep in upper case where possible."
 	},
 	"truck_t": {
 		"message": "내 트럭",
@@ -495,13 +495,13 @@
 		"message": "수락 버튼",
 		"description": "Id: sctrl_action_simple_accept\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"driver_plate_t": {
-		"message": "운전자 닉네임 입력",
-		"description": "Id: driver_plate_t\nTitle of window used to enter text for the driver's plate."
-	},
 	"steam_sctrl_action_simple_cancel": {
 		"message": "취소 버튼",
 		"description": "Id: sctrl_action_simple_cancel\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	},
+	"driver_plate_t": {
+		"message": "운전자 닉네임 입력",
+		"description": "Id: driver_plate_t\nTitle of window used to enter text for the driver's plate."
 	},
 	"steam_sctrl_action_simple_context1": {
 		"message": "상황별 1 버튼",
@@ -511,13 +511,13 @@
 		"message": "교대 운전자 닉네임 입력",
 		"description": "Id: codriver_plate_t\nTitle of window used to enter text for the co-driver's plate."
 	},
-	"truck_upgrades_t": {
-		"message": "차량 업그레이드",
-		"description": "Id: truck_upgrades_t\nTitle of the screen. Please keep in upper case where possible.\"\nGroup: Screen showing list of the upgrades."
-	},
 	"steam_sctrl_action_simple_context2": {
 		"message": "상황별 2 버튼",
 		"description": "Id: sctrl_action_simple_context2\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	},
+	"truck_upgrades_t": {
+		"message": "차량 업그레이드",
+		"description": "Id: truck_upgrades_t\nTitle of the screen. Please keep in upper case where possible.\"\nGroup: Screen showing list of the upgrades."
 	},
 	"steam_sctrl_action_simple_context3": {
 		"message": "상황별 3 버튼",
@@ -527,21 +527,21 @@
 		"message": "트레일러 업그레이드",
 		"description": "Id: trailer_upgrades_t\nTitle of the screen. Please keep in upper case where possible.\"\nGroup: Screen showing list of the upgrades."
 	},
-	"truck_upgrades": {
-		"message": "트럭 업그레이드",
-		"description": "Id: truck_upgrades\nThe name of the screen containing truck upgrades.\nGroup: Screen showing list of the upgrades."
-	},
 	"steam_sctrl_action_simple_context4": {
 		"message": "상황별 4 버튼",
 		"description": "Id: sctrl_action_simple_context4\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"steam_sctrl_action_simple_pov1_up": {
-		"message": "Dpad 위쪽 버튼",
-		"description": "Id: sctrl_action_simple_pov1_up\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	"truck_upgrades": {
+		"message": "트럭 업그레이드",
+		"description": "Id: truck_upgrades\nThe name of the screen containing truck upgrades.\nGroup: Screen showing list of the upgrades."
 	},
 	"trailer_upgrades": {
 		"message": "트레일러 업그레이드",
 		"description": "Id: trailer_upgrades\nThe name of the screen containing trailer upgrades.\nGroup: Screen showing list of the upgrades."
+	},
+	"steam_sctrl_action_simple_pov1_up": {
+		"message": "Dpad 위쪽 버튼",
+		"description": "Id: sctrl_action_simple_pov1_up\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"steam_sctrl_action_simple_pov1_right": {
 		"message": "Dpad 오른쪽 버튼",
@@ -567,21 +567,21 @@
 		"message": "GPS를 가장 가까운 정비소로 설정",
 		"description": "Id: upgrades_gps\nButton which sets GPS target to the nearest shop.\nGroup: Screen showing list of the upgrades."
 	},
-	"new_upgrades_notice": {
-		"message": "새 업그레이드가 존재합니다!",
-		"description": "Id: new_upgrades_notice\nShown as icon in corner of screen when new upgrades are available.\nGroup: Screen showing list of the upgrades."
-	},
 	"steam_sctrl_action_simple_lb": {
 		"message": "왼쪽 숄더 버튼",
 		"description": "Id: sctrl_action_simple_lb\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"change_gps_to_service": {
-		"message": "내비게이션이 다른 목적지로 설정되었습니다.<br><br>가장 가까운 업그레이드 상점으로 목적지를 변경하시겠습니까?",
-		"description": "Id: change_gps_to_service\nGroup: Screen showing list of the upgrades."
+	"new_upgrades_notice": {
+		"message": "새 업그레이드가 존재합니다!",
+		"description": "Id: new_upgrades_notice\nShown as icon in corner of screen when new upgrades are available.\nGroup: Screen showing list of the upgrades."
 	},
 	"steam_sctrl_action_simple_rb": {
 		"message": "오른쪽 숄더 버튼",
 		"description": "Id: sctrl_action_simple_rb\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	},
+	"change_gps_to_service": {
+		"message": "내비게이션이 다른 목적지로 설정되었습니다.<br><br>가장 가까운 업그레이드 상점으로 목적지를 변경하시겠습니까?",
+		"description": "Id: change_gps_to_service\nGroup: Screen showing list of the upgrades."
 	},
 	"truck_action_t": {
 		"message": "서비스",
@@ -591,13 +591,13 @@
 		"message": "메뉴 1 버튼",
 		"description": "Id: sctrl_action_simple_menu1\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"truck_service_t": {
-		"message": "서비스",
-		"description": "Id: truck_service_t\nTitle of the screen. Please keep in upper case where possible.\nGroup: Truck service screen.\nAllows to repair damaged components of the truck."
-	},
 	"steam_sctrl_action_simple_menu2": {
 		"message": "메뉴 2 버튼",
 		"description": "Id: sctrl_action_simple_menu2\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	},
+	"truck_service_t": {
+		"message": "서비스",
+		"description": "Id: truck_service_t\nTitle of the screen. Please keep in upper case where possible.\nGroup: Truck service screen.\nAllows to repair damaged components of the truck."
 	},
 	"steam_sctrl_action_simple_share": {
 		"message": "공유 버튼",
@@ -615,21 +615,21 @@
 		"message": "왼쪽 스틱 X",
 		"description": "Id: sctrl_action_simple_x\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"damage_t": {
-		"message": "대미지 리포트",
-		"description": "Id: damage_t\nHeader of section displaying status of individual components of the vehicle (engine, transmission, ....). Please keep in upper case where possible. Please keep in upper case where possible.\nGroup: Truck service screen.\nAllows to repair damaged components of the truck."
-	},
 	"steam_sctrl_action_simple_y": {
 		"message": "왼쪽 스틱 Y",
 		"description": "Id: sctrl_action_simple_y\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"steam_sctrl_action_simple_xy": {
-		"message": "왼쪽 스틱",
-		"description": "Id: sctrl_action_simple_xy\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	"damage_t": {
+		"message": "대미지 리포트",
+		"description": "Id: damage_t\nHeader of section displaying status of individual components of the vehicle (engine, transmission, ....). Please keep in upper case where possible. Please keep in upper case where possible.\nGroup: Truck service screen.\nAllows to repair damaged components of the truck."
 	},
 	"truck_service_repair_all": {
 		"message": "모두 수리",
 		"description": "Id: truck_service_repair_all\nLabel of checkbox that sets all vehicle accessories to be repaired.\nGroup: Truck service screen.\nAllows to repair damaged components of the truck."
+	},
+	"steam_sctrl_action_simple_xy": {
+		"message": "왼쪽 스틱",
+		"description": "Id: sctrl_action_simple_xy\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"steam_sctrl_action_simple_rx": {
 		"message": "오른쪽 스틱 X",
@@ -639,13 +639,13 @@
 		"message": "모두 교체",
 		"description": "Id: truck_service_replace_all\nLabel of checkbox that sets all vehicle accessories to be replaced.\nGroup: Truck service screen.\nAllows to repair damaged components of the truck."
 	},
-	"truck_service_truck_t": {
-		"message": "차량 대미지 리포트",
-		"description": "Id: truck_service_truck_t\nHeader of section displaying status of individual components of the truck. Please keep in upper case where possible.\nGroup: Truck service screen.\nAllows to repair damaged components of the truck."
-	},
 	"steam_sctrl_action_simple_ry": {
 		"message": "오른쪽 스틱 Y",
 		"description": "Id: sctrl_action_simple_ry\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	},
+	"truck_service_truck_t": {
+		"message": "차량 대미지 리포트",
+		"description": "Id: truck_service_truck_t\nHeader of section displaying status of individual components of the truck. Please keep in upper case where possible.\nGroup: Truck service screen.\nAllows to repair damaged components of the truck."
 	},
 	"truck_service_trailer_t": {
 		"message": "트레일러 대미지 리포트",
@@ -663,13 +663,13 @@
 		"message": "확인",
 		"description": "Id: repair\nButton which confirms selected actions.\nGroup: Truck service screen.\nAllows to repair damaged components of the truck."
 	},
-	"truck_damage": {
-		"message": "차량 대미지",
-		"description": "Id: truck_damage\nPrice for the truck damage\nGroup: Truck service screen.\nAllows to repair damaged components of the truck."
-	},
 	"steam_sctrl_action_simple_v1y": {
 		"message": "축 1 Y",
 		"description": "Id: sctrl_action_simple_v1y\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	},
+	"truck_damage": {
+		"message": "차량 대미지",
+		"description": "Id: truck_damage\nPrice for the truck damage\nGroup: Truck service screen.\nAllows to repair damaged components of the truck."
 	},
 	"truck_config_t": {
 		"message": "차량 구성",
@@ -687,21 +687,21 @@
 		"message": "차량 구성",
 		"description": "Id: truck_config\nIcon allowing player to upgrade the truck.\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
-	"steam_sctrl_action_simple_v2y": {
-		"message": "축 2 Y",
-		"description": "Id: sctrl_action_simple_v2y\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
-	},
 	"truck_config_about": {
 		"message": "아시다시피, 당신은 차량을 튜닝 및 페인트를 칠하여 좀 더 만족할 수 있을겁니다.",
 		"description": "Id: truck_config_about\nHelp message associated with upgrade icon.\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
-	"steam_sctrl_action_simple_v2": {
-		"message": "축 2",
-		"description": "Id: sctrl_action_simple_v2\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	"steam_sctrl_action_simple_v2y": {
+		"message": "축 2 Y",
+		"description": "Id: sctrl_action_simple_v2y\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"price": {
 		"message": "가격",
 		"description": "Id: price\nLabel of line with combined price of all new parts in basket.\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
+	},
+	"steam_sctrl_action_simple_v2": {
+		"message": "축 2",
+		"description": "Id: sctrl_action_simple_v2\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"refund": {
 		"message": "환불",
@@ -735,13 +735,13 @@
 		"message": "축 4 X",
 		"description": "Id: sctrl_action_simple_v4x\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"steam_sctrl_action_simple_v4y": {
-		"message": "축 4 Y",
-		"description": "Id: sctrl_action_simple_v4y\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
-	},
 	"tc_extra_price": {
 		"message": "추가 가격:",
 		"description": "Id: tc_extra_price\nFollowed by difference between the new price with all the modifications and the price of the original configuration.\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
+	},
+	"steam_sctrl_action_simple_v4y": {
+		"message": "축 4 Y",
+		"description": "Id: sctrl_action_simple_v4y\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"steam_sctrl_action_simple_v4": {
 		"message": "축 4",
@@ -759,21 +759,21 @@
 		"message": "왼쪽 트리거",
 		"description": "Id: sctrl_action_simple_lt\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"steam_sctrl_action_simple_rt": {
-		"message": "오른쪽 트리거",
-		"description": "Id: sctrl_action_simple_rt\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
-	},
 	"refund_t": {
 		"message": "환불",
 		"description": "Id: refund_t\nTitle of dialog box with missing parts refundation\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
-	"steam_sctrl_action_simple_a1": {
-		"message": "트리거 1",
-		"description": "Id: sctrl_action_simple_a1\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	"steam_sctrl_action_simple_rt": {
+		"message": "오른쪽 트리거",
+		"description": "Id: sctrl_action_simple_rt\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"refund_spare_parts_msg": {
 		"message": "누락된 MOD가 감지되었습니다. 영향을 받는 차량 부품을 환불받을 수 있습니다.<br offset=35>'주문 확인'을 클릭하면 환불받을 수 있습니다.<br><color value=@@clr_sel@@>또는<color value=@@clr_txt@@><br>누락된 MOD를 나중에 다시 설치하려면 변경하지 말고 종료하십시오.",
 		"description": "Id: refund_spare_parts_msg\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
+	},
+	"steam_sctrl_action_simple_a1": {
+		"message": "트리거 1",
+		"description": "Id: sctrl_action_simple_a1\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"steam_sctrl_action_simple_a2": {
 		"message": "트리거 2",
@@ -783,29 +783,29 @@
 		"message": "애프터마켓 부품",
 		"description": "Id: part_type_aftermarket\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
-	"steam_sctrl_action_simple_a3": {
-		"message": "트리거 3",
-		"description": "Id: sctrl_action_simple_a3\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
-	},
 	"part_type_factory": {
 		"message": "공장 부품",
 		"description": "Id: part_type_factory\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
-	"part_type_licensed": {
-		"message": "라이센스 부품",
-		"description": "Id: part_type_licensed\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
+	"steam_sctrl_action_simple_a3": {
+		"message": "트리거 3",
+		"description": "Id: sctrl_action_simple_a3\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"steam_sctrl_action_simple_a4": {
 		"message": "트리거 4",
 		"description": "Id: sctrl_action_simple_a4\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"steam_sctrl_action_simple_b1": {
-		"message": "버튼 1",
-		"description": "Id: sctrl_action_simple_b1\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	"part_type_licensed": {
+		"message": "라이센스 부품",
+		"description": "Id: part_type_licensed\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
 	"overlay_reset_cam": {
 		"message": "카메라 재설정",
 		"description": "Id: overlay_reset_cam\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
+	},
+	"steam_sctrl_action_simple_b1": {
+		"message": "버튼 1",
+		"description": "Id: sctrl_action_simple_b1\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"steam_sctrl_action_simple_b2": {
 		"message": "버튼 2",
@@ -831,53 +831,53 @@
 		"message": "전체화면 종료",
 		"description": "Id: overlay_fullscreen_deactivate\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
-	"steam_sctrl_action_simple_b5": {
-		"message": "버튼 5",
-		"description": "Id: sctrl_action_simple_b5\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
-	},
 	"overlay_screenshot": {
 		"message": "스크린샷",
 		"description": "Id: overlay_screenshot\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
-	"overlay_att_truck": {
-		"message": "트럭 연결",
-		"description": "Id: overlay_att_truck\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
+	"steam_sctrl_action_simple_b5": {
+		"message": "버튼 5",
+		"description": "Id: sctrl_action_simple_b5\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"steam_sctrl_action_simple_b6": {
 		"message": "버튼 6",
 		"description": "Id: sctrl_action_simple_b6\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"overlay_det_truck": {
-		"message": "트럭 분리",
-		"description": "Id: overlay_det_truck\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
+	"overlay_att_truck": {
+		"message": "트럭 연결",
+		"description": "Id: overlay_att_truck\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
 	"steam_sctrl_action_simple_b7": {
 		"message": "버튼 7",
 		"description": "Id: sctrl_action_simple_b7\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"overlay_att_trailer": {
-		"message": "트레일러 연결",
-		"description": "Id: overlay_att_trailer\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
+	"overlay_det_truck": {
+		"message": "트럭 분리",
+		"description": "Id: overlay_det_truck\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
 	"steam_sctrl_action_simple_b8": {
 		"message": "버튼 8",
 		"description": "Id: sctrl_action_simple_b8\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"overlay_det_trailer": {
-		"message": "트레일러 분리",
-		"description": "Id: overlay_det_trailer\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
+	"overlay_att_trailer": {
+		"message": "트레일러 연결",
+		"description": "Id: overlay_att_trailer\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
 	"steam_decide_steam_input_mode_t": {
 		"message": "스팀 입력 매핑 모드 선택",
 		"description": "Id: decide_steam_input_mode_t\nTitle of the message box.\nGroup: Steam Input mapping mode introduction message box."
 	},
-	"steam_decide_steam_input_mode": {
-		"message": "새로운 <color value=@@clr_sel@@>게임 내 매핑 모드<color value=@@clr_txt@@>를 소개합니다, 이 모드는 전체 게임 내 키 바인딩 구성과 더 나은 버튼 힌트를 지원합니다. 이것은 권장되는 모드입니다.<br><br>스팀 클라이언트를 통해 게임패드 레이아웃을 사용자 지정한 경우 <color value=@@clr_sel@@>스팀 클라이언트 매핑 모드<color value=@@clr_txt@@>를 유지하십시오.<br><br>입력 마법사를 사용하여 옵션에서 언제든지 모드를 변경할 수 있습니다.",
-		"description": "Id: decide_steam_input_mode\nText shown in a message box.\nGroup: Steam Input mapping mode introduction message box."
+	"overlay_det_trailer": {
+		"message": "트레일러 분리",
+		"description": "Id: overlay_det_trailer\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
 	"overlay_scroll": {
 		"message": "Scroll",
 		"description": "Id: overlay_scroll\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
+	},
+	"steam_decide_steam_input_mode": {
+		"message": "새로운 <color value=@@clr_sel@@>게임 내 매핑 모드<color value=@@clr_txt@@>를 소개합니다, 이 모드는 전체 게임 내 키 바인딩 구성과 더 나은 버튼 힌트를 지원합니다. 이것은 권장되는 모드입니다.<br><br>스팀 클라이언트를 통해 게임패드 레이아웃을 사용자 지정한 경우 <color value=@@clr_sel@@>스팀 클라이언트 매핑 모드<color value=@@clr_txt@@>를 유지하십시오.<br><br>입력 마법사를 사용하여 옵션에서 언제든지 모드를 변경할 수 있습니다.",
+		"description": "Id: decide_steam_input_mode\nText shown in a message box.\nGroup: Steam Input mapping mode introduction message box."
 	},
 	"overlay_pick_color_slot": {
 		"message": "색상 전환",
@@ -895,13 +895,13 @@
 		"message": "입력 마법사 열기",
 		"description": "Id: decide_steam_input_mode_setup_simple\nButton opening Input Wizard.\nGroup: Steam Input mapping mode introduction message box."
 	},
-	"tooltip_apply_color_to_compatible": {
-		"message": "호환되는 모든 항목에 적용",
-		"description": "Id: tooltip_apply_color_to_compatible\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
-	},
 	"steam_input_mode": {
 		"message": "스팀 입력 매핑 모드",
 		"description": "Id: steam_input_mode\nLabel of the line.\nGroup: Selection of the Steam Input Mapping Mode\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
+	},
+	"tooltip_apply_color_to_compatible": {
+		"message": "호환되는 모든 항목에 적용",
+		"description": "Id: tooltip_apply_color_to_compatible\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
 	"tc_confirm_order": {
 		"message": "현재 설정을 그대로 진행하시겠습니까?<br>총 가격은 <color value=@@clr_sel@@>$CART_PRICE$<color value=@@clr_txt@@>입니다.",
@@ -911,21 +911,21 @@
 		"message": "게임 내 매핑",
 		"description": "Id: steam_input_mode_simple\nDefault simple in-game layout.\nGroup: Selection of the Steam Input Mapping Mode\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
-	"steam_input_mode_advanced": {
-		"message": "스팀 클라이언트 매핑",
-		"description": "Id: steam_input_mode_advanced\nAdvanced external layout configured in Steam Client.\nGroup: Selection of the Steam Input Mapping Mode\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
-	},
 	"td_confirm": {
 		"message": "현재 설정을 그대로 진행하시겠습니까?",
 		"description": "Id: td_confirm\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
-	"truck_diag_t": {
-		"message": "차량 진단",
-		"description": "Id: truck_diag_t\nTitle of the screen. Please keep in upper case where possible.\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
+	"steam_input_mode_advanced": {
+		"message": "스팀 클라이언트 매핑",
+		"description": "Id: steam_input_mode_advanced\nAdvanced external layout configured in Steam Client.\nGroup: Selection of the Steam Input Mapping Mode\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
 	"steam_input_mode_op_tooltip": {
 		"message": "@@controller_ps5@@, @@controller_xbox_one@@ 또는 @@controller_steam_deck@@와(과) 같은 게임패드에 대한 모드를 선택하여 스팀 입력 인터페이스를 선택합니다:<br>- \"스팀 클라이언트 매핑\" - 스팀 클라이언트를 통해 구성된 독립형 레이아웃을 사용합니다. 게임 내 버튼 힌트에 대한 지원이 제한적이며 게임 내 바인딩 구성이 없습니다.<br>_ \"게임 내 매핑\" - 범용 단순 레이아웃을 사용합니다. 전체 게임 내 키 바인딩 구성과 더 나은 버튼 힌트를 지원합니다. 이 모드로 전환할 때 입력 마법사를 실행하는 것이 좋습니다. 이것이 권장되는 모드입니다.",
 		"description": "Id: steam_input_mode_op_tooltip\nGroup: Tooltips.\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
+	},
+	"truck_diag_t": {
+		"message": "차량 진단",
+		"description": "Id: truck_diag_t\nTitle of the screen. Please keep in upper case where possible.\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
 	},
 	"steam_controller_steam": {
 		"message": "스팀 컨트롤러",
@@ -935,21 +935,21 @@
 		"message": "차량 진단",
 		"description": "Id: truck_diag\nIcon allowing player to show damage on the truck.\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
 	},
-	"truck_diag_about": {
-		"message": "차량 및 현재 상태에 대한 정보를 볼 수 있습니다.",
-		"description": "Id: truck_diag_about\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
-	},
 	"steam_controller_steam_deck": {
 		"message": "스팀덱",
 		"description": "Id: controller_steam_deck\nGroup: Supported controller names."
 	},
-	"steam_controller_steam_fusion": {
-		"message": "스팀 입력 컨트롤러",
-		"description": "Id: controller_steam_fusion\nGroup: Supported controller names."
+	"truck_diag_about": {
+		"message": "차량 및 현재 상태에 대한 정보를 볼 수 있습니다.",
+		"description": "Id: truck_diag_about\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
 	},
 	"truck_diag_warning": {
 		"message": "차량 상태가 좋지 않습니다. 가능한 빨리 서비스를 받으십시오.",
 		"description": "Id: truck_diag_warning\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
+	},
+	"steam_controller_steam_fusion": {
+		"message": "스팀 입력 컨트롤러",
+		"description": "Id: controller_steam_fusion\nGroup: Supported controller names."
 	},
 	"truck_diag_warning_minor_dmg": {
 		"message": "가까운 서비스 센터에서 차량을 수리할 수 있습니다.",
@@ -959,13 +959,13 @@
 		"message": "스팀 클라우드 동기화:",
 		"description": "Id: steam_cloud_synchronization\nWhether is steam cloud synchronization active.\nGroup: Profile selection."
 	},
-	"truck_diag_tooltip_integrity_wear": {
-		"message": "유지 보수:",
-		"description": "Id: truck_diag_tooltip_integrity_wear\nLabel of integrity wear in tooltip.\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
-	},
 	"steam_new_version_available_steam": {
 		"message": "이전 버전의 게임을 사용하고 있습니다.<br>자동 업데이트를 끄지 않으셨다면 스팀이 자동으로 게임을 업데이트합니다.",
 		"description": "Id: new_version_available_steam\nGroup: News."
+	},
+	"truck_diag_tooltip_integrity_wear": {
+		"message": "유지 보수:",
+		"description": "Id: truck_diag_tooltip_integrity_wear\nLabel of integrity wear in tooltip.\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
 	},
 	"steam_demo": {
 		"message": "American Truck Simulator 무료 평가판이 마음에 드셨다면 <LINK URL=@@steam_buy_url@@ COLOR=@@clr_link@@>스팀</LINK>에서 정식 버전을 구입해 주시기 바랍니다!",
@@ -975,13 +975,13 @@
 		"message": "차량 전체에 걸친 체계적 노화와 지속적인 마모 증가를 나타냅니다. 전체 복구로 수정되었습니다.",
 		"description": "Id: truck_diag_tooltip_integrity_wear_note\nExplanation of integrity wear in tooltip.\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
 	},
-	"steam_sys_no_steam": {
-		"message": "American Truck Simulator 가 스팀에 연결할 수 없습니다. 다음과 같이 시도해 보십시오:\n\n1. 스팀이 실행되고 있는지 확인합니다.\n2. 스팀 버전을 업데이트 했는지 확인합니다.\n3. 자동 업데이트가 활성화되어 있는지 게임이 최신 버전으로 업데이트되어 있는지 확인합니다.",
-		"description": "Id: sys_no_steam\nError message shown when the game version distributed over Steam can not communicate with the Steam client.\nGroup: Networking errors"
-	},
 	"truck_diag_tooltip_wear_unfixable": {
 		"message": "평균 마모:",
 		"description": "Id: truck_diag_tooltip_wear_unfixable\nLabel of unfixable wear in tooltip.\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
+	},
+	"steam_sys_no_steam": {
+		"message": "American Truck Simulator 가 스팀에 연결할 수 없습니다. 다음과 같이 시도해 보십시오:\n\n1. 스팀이 실행되고 있는지 확인합니다.\n2. 스팀 버전을 업데이트 했는지 확인합니다.\n3. 자동 업데이트가 활성화되어 있는지 게임이 최신 버전으로 업데이트되어 있는지 확인합니다.",
+		"description": "Id: sys_no_steam\nError message shown when the game version distributed over Steam can not communicate with the Steam client.\nGroup: Networking errors"
 	},
 	"steam_incompatible_dlc_steam": {
 		"message": "현재 설치된 DLC (다운로드 가능한 콘텐츠) 중 일부는 현재 게임 버전과 호환되지 않으므로 사용할 수 없습니다. 스팀 게임 캐시의 무결성을 확인하십시오.<br><br>호환되지 않는 콘텐츠는 다음과 같습니다:",
@@ -991,21 +991,21 @@
 		"message": "부품 교체를 통해 수리.",
 		"description": "Id: truck_diag_tooltip_wear_unfixable_note\nExplanation of unfixable wear in tooltip.\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
 	},
-	"steam_profile_already_exists": {
-		"message": "동일한 이름의 스팀 프로필이 이미 있으므로 스팀 프로필을 만들 수 없습니다.",
-		"description": "Id: steam_profile_already_exists\nCreate profile screen, cannot create steam profile because of name conflict.\nGroup: Steam cloud."
-	},
 	"truck_diag_tooltip_wear": {
 		"message": "평균 대미지:",
 		"description": "Id: truck_diag_tooltip_wear\nLabel of damage in tooltip.\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
 	},
-	"truck_diag_tooltip_wear_note": {
-		"message": "수리 또는 부품 교체를 통해 수리.",
-		"description": "Id: truck_diag_tooltip_wear_note\nExplanation of damage in tooltip.\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
+	"steam_profile_already_exists": {
+		"message": "동일한 이름의 스팀 프로필이 이미 있으므로 스팀 프로필을 만들 수 없습니다.",
+		"description": "Id: steam_profile_already_exists\nCreate profile screen, cannot create steam profile because of name conflict.\nGroup: Steam cloud."
 	},
 	"steam_migration_target_profile_already_exists": {
 		"message": "프로필을 이전할 수 없습니다. 이미 다른 프로필에 동일한 이름이 존재합니다.",
 		"description": "Id: migration_target_profile_already_exists\nEdit screen, cannot migrate profile from/to steam because of name conflict.\nGroup: Steam cloud."
+	},
+	"truck_diag_tooltip_wear_note": {
+		"message": "수리 또는 부품 교체를 통해 수리.",
+		"description": "Id: truck_diag_tooltip_wear_note\nExplanation of damage in tooltip.\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
 	},
 	"steam_profile_migration_error": {
 		"message": "프로필 이전에 실패하였습니다",
@@ -1039,29 +1039,29 @@
 		"message": "대미지",
 		"description": "Id: wear\nAccesory damage column table header.\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
 	},
-	"truck_diag_action": {
-		"message": "행동",
-		"description": "Id: truck_diag_action\nAccesory action column table header.\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
-	},
 	"steam_load_msg_out_of_steam_to_free_bytes": {
 		"message": "공간 초과: <color value=@@clr_red@@>$BYTES$ MB<color value=@@clr_txt@@>",
 		"description": "Id: load_msg_out_of_steam_to_free_bytes\nNumber of Megabytes player has to remove.\nGroup: Steam cloud."
 	},
-	"truck_diag_cost": {
-		"message": "비용",
-		"description": "Id: truck_diag_cost\nAccesory action cost column table header.\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
+	"truck_diag_action": {
+		"message": "행동",
+		"description": "Id: truck_diag_action\nAccesory action column table header.\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
 	},
 	"steam_load_msg_out_of_steam_to_free_files": {
 		"message": "초과된 파일: <color value=@@clr_red@@>$FILES$<color value=@@clr_txt@@>",
 		"description": "Id: load_msg_out_of_steam_to_free_files\nNumber of files player has to remove.\nGroup: Steam cloud."
 	},
-	"truck_repair_quick": {
-		"message": "수리 비용은 당신의 고용주가 부담할 것입니다.",
-		"description": "Id: truck_repair_quick\nShown in repair screens when the player is driving a quick job truck."
+	"truck_diag_cost": {
+		"message": "비용",
+		"description": "Id: truck_diag_cost\nAccesory action cost column table header.\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
 	},
 	"steam_load_msg_out_of_steam_used_bytes": {
 		"message": "스팀 클라우드 공간 사용: <color value=@@clr_sel@@>$BYTES$ MB<color value=@@clr_txt@@>",
 		"description": "Id: load_msg_out_of_steam_used_bytes\nNumber of Megabytes player has in the cloud.\nGroup: Steam cloud."
+	},
+	"truck_repair_quick": {
+		"message": "수리 비용은 당신의 고용주가 부담할 것입니다.",
+		"description": "Id: truck_repair_quick\nShown in repair screens when the player is driving a quick job truck."
 	},
 	"steam_load_msg_out_of_steam_used_files": {
 		"message": "스팀 클라우드의 파일: <color value=@@clr_sel@@>$FILES$<color value=@@clr_txt@@>",
@@ -1079,21 +1079,21 @@
 		"message": "선택된 저장 <color value=@@clr_sel@@>$SAVE$<color value=@@clr_txt@@> has <color value=@@clr_sel@@>$BYTES$ MB<color value=@@clr_txt@@> <color value=@@clr_sel@@>$FILES$<color value=@@clr_txt@@> 의 파일이 있습니다.",
 		"description": "Id: load_msg_out_of_steam_selected_save\nSelected save info.\nGroup: Steam cloud."
 	},
-	"steam_load_msg_out_of_steam_box": {
-		"message": "스팀 클라우드의 용량이 부족합니다. 계속하려면 일부 세이브 파일을 삭제하십시오.<br><br>오른쪽 패널에서 자세한 정보를 읽으십시오.",
-		"description": "Id: load_msg_out_of_steam_box\nPopup when trying load game ignoring warning about steam cloud running out of space.\nGroup: Steam cloud."
-	},
 	"total": {
 		"message": "총 결제 금액:",
 		"description": "Id: total\nFollowed by to total price for the currently selected upgrades or repairs."
 	},
-	"basket": {
-		"message": "주문 보기",
-		"description": "Id: basket\nButton showing content of basket."
+	"steam_load_msg_out_of_steam_box": {
+		"message": "스팀 클라우드의 용량이 부족합니다. 계속하려면 일부 세이브 파일을 삭제하십시오.<br><br>오른쪽 패널에서 자세한 정보를 읽으십시오.",
+		"description": "Id: load_msg_out_of_steam_box\nPopup when trying load game ignoring warning about steam cloud running out of space.\nGroup: Steam cloud."
 	},
 	"steam_profile_migration_to_local_warning": {
 		"message": "프로필을 로컬 프로필 형태로 전환하면 해당 프로필은 접속한 스팀 계정과 관계없이 이 컴퓨터에서만 사용할 수 있습니다.",
 		"description": "Id: steam_profile_migration_to_local_warning\nPopup warning when player unchecks the steam cloud checkbox in the profile edit screen.\nGroup: Steam cloud."
+	},
+	"basket": {
+		"message": "주문 보기",
+		"description": "Id: basket\nButton showing content of basket."
 	},
 	"checkout": {
 		"message": "주문 확인",
@@ -7484,7 +7484,7 @@
 		"description": "Id: i_ralt\nGroup: Name of various important keyboard and mouse buttons."
 	},
 	"i_numlck": {
-		"message": "NumLock",
+		"message": "Num Lock",
 		"description": "Id: i_numlck\nGroup: Name of various important keyboard and mouse buttons."
 	},
 	"i_home": {
@@ -15604,7 +15604,7 @@
 		"description": "Id: open_workshop_page\nButton text. Open Steam Workshop page of the missing Workshop mod.\nGroup: Dependency missing dialog related texts."
 	},
 	"missing_dependencies_info": {
-		"message": "이 세이브는 현재 누락된 DLC나 MOD에 종속되어 있으며 누락된 목록은 다음과 같습니다. 목록에서 항목을 선택하면 선택한 항목에 대한 추가 정보를 얻을 수 있습니다.",
+		"message": "이 저장파일은 현재 찾지 못하는 DLC 혹은 모드에 의존하고 있습니다. 그것들을 아래에 제시했습니다. 목록의 엔트리를 선택하면, 각각 특정 파일에 대한 정보를 얻을 수 있습니다.",
 		"description": "Id: missing_dependencies_info\nThe info about the missing dependencies dialog.\nGroup: Dependency missing dialog related texts."
 	},
 	"missing_dependencies_fatal_error": {
@@ -16112,7 +16112,7 @@
 		"description": "Id: special_job_sleep\nAdviser message for mandatory stop activation\nGroup: Strings related to special missions and the whole project of ovs."
 	},
 	"inventory_loading_failed_content": {
-		"message": "스팀 보관함 콘텐츠를 불러오는 도중 오류가 발생했습니다.<br><br>$ERROR$<br><br>콘텐츠를 활성화된 상태로 유지하려면 '계속'을 선택하십시오. 게임이 주기적으로 검색할 것입니다.<br><br>일시적으로 콘텐츠 사용을 중지하여 오류 메시지가 다시 표시되지 않게 할 수도 있습니다. 게임을 다시 실행하면 해당 콘텐츠가 자동으로 다시 활성화됩니다.",
+		"message": "Steam Inventory 콘텐츠를로드하는 중 오류가 발생했습니다.<br><br>$ERROR$<br><br>Select 계속 콘텐츠를 사용하도록 설정합니다. 게임은 주기적으로 게임을 검색합니다.<br><br>오류 메시지가 다시 나타나지 않도록 콘텐츠를 일시적으로 사용 중지 할 수 있습니다. 게임을 실행하면 다음에 자동으로 콘텐츠가 다시 활성화됩니다.",
 		"description": "Id: inventory_loading_failed_content\nThe error message showed in truck configurator screen when Steam inventory content is not present due to loading error. The $ERROR$ must be keeped untranslated.\nGroup: Strings related to Steam inventory feature."
 	},
 	"inventory_loading_request_failed_content": {
@@ -23144,7 +23144,7 @@
 		"description": "Id: aca_msg_book1_intro_cutscene04\nGroup: Book 1 intro"
 	},
 	"aca_msg_book1_intro_cutscene05": {
-		"message": "다양한 상황을 안전하게 탐색하는 데 도움이 되는 습관을 심어줄 수 있도록 도와드리겠습니다.",
+		"message": "다양한 상황을 안전하게 탐색하는 데 도움이 되는 습관을 심어줄 수 있도록 도와드리겠습니다",
 		"description": "Id: aca_msg_book1_intro_cutscene05\nGroup: Book 1 intro"
 	},
 	"aca_msg_book1_intro_cutscene06": {
@@ -40710,5 +40710,1013 @@
 	"ls_wyoming_highway_110_black_hills": {
 		"message": "와이오밍 고속도로 110 (블랙 힐스)",
 		"description": "Id: ls_wyoming_highway_110_black_hills"
+	},
+	"tb_wa1": {
+		"message": "The Olympic Peninsula",
+		"description": "Id: tb_wa1\nGroup: Washington TBs and POIs localization."
+	},
+	"tb_wa1_desc": {
+		"message": "The Olympic Peninsula reveals a place where ocean, forest, and mountains coexist in ever-changing beauty. Mist drifts over rocky shores, while waterfalls tumble from the highlands, where hidden valleys shelter small historic towns.",
+		"description": "Id: tb_wa1_desc\nGroup: Washington TBs and POIs localization."
+	},
+	"poi_wa1_01": {
+		"message": "Historic United States Post Office",
+		"description": "Id: poi_wa1_01\nGroup: Washington TBs and POIs localization."
+	},
+	"poi_wa1_01_desc": {
+		"message": "Completed in 1893 on a bluff above Port Townsend’s waterfront, the building was designed as a federal facility with a customhouse, reflecting the city’s early ambitions as an emerging hub of international trade.",
+		"description": "Id: poi_wa1_01_desc\nGroup: Washington TBs and POIs localization."
+	},
+	"poi_wa1_02": {
+		"message": "Port Angeles",
+		"description": "Id: poi_wa1_02\nGroup: Washington TBs and POIs localization."
+	},
+	"poi_wa1_02_desc": {
+		"message": "Port Angeles is a coastal city founded in the 19th century as a harbour and supply point. Today, it serves as a key gateway to Olympic National Park and a ferry port linking the United States and Canada.",
+		"description": "Id: poi_wa1_02_desc\nGroup: Washington TBs and POIs localization."
+	},
+	"poi_wa1_03": {
+		"message": "Lake Crescent",
+		"description": "Id: poi_wa1_03\nGroup: Washington TBs and POIs localization."
+	},
+	"poi_wa1_03_desc": {
+		"message": "Lake Crescent, Washington’s second-deepest lake, is known for its vivid blue, crystal-clear waters, a result of low nitrogen levels. Set within a popular recreational area, it is surrounded by trails and old-growth forest.",
+		"description": "Id: poi_wa1_03_desc\nGroup: Washington TBs and POIs localization."
+	},
+	"poi_wa1_04": {
+		"message": "Kalaloch Beach",
+		"description": "Id: poi_wa1_04\nGroup: Washington TBs and POIs localization."
+	},
+	"poi_wa1_04_desc": {
+		"message": "Kalaloch Beach is known for the “Tree of Life,” a Sitka spruce with exposed roots spanning a small creek to the shore. Unlike typical tall spruces, it is shorter, thicker, and windswept, making it a unique and popular local landmark.",
+		"description": "Id: poi_wa1_04_desc\nGroup: Washington TBs and POIs localization."
+	},
+	"poi_wa1_05": {
+		"message": "Olympic National Park",
+		"description": "Id: poi_wa1_05\nGroup: Washington TBs and POIs localization."
+	},
+	"poi_wa1_05_desc": {
+		"message": "Olympic National Park protects diverse ecosystems, from a rugged Pacific coastline and temperate rainforests to alpine peaks. First classified as a National Monument in 1909, it was renamed a National Park by the federal government in 1938.",
+		"description": "Id: poi_wa1_05_desc\nGroup: Washington TBs and POIs localization."
+	},
+	"poi_wa1_06": {
+		"message": "Greenhead Slough",
+		"description": "Id: poi_wa1_06\nGroup: Washington TBs and POIs localization."
+	},
+	"poi_wa1_06_desc": {
+		"message": "Greenhead Slough is a small inlet and wetland channel along Highway 101 near Willapa Bay. It lies within a coastal estuary habitat that has been restored to support salmon spawning and abundant waterfowl viewing.",
+		"description": "Id: poi_wa1_06_desc\nGroup: Washington TBs and POIs localization."
+	},
+	"poi_wa1_07": {
+		"message": "Dabob Bay",
+		"description": "Id: poi_wa1_07\nGroup: Washington TBs and POIs localization."
+	},
+	"poi_wa1_07_desc": {
+		"message": "Dabob Bay is a deep fjord that supports salmon, shellfish and wildlife. The Dabob Bay Natural Area, established in 1984, protects rare salt marsh and sand-spit plant communities within a highly functional tidal wetland system.",
+		"description": "Id: poi_wa1_07_desc\nGroup: Washington TBs and POIs localization."
+	},
+	"tb_wa2": {
+		"message": "The Heartland",
+		"description": "Id: tb_wa2\nGroup: Washington TBs and POIs localization."
+	},
+	"tb_wa2_desc": {
+		"message": "Washington’s heartland invites travellers along picturesque roads through evergreen forests and calm alpine lakes. Mount Rainier dominates the horizon, offering iconic views and a peaceful journey into the natural landscapes of the Pacific Northwest.",
+		"description": "Id: tb_wa2_desc\nGroup: Washington TBs and POIs localization."
+	},
+	"poi_wa2_01": {
+		"message": "Mount Rainer",
+		"description": "Id: poi_wa2_01\nGroup: Washington TBs and POIs localization."
+	},
+	"poi_wa2_01_desc": {
+		"message": "Mount Rainier, Washington’s tallest peak at 14,411 feet, is an active stratovolcano. Its glaciers feed rivers, shape valleys, and sustain rich forests and wildlife, making it a vital natural landmark.",
+		"description": "Id: poi_wa2_01_desc\nGroup: Washington TBs and POIs localization."
+	},
+	"poi_wa2_02": {
+		"message": "Wanatchee National Forest",
+		"description": "Id: poi_wa2_02\nGroup: Washington TBs and POIs localization."
+	},
+	"poi_wa2_02_desc": {
+		"message": "Wenatchee National Forest spans mountains, rivers, and alpine valleys. In 1933, the Civilian Conservation Corps built trails and fire lookouts here, leaving a lasting mark on the forest’s recreational and conservation history.",
+		"description": "Id: poi_wa2_02_desc\nGroup: Washington TBs and POIs localization."
+	},
+	"poi_wa2_03": {
+		"message": "Mt. Baker SNOQMALMIE National Forest",
+		"description": "Id: poi_wa2_03\nGroup: Washington TBs and POIs localization."
+	},
+	"poi_wa2_03_desc": {
+		"message": "Mount Baker–Snoqualmie National Forest hosts some of the oldest glacier-monitoring sites in America, tracking volcanic ice flows and climate changes across the Cascades since the early 1900s.",
+		"description": "Id: poi_wa2_03_desc\nGroup: Washington TBs and POIs localization."
+	},
+	"poi_wa2_04": {
+		"message": "Wanatchee River",
+		"description": "Id: poi_wa2_04\nGroup: Washington TBs and POIs localization."
+	},
+	"poi_wa2_04_desc": {
+		"message": "Along the Wenatchee River, remnants of early 19th-century irrigation canals and mills show how settlers harnessed its waters. Native tribes also relied on its salmon-rich waters for food and trade long before European settlement.",
+		"description": "Id: poi_wa2_04_desc\nGroup: Washington TBs and POIs localization."
+	},
+	"poi_wa2_05": {
+		"message": "Klawatti Peak",
+		"description": "Id: poi_wa2_05\nGroup: Washington TBs and POIs localization."
+	},
+	"poi_wa2_05_desc": {
+		"message": "First ascended in the mid-20th century, Klawatti Peak remains rarely climbed due to its steep, glacier-covered slopes, making it a coveted challenge for mountaineers seeking isolation in the North Cascades.",
+		"description": "Id: poi_wa2_05_desc\nGroup: Washington TBs and POIs localization."
+	},
+	"poi_wa2_06": {
+		"message": "Dry Falls Damn",
+		"description": "Id: poi_wa2_06\nGroup: Washington TBs and POIs localization."
+	},
+	"poi_wa2_06_desc": {
+		"message": "Constructed to manage local waterways, Dry Falls Dam sits atop prehistoric basalt cliffs, controlling seasonal flows while revealing terraces and plunge pools carved by Ice Age floods.",
+		"description": "Id: poi_wa2_06_desc\nGroup: Washington TBs and POIs localization."
+	},
+	"poi_wa2_07": {
+		"message": "White Fire Mountain Overlook",
+		"description": "Id: poi_wa2_07\nGroup: Washington TBs and POIs localization."
+	},
+	"poi_wa2_07_desc": {
+		"message": "The overlook features interpretive signs about the 1988 White Mountain Fire, one of Washington’s largest wildfires in recent history, revealing scars and regrowth patterns in the forest.",
+		"description": "Id: poi_wa2_07_desc\nGroup: Washington TBs and POIs localization."
+	},
+	"wa_cut_helen_desc": {
+		"message": "Before 1980, Mount St. Helens had a conical shape and was referred to as the Mount Fuji of America. The 1980 eruption removed 1,300 ft of its summit, forming a horseshoe crater now partly filled by a lava dome and glacier.",
+		"description": "Id: wa_cut_helen_desc\nGroup: Washington TBs and POIs localization."
+	},
+	"tb_wa3": {
+		"message": "Wine Country",
+		"description": "Id: tb_wa3\nGroup: Washington TBs and POIs localization."
+	},
+	"tb_wa3_desc": {
+		"message": "East of the Cascades, Washington’s Wine Country spans the Columbia Valley AVA. The region includes Selah Creek, Lewis and Clark State Park, and lands historically inhabited by Indigenous peoples, featuring dry, sunny landscapes with rolling hills and river valleys.",
+		"description": "Id: tb_wa3_desc\nGroup: Washington TBs and POIs localization."
+	},
+	"poi_wa3_01": {
+		"message": "Clear Creek Falls",
+		"description": "Id: poi_wa3_01\nGroup: Washington TBs and POIs localization."
+	},
+	"poi_wa3_01_desc": {
+		"message": "Clear Creek Falls Overlook is a popular stop just east of White Pass Summit. About a mile further east, the turn-off leads to Clear Lake Recreation Area, known for fishing and excellent opportunities to observe local wildlife.",
+		"description": "Id: poi_wa3_01_desc\nGroup: Washington TBs and POIs localization."
+	},
+	"poi_wa3_02": {
+		"message": "Selah Creek Bridge",
+		"description": "Id: poi_wa3_02\nGroup: Washington TBs and POIs localization."
+	},
+	"poi_wa3_02_desc": {
+		"message": "The Fred G. Redmon Bridge, or Selah Creek Bridge, is a twin-arch structure in Yakima County. When completed, it was the longest concrete-arch bridge in America and the highest automobile bridge in the state.",
+		"description": "Id: poi_wa3_02_desc\nGroup: Washington TBs and POIs localization."
+	},
+	"poi_wa3_03": {
+		"message": "Grape Fields",
+		"description": "Id: poi_wa3_03\nGroup: Washington TBs and POIs localization."
+	},
+	"poi_wa3_03_desc": {
+		"message": "Washington’s valleys and fertile soil support many grapevines, including Riesling, Cabernet and Merlot. The vineyards are an important part of the state’s agriculture and local landscapes.",
+		"description": "Id: poi_wa3_03_desc\nGroup: Washington TBs and POIs localization."
+	},
+	"poi_wa3_04": {
+		"message": "Ed Hendler Bridge",
+		"description": "Id: poi_wa3_04\nGroup: Washington TBs and POIs localization."
+	},
+	"poi_wa3_04_desc": {
+		"message": "Built in 1978, the bridge, sometimes called the Intercity Bridge, crosses the Columbia River between Pasco and Kennewick in southeastern Washington. Since its opening, it has been regarded as a landmark and symbol of the Tri-Cities.",
+		"description": "Id: poi_wa3_04_desc\nGroup: Washington TBs and POIs localization."
+	},
+	"poi_wa3_05": {
+		"message": "Lewis and Clark State Park",
+		"description": "Id: poi_wa3_05\nGroup: Washington TBs and POIs localization."
+	},
+	"poi_wa3_05_desc": {
+		"message": "One of Washington’s first state parks, Lewis and Clark State Park preserves ancient forests along a historic Indigenous route. Named to honour the Corps of Discovery, the forests recall the dense woodlands Meriwether Lewis described in his journals.",
+		"description": "Id: poi_wa3_05_desc\nGroup: Washington TBs and POIs localization."
+	},
+	"poi_wa3_06": {
+		"message": "Columbia County Courthouse",
+		"description": "Id: poi_wa3_06\nGroup: Washington TBs and POIs localization."
+	},
+	"poi_wa3_06_desc": {
+		"message": "The Columbia County Courthouse reflects a time when county government was central to daily life. During a period of rapid growth and limited contact with the state capital, courthouses served as the main source of authority and addressed citizens’ immediate needs.",
+		"description": "Id: poi_wa3_06_desc\nGroup: Washington TBs and POIs localization."
+	},
+	"poi_wa3_07": {
+		"message": "Native American Tribes",
+		"description": "Id: poi_wa3_07\nGroup: Washington TBs and POIs localization."
+	},
+	"poi_wa3_07_desc": {
+		"message": "The Columbia Valley and surrounding areas were home to Indigenous peoples, including the Yakama, Walla Walla and Umatilla tribes. Today, these communities continue to live in the region, maintaining cultural traditions and managing land and water resources.",
+		"description": "Id: poi_wa3_07_desc\nGroup: Washington TBs and POIs localization."
+	},
+	"tb_or1": {
+		"message": "The Pacific Coast",
+		"description": "Id: tb_or1\nGroup: Oregon TBs and POIs localization."
+	},
+	"tb_or1_desc": {
+		"message": "Oregon’s Pacific Coast unfolds through rugged headlands with scenic viewpoints. As Heceta Head Lighthouse overlooks crashing waves, Silver Point, Ophir Wayside, Sisters Rocks, and Kissing Rock rise with basalt cliffs to meet the Pacific surf along the way.",
+		"description": "Id: tb_or1_desc\nGroup: Oregon TBs and POIs localization."
+	},
+	"landmark_or_astoria_b_desc": {
+		"message": "A four-mile span across the Columbia River, this bridge links Oregon and Washington, offering views of the river’s mouth and Pacific horizon.",
+		"description": "Id: landmark_or_astoria_b_desc\nGroup: Oregon TBs and POIs localization."
+	},
+	"poi_or1_01": {
+		"message": "Silver Point Interpretive Overlook",
+		"description": "Id: poi_or1_01\nGroup: Oregon TBs and POIs localization."
+	},
+	"poi_or1_01_desc": {
+		"message": "Just south of Cannon Beach, this overlook gives sweeping views of Haystack Rock and the rugged coastline, especially stunning at sunset.",
+		"description": "Id: poi_or1_01_desc\nGroup: Oregon TBs and POIs localization."
+	},
+	"or_cut_lighthouse_desc": {
+		"message": "Oregon’s tallest lighthouse, built in 1873, stands on a basalt headland near Newport.",
+		"description": "Id: or_cut_lighthouse_desc\nGroup: Oregon TBs and POIs localization."
+	},
+	"or_cut_newport_desc": {
+		"message": "The Yaquina Bay Bridge, completed in 1936, is one of Oregon’s most iconic coastal landmarks. Designed by renowned engineer Conde McCullough, its elegant arch spans Yaquina Bay and remains a defining feature of U.S. Route 101.",
+		"description": "Id: or_cut_newport_desc\nGroup: Oregon TBs and POIs localization."
+	},
+	"or_cut_thor_desc": {
+		"message": "A natural sinkhole on Cape Perpetua, where surging waves collapse, giving the illusion that the ocean is draining away.",
+		"description": "Id: or_cut_thor_desc\nGroup: Oregon TBs and POIs localization."
+	},
+	"poi_or1_02": {
+		"message": "Ophir Wayside",
+		"description": "Id: poi_or1_02\nGroup: Oregon TBs and POIs localization."
+	},
+	"poi_or1_02_desc": {
+		"message": "A quiet pull-off near Gold Beach, where visitors can stretch, watch the surf, or comb the beach for driftwood and agates.",
+		"description": "Id: poi_or1_02_desc\nGroup: Oregon TBs and POIs localization."
+	},
+	"poi_or1_03": {
+		"message": "Sisters Rock Overlook",
+		"description": "Id: poi_or1_03\nGroup: Oregon TBs and POIs localization."
+	},
+	"poi_or1_03_desc": {
+		"message": "Dramatic offshore sea stacks rise from the surf, with trails leading down to pocket beaches hidden between cliffs.",
+		"description": "Id: poi_or1_03_desc\nGroup: Oregon TBs and POIs localization."
+	},
+	"poi_or1_04": {
+		"message": "Kissing Rock",
+		"description": "Id: poi_or1_04\nGroup: Oregon TBs and POIs localization."
+	},
+	"poi_or1_04_desc": {
+		"message": "A roadside stop south of Gold Beach, where two massive rock formations lean together above the sand, making it a favourite photo spot.",
+		"description": "Id: poi_or1_04_desc\nGroup: Oregon TBs and POIs localization."
+	},
+	"tb_or2": {
+		"message": "The Wild East",
+		"description": "Id: tb_or2\nGroup: Oregon TBs and POIs localization."
+	},
+	"tb_or2_desc": {
+		"message": "Often called Oregon’s Wild East, this region reveals landscapes shaped by geologic forces over hundreds of millions of years, many still active today. Against that vast timescale, human history is brief, yet marked by moments as dramatic as the land itself.",
+		"description": "Id: tb_or2_desc\nGroup: Oregon TBs and POIs localization."
+	},
+	"landmark_or_deadman_p_desc": {
+		"message": "Near Pendleton, this lookout area offers views of Deadman Pass, named for an 1870s incident during the Bannock War when a wagon driver was found dead. Decades earlier, countless wagons crossed these hills on the Oregon Trail.",
+		"description": "Id: landmark_or_deadman_p_desc\nGroup: Oregon TBs and POIs localization."
+	},
+	"or_cut_395_desc": {
+		"message": "Once known as the Three Flags Highway, US-395 stretched from Canada to Mexico, linking deserts, forests and mountains. Today it ends at US-15 in California, though remnants of the original route remain near San Diego.",
+		"description": "Id: or_cut_395_desc\nGroup: Oregon TBs and POIs localization."
+	},
+	"poi_or2_01": {
+		"message": "Malheur National Forest",
+		"description": "Id: poi_or2_01\nGroup: Oregon TBs and POIs localization."
+	},
+	"poi_or2_01_desc": {
+		"message": "Malheur National Forest lies in the Blue Mountains. More than 150 million years ago, some of the oldest rocks in this region formed part of volcanic islands in the Pacific, later merging with the continent.",
+		"description": "Id: poi_or2_01_desc\nGroup: Oregon TBs and POIs localization."
+	},
+	"poi_or2_02": {
+		"message": "Badlands Wilderness",
+		"description": "Id: poi_or2_02\nGroup: Oregon TBs and POIs localization."
+	},
+	"poi_or2_02_desc": {
+		"message": "Badlands Wilderness, just east of Bend, is a rugged volcanic landscape shaped by ancient lava flows and windblown ash. Its twisted lava formations, sandy soils, and stark terrain create one of the state's most unique high-desert environments.",
+		"description": "Id: poi_or2_02_desc\nGroup: Oregon TBs and POIs localization."
+	},
+	"poi_or2_03": {
+		"message": "Lake Abert",
+		"description": "Id: poi_or2_03\nGroup: Oregon TBs and POIs localization."
+	},
+	"poi_or2_03_desc": {
+		"message": "First mapped in 1843, Lake Abert has supported human presence for over 10,000 years. Though too saline for fish, it remains a vital stop for birds along the Pacific Flyway and has been shrinking in recent decades due to climate change.",
+		"description": "Id: poi_or2_03_desc\nGroup: Oregon TBs and POIs localization."
+	},
+	"poi_or2_04": {
+		"message": "East Steens Tour Route",
+		"description": "Id: poi_or2_04\nGroup: Oregon TBs and POIs localization."
+	},
+	"poi_or2_04_desc": {
+		"message": "The East Steens Tour Route follows Highway 78 along Steens Mountain and the Alvord Desert. Its highlight is the Alvord Desert playa, one of Oregon’s largest dry lakebeds, which shifts seasonally between a shallow lake and a vast desert plain.",
+		"description": "Id: poi_or2_04_desc\nGroup: Oregon TBs and POIs localization."
+	},
+	"poi_or2_05": {
+		"message": "Doherty Slide",
+		"description": "Id: poi_or2_05\nGroup: Oregon TBs and POIs localization."
+	},
+	"poi_or2_05_desc": {
+		"message": "It takes less than an hour to drive along the Doherty Slide, a rock formation born of volcanic activity. Yet it took nature around 16 million years to shape the landscape as it appears today.",
+		"description": "Id: poi_or2_05_desc\nGroup: Oregon TBs and POIs localization."
+	},
+	"tb_or3": {
+		"message": "The Ogden State",
+		"description": "Id: tb_or3\nGroup: Oregon TBs and POIs localization."
+	},
+	"tb_or3_desc": {
+		"message": "This route follows Oregon’s inland north–south corridor, passing forests and high desert. First explored by fur trader Peter Skene Ogden in the 1820s, it later gained strategic importance during the Second World War for its timber and transport routes.",
+		"description": "Id: tb_or3_desc\nGroup: Oregon TBs and POIs localization."
+	},
+	"poi_or3_01": {
+		"message": "Springfield Flame",
+		"description": "Id: poi_or3_01\nGroup: Oregon TBs and POIs localization."
+	},
+	"poi_or3_01_desc": {
+		"message": "Standing nearly 65 feet tall, the sculpture marks Springfield’s northern gateway, designed as a flame to serve as a beacon for travellers and a landmark for residents and visitors alike.",
+		"description": "Id: poi_or3_01_desc\nGroup: Oregon TBs and POIs localization."
+	},
+	"poi_or3_02": {
+		"message": "Santiam Wagon Road",
+		"description": "Id: poi_or3_02\nGroup: Oregon TBs and POIs localization."
+	},
+	"poi_or3_02_desc": {
+		"message": "The pass east of here, once called Wiley Pass after Andrew Wiley, was explored in 1859 by pioneers seeking grazing routes. A military road was planned in 1864 but mostly unbuilt. A toll route, the Santiam Wagon Road, operated from 1868 to 1914.",
+		"description": "Id: poi_or3_02_desc\nGroup: Oregon TBs and POIs localization."
+	},
+	"poi_or3_03": {
+		"message": "Veteran Historic Highway",
+		"description": "Id: poi_or3_03\nGroup: Oregon TBs and POIs localization."
+	},
+	"poi_or3_03_desc": {
+		"message": "At the highway’s northern gateway, the final two of 18 tribute signs were installed on 9 November 2012, south of Biggs Junction. They mark Camp Rufus as the northern entry point to the nation’s first highway dedicated to Second World War veterans.",
+		"description": "Id: poi_or3_03_desc\nGroup: Oregon TBs and POIs localization."
+	},
+	"poi_or3_04": {
+		"message": "Ogden State Scenic Viewpoint",
+		"description": "Id: poi_or3_04\nGroup: Oregon TBs and POIs localization."
+	},
+	"poi_or3_04_desc": {
+		"message": "Named for Peter Skene Ogden, an early 19th-century explorer and Hudson’s Bay Company chief trader, the wayside honours his expeditions across the Snake River country and his role among the first to explore the Great Salt Lake Basin.",
+		"description": "Id: poi_or3_04_desc\nGroup: Oregon TBs and POIs localization."
+	},
+	"landmark_or_fremont_b_desc": {
+		"message": "The bridge and Portland’s Fremont Street are named for John C. Frémont, an early explorer of Las Californias and the Oregon Country. It features Oregon’s longest main span and ranks as the world’s second-longest tied-arch bridge.",
+		"description": "Id: landmark_or_fremont_b_desc\nGroup: Oregon TBs and POIs localization."
+	},
+	"tb_ca1": {
+		"message": "The Golden Horizon",
+		"description": "Id: tb_ca1\nGroup: California TBs and POIs localization."
+	},
+	"tb_ca1_desc": {
+		"message": "Iconic bridges rise above shimmering waters, linking Alcatraz, Santa Cruz, and the region’s hills and neighbourhoods. From bustling streets and historic sites to sunlit beaches and scenic coastlines, the Bay Area offers a California experience like no other.",
+		"description": "Id: tb_ca1_desc\nGroup: California TBs and POIs localization."
+	},
+	"ca_cut_golden_gate_bridge_desc": {
+		"message": "The bridge linking San Francisco Bay to the Pacific Ocean is an iconic symbol of San Francisco and California. When it opened in 1937, it held the records for both the world’s longest and tallest suspension bridge.",
+		"description": "Id: ca_cut_golden_gate_bridge_desc\nGroup: California TBs and POIs localization."
+	},
+	"poi_ca1_01": {
+		"message": "Alcatraz",
+		"description": "Id: poi_ca1_01\nGroup: California TBs and POIs localization."
+	},
+	"poi_ca1_01_desc": {
+		"message": "Alcatraz Island was home to a federal prison from 1934 to 1963. Known for housing some of the nation’s most notorious criminals, it is now a historic site and a popular tourist destination.",
+		"description": "Id: poi_ca1_01_desc\nGroup: California TBs and POIs localization."
+	},
+	"ca_cut_richmond_desc": {
+		"message": "The Richmond–San Rafael Bridge spans San Francisco Bay, linking Richmond and San Rafael. Opened in 1956, it carries traffic across the northern bay and features a cantilever and truss design, serving as a key regional transport link.",
+		"description": "Id: ca_cut_richmond_desc\nGroup: California TBs and POIs localization."
+	},
+	"poi_ca1_02": {
+		"message": "Treasure Island",
+		"description": "Id: poi_ca1_02\nGroup: California TBs and POIs localization."
+	},
+	"poi_ca1_02_desc": {
+		"message": "Treasure Island is a man-made island built for the Golden Gate International Exposition in 1939. After serving as a naval base, it is now being redeveloped for residential and commercial use.",
+		"description": "Id: poi_ca1_02_desc\nGroup: California TBs and POIs localization."
+	},
+	"poi_ca1_03": {
+		"message": "Surfing City",
+		"description": "Id: poi_ca1_03\nGroup: California TBs and POIs localization."
+	},
+	"poi_ca1_03_desc": {
+		"message": "The Surfing Statue in Santa Cruz honours the city’s surfing heritage and culture. Installed near the beachfront, it celebrates local surfers and the sport that has shaped Santa Cruz’s identity and coastal community.",
+		"description": "Id: poi_ca1_03_desc\nGroup: California TBs and POIs localization."
+	},
+	"poi_ca1_04": {
+		"message": "Madonna Inn",
+		"description": "Id: poi_ca1_04\nGroup: California TBs and POIs localization."
+	},
+	"poi_ca1_04_desc": {
+		"message": "A former popular restaurant and event landmark at the top of Highway 152. Closed since 2004 due to highway issues, it remains a frequent topic in local history and ghost story forums.",
+		"description": "Id: poi_ca1_04_desc\nGroup: California TBs and POIs localization."
+	},
+	"tb_ca2": {
+		"message": "The Shasta Route",
+		"description": "Id: tb_ca2\nGroup: California TBs and POIs localization."
+	},
+	"tb_ca2_desc": {
+		"message": "The Shasta Route winds through pine forests and glimmering alpine lakes beneath Mount Shasta. Roads rise and fall through hidden valleys, carrying travellers south as the mountains gradually fade, giving way to the ancient redwoods of northern California.",
+		"description": "Id: tb_ca2_desc\nGroup: California TBs and POIs localization."
+	},
+	"poi_ca2_01": {
+		"message": "Shasta - Trinity National Forest",
+		"description": "Id: poi_ca2_01\nGroup: California TBs and POIs localization."
+	},
+	"poi_ca2_01_desc": {
+		"message": "Shasta–Trinity National Forest, California’s largest, is traversed by the Trinity Heritage Scenic Byway. Following routes used by 19th-century gold miners and settlers.",
+		"description": "Id: poi_ca2_01_desc\nGroup: California TBs and POIs localization."
+	},
+	"poi_ca2_02": {
+		"message": "Big Lagoon",
+		"description": "Id: poi_ca2_02\nGroup: California TBs and POIs localization."
+	},
+	"poi_ca2_02_desc": {
+		"message": "Big Lagoon is the largest and southernmost of the three lagoons in Humboldt Lagoons State Park. These shallow coastal basins lie between rocky headlands, where ocean waves have built sandy barriers that separate the lagoons from the Pacific Ocean.",
+		"description": "Id: poi_ca2_02_desc\nGroup: California TBs and POIs localization."
+	},
+	"or_cut_sequoia_desc": {
+		"message": "Redwood National Park protects some of the world's tallest and oldest coast redwoods, reaching over 370 feet and living up to 2,000 years. Together with nearby state parks, it preserves about 35% of the planet’s remaining ancient old-growth redwood forests.",
+		"description": "Id: or_cut_sequoia_desc\nGroup: California TBs and POIs localization."
+	},
+	"poi_ca2_03": {
+		"message": "Smith River",
+		"description": "Id: poi_ca2_03\nGroup: California TBs and POIs localization."
+	},
+	"poi_ca2_03_desc": {
+		"message": "Within Six Rivers National Forest in north-western California, this protected area was designated by Congress in 1990 to preserve scenic, ecological, and cultural values. The Smith River is California’s only major undammed, free-flowing river.",
+		"description": "Id: poi_ca2_03_desc\nGroup: California TBs and POIs localization."
+	},
+	"poi_ca2_04": {
+		"message": "Whiskey Creek Bridge",
+		"description": "Id: poi_ca2_04\nGroup: California TBs and POIs localization."
+	},
+	"poi_ca2_04_desc": {
+		"message": "Completed in 1961, the Whiskey Creek Bridge is a three-span welded plate girder structure. It is notable as an early example of bridge design employing three different grades of steel, an innovative welding technique at the time.",
+		"description": "Id: poi_ca2_04_desc\nGroup: California TBs and POIs localization."
+	},
+	"poi_ca2_05": {
+		"message": "Shasta Lake",
+		"description": "Id: poi_ca2_05\nGroup: California TBs and POIs localization."
+	},
+	"poi_ca2_05_desc": {
+		"message": "Shasta Lake, California’s largest reservoir, was formed by Shasta Dam on the Sacramento River. Completed in 1945, it provides water, hydroelectric power, and a scenic spot for recreation.",
+		"description": "Id: poi_ca2_05_desc\nGroup: California TBs and POIs localization."
+	},
+	"poi_ca2_06": {
+		"message": "Mount Shasta",
+		"description": "Id: poi_ca2_06\nGroup: California TBs and POIs localization."
+	},
+	"poi_ca2_06_desc": {
+		"message": "From the 1820s onward, Mount Shasta, the second-tallest peak in the Cascade Range, guided travellers along the Siskiyou Trail at its base. That route later evolved into Interstate 5, which now carries thousands to the mountain each year.",
+		"description": "Id: poi_ca2_06_desc\nGroup: California TBs and POIs localization."
+	},
+	"tb_ca3": {
+		"message": "The Sierra Crossing",
+		"description": "Id: tb_ca3\nGroup: California TBs and POIs localization."
+	},
+	"tb_ca3_desc": {
+		"message": "Beneath the towering Sierra Nevada, the Inn at Benton sits among open valleys and rolling hills. The Sierra Crossing winds along quiet high desert roads, where distant peaks and rugged ridges create a timeless panorama, inviting travellers to explore the region’s wide-open landscapes.",
+		"description": "Id: tb_ca3_desc\nGroup: California TBs and POIs localization."
+	},
+	"ca_cut_olmsted_point_desc": {
+		"message": "Established in 1890, Yosemite National Park is one of the most visited parks. It is known for Yosemite Falls, the tallest waterfall in North America, extensive trail systems, and giant sequoias over 3,000 years old.",
+		"description": "Id: ca_cut_olmsted_point_desc\nGroup: California TBs and POIs localization."
+	},
+	"poi_ca3_01": {
+		"message": "Tioga Road",
+		"description": "Id: poi_ca3_01\nGroup: California TBs and POIs localization."
+	},
+	"poi_ca3_01_desc": {
+		"message": "Tioga Road is an iconic scenic route running through the heart of Yosemite National Park. It is the highest highway pass in California, linking the western and eastern sides of the Sierra Nevada.",
+		"description": "Id: poi_ca3_01_desc\nGroup: California TBs and POIs localization."
+	},
+	"poi_ca3_02": {
+		"message": "Mono Lake",
+		"description": "Id: poi_ca3_02\nGroup: California TBs and POIs localization."
+	},
+	"poi_ca3_02_desc": {
+		"message": "Mono Lake is more than 1 million years old, making it one of the oldest lakes in North America. With no natural outlet, it has accumulated salts and minerals carried by streams flowing from the eastern Sierra Nevada over thousands of years.",
+		"description": "Id: poi_ca3_02_desc\nGroup: California TBs and POIs localization."
+	},
+	"poi_ca3_03": {
+		"message": "Lake Tahoe",
+		"description": "Id: poi_ca3_03\nGroup: California TBs and POIs localization."
+	},
+	"poi_ca3_03_desc": {
+		"message": "Lake Tahoe formed roughly 2 million years ago within the Tahoe Basin, with its present shape carved by Ice Age glaciers. It is the largest alpine lake in North America and the second deepest in the United States.",
+		"description": "Id: poi_ca3_03_desc\nGroup: California TBs and POIs localization."
+	},
+	"poi_ca3_04": {
+		"message": "Eldorado National Forest",
+		"description": "Id: poi_ca3_04\nGroup: California TBs and POIs localization."
+	},
+	"poi_ca3_04_desc": {
+		"message": "Eldorado National Forest forms part of a major watershed that provides water to millions of Californians and supports farms producing nearly half of the nation’s fruits and vegetables.",
+		"description": "Id: poi_ca3_04_desc\nGroup: California TBs and POIs localization."
+	},
+	"poi_ca3_05": {
+		"message": "Inn at Benton Hot Springs",
+		"description": "Id: poi_ca3_05\nGroup: California TBs and POIs localization."
+	},
+	"poi_ca3_05_desc": {
+		"message": "Benton, one of Mono County’s oldest towns, was founded by Paiute people using its hot springs. In the 1860s it became a stop for settlers and miners. The Inn, built in the 1940s from local pumice, replaced a 1904 hotel with 10 rooms sharing one bath.",
+		"description": "Id: poi_ca3_05_desc\nGroup: California TBs and POIs localization."
+	},
+	"tb_ca4": {
+		"message": "The Sun & Sand",
+		"description": "Id: tb_ca4\nGroup: California TBs and POIs localization."
+	},
+	"tb_ca4_desc": {
+		"message": "Death Valley’s desert stretches beneath endless skies, with dunes, jagged peaks and cracked plains. Jackrabbits hop across sunlit sands, skulls mark silent passages, and isolated roads wind through a stark, unyielding landscape that tests and awes all who venture here.",
+		"description": "Id: tb_ca4_desc\nGroup: California TBs and POIs localization."
+	},
+	"poi_ca4_01": {
+		"message": "Lone Pine",
+		"description": "Id: poi_ca4_01\nGroup: California TBs and POIs localization."
+	},
+	"poi_ca4_01_desc": {
+		"message": "Lone Pine is a small town in California’s Owens Valley, at the eastern base of the Sierra. Known for its nearby Alabama Hills, it has long served as a gateway for hikers, climbers and filmmakers exploring the surrounding mountains and desert landscapes.",
+		"description": "Id: poi_ca4_01_desc\nGroup: California TBs and POIs localization."
+	},
+	"poi_ca4_02": {
+		"message": "Death Valley National Park",
+		"description": "Id: poi_ca4_02\nGroup: California TBs and POIs localization."
+	},
+	"poi_ca4_02_desc": {
+		"message": "Death Valley is one of America’s most extreme landscapes—lowest, hottest, driest and tallest in places. Long before 1800s pioneers, Indigenous tribes lived here, hunting and gathering across this harsh yet historically rich region.",
+		"description": "Id: poi_ca4_02_desc\nGroup: California TBs and POIs localization."
+	},
+	"poi_ca4_03": {
+		"message": "Father Crowley Vista Point",
+		"description": "Id: poi_ca4_03\nGroup: California TBs and POIs localization."
+	},
+	"poi_ca4_03_desc": {
+		"message": "This Vista Point is a popular stop for travellers. Father John J. Crowley, the Desert Padre, often paused here. Near the park’s western boundary, it offers striking views of Rainbow Canyon, a colourful formation shaped by ancient volcanic activity.",
+		"description": "Id: poi_ca4_03_desc\nGroup: California TBs and POIs localization."
+	},
+	"poi_ca4_04": {
+		"message": "Mojave Valley Wells",
+		"description": "Id: poi_ca4_04\nGroup: California TBs and POIs localization."
+	},
+	"poi_ca4_04_desc": {
+		"message": "At Valley Wells in the Mojave, ancient groundwater discharge deposits record past wetland environments from the Ice Age. These historic wells reveal how groundwater once supported marshes and lush vegetation in an otherwise arid desert.",
+		"description": "Id: poi_ca4_04_desc\nGroup: California TBs and POIs localization."
+	},
+	"poi_ca4_05": {
+		"message": "The Colorado River Indian Reservation",
+		"description": "Id: poi_ca4_05\nGroup: California TBs and POIs localization."
+	},
+	"poi_ca4_05_desc": {
+		"message": "The reservation stretches along the Colorado River in Arizona and California. Established in 1865 for tribes of the river, it is home to the Mohave, Chemehuevi, Hopi and Navajo peoples and supports farming and community life today.",
+		"description": "Id: poi_ca4_05_desc\nGroup: California TBs and POIs localization."
+	},
+	"tb_id1": {
+		"message": "The Treasure Valley",
+		"description": "Id: tb_id1\nGroup: Idaho TBs and POIs localization."
+	},
+	"tb_id1_desc": {
+		"message": "Treasure Valley in southwestern Idaho has a rich history shaped by Native American tribes, early fur traders, and Oregon Trail settlers. Its name reflects the area’s resources and opportunities, and it later grew with agriculture, railroads, and regional trade centered around Boise.",
+		"description": "Id: tb_id1_desc\nGroup: Idaho TBs and POIs localization."
+	},
+	"poi_id1_01": {
+		"message": "Salmon River",
+		"description": "Id: poi_id1_01\nGroup: Idaho TBs and POIs localization."
+	},
+	"poi_id1_01_desc": {
+		"message": "The Salmon River in Idaho stretches 425 miles through a deep, rugged canyon. It earned the nickname “River of No Return” because early boats were unable to travel back upstream against its strong, challenging currents.",
+		"description": "Id: poi_id1_01_desc\nGroup: Idaho TBs and POIs localization."
+	},
+	"poi_id1_02": {
+		"message": "Boise National Forest",
+		"description": "Id: poi_id1_02\nGroup: Idaho TBs and POIs localization."
+	},
+	"poi_id1_02_desc": {
+		"message": "Spanning the erodible Idaho Batholith, the Boise National Forest features a rugged landscape forged by volcanic activity. This geologic heritage is best seen in its steep canyons and the many natural hot springs tucked throughout the terrain.",
+		"description": "Id: poi_id1_02_desc\nGroup: Idaho TBs and POIs localization."
+	},
+	"poi_id1_03": {
+		"message": "Horshoe Bend",
+		"description": "Id: poi_id1_03\nGroup: Idaho TBs and POIs localization."
+	},
+	"poi_id1_03_desc": {
+		"message": "After gold was found in Boise Basin in 1862, miners wintering by the river founded Horseshoe Bend. Originally called Warrinersville for a local sawmill owner, the town took its current name in 1867 as it became a key stop for prospectors.",
+		"description": "Id: poi_id1_03_desc\nGroup: Idaho TBs and POIs localization."
+	},
+	"poi_id1_04": {
+		"message": "Toll Gate",
+		"description": "Id: poi_id1_04\nGroup: Idaho TBs and POIs localization."
+	},
+	"poi_id1_04_desc": {
+		"message": "In 1864, a new canyon route replaced the steep Syrup Creek trail. For 20 years, tolls funded its upkeep, while James A. Porter’s famous hotel and dairy became a premier stop for travelers seeking refuge.",
+		"description": "Id: poi_id1_04_desc\nGroup: Idaho TBs and POIs localization."
+	},
+	"poi_id1_05": {
+		"message": "Castle Rock",
+		"description": "Id: poi_id1_05\nGroup: Idaho TBs and POIs localization."
+	},
+	"poi_id1_05_desc": {
+		"message": "Toward Camas Prairie, Castle Rock’s granite outcrops served as iconic landmarks for Oregon Trail emigrants on Goodale’s Cutoff. Used from 1862 until the era of cars, these rare formations offered travelers a striking sight along the route.",
+		"description": "Id: poi_id1_05_desc\nGroup: Idaho TBs and POIs localization."
+	},
+	"poi_id1_06": {
+		"message": "Duck Valley Indian Reservation",
+		"description": "Id: poi_id1_06\nGroup: Idaho TBs and POIs localization."
+	},
+	"poi_id1_06_desc": {
+		"message": "In 1886, President Cleveland expanded Duck Valley into Idaho via the “Paddy Cap Extension.” By 1934, the various bands that relocated to the reservation gained official federal recognition as the unified Shoshone-Paiute Tribes.",
+		"description": "Id: poi_id1_06_desc\nGroup: Idaho TBs and POIs localization."
+	},
+	"tb_id2": {
+		"message": "The Magic Valley",
+		"description": "Id: tb_id2\nGroup: Idaho TBs and POIs localization."
+	},
+	"tb_id2_desc": {
+		"message": "In the early 1900s, I.B. Perrine turned Idaho’s dry desert into farmland by building the Milner Dam. Completed in 1905, the dam used Snake River water to “magically” transform the landscape. This created the Magic Valley, leading to the thriving farm towns that still exist today.",
+		"description": "Id: tb_id2_desc\nGroup: Idaho TBs and POIs localization."
+	},
+	"id_cut_perrine_desc": {
+		"message": "Higher than Niagara Falls at 212 feet, Shoshone Falls is a beautiful Snake River landmark located right on the edge of Twin Falls.",
+		"description": "Id: id_cut_perrine_desc\nGroup: Idaho TBs and POIs localization."
+	},
+	"id_cut_galena_desc": {
+		"message": "Founded in 1879 after a lead-silver discovery, this mining town faded by the 1890s as prices fell. Today, the area thrives as a recreation hub, home to the historic Galena Lodge and the nearby, scenic Galena Summit.",
+		"description": "Id: id_cut_galena_desc\nGroup: Idaho TBs and POIs localization."
+	},
+	"poi_id2_01": {
+		"message": "Bison Jump",
+		"description": "Id: poi_id2_01\nGroup: Idaho TBs and POIs localization."
+	},
+	"poi_id2_01_desc": {
+		"message": "Located at Challis, the Bison Jump is a historic site where Indigenous people stampeded buffalo over cliffs for harvesting. Used for over 2,000 years, this strategic landscape offers a glimpse into ancient communal hunting traditions.",
+		"description": "Id: poi_id2_01_desc\nGroup: Idaho TBs and POIs localization."
+	},
+	"poi_id2_02": {
+		"message": "Grand View Canyon",
+		"description": "Id: poi_id2_02\nGroup: Idaho TBs and POIs localization."
+	},
+	"poi_id2_02_desc": {
+		"message": "Set along the Peaks to Craters Scenic Byway on US-93, Grandview Canyon offers stunning views of the Lost River Range. This mountain chain is home to nine of Idaho’s tallest peaks, making the canyon a highlight of the scenic route.",
+		"description": "Id: poi_id2_02_desc\nGroup: Idaho TBs and POIs localization."
+	},
+	"landmark_id_mackay_rs_desc": {
+		"message": "Originally called Goddin’s River for fur trapper Thyery Goddin, the Big Lost River is famous for sinking into lava beds. This “lost” water travels underground, eventually re-emerging at the spectacular Thousand Springs near the Snake River.",
+		"description": "Id: landmark_id_mackay_rs_desc\nGroup: Idaho TBs and POIs localization."
+	},
+	"poi_id2_03": {
+		"message": "Ghost Towns of Mackay",
+		"description": "Id: poi_id2_03\nGroup: Idaho TBs and POIs localization."
+	},
+	"poi_id2_03_desc": {
+		"message": "Based on “Mine Hill” in the White Knob Mining District, towns like White Knob and Cliff Creek fueled a copper, gold, and silver boom to the mid-20th century. These sites remain key remnants of Idaho’s historic mining industry.",
+		"description": "Id: poi_id2_03_desc\nGroup: Idaho TBs and POIs localization."
+	},
+	"id_cut_craters_desc": {
+		"message": "Formed by volcanic eruptions 15,000  years ago, Craters of the Moon features a vast landscape of lava flows and cinder cones. Its otherworldly terrain is so unique that NASA astronauts once used it to train for moon missions.",
+		"description": "Id: id_cut_craters_desc\nGroup: Idaho TBs and POIs localization."
+	},
+	"tb_mt1": {
+		"message": "The Glacier Passage",
+		"description": "Id: tb_mt1\nGroup: Montana TBs and POIs localization."
+	},
+	"tb_mt1_desc": {
+		"message": "Glacier Country is home to some of the last active glaciers in the Rocky Mountains. Over thousands of years, these ancient ice masses carved deep valleys, sharp peaks, and pristine lakes, shaping the landscape that defines western Montana today.",
+		"description": "Id: tb_mt1_desc\nGroup: Montana TBs and POIs localization."
+	},
+	"poi_mt1_01": {
+		"message": "Kootenai Falls",
+		"description": "Id: poi_mt1_01\nGroup: Montana TBs and POIs localization."
+	},
+	"poi_mt1_01_desc": {
+		"message": "Kootenai Falls is the largest undammed waterfall in Montana and a major regional attraction. The Kootenai River drops about 300 feet over a short distance, creating a powerful, scenic cascade that draws visitors for its unforgettable views.",
+		"description": "Id: poi_mt1_01_desc\nGroup: Montana TBs and POIs localization."
+	},
+	"poi_mt1_02": {
+		"message": "Berne Roadside Park",
+		"description": "Id: poi_mt1_02\nGroup: Montana TBs and POIs localization."
+	},
+	"poi_mt1_02_desc": {
+		"message": "Bad Rock Canyon was a popular stop for travelers along the Flathead River, known for fishing, scenic views, and a natural spring once used to cool overheated car radiators. In 1956, it became one of Montana’s first rest areas, named Berne Roadside Park.",
+		"description": "Id: poi_mt1_02_desc\nGroup: Montana TBs and POIs localization."
+	},
+	"poi_mt1_03": {
+		"message": "Heavens Peak",
+		"description": "Id: poi_mt1_03\nGroup: Montana TBs and POIs localization."
+	},
+	"poi_mt1_03_desc": {
+		"message": "Heaven’s Peak, one of Glacier National Park’s most iconic mountains, was named in the 1890s by prospector Louie Meyer. Struck by its beauty and the towering Garden Wall, explorers saw it as unlike anything they had encountered on their journey.",
+		"description": "Id: poi_mt1_03_desc\nGroup: Montana TBs and POIs localization."
+	},
+	"mt_cut_glacier_national_park_desc": {
+		"message": "Celebrated as the “Crown of the Continent,” Glacier National Park was established in 1910. Shaped by ancient glaciers, it gained wider access in 1932 with the completion of the Going-to-the-Sun Road, now a historic engineering landmark.",
+		"description": "Id: mt_cut_glacier_national_park_desc\nGroup: Montana TBs and POIs localization."
+	},
+	"poi_mt1_04": {
+		"message": "Blackfeet Indian Memorial",
+		"description": "Id: poi_mt1_04\nGroup: Montana TBs and POIs localization."
+	},
+	"poi_mt1_04_desc": {
+		"message": "On the eastern edge of Glacier National Park lies the Blackfeet Nation. Known as the “warriors of the plains,” their name is believed to come from moccasins darkened with ash. Today, several sites in the park remain sacred to the tribe.",
+		"description": "Id: poi_mt1_04_desc\nGroup: Montana TBs and POIs localization."
+	},
+	"mt_cut_flathead_lake_desc": {
+		"message": "Flathead Lake is the largest natural freshwater lake by surface area in the contiguous United States. Fed by snowmelt from surrounding mountains, its exceptionally clear water fully renews every few years, making it one of the cleanest large lakes in the world.",
+		"description": "Id: mt_cut_flathead_lake_desc\nGroup: Montana TBs and POIs localization."
+	},
+	"mt_cut_thompson_falls_desc": {
+		"message": "Named after British-Canadian fur trader and cartographer David Thompson, the town grew after the railroad arrived in 1881. It expanded further during the nearby Coeur d’Alene gold rush, as it became a key stop for miners heading along the Murray Trail.",
+		"description": "Id: mt_cut_thompson_falls_desc\nGroup: Montana TBs and POIs localization."
+	},
+	"landmark_mt_missoula_desc": {
+		"message": "The Neoclassical Missoula County Courthouse, built of sandstone and designed by A. J. Gibson in 1910, replaced an earlier, smaller structure. Missoula County, formed in 1860, is one of Montana’s oldest political regions, spanning from the Bitterroot to the Rocky Mountains.",
+		"description": "Id: landmark_mt_missoula_desc\nGroup: Montana TBs and POIs localization."
+	},
+	"poi_mt1_05": {
+		"message": "Lolo Creek",
+		"description": "Id: poi_mt1_05\nGroup: Montana TBs and POIs localization."
+	},
+	"poi_mt1_05_desc": {
+		"message": "The corridor between Lolo and Lolo Pass follows a historic route along Lolo Creek. Once traveled by the Nez Perce, early settlers, and the Lewis and Clark Expedition, it remains an important cultural and historical landscape marked by interpretive sites.",
+		"description": "Id: poi_mt1_05_desc\nGroup: Montana TBs and POIs localization."
+	},
+	"tb_mt2": {
+		"message": "The Great Plains",
+		"description": "Id: tb_mt2\nGroup: Montana TBs and POIs localization."
+	},
+	"tb_mt2_desc": {
+		"message": "Montana’s Great Plains stretch across the eastern part of the state, characterized by vast grasslands, rolling prairies, and big open skies. The region has yielded some of North America’s most important dinosaur fossils, offering a glimpse into a landscape that existed millions of years ago.",
+		"description": "Id: tb_mt2_desc\nGroup: Montana TBs and POIs localization."
+	},
+	"poi_mt2_01": {
+		"message": "Hell Creek Formation",
+		"description": "Id: poi_mt2_01\nGroup: Montana TBs and POIs localization."
+	},
+	"poi_mt2_01_desc": {
+		"message": "The Hell Creek Formation, centered along Hell Creek near Jordan, Montana, preserves an ancient subtropical landscape of rivers, forests, and swamps. Dating to 67–66 million years ago, it is world-famous for its rich dinosaur fossils, including the iconic Tyrannosaurus rex.",
+		"description": "Id: poi_mt2_01_desc\nGroup: Montana TBs and POIs localization."
+	},
+	"poi_mt2_02": {
+		"message": "Yellowstone River",
+		"description": "Id: poi_mt2_02\nGroup: Montana TBs and POIs localization."
+	},
+	"poi_mt2_02_desc": {
+		"message": "The Yellowstone River is the longest free flowing river in the contiguous United States. Rising in Yellowstone National Park, it travels 676 miles through Wyoming and Montana before joining the Missouri River, flowing its entire length without a single dam.",
+		"description": "Id: poi_mt2_02_desc\nGroup: Montana TBs and POIs localization."
+	},
+	"poi_mt2_03": {
+		"message": "Glendisaurus",
+		"description": "Id: poi_mt2_03\nGroup: Montana TBs and POIs localization."
+	},
+	"poi_mt2_03_desc": {
+		"message": "Glendisaurus, a life-sized Triceratops statue in Glendive, celebrates the region’s rich dinosaur heritage. Standing about 10 feet tall, it serves as a popular landmark along the Dinosaur Trail.",
+		"description": "Id: poi_mt2_03_desc\nGroup: Montana TBs and POIs localization."
+	},
+	"poi_mt2_04": {
+		"message": "Missouri River",
+		"description": "Id: poi_mt2_04\nGroup: Montana TBs and POIs localization."
+	},
+	"poi_mt2_04_desc": {
+		"message": "Known as the “Big Muddy,” the Missouri River is the longest river in the United States. Flowing 2,341 miles from Montana’s Rocky Mountains to the Mississippi River, it played a vital role in exploration, trade, and the westward expansion of the American frontier.",
+		"description": "Id: poi_mt2_04_desc\nGroup: Montana TBs and POIs localization."
+	},
+	"mt_cut_fort_peck_spillway_desc": {
+		"message": "Fort Peck Dam, built during the Great Depression, is the world’s largest hydraulically filled earth dam. Completed as one of America’s biggest public works projects, it was designed to provide jobs, control floods, and generate hydroelectric power.",
+		"description": "Id: mt_cut_fort_peck_spillway_desc\nGroup: Montana TBs and POIs localization."
+	},
+	"poi_mt2_05": {
+		"message": "Valley County Pioneer Museum",
+		"description": "Id: poi_mt2_05\nGroup: Montana TBs and POIs localization."
+	},
+	"poi_mt2_05_desc": {
+		"message": "This museum showcases the history of northeastern Montana through exhibits on the Assiniboine people, railroads, agriculture, the Fort Peck Dam, and the Lewis and Clark Expedition. It also houses extensive archives and one of the largest Assiniboine collections in the country.",
+		"description": "Id: poi_mt2_05_desc\nGroup: Montana TBs and POIs localization."
+	},
+	"poi_mt2_06": {
+		"message": "Sleeping Buffalo Rock",
+		"description": "Id: poi_mt2_06\nGroup: Montana TBs and POIs localization."
+	},
+	"poi_mt2_06_desc": {
+		"message": "These large glacial boulders were sacred landmarks for Indigenous tribes. Ancient glaciers carved and transported them. The smaller rock, “Buffalo Rock,” was carved to resemble a buffalo, while the larger, “Medicine Rock,” features various petroglyphs.",
+		"description": "Id: poi_mt2_06_desc\nGroup: Montana TBs and POIs localization."
+	},
+	"tb_wy1": {
+		"message": "The Buffalo Trail",
+		"description": "Id: tb_wy1\nGroup: Wyoming TBs and POIs localization."
+	},
+	"tb_wy1_desc": {
+		"message": "Home to Yellowstone and Grand Teton, it sits on an active volcanic system that powers geysers and hot springs, while glaciers and faults shaped its peaks, valleys. Together, these forces make Northwest Wyoming one of the most geologically dynamic and visually iconic landscapes in the American West.",
+		"description": "Id: tb_wy1_desc\nGroup: Wyoming TBs and POIs localization."
+	},
+	"landmark_wy_yellowsto_desc": {
+		"message": "Yellowstone, established in 1872 as the world’s first national park, sits atop a massive dormant volcano. Home to about half of the world’s active geysers, it also protects one of the largest and most intact temperate ecosystems on Earth.",
+		"description": "Id: landmark_wy_yellowsto_desc\nGroup: Wyoming TBs and POIs localization."
+	},
+	"poi_wy1_01": {
+		"message": "Lower Geyser Basin",
+		"description": "Id: poi_wy1_01\nGroup: Wyoming TBs and POIs localization."
+	},
+	"poi_wy1_01_desc": {
+		"message": "Lower Geyser Basin is Yellowstone’s largest geyser basin, featuring a vast concentration of geysers, hot springs, and steam vents. Powered by heat from deep underground magma, it showcases one of the park’s most active geothermal landscapes.",
+		"description": "Id: poi_wy1_01_desc\nGroup: Wyoming TBs and POIs localization."
+	},
+	"poi_wy1_02": {
+		"message": "Yellowstone Lake",
+		"description": "Id: poi_wy1_02\nGroup: Wyoming TBs and POIs localization."
+	},
+	"poi_wy1_02_desc": {
+		"message": "Yellowstone Lake is North America’s largest high-elevation lake and supports the continent’s largest population of wild cutthroat trout. Scientists believe it once drained toward the Pacific Ocean, allowing fish to cross the Continental Divide through Two Ocean Pass.",
+		"description": "Id: poi_wy1_02_desc\nGroup: Wyoming TBs and POIs localization."
+	},
+	"poi_wy1_03": {
+		"message": "Buffalo Bill Dam",
+		"description": "Id: poi_wy1_03\nGroup: Wyoming TBs and POIs localization."
+	},
+	"poi_wy1_03_desc": {
+		"message": "Completed in 1910, Buffalo Bill Dam was one of the first concrete arch dams in the United States. Standing 325 feet tall, it was the highest dam in the world at the time and became a landmark of early engineering innovation.",
+		"description": "Id: poi_wy1_03_desc\nGroup: Wyoming TBs and POIs localization."
+	},
+	"poi_wy1_04": {
+		"message": "Colters Hell",
+		"description": "Id: poi_wy1_04\nGroup: Wyoming TBs and POIs localization."
+	},
+	"poi_wy1_04_desc": {
+		"message": "Colter’s Hell is a historic geothermal area along the Shoshone River, named by explorer John Colter in 1807. Early mountain men likened its steaming vents and sulfurous odors to “hell.” Today, only hot springs and steam vents remain active.",
+		"description": "Id: poi_wy1_04_desc\nGroup: Wyoming TBs and POIs localization."
+	},
+	"wy_cut_grand_teton_desc": {
+		"message": "Grand Teton National Park is defined by its glacier-carved peaks rising sharply above Jackson Hole. Once called the “Pilot Knobs” by fur trappers for their visibility across the plains, the mountains remain among the most iconic landmarks of the American West.",
+		"description": "Id: wy_cut_grand_teton_desc\nGroup: Wyoming TBs and POIs localization."
+	},
+	"poi_wy1_05": {
+		"message": "Crowheart Butte",
+		"description": "Id: poi_wy1_05\nGroup: Wyoming TBs and POIs localization."
+	},
+	"poi_wy1_05_desc": {
+		"message": "Crowheart Butte is a prominent landmark named after an 1866 battle between the Shoshone and Crow tribes. According to tradition, Chief Washakie placed a Crow chief’s heart atop the butte after the Shoshone victory as a warning, giving the formation its enduring name.",
+		"description": "Id: poi_wy1_05_desc\nGroup: Wyoming TBs and POIs localization."
+	},
+	"tb_wy2": {
+		"message": "The Red Desert",
+		"description": "Id: tb_wy2\nGroup: Wyoming TBs and POIs localization."
+	},
+	"tb_wy2_desc": {
+		"message": "Wyoming’s Red Desert is a vast high desert basin defined by wind-sculpted sand, sagebrush plains, and striking red rock formations. One of the largest uninhabited areas in North America, it is shaped by extreme climate, ancient lake beds, and long migration routes.",
+		"description": "Id: tb_wy2_desc\nGroup: Wyoming TBs and POIs localization."
+	},
+	"poi_wy2_01": {
+		"message": "Red Canyon",
+		"description": "Id: poi_wy2_01\nGroup: Wyoming TBs and POIs localization."
+	},
+	"poi_wy2_01_desc": {
+		"message": "Red Canyon was carved during the uplift of the Wind River Range around 60 million years ago. Its distinctive red cliffs are formed from Chugwater rock, whose oxidized iron gives the canyon the vivid color that inspired its name.",
+		"description": "Id: poi_wy2_01_desc\nGroup: Wyoming TBs and POIs localization."
+	},
+	"poi_wy2_02": {
+		"message": "Landscapes of Power",
+		"description": "Id: poi_wy2_02\nGroup: Wyoming TBs and POIs localization."
+	},
+	"poi_wy2_02_desc": {
+		"message": "Boar’s Tusk, a volcanic rock formation rising over 400 feet above Wyoming’s Red Desert, is the eroded core of a volcano that formed millions of years ago. It overlooks the vast Killpecker Sand Dunes, part of North America’s largest active dune field.",
+		"description": "Id: poi_wy2_02_desc\nGroup: Wyoming TBs and POIs localization."
+	},
+	"poi_wy2_03": {
+		"message": "Rock Springs",
+		"description": "Id: poi_wy2_03\nGroup: Wyoming TBs and POIs localization."
+	},
+	"poi_wy2_03_desc": {
+		"message": "Rock Springs is known as the “City of 56 Nationalities” for its diverse immigrant heritage. In the late 1800s, people from around the world arrived to work in Union Pacific coal mines. The city is also linked to the famous outlaw Butch Cassidy.",
+		"description": "Id: poi_wy2_03_desc\nGroup: Wyoming TBs and POIs localization."
+	},
+	"poi_wy2_04": {
+		"message": "Butch Cassidy Cabin",
+		"description": "Id: poi_wy2_04\nGroup: Wyoming TBs and POIs localization."
+	},
+	"poi_wy2_04_desc": {
+		"message": "Butch Cassidy was a famous American outlaw who led the “Wild Bunch,” a gang known for train and bank robberies in the Old West. He earned the nickname “Butch” while working in a Rock Springs butcher shop. The most legendary and influential heist was the Wilcox Train Robbery in 1899.",
+		"description": "Id: poi_wy2_04_desc\nGroup: Wyoming TBs and POIs localization."
+	},
+	"wy_cut_evanston_desc": {
+		"message": "Founded in 1869 by the Union Pacific Railroad, Evanston was named after surveyor James A. Evans. The city grew as a railroad hub and later became a regional center for agriculture, oil, and gas.",
+		"description": "Id: wy_cut_evanston_desc\nGroup: Wyoming TBs and POIs localization."
+	},
+	"poi_wy2_05": {
+		"message": "Lander Cutoff",
+		"description": "Id: poi_wy2_05\nGroup: Wyoming TBs and POIs localization."
+	},
+	"poi_wy2_05_desc": {
+		"message": "Built after the Pacific Wagon Road Act of 1857, the Lander Cutoff was one of the first federally funded wagon roads in the American West. Named for engineer Frederick W. Lander, it provided a shorter route for emigrants traveling westward.",
+		"description": "Id: poi_wy2_05_desc\nGroup: Wyoming TBs and POIs localization."
+	},
+	"tb_sd1": {
+		"message": "The Black Hills",
+		"description": "Id: tb_sd1\nGroup: South Dakota TBs and POIs localization."
+	},
+	"tb_sd1_desc": {
+		"message": "Western South Dakota is defined by the Black Hills and Badlands. Here, vast prairies rise into pine-covered mountains, granite spires, and roaming bison herds. Just beyond, the rugged Badlands reveal a striking landscape carved by wind and water over millions of years.",
+		"description": "Id: tb_sd1_desc\nGroup: South Dakota TBs and POIs localization."
+	},
+	"poi_sd1_01": {
+		"message": "Black Hills National Forest",
+		"description": "Id: poi_sd1_01\nGroup: South Dakota TBs and POIs localization."
+	},
+	"poi_sd1_01_desc": {
+		"message": "Known to the Lakota as Paha Sapa meaning “Hills That Are Black”, this pine-covered region is home to Black Elk Peak, South Dakota’s highest point at 7,244 feet. Renamed in honor of the famed Lakota healer, it is also the tallest summit east of the Rockies.",
+		"description": "Id: poi_sd1_01_desc\nGroup: South Dakota TBs and POIs localization."
+	},
+	"sd_cut_rush": {
+		"message": "Mount Rushmore",
+		"description": "Id: sd_cut_rush\nGroup: South Dakota TBs and POIs localization."
+	},
+	"sd_cut_rush_desc": {
+		"message": "Mount Rushmore, known as America’s “Shrine of Democracy,” was carved into the Black Hills between 1927 and 1941. The monument features 60-foot sculptures of Presidents Washington, Jefferson, Roosevelt, and Lincoln, representing the country’s birth, growth, development and preservation.",
+		"description": "Id: sd_cut_rush_desc\nGroup: South Dakota TBs and POIs localization."
+	},
+	"poi_sd1_02": {
+		"message": "Beaver Creek Bridge",
+		"description": "Id: poi_sd1_02\nGroup: South Dakota TBs and POIs localization."
+	},
+	"poi_sd1_02_desc": {
+		"message": "Built in 1929, this 225-foot steel and concrete arch bridge spans a canyon near Wind Cave National Park. Rising 115 feet above the canyon floor, it is South Dakota’s only bridge of its kind and was designed to blend seamlessly with the surrounding rock.",
+		"description": "Id: poi_sd1_02_desc\nGroup: South Dakota TBs and POIs localization."
+	},
+	"sd_cut_sturgis": {
+		"message": "Sturgis",
+		"description": "Id: sd_cut_sturgis\nGroup: South Dakota TBs and POIs localization."
+	},
+	"sd_cut_sturgis_desc": {
+		"message": "Sturgis is known for hosting the world’s largest motorcycle rally. Started in 1938 by local Indian dealer  Pappy Hoel, the annual 10-day event brings riders from around the globe to the Black Hills for motorcycle shows, races, music, and celebrations.",
+		"description": "Id: sd_cut_sturgis_desc\nGroup: South Dakota TBs and POIs localization."
+	},
+	"sd_cut_deadwood_desc": {
+		"message": "Deadwood rose during the Black Hills gold rush of 1876 and became one of the Wild West’s most notorious towns. Designated a National Historic Landmark in 1961, it is the only U.S. city with that status, preserving much of its historic downtown.",
+		"description": "Id: sd_cut_deadwood_desc\nGroup: South Dakota TBs and POIs localization."
+	},
+	"sd_cut_badlands_desc": {
+		"message": "Badlands National Park spans 244,000 acres of buttes, pinnacles, and spires alongside the nation’s largest protected mixed-grass prairie. It also preserves one of the world’s richest fossil beds, revealing ancient mammals that once roamed the Great Plains.",
+		"description": "Id: sd_cut_badlands_desc\nGroup: South Dakota TBs and POIs localization."
+	},
+	"poi_sd1_03": {
+		"message": "Doane Robinson Tunnel",
+		"description": "Id: poi_sd1_03\nGroup: South Dakota TBs and POIs localization."
+	},
+	"poi_sd1_03_desc": {
+		"message": "Doane Robinson, known as the “Father of Mount Rushmore,” envisioned a grand monument in the Black Hills to attract visitors to South Dakota. Today, his legacy continues, with Mount Rushmore perfectly framed through the scenic Doane Robinson Tunnel.",
+		"description": "Id: poi_sd1_03_desc\nGroup: South Dakota TBs and POIs localization."
+	},
+	"sd_cut_hot_springs_desc": {
+		"message": "Hot Springs, originally called Minnekahta by the Sioux for its “hot waters,” was settled in 1879 around mineral springs believed to have healing powers. Renamed in 1882, it became a health resort and remains known for the historic Evans Plunge.",
+		"description": "Id: sd_cut_hot_springs_desc\nGroup: South Dakota TBs and POIs localization."
+	},
+	"poi_sd1_04": {
+		"message": "The Mammoth Site",
+		"description": "Id: poi_sd1_04\nGroup: South Dakota TBs and POIs localization."
+	},
+	"poi_sd1_04_desc": {
+		"message": "The Mammoth Site is a world-famous Ice Age fossil dig where 61 mammoths have been uncovered. Discovered in 1974, the ancient sinkhole preserves the largest collection of Columbian mammoth remains in North America, with excavations still ongoing today.",
+		"description": "Id: poi_sd1_04_desc\nGroup: South Dakota TBs and POIs localization."
+	},
+	"tb_sd2": {
+		"message": "The Great Divide",
+		"description": "Id: tb_sd2\nGroup: South Dakota TBs and POIs localization."
+	},
+	"tb_sd2_desc": {
+		"message": "South Dakota’s Missouri River region marks the state’s central divide, with broad plains on one side and rolling hills on the other. It was a key corridor for Native nations, fur traders, and Lewis and Clark, and later became home to major dams, frontier towns, and rich river history.",
+		"description": "Id: tb_sd2_desc\nGroup: South Dakota TBs and POIs localization."
+	},
+	"poi_sd2_01": {
+		"message": "Four Great Lakes",
+		"description": "Id: poi_sd2_01\nGroup: South Dakota TBs and POIs localization."
+	},
+	"poi_sd2_01_desc": {
+		"message": "Created by dams on the Missouri River in the late 1940s, Lakes Oahe, Sharpe, Francis Case, and Lewis & Clark now define central South Dakota. Together, these reservoirs provide more than 440 miles of shoreline for boating, fishing, and recreation.",
+		"description": "Id: poi_sd2_01_desc\nGroup: South Dakota TBs and POIs localization."
+	},
+	"poi_sd2_02": {
+		"message": "The Ghost Town of Bangor",
+		"description": "Id: poi_sd2_02\nGroup: South Dakota TBs and POIs localization."
+	},
+	"poi_sd2_02_desc": {
+		"message": "Bangor was once the county seat of Walworth County but became a ghost town after its buildings were moved to nearby Selby in 1899. Today, only a monument marks the site where the town once stood.",
+		"description": "Id: poi_sd2_02_desc\nGroup: South Dakota TBs and POIs localization."
+	},
+	"landmark_sd_state_capitol_desc": {
+		"message": "Founded in 1880, Pierre became South Dakota’s capital when the state joined the Union in 1889. Chosen for its central location and Missouri River crossing, the city was named after French-American fur trader Pierre Chouteau Jr.",
+		"description": "Id: landmark_sd_state_capitol_desc\nGroup: South Dakota TBs and POIs localization."
+	},
+	"sd_cut_corn_desc": {
+		"message": "The Corn Palace in Mitchell is the world’s only palace decorated entirely with corn. Each year, local artists and farmers create new murals using naturally colored corn, grains, and grasses, making it one of South Dakota’s most unique landmarks.",
+		"description": "Id: sd_cut_corn_desc\nGroup: South Dakota TBs and POIs localization."
+	},
+	"landmark_sd_largest_pheasant_desc": {
+		"message": "Huron is home to the World’s Largest Pheasant, a 40-foot-tall fiberglass and steel sculpture built in 1959. Weighing 22 tons, it celebrates the region’s long-standing reputation as one of America’s premier pheasant hunting destinations.",
+		"description": "Id: landmark_sd_largest_pheasant_desc\nGroup: South Dakota TBs and POIs localization."
+	},
+	"landmark_sd_dignity_of_earth_and_sky_desc": {
+		"message": "Dignity Of Earth & Sky is a 50-foot stainless steel sculpture overlooking the Missouri River near Chamberlain. Created by artist Dale Lamphere, it honors the heritage, resilience, and cultures of the Lakota and Dakota people.",
+		"description": "Id: landmark_sd_dignity_of_earth_and_sky_desc\nGroup: South Dakota TBs and POIs localization."
+	},
+	"sd_cut_fort_randall_dam_desc": {
+		"message": "Fort Randall Dam, completed in 1953 within the rolling plain of the Missouri Plateau, is one of six major federal dams. It generates hydropower, forms Lake Francis Case, and helps reduce downstream flooding across the Missouri and Mississippi River basins.",
+		"description": "Id: sd_cut_fort_randall_dam_desc\nGroup: South Dakota TBs and POIs localization."
 	}
 }

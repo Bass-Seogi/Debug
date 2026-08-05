@@ -3835,6 +3835,7 @@ Group: Various accessory slots or accessory names.</context>
         </context-group>
         <note from="Diego Tavares (DTavares2112)" priority="4">The currently approved translation is not correct. Please review my suggestion:
 &quot;Retrovisor frontal&quot;</note>
+        <note from="QL_BR_T" priority="4">@DTavares2112 Solved.</note>
       </trans-unit>
       <trans-unit id="816" resname="f_mudflap">
         <source>Front Mudflaps</source>
@@ -3968,6 +3969,7 @@ Group: Various accessory slots or accessory names.</context>
         </context-group>
         <note from="Diego Tavares (DTavares2112)" priority="4">The currently approved translation is not correct. Please review my suggestion:
 &quot;Protetor de farol&quot;</note>
+        <note from="QL_BR_T" priority="4">@DTavares2112 Solved.</note>
       </trans-unit>
       <trans-unit id="223184" resname="hub">
         <source>Hub</source>
@@ -4301,6 +4303,7 @@ Group: Various accessory slots or accessory names.</context>
         </context-group>
         <note from="Diego Tavares (DTavares2112)" priority="4">The currently approved translation is not correct. Please review my suggestion:
 &quot;Painel Lateral&quot;</note>
+        <note from="QL_BR_T" priority="4">@DTavares2112 Solved.</note>
       </trans-unit>
       <trans-unit id="101018" resname="s_reflector">
         <source>Side Reflector</source>
@@ -4947,6 +4950,7 @@ Id: mp_wanna_quit</context>
         <note from="JohnnyW" priority="4">Where does the &quot;Quit&quot; function send players to? Desktop?</note>
         <note from="Adam Hoas (adamhoas99)" priority="4">@JohnnyW Correct. The &quot;quit&quot; function closes the game.</note>
         <note from="Wolterhon" priority="4">Уточните, пожалуйста, как используем букву ё?</note>
+        <note from="QL_RU_T" priority="4">Agree with Adam Hoas</note>
       </trans-unit>
       <trans-unit id="165874" resname="exit_mbox_t">
         <source>EXIT</source>
@@ -5253,6 +5257,7 @@ Group: Game load window
 Provides ability to load previously saved game or autosave.</context>
         </context-group>
         <note from="Diego Tavares (DTavares2112)" priority="4">@filipemateus sugiro alterar para &quot;Carregar Jogo&quot; para ficar de acordo com as outras opções do menu, visto que não há possibilidade de tradução para Driving Academy, assim todas as opções ficarão no mesmo padrão.</note>
+        <note from="QL_BR_T" priority="4">@DTavares2112 Solved.</note>
       </trans-unit>
       <trans-unit id="902" resname="load_game_desc">
         <source>Load a previously saved game. Current progress will be lost!</source>
@@ -5993,6 +5998,7 @@ Group: Job Market</context>
         </context-group>
         <note from="Alexander Tselikov (San_Sany4)" priority="4">@crowdin.loca The current translation does not fit the UI.</note>
         <note from="Evgeny Baranov (Eugene_B)" priority="4">@QL_RU_T вы как аппрувите тексты которые вообще не вмещаются в  UI???</note>
+        <note from="QL_RU_T" priority="4">@Eugene_B по наличию ограничений символов тут. Для этой строки его нет</note>
       </trans-unit>
       <trans-unit id="16470" resname="comp_job_desc">
         <source>Earn money for your company using your own truck. Load the freight and deliver it safe and sound.</source>
@@ -6171,6 +6177,9 @@ Group: Job Market</context>
 &quot;Distância até o próximo checkpoint&quot;
 
 @QL_BR_T I'm marking this translation as &quot;wrong&quot; to work around a UI issue; there wasn't enough space for the full text.</note>
+        <note from="QL_BR_T" priority="4">@DTavares2112 Hi Diego. The char limit is too strict, therefore the only solution I see is to remove &quot;Distância até&quot; altogether and rely on the user reading the number and unit that follow.
+Ex.:
+&quot;Próximo ponto de controle: 10 km&quot;</note>
       </trans-unit>
       <trans-unit id="117660" resname="checkpoint_time">
         <source>Next checkpoint time</source>
@@ -6189,6 +6198,8 @@ Group: Job Market</context>
 &quot;Tempo até o próximo checkpoint&quot;
 
 @QL_BR_T I'm marking this translation as &quot;wrong&quot; to work around a UI issue; there wasn't enough space for the full text.</note>
+        <note from="QL_BR_T" priority="4">@DTavares2112 Char limit is too strict. Changed to just &quot;Próximo ponto de controle&quot;, which will be followed by the actual time on the screen, in order to fit. Any other variation wouldn't fit or be consistent with the chosen terminology.</note>
+        <note from="Diego Tavares (DTavares2112)" priority="4">@QL_BR_T Hello, I believe this approach would work, because—as shown in the screenshot—the current translation (I'm on v1.60) is unworkable.</note>
       </trans-unit>
       <trans-unit id="1028" resname="sort_by">
         <source>Sort by</source>
@@ -6434,6 +6445,7 @@ Group: Job Market</context>
         </context-group>
         <note from="pete379jp" priority="4">The currently approved translation is not correct. Please review my suggestion:
 &quot;カーテンサイダー &amp; ドライフレイター&quot;</note>
+        <note from="QL_JP_T" priority="4">@pete379jp Translation updated. Thank you for the suggestion.</note>
       </trans-unit>
       <trans-unit id="263669" resname="cargo_type_container" translate="no">
         <source>Container Chassis</source>
@@ -7377,7 +7389,7 @@ Button which allows to change profiles There is limited space allowing for one l
 Group: Window used to create a new profile.</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="524327" resname="profile_already_exists" translate="no">
+      <trans-unit id="524327" resname="profile_already_exists">
         <source>Cannot create profile with the given name because there is already profile with that name.</source>
         <target state="translated">해당 이름을 가진 프로필이 이미 있기 때문에 해당 이름으로 프로필을 만들 수 없습니다.</target>
         <context-group purpose="information">
@@ -11810,6 +11822,7 @@ Screen used to configure gameplay related options.</context>
         </context-group>
         <note from="idiaz037" priority="4">The currently approved translation is not correct. Please review my suggestion:
 &quot;Control inteligente del acelerador&quot;</note>
+        <note from="QL_ES_T" priority="4">Translation updated and approved</note>
       </trans-unit>
       <trans-unit id="1546" resname="truck_speed_limiter">
         <source>Truck speed limiter</source>
@@ -14696,6 +14709,7 @@ Group: Options/Keyboard
 Screen used to configure keyboard related options.</context>
         </context-group>
         <note from="Alexander Tselikov (San_Sany4)" priority="4">@crowdin.loca who calls гудок or сигнал «дудка»?</note>
+        <note from="QL_RU_T" priority="4">@San_Sany4 I worked as an automotive spare parts manager a while ago, and everyone called it дудка</note>
       </trans-unit>
       <trans-unit id="1694" resname="o_im_wipers">
         <source>Wipers</source>
@@ -16986,7 +17000,7 @@ Group: Options/Keyboard
 Screen used to configure keyboard related options.</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="395678" resname="o_im_look_blink_mode_op_tooltip" translate="no">
+      <trans-unit id="395678" resname="o_im_look_blink_mode_op_tooltip">
         <source>Assigns button for turning on/off the indicator based camera rotation.</source>
         <target state="translated">방향지시등 기반 카메라 회전을 켜거나 끄는 버튼을 할당합니다.</target>
         <context-group purpose="information">
@@ -18327,6 +18341,7 @@ Screen used to configure input related to game controllers (axes, force feedback
         <note from="Mehmet Burhan Keleş (mehmetburhankeles)" priority="4">@mg07 Türkçede böyle bir kullanım yok diye biliyorum. https://tr.wikipedia.org/wiki/K%C4%B1sa_%C3%A7izgi</note>
         <note from="mg (mg07)" priority="4">@mehmetburhankeles tamamdır o zaman</note>
         <note from="Alexander Tselikov (San_Sany4)" priority="4">@crowdin.loca This translation is out of place.</note>
+        <note from="QL_RU_T" priority="4">@San_Sany4 What do you mean as out of space, please?</note>
       </trans-unit>
       <trans-unit id="1892" resname="hshift_layout">
         <source>Shifter layout</source>
@@ -21483,6 +21498,7 @@ Group: Options/Graphics
 Screen used to configure graphics related options.</context>
         </context-group>
         <note from="RivaStyle" priority="4">&quot;moon&quot; should be rendered with a capital M.</note>
+        <note from="QL Localization (crowdin.loca)" priority="4">@RivaStyle I'm not sure if this is relevant anymore. I don't think it has to be with capital M but please correct me if I'm wrong and it will be updated as needed.</note>
       </trans-unit>
       <trans-unit id="370806" resname="far_shadow_op_tooltip">
         <source>Enables shadows to be rendered even from very far objects.&lt;br&gt;&lt;br&gt;&lt;color value=@@clr_txt_d@@&gt;This setting usually has a moderate impact on performance.</source>
@@ -22394,6 +22410,7 @@ At least two options currently exist:
 2. create a separate string for settings menu.</note>
         <note from="Diego Tavares (DTavares2112)" priority="4">The currently approved translation is not correct. Please review my suggestion:
 &quot;Press&quot;</note>
+        <note from="QL_BR_T" priority="4">@DTavares2112 Solved.</note>
       </trans-unit>
       <trans-unit id="347618" resname="any_shift">
         <source>Shift</source>
@@ -23648,6 +23665,7 @@ Group: Route adviser</context>
         </context-group>
         <note from="pete379jp" priority="4">The currently approved translation is not correct. Please review my suggestion:
 &quot;緊急給油サービスは $VOLUME$ の燃料を提供します. $MONEY$ の料金と $TIME$ の時間がかかります. &lt;br&gt;(利用料金は雇用主が負担します.)&lt;br offset=30&gt;よろしいですか?&quot;</note>
+        <note from="QL_JP_T" priority="4">@pete379jp Thanks for the feedback. Both the current approved translation and your suggestion are correct; however, I chose &quot;費用&quot; instead of &quot;利用料金&quot; to avoid repeating the word &quot;料金&quot;. Ultimately, this is a stylistic preference, but I would prefer to keep the current translation.</note>
       </trans-unit>
       <trans-unit id="72664" resname="wanna_refuel_online">
         <source>Emergency Refueling service will provide you with $VOLUME$ of diesel. It will cost $MONEY$ and will take $TIME$.&lt;br offset=30&gt;Do you agree?</source>
@@ -23680,6 +23698,7 @@ Group: Route adviser</context>
         </context-group>
         <note from="pete379jp" priority="4">The currently approved translation is not correct. Please review my suggestion:
 &quot;緊急充電サービスはバッテリーに $ENERGY$ の電力を供給します. $MONEY$ の料金と $TIME$ の時間がかかります. &lt;br&gt;(利用料金は雇用主が負担します.)&lt;br offset=30&gt;よろしいですか?&quot;</note>
+        <note from="QL_JP_T" priority="4">@pete379jp Thanks for the feedback. Both the approved translation and your suggestion are correct; however, I chose &quot;費用&quot; instead of &quot;利用料金&quot; to avoid repeating the word &quot;料金&quot;. Ultimately, this is a stylistic preference, but I would prefer to keep the current translation.</note>
       </trans-unit>
       <trans-unit id="369924" resname="wanna_recharge_online">
         <source>Emergency Recharge service will charge your battery with $ENERGY$. It will cost $MONEY$ and will take $TIME$.&lt;br offset=30&gt;Do you agree?</source>
@@ -25117,6 +25136,12 @@ Group: Route adviser</context>
         <note from="scan720" priority="4">@JohnnyW yes</note>
         <note from="idiaz037" priority="4">The currently approved translation is not correct. Please review my suggestion:
 &quot;Indicadores&quot;</note>
+        <note from="QL_ES_T" priority="4">@idiaz037 Leaving translation as &quot;Intermitentes&quot; as that is the term that has been used throughout for &quot;indicators&quot; and should remain consistent.
+&quot;Indicadores&quot; is not correct either and could be confused with dashboard lights, which are actually called &quot;testigos&quot;.</note>
+        <note from="idiaz037" priority="4">@QL_ES_T 
+Then it should be translated as &quot;testigos&quot; imo, but only on this string as here it's used for the virtual dashboard lights that appear on the bottom of the screen.</note>
+        <note from="QL_ES_T" priority="4">@idiaz037 Great catch, thanks for the screenshot for context, that really helps. Since we had &quot;Indicators&quot; anywhere else for &quot;intermitentes&quot;, that was confusing.
+Changing the string to &quot;Testigos&quot; instead!</note>
       </trans-unit>
       <trans-unit id="587753" resname="adv_hud_indicators_op_tooltip">
         <source>Show legend</source>
@@ -32060,7 +32085,7 @@ Id: cn_rotary_rakes_krone_stc1370
 Group: Names of cargo for DLC Krone Agriculture</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="524451" resname="cn_round_baler_krone_vpv190xc" translate="no">
+      <trans-unit id="524451" resname="cn_round_baler_krone_vpv190xc">
         <source>Round Baler Krone Vari Pack V 190 XC</source>
         <target state="translated">라운드 베일러 Krone Vari Pack V 190 XC</target>
         <context-group purpose="information">
@@ -32522,6 +32547,7 @@ Group: Names of individual trailer, trailer chassis types or trailer virtual com
         </context-group>
         <note from="pete379jp" priority="4">The currently approved translation is not correct. Please review my suggestion:
 &quot;ティッパートレーラー&quot;</note>
+        <note from="QL_JP_T" priority="4">@pete379jp Solved.</note>
       </trans-unit>
       <trans-unit id="133006" resname="tn_scs_lowbed">
         <source>Low Bed Extendable Trailer</source>
@@ -32891,6 +32917,7 @@ Group: Names of individual trailer, trailer chassis types or trailer virtual com
         </context-group>
         <note from="Erick Araujo (arrobaraujo)" priority="4">The currently approved translation is not correct, please review my translation:
 &quot;Prancha Krone Profi Liner HD&quot;</note>
+        <note from="QL_BR_T" priority="4">@arrobaraujo Solved.</note>
       </trans-unit>
       <trans-unit id="242502" resname="tn_krone_profiliner_bm">
         <source>Krone Profi Liner Building</source>
@@ -36459,6 +36486,7 @@ Group: Truck dealer screen</context>
 
 In gendered languages like Russian, steerable chassis and steerable axis require different translation of &quot;steerable&quot;, because it has to agree in gender with the noun, and &quot;chassis&quot; and &quot;axle&quot; have different gender.</note>
         <note from="Γιώργος Βαρδ (gg.vardoukelis)" priority="4">@San_Sany4  the same in Greek, but I'm going to use plural - male</note>
+        <note from="QL_RU_T" priority="4">@San_Sany4 it is shortened now, so fits both cases.</note>
       </trans-unit>
       <trans-unit id="3952" resname="td_info_cab">
         <source>Cabin:</source>
@@ -37293,7 +37321,7 @@ Caption of state section.
 Group: Used truck dealer wear explanation</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="348146" resname="used_truck_dealer_explanation_state_1" translate="no">
+      <trans-unit id="348146" resname="used_truck_dealer_explanation_state_1">
         <source>Vehicle has significant mechanical issues affecting performace and reliability. You may need to consider a total restoration or replacement of multiple parts.</source>
         <target state="translated">성능과 신뢰성에 영향을 미치는 심각한 기계적 문제가 있는 차량입니다. 여러 부품의 전체 복원 또는 교체를 고려해야 할 수도 있습니다.</target>
         <context-group purpose="information">
@@ -38811,6 +38839,7 @@ Window allowing user to launch one from the adjusters.</context>
         <note from="Alexander Tselikov (San_Sany4)" priority="4">@crowdin.loca Other vehicles that are not trucks are coming to the games, namely cars and buses, so you should reconsider using the word &quot;truck&quot; in translation.</note>
         <note from="QL Localization (crowdin.loca)" priority="4">We should review the word &quot;vehicle&quot; in all languages to make sure it's neutral and does not mention only &quot;truck&quot;</note>
         <note from="Viktor Dobrovolný (Nettle)" priority="4">@crowdin.loca We are currently going through all the related terms and making this change everywhere in the game - I'll remove the proofread mark when importing it to Crowdin and add a label so anyone can check it for the other languages.</note>
+        <note from="QL_RU_T" priority="4">@crowdin.loca translated as &quot;transport&quot; now</note>
       </trans-unit>
       <trans-unit id="4214" resname="lights">
         <source>Adjust Lights</source>
@@ -41339,6 +41368,7 @@ Group: Names of cities</context>
         </context-group>
         <note from="DrGreg212" priority="4">The currently approved translation is not correct. Please review my suggestion:
 &quot;Groninga&quot;</note>
+        <note from="QL_IT_T" priority="4">Fixed</note>
       </trans-unit>
       <trans-unit id="149838" resname="guarda">
         <source>Guarda</source>
@@ -45747,6 +45777,7 @@ Group: Input wizard</context>
         </context-group>
         <note from="Erick Araujo (arrobaraujo)" priority="4">The currently approved translation is not correct, please review my translation:
 &quot;A transmissão reduzida é a escolha mais simples. Ela tem dois conjuntos de marchas. O primeiro conjunto contém marchas da 1ª a 6ª e o segundo conjunto contém marchas da 7ª a 12ª. Um interruptor alterna entre estes dois conjuntos, enquanto o câmbio seleciona a marcha específica do conjunto.&quot;</note>
+        <note from="QL_BR_T" priority="4">@arrobaraujo Solved, but translation was shortened and &quot;seletor&quot; was used instead of &quot;interruptor&quot;.</note>
       </trans-unit>
       <trans-unit id="4682" resname="wiz_hs_splitter">
         <source>Splitter transmission is a simple alternative. It also has two sets of gears. The first set contains odd numbered gears (1, 3, 5 ...) and the second set contains even numbered gears (2, 4, 6 ...). A toggle button switches between those two sets while the shifter selects a specific gear from the set.</source>
@@ -45761,6 +45792,7 @@ Group: Input wizard</context>
         </context-group>
         <note from="Erick Araujo (arrobaraujo)" priority="4">The currently approved translation is not correct, please review my translation:
 &quot;A transmissão de caixas alta/baixa é uma alternativa simples. Ela tem dois conjuntos de engrenagens. O primeiro conjunto contém marchas ímpares (1, 3, 5...) e o segundo conjunto contém marchas pares (2, 4, 6...). Um interruptor alterna entre estes dois conjuntos, enquanto o câmbio seleciona a marcha específica do conjunto.&quot;</note>
+        <note from="QL_BR_T" priority="4">@arrobaraujo Suggestion implemented. However, translation was shortened and &quot;seletor&quot; was used instead of &quot;interruptor&quot;.</note>
       </trans-unit>
       <trans-unit id="4684" resname="wiz_hs_range_splitter">
         <source>Range-splitter transmission is based on the layout of the real manual range-splitters. Gears are grouped by four per each H-shifter position and use two toggles. Thus it is recommended for advanced drivers only.</source>
@@ -46264,6 +46296,7 @@ Group: Photo Album and Photo Mode key bindings.</context>
         </context-group>
         <note from="Diego Tavares (DTavares2112)" priority="4">The currently approved translation is not correct. Please review my suggestion:
 &quot;Câmera - para frente&quot;</note>
+        <note from="QL_BR_T" priority="4">@DTavares2112 Solved. Note: an article was needed.</note>
       </trans-unit>
       <trans-unit id="263523" resname="o_im_photocam_backward">
         <source>Camera - Backward</source>
@@ -46277,6 +46310,7 @@ Group: Photo Album and Photo Mode key bindings.</context>
         </context-group>
         <note from="Diego Tavares (DTavares2112)" priority="4">The currently approved translation is not correct. Please review my suggestion:
 &quot;Câmera - para trás&quot;</note>
+        <note from="QL_BR_T" priority="4">@DTavares2112 Solved.</note>
       </trans-unit>
       <trans-unit id="263525" resname="o_im_photocam_left">
         <source>Camera - Left</source>
@@ -48609,6 +48643,7 @@ Text shown inside the info dialog when mod is already active
 Group: Mod manager</context>
         </context-group>
         <note from="Alexander Tselikov (San_Sany4)" priority="4">@crowdin.loca please check the translation.</note>
+        <note from="QL_RU_T" priority="4">@San_Sany4 It's clear as is.</note>
       </trans-unit>
       <trans-unit id="5122" resname="mod_incompatible">
         <source>Mod is incompatible with current game version. You cannot activate it.</source>
@@ -48746,6 +48781,9 @@ Group: Mod manager</context>
         </context-group>
         <note from="Diego Tavares (DTavares2112)" priority="4">The currently approved translation is not correct. Please review my suggestion:
 &quot;O mod com este ícone está instalado, mas não está carregado.&quot;</note>
+        <note from="QL_BR_T" priority="4">@DTavares2112 Hi, would you please let us know why? The suggested translation changes meaning.</note>
+        <note from="Diego Tavares (DTavares2112)" priority="4">@QL_BR_T Hello, the reason for my suggestion is that mods with the &quot;gray&quot; visual indicator are installed but not loaded in the profile, whereas mods with the &quot;green&quot; visual indicator are both installed and loaded in the selected profile.</note>
+        <note from="QL_BR_T" priority="4">@DTavares2112 Awesome! Thanks for your help!</note>
       </trans-unit>
       <trans-unit id="5146" resname="mod_activated_icon_desc">
         <source>Mod with this icon is activated and will be loaded.</source>
@@ -49932,6 +49970,7 @@ Id: quick_travel_cond_truck_fuel
 Group: Quick travel screen.</context>
         </context-group>
         <note from="Alexander Tselikov (San_Sany4)" priority="4">@QL_RU_T If you didn't get the memo, very soon there will be not only trucks in the games. ETS2 gets coach buses, ATS gets cars. And it looks like SCS are reusing the strings rather than having different strings for different vehicle types. So using «грузовик» will soon become incorrect.</note>
+        <note from="QL_RU_T" priority="4">@San_Sany4 now транспортное средство</note>
       </trans-unit>
       <trans-unit id="684478" resname="quick_travel_cond_truck_fallen" translate="no">
         <source>Your vehicle is not in a condition for quick travel. Call for an assistance.</source>
@@ -53628,6 +53667,9 @@ Group: Assistant related texts.</context>
 @filipemateus queria testar essa &quot;gambiarra&quot; na Open Beta da v1.58, é o velho problema da tradução não se adequar ao layout, podemos testar?</note>
         <note from="Filipe Mateus (filipemateus)" priority="4">@Diego_Tavares Claro, vamos ver como fica</note>
         <note from="Diego Tavares (DTavares2112)" priority="4">@filipemateus Tá certo, quando sair o novo update e eu verificar, te dou um retorno.</note>
+        <note from="QL_BR_T" priority="4">@DTavares2112 Hi, any updates on this?</note>
+        <note from="Diego Tavares (DTavares2112)" priority="4">@QL_BR_T The problem still persists. In my experience, the solution I tried to apply depends on a &lt;br&gt; tag.</note>
+        <note from="QL_BR_T" priority="4">@DTavares2112 Got it! Suggestion applied. Hopefully this will do the trick.</note>
       </trans-unit>
       <trans-unit id="369968" resname="call_recharge_service">
         <source>Emergency Recharge</source>
@@ -53772,6 +53814,7 @@ Group: Trailer body type names.</context>
         </context-group>
         <note from="pete379jp" priority="4">The currently approved translation is not correct. Please review my suggestion:
 &quot;ドライフレイター&quot;</note>
+        <note from="QL_JP_T" priority="4">@pete379jp Solved.</note>
       </trans-unit>
       <trans-unit id="204099" resname="dumper">
         <source>Dumper</source>
@@ -57329,6 +57372,7 @@ Group: Multiplayer session browser.</context>
         <note from="Γιώργος Βαρδ (gg.vardoukelis)" priority="4">does this mean I server the player themshelves are hosting?</note>
         <note from="DrGreg212" priority="4">The currently approved translation is not correct. Please review my suggestion:
 &quot;Sever creato&quot;</note>
+        <note from="QL_IT_T" priority="4">Fixed</note>
       </trans-unit>
       <trans-unit id="242972" resname="parameter_dedicated">
         <source>Dedicated server</source>
@@ -57440,6 +57484,7 @@ Id: mp_invalid_session_owner_id
 Group: Multiplayer session browser.</context>
         </context-group>
         <note from="DrGreg212" priority="4">The currently approved translation could be changed to &quot;ID creatore del Convoglio non valido&quot;</note>
+        <note from="QL_IT_T" priority="4">Fixed</note>
       </trans-unit>
       <trans-unit id="166098" resname="mp_missing_map_name">
         <source>Missing the map data</source>
@@ -60945,7 +60990,7 @@ Id: session_mod_activation
 Group: Session mod sync title.</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="185993" resname="session_mod_sync_info" translate="no">
+      <trans-unit id="185993" resname="session_mod_sync_info">
         <source>Your currenly active mods will be updated to match the selected host's mods.&lt;br&gt;You can subscribe to the missing mods on Steam. Click on them and choose 'Subscribe'.</source>
         <target state="translated">현재 활성화된 MOD는 선택한 호스트의 MOD와 일치하도록 업데이트됩니다.&lt;br&gt;누락된 MOD는 스팀을 통해 구독할 수 있습니다. MOD를 선택한 후 '구독'을 클릭하십시오.</target>
         <context-group purpose="information">
@@ -65955,6 +66000,7 @@ Group: Names of viewpoint cutscenes</context>
         <note from="Alexander Tselikov (San_Sany4)" priority="4">Shouldn't it be Kalambaka?</note>
         <note from="scan720" priority="4">The City is called Kalambaka, so you forgot the M</note>
         <note from="QL Localization (crowdin.loca)" priority="4">@Nettle can you fix this in English?</note>
+        <note from="Viktor Dobrovolný (Nettle)" priority="4">Kalabaka, Kalambaka and Kalampaka all seem to be valid and accepted. That said, the official ISO 843 transliteration has it as Kalampaka—I'll discuss it with the team behind Greece DLC. Thanks for the heads up.</note>
       </trans-unit>
       <trans-unit id="431078" resname="gr_cut_monastery">
         <source>Monastery of Agios Nectarios</source>
@@ -66233,6 +66279,7 @@ Group: Names of viewpoint cutscenes</context>
         <note from="RivaStyle" priority="4">@adamhoas99 ok, the main problem was that the Maps link in the description pointed to the Customs station on the Swedish side.</note>
         <note from="Adam Hoas (adamhoas99)" priority="4">Yeah, it's a bad placement so I understand the confusion. :)</note>
         <note from="QL Localization (crowdin.loca)" priority="4">@Nettle this one may require some source adjustments? Maybe checking with GD would help.</note>
+        <note from="Viktor Dobrovolný (Nettle)" priority="4">@crowdin.loca The same toll building is spelled both Bjørnfjell and Björnfjell depending on which side of the border you are on. The customs office is run by the Norwegian government, so I would be inclined to use Bjørnfjell—I think either is fine, though.</note>
       </trans-unit>
       <trans-unit id="555365" resname="poc_cut_trondheim">
         <source>Trondheim</source>
@@ -66621,10 +66668,13 @@ Group: Names of landmarks</context>
 
 Id: landmark_hypohaus
 Group: Names of landmarks</context>
+          <context context-type="x-crowdin-label">Temp</context>
         </context-group>
         <note from="RivaStyle" priority="4">According to the ID, the reference is to this building: https://de.wikipedia.org/wiki/HVB-Tower
 
 meaning that the source string should be fixed accordingly.</note>
+        <note from="QL Localization (crowdin.loca)" priority="4">@Nettle can you look into this change? I think the current source is also quite correct, albeit it's a simplified version of what it should be according to what the member shared above.</note>
+        <note from="Viktor Dobrovolný (Nettle)" priority="4">My guess would be that we did not want to name the company in the game, but I'll check.</note>
       </trans-unit>
       <trans-unit id="430976" resname="landmark_leipzigbahn">
         <source>Leipzig Hauptbahnhof</source>
@@ -69129,6 +69179,9 @@ Group: Chapters general</context>
         <note from="Diego Tavares (DTavares2112)" priority="4">Em &quot;Você aprendeu como preparar o caminhão antes de dirigir,&lt;br&gt;dirigir para frente e para trás e como usar as luzes e os limpadores.&quot; Para evitar o uso repetido da palavra &quot;dirigir&quot;, recomendo a tradução abaixo:
 
 Você aprendeu como preparar o caminhão antes de iniciar a condução,&lt;br&gt;dirigir para frente e para trás e como usar as luzes e os limpadores.</note>
+        <note from="QL_BR_T" priority="4">@DTavares2112 Updated to:
+
+&quot;Você aprendeu como preparar o caminhão, dirigir para a frente, para trás e usar as luzes e os limpadores&quot;</note>
       </trans-unit>
       <trans-unit id="397402" resname="aca_chapter_book1_2_title">
         <source>Basic Manoeuvres</source>
@@ -71537,6 +71590,7 @@ Id: aca_msg_book1_1_05_wipers_on
 Group: Book 1 Scenario 1_05</context>
         </context-group>
         <note from="Diego Tavares (DTavares2112)" priority="4">Na linha &quot;Sua função principal é manter o para-brisa limpo e claro&quot;, o ideal seria &quot;Sua função principal é manter o para-brisa limpo e desobstruído&quot;</note>
+        <note from="QL_BR_T" priority="4">@DTavares2112 Changed to &quot;Sua função principal é manter o para-brisa limpo.&quot; as it is implied it is free of any obstructions.</note>
       </trans-unit>
       <trans-unit id="397794" resname="aca_msg_book1_1_05_wipers2">
         <source>This setting allows for the wipers to periodically activate. This is useful when precipitation is very light.&lt;br&gt;&lt;br&gt;As you can see, the rain is too heavy, and the wipers are unable to keep up with the amount of rain falling on the windscreen.&lt;font face=/font/big_bold.font&gt;&lt;br&gt;&lt;br&gt;Press @@imv_nrm_wipers@@ again to switch the windscreen wipers to the low-speed setting. &lt;/font&gt;</source>
@@ -71553,6 +71607,9 @@ Group: Book 1 Scenario 1_05</context>
         <note from="Tobias Henricsson (TobiasHenricsson)" priority="4">@_ResTed_ I disagree (even though I should have seen it much earlier). My interpretation is that we are going from interval wipers to continous wipers, although at a low speed. If so, this string is correct. It should be: Off - Interval - Low - High. And in this context, you change from interval to low speed.</note>
         <note from="QL Localization (crowdin.loca)" priority="4">@Nettle could you please clarify this query?</note>
         <note from="Viktor Dobrovolný (Nettle)" priority="4">It is as @TobiasHenricsson says. It could be further clarified as &quot;...to switch the windscreen wipers to the continuous low-speed setting.&quot; or a similar phrase, but for now I would leave it as is in EN. If you feel it needs to be clearer in your language, feel free to add or suggest it.</note>
+        <note from="* ResTed * (_ResTed_)" priority="4">@Nettle I want to draw attention to whole text, the second line says that the rain is very heavy, so it is logical to assume that there is a need to increase speed of wipers, but then they say that their speed needs to be reduced, which is not logical. Thus, if you are going to take this lesson in game, then the rain is really heavy, so you need to increase speed, not decrease it, as I said in first message. That is, need to change the original text, because it does not correspond to what is happening in game.</note>
+        <note from="Viktor Dobrovolný (Nettle)" priority="4">@_ResTed_ That is just how labels on car wipers work. Before this message, the wipers are off. It starts raining. Player turns them on (they are now set on intermittent wipe/periodic activation, meaning wipers activate every few seconds). The rain is too heavy for this setting, and the player is prompted to increase it. When he does, the wipers go up to the low-speed setting, meaning the wipers activate continuously but at a slow rate. If the rain gets heavier or if the player finds this setting is not fast enough, he can increase it further to the high-speed setting, but that is not what happens during this step of the tutorial. Feel free to check the following link with the explanation on wiper settings from a car manufacturer. 
+https://www.chevrolet.com/support/vehicle/climate-seat-controls/windshield-wiper-controls</note>
       </trans-unit>
       <trans-unit id="397796" resname="aca_msg_book1_1_05_wipers3">
         <source>Now the wipers are working at a consistent speed to clear the rain.&lt;font face=/font/big_bold.font&gt;&lt;br&gt;&lt;br&gt;Press @@imv_nrm_wipers@@ once more to set the high-speed setting. &lt;/font&gt;</source>
@@ -73071,6 +73128,7 @@ Group: Book 1 Scenario 2_08</context>
         </context-group>
         <note from="Diego Tavares (DTavares2112)" priority="4">The currently approved translation is not correct. Please review my suggestion:
 &quot;Neste cenário, faremos uma curta viagem com o cavalo mecânico para ver como você o conduz com as suas novas habilidades aprendidas.&quot;</note>
+        <note from="QL_BR_T" priority="4">@DTavares2112 Simplified and updated.</note>
       </trans-unit>
       <trans-unit id="398146" resname="aca_msg_book1_2_08_cutscene2">
         <source>There are various types and combinations of turns on the track. It's not a race and it's not about time. Be patient and adjust your driving speed to the turns and obstacles you encounter.</source>
@@ -74183,6 +74241,7 @@ Group: Book 1 Scenario 3_04</context>
         <note from="Diego Tavares (DTavares2112)" priority="4">Para manter o padrão de tradução, recomendo a mudança da palavra &quot;trailer&quot; por &quot;reboque&quot;. Segue a sugestão:
 
 &quot;Neste cenário, você enfrentará uma variedade de curvas diferentes para ajudá-lo a se acostumar a dirigir com um reboque. Mantenha o foco, ajuste sua velocidade a cada situação e faça uso total do espaço disponível no curso de treinamento.&quot;</note>
+        <note from="QL_BR_T" priority="4">@DTavares2112 Simplified and update.</note>
       </trans-unit>
       <trans-unit id="398424" resname="aca_msg_book1_3_04_cutscene02">
         <source>The first turn is a dogleg turn - two turns in one. You'll have to set up for a left turn, but transition to a right turn in the middle of the manoeuvre.</source>
@@ -74215,6 +74274,7 @@ Group: Book 1 Scenario 3_04</context>
         </context-group>
         <note from="Diego Tavares (DTavares2112)" priority="4">The currently approved translation is not correct. Please review my suggestion:
 &quot;Em seguida, você terá que conduzir através de um zigue-zague apertado entre as barreiras de concreto. Vá devagar, use os retrovisores e certifique-se de fazer curvas abertas o suficiente para que seu reboque passe pelas barreiras.&quot;</note>
+        <note from="QL_BR_T" priority="4">@DTavares2112 Simplified and updated.</note>
       </trans-unit>
       <trans-unit id="398430" resname="aca_msg_book1_3_04_cutscene05">
         <source>At this point, you'll enter another slalom complimented by extra cones at the apex of each curve &lt;br&gt;Be sure not to hit any of them!</source>
@@ -83229,6 +83289,8 @@ Group: Accessory Names</context>
         </context-group>
         <note from="QL_RU_T" priority="4">please describe or provide a picture. Is it a proper name?</note>
         <note from="QL Localization (crowdin.loca)" priority="4">@Nettle can you help?</note>
+        <note from="Viktor Dobrovolný (Nettle)" priority="4">As per the context I would assume it's this trailer (but I'll also check in-game)
+https://www.koegel.com/en/product-overview/product-family-tarpaulin-vehicles/product-detail-cargo/</note>
       </trans-unit>
       <trans-unit id="630453" resname="body_chem_tank_chrom">
         <source>Chemical Tank Chrome</source>
