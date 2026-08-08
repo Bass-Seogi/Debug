@@ -3688,7 +3688,7 @@ Group: Trailer configurations</context>
         </context-group>
         <note from="Lydia Cheung (lydiach)" priority="4">The currently approved translation is not correct. Please review my suggestion:
 &quot;牵引拖台&quot;</note>
-        <note from="QL_HANS_T" priority="4">@lydiach Adopted.</note>
+        <note from="QL_HANS_P" priority="4">@lydiach Adopted.</note>
       </trans-unit>
       <trans-unit id="637865" resname="ats_tr_dolly_2">
         <source>Dolly, 2 Axles</source>
@@ -3914,7 +3914,7 @@ Group: Trailer body sets</context>
 &quot;Plate-forme&quot;</note>
         <note from="Mel85" priority="4">&quot;Plate-forme&quot; is more fr_ca</note>
         <note from="Erick Araujo (arrobaraujo)" priority="4">@TarsoMagno could fix the translation on this one, please?</note>
-        <note from="QL_BR_T" priority="4">@arrobaraujo Let us know what the suggestion is, please? For now, this has been flagged as solved.</note>
+        <note from="QL_BR_P" priority="4">@arrobaraujo Let us know what the suggestion is, please? For now, this has been flagged as solved.</note>
       </trans-unit>
       <trans-unit id="223410" resname="ats_bs_flatbed_alu">
         <source>Aluminium Flatbed</source>

@@ -293,6 +293,7 @@ Don’t forget to decorate your cabin with some beautiful accessories! In this D
 Long description for ETS2 Kässbohrer Trailer Pack.</context>
         </context-group>
         <note from="REMOVED_USER" priority="4">Miniature K.STC Trailer, accessory with no translation chain</note>
+        <note from="QL Localization (crowdin.loca)" priority="4">@Nettle we noticed this string is not translated on Steam, but it is translated in Crowdin. Could you confirm why?</note>
       </trans-unit>
       <trans-unit id="431354" resname="ets2_kogel_short_description">
         <source>Haul cargo with ease using these beautiful Kögel trailers! Renowned for its innovative designs and quality, Kögel manufactures a diverse range of trailers tailored to meet the evolving needs of logistics professionals worldwide. With 6 new Kögel trailers, 5 cabin accessories, wheel hubs, and nut covers, you'll never miss the deadline to deliver your cargo!</source>
