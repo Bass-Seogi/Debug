@@ -718,7 +718,7 @@ Group: Text deviations for American Truck Simulator. Please, use only terms appr
       </trans-unit>
       <trans-unit id="263006" resname="ats_cn_concrete_barrier">
         <source>Concrete Barrier</source>
-        <target state="translated">콘크리트 배리어</target>
+        <target state="translated">콘크리트 장벽</target>
         <context-group purpose="information">
           <context context-type="source">ats_cn_concrete_barrier
 
@@ -729,7 +729,7 @@ Group: Text deviations for American Truck Simulator. Please, use only terms appr
       </trans-unit>
       <trans-unit id="28608" resname="ats_cn_concrete_tubes">
         <source>Concrete Tubes</source>
-        <target state="translated">콘크리트 튜브</target>
+        <target state="translated">콘크리트 관</target>
         <context-group purpose="information">
           <context context-type="source">ats_cn_concrete_tubes
 
@@ -4045,7 +4045,7 @@ Group: Trailer body sets</context>
       </trans-unit>
       <trans-unit id="73018" resname="ats_bs_log_4">
         <source>4 Bolster Logger</source>
-        <target state="translated">4 볼스터 로거</target>
+        <target state="translated">4 받침 로거</target>
         <context-group purpose="information">
           <context context-type="source">ats_bs_log_4
 
@@ -4059,7 +4059,7 @@ https://manaccdn.s3.amazonaws.com/manac/wp-content/uploads/2014/10/Feuillet-Semi
       </trans-unit>
       <trans-unit id="73020" resname="ats_bs_log_6">
         <source>6 Bolster Logger</source>
-        <target state="translated">6 볼스터 로거</target>
+        <target state="translated">6 받침 로거</target>
         <context-group purpose="information">
           <context context-type="source">ats_bs_log_6
 

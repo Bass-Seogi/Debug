@@ -256,11 +256,11 @@
 		"description": "Id: cn_compact_tractor\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_cn_concrete_barrier": {
-		"message": "콘크리트 배리어",
+		"message": "콘크리트 장벽",
 		"description": "Id: cn_concrete_barrier\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_cn_concrete_tubes": {
-		"message": "콘크리트 튜브",
+		"message": "콘크리트 관",
 		"description": "Id: cn_concrete_tubes\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_cn_const_houses": {
@@ -1416,11 +1416,11 @@
 		"description": "Id: bs_livestock_belly\nGroup: Trailer body sets"
 	},
 	"ats_bs_log_4": {
-		"message": "4 볼스터 로거",
+		"message": "4 받침 로거",
 		"description": "Id: bs_log_4\nGroup: Trailer body sets"
 	},
 	"ats_bs_log_6": {
-		"message": "6 볼스터 로거",
+		"message": "6 받침 로거",
 		"description": "Id: bs_log_6\nGroup: Trailer body sets"
 	},
 	"ats_bs_wood_lowboy": {

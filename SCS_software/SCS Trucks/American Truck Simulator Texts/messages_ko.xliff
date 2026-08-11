@@ -113,7 +113,10 @@ Group: Steam Controller UI localizations in Steam client</context>
 
 Id: loading_location_country
 Message shown on loading screen when player location is inside specific country.</context>
+          <context context-type="x-crowdin-label">Temp</context>
         </context-group>
+        <note from="Alexander Tselikov (San_Sany4)" priority="4">It doesn't work in languages like Russian, because this construction requires Accusative case, which for certain country names are different from Infinitive. And I can't think of any way to make it work with Infinitive.</note>
+        <note from="Viktor Dobrovolný (Nettle)" priority="4">In Czech we have it translated as &quot;Somewhere in the state of ...&quot; which allows for the use of the nominative. Would that work in Russian too?</note>
       </trans-unit>
       <trans-unit id="555463" resname="steam_sctrl_action_set_layer_map" translate="no">
         <source>Map</source>
@@ -3510,7 +3513,7 @@ Group: Various accessory slots or accessory names.</context>
       </trans-unit>
       <trans-unit id="294865" resname="exhaust_m" translate="no">
         <source>Rear Exhaust</source>
-        <target state="translated">뒷 배기관</target>
+        <target state="translated">뒤쪽 배기관</target>
         <context-group purpose="information">
           <context context-type="source">exhaust_m
 
@@ -28063,7 +28066,7 @@ Group: Names of individual cargos.</context>
       </trans-unit>
       <trans-unit id="26392" resname="cn_concr_beams" translate="no">
         <source>Concrete Beams</source>
-        <target state="translated">콘크리트 빔</target>
+        <target state="translated">콘크리트 보</target>
         <context-group purpose="information">
           <context context-type="source">cn_concr_beams
 
@@ -28615,7 +28618,7 @@ Group: Names of individual cargos.</context>
       </trans-unit>
       <trans-unit id="26056" resname="cn_largetubes" translate="no">
         <source>Large Tubes</source>
-        <target state="translated">대형 튜브</target>
+        <target state="translated">대형 강관</target>
         <context-group purpose="information">
           <context context-type="source">cn_largetubes
 
@@ -30578,7 +30581,7 @@ Group: Special transport cargo names</context>
       </trans-unit>
       <trans-unit id="461914" resname="cn_ovs_tank" translate="no">
         <source>Large Reservoir Tank</source>
-        <target state="translated">대형 저수지 탱크</target>
+        <target state="translated">대형 저수조</target>
         <context-group purpose="information">
           <context context-type="source">cn_ovs_tank
 
@@ -47777,7 +47780,7 @@ Group: Trailer body types usage in tooltips</context>
       </trans-unit>
       <trans-unit id="59262" resname="body_cargo_types_log" translate="no">
         <source>Logs, beams or tubes</source>
-        <target state="translated">통나무, 빔 또는 튜브</target>
+        <target state="translated">통나무, 보 또는 튜브</target>
         <context-group purpose="information">
           <context context-type="source">body_cargo_types_log
 
@@ -56936,7 +56939,7 @@ Group: Road trip localization.</context>
       </trans-unit>
       <trans-unit id="707176" resname="tourist_board_msg">
         <source>Press the following key to activate tourist board:</source>
-        <target state="translated">관광 안내판을 활성화하려면 다음 키를 누르세요:</target>
+        <target state="translated">관광청을 활성화하려면 다음 키를 누르세요:</target>
         <context-group purpose="information">
           <context context-type="source">tourist_board_msg
 
@@ -58419,7 +58422,9 @@ Group: Road trip specific customer notes.</context>
 Id: cjob_legaldoc_negative_note_cargo
 Legal Documents (valuable)
 Group: Road trip specific customer notes.</context>
+          <context context-type="x-crowdin-label">Temp</context>
         </context-group>
+        <note from="Mads Teland (mads1153)" priority="4">This seems to be more specific for legal documents, so maybe missing Legal in between or it would look duplicate?</note>
       </trans-unit>
       <trans-unit id="707468" resname="cjob_legaldoc_negative_note_cargo_1">
         <source>Broken Seal</source>
@@ -58480,7 +58485,12 @@ Group: Road trip specific customer notes.</context>
 
 Id: cjob_parts_positive_note_cargo
 Group: Road trip specific customer notes.</context>
+          <context context-type="x-crowdin-label">Temp</context>
         </context-group>
+        <note from="Mads Teland (mads1153)" priority="4">Could this be renamed to something better suitable name? In Norwegian directly it would be &quot;Myntetilstand&quot; that doesn't make much sense.</note>
+        <note from="Alexander Tselikov (San_Sany4)" priority="4">@mads1153 &quot;Mint condition&quot; is an expression that comes from coin collectors, describing the coin that looks like it's just been minted, without any wear or damage. &quot;Mint&quot; here means the place that makes coins, rather than herb. Think of it as &quot;Pristine condition&quot;.</note>
+        <note from="Viktor Dobrovolný (Nettle)" priority="4">@mads1153 Exactly as @San_Sany4 says. Any string that will feel natural in your language and that conveys the meaning of unblemished/not-tampered with should be fine. This is a note you will get from a satisfied customer after delivering documents without crashing on the way.</note>
+        <note from="Mads Teland (mads1153)" priority="4">Solved it by changing to &quot;Feilfri tilstand&quot; that makes much more sense using Portugese translation string to Norwegian.</note>
       </trans-unit>
       <trans-unit id="707480" resname="cjob_tools_neutral_note_cargo">
         <source>Scuffed Tools</source>
@@ -58632,7 +58642,9 @@ Group: Road trip specific customer notes.</context>
 
 Id: cjob_soil_positive_note_cargo_3
 Group: Road trip specific customer notes.</context>
+          <context context-type="x-crowdin-label">Temp</context>
         </context-group>
+        <note from="Mads Teland (mads1153)" priority="4">Pristine and Untouched gives me same name in Norwegian &quot;Uberørte&quot;, so maybe it should have better name and also for other things beside samples?</note>
       </trans-unit>
       <trans-unit id="707510" resname="cjob_soil_positive_note_cargo_4">
         <source>Intact Containers</source>
@@ -60651,7 +60663,7 @@ Group: Atlas localization.</context>
       </trans-unit>
       <trans-unit id="707900" resname="detail_discover_photo_album_item">
         <source>Discover the Tourist Board to learn its location.</source>
-        <target state="translated">관광청 웹사이트를 방문하여 위치를 확인하세요.</target>
+        <target state="translated">위치를 알아보려면 관광청을 찾아보세요.</target>
         <context-group purpose="information">
           <context context-type="source">detail_discover_photo_album_item
 
@@ -60767,7 +60779,9 @@ Group: Atlas localization.</context>
 
 Id: pin_children
 Group: Atlas localization.</context>
+          <context context-type="x-crowdin-label">Temp</context>
         </context-group>
+        <note from="Mads Teland (mads1153)" priority="4">Maybe it should be renamed better since this would be kids name in Norwegian like &quot;Fest barn&quot; that doesn't make much sense.</note>
       </trans-unit>
       <trans-unit id="707924" resname="unpin_children">
         <source>Unpin Children</source>
@@ -61360,7 +61374,7 @@ Group: Adviser Options</context>
       </trans-unit>
       <trans-unit id="708038" resname="adv_hud_tourist_board_details">
         <source>Use $KEY$ to view details in Atlas</source>
-        <target state="translated">Atlas에서 세부 정보를 보려면 $KEY$를 사용하십시오</target>
+        <target state="translated">아틀라스에서 세부 정보를 보려면 $KEY$를 사용하십시오</target>
         <context-group purpose="information">
           <context context-type="source">adv_hud_tourist_board_details
 
@@ -61401,6 +61415,7 @@ Id: description_ford_f150_2023
 Group: Garage &amp; Shop - car descriptions</context>
           <context context-type="x-crowdin-label">1.61 Addition</context>
         </context-group>
+        <note from="RivaStyle" priority="4">@mads1153 the F-150 is actually a pick-up truck, not a SUV. While we just name them &quot;pick-up&quot;, 'Muricans just go for &quot;truck&quot;.</note>
       </trans-unit>
       <trans-unit id="708046" resname="description_ford_mustang_1967">
         <source>The Mustang defined the pony car era with sleek fastback lines, an unmistakable silhouette, and a roar that still turns heads today.</source>
@@ -64563,6 +64578,8 @@ Id: wy_cut_big_horn
 Google maps link: https://goo.gl/maps/Cj3TKqHKZak1iKyz5
 Group: Names of point of interest cutscenes.</context>
         </context-group>
+        <note from="RivaStyle" priority="4">I'd like to change the currently approved translation, because in my opinion it is preferable to keep, where possible, the original full name of the site.
+Thus, I'd rather simply name it as &quot;Bighorn National Forest&quot; than literally translating it.</note>
       </trans-unit>
       <trans-unit id="262466" resname="wy_cut_boysen">
         <source>Boysen State Park</source>
@@ -64751,6 +64768,7 @@ Group: Names of landmarks.</context>
 Id: landmark_ca_bigfoot_s
 Group: Names of landmarks.</context>
         </context-group>
+        <note from="RivaStyle" priority="4">The currently approved translation should be gendered as &quot;female&quot; to better reflect the subsequent &quot;foresta&quot; noun.</note>
       </trans-unit>
       <trans-unit id="262486" resname="landmark_ca_donner_l">
         <source>Donner Lake</source>
@@ -79965,7 +79983,7 @@ Id: hint_tb_first_title</context>
       </trans-unit>
       <trans-unit id="708060" resname="hint_tb_first_text">
         <source>You have explored the first location of a local Tourist Board. You can view its details in &lt;color value=@@clr_sel@@&gt;@@tourist_atlas_link@@&lt;/color&gt;. Explore all locations to learn more and earn rewards.</source>
-        <target state="translated">지역 관광 안내소의 첫 번째 위치를 둘러보셨습니다. 자세한 내용은 &lt;color value=@@clr_sel@@&gt;@@tourist_atlas_link@@&lt;/color&gt;에서 확인하실 수 있습니다. 모든 위치를 둘러보고 더 많은 정보를 얻고 보상을 받으세요.</target>
+        <target state="translated">지역 관광청의 첫 번째 위치를 둘러보셨습니다. 자세한 내용은 &lt;color value=@@clr_sel@@&gt;@@tourist_atlas_link@@&lt;/color&gt;에서 확인하실 수 있습니다. 모든 위치를 둘러보고 더 많은 정보를 얻고 보상을 받으세요.</target>
         <context-group purpose="information">
           <context context-type="source">hint_tb_first_text
 
@@ -80731,7 +80749,7 @@ Group: Accessory Names</context>
       </trans-unit>
       <trans-unit id="623923" resname="body_log_4">
         <source>4 Bolster Logger</source>
-        <target state="translated">4 볼스터 로거</target>
+        <target state="translated">4 받침 로거</target>
         <context-group purpose="information">
           <context context-type="source">body_log_4
 
@@ -80741,7 +80759,7 @@ Group: Accessory Names</context>
       </trans-unit>
       <trans-unit id="623925" resname="body_log_6">
         <source>6 Bolster Logger</source>
-        <target state="translated">6 볼스터 로거</target>
+        <target state="translated">6 받침 로거</target>
         <context-group purpose="information">
           <context context-type="source">body_log_6
 
@@ -92836,8 +92854,7 @@ Group: Accessory Names</context>
 
 Id: flag_flag_of_new_york
 Group: Accessory Names</context>
-          <context context-type="x-crowdin-label-1">Accessory</context>
-          <context context-type="x-crowdin-label-2">Temp</context>
+          <context context-type="x-crowdin-label">Accessory</context>
         </context-group>
         <note from="QL_RU_P" priority="4">The city or state?</note>
         <note from="QL Localization (crowdin.loca)" priority="4">@Nettle can you confirm?</note>
@@ -98415,7 +98432,8 @@ Group: Accessory Names</context>
 
 Id: r_chs_cover_plain_chromed_inset
 Group: Accessory Names</context>
-          <context context-type="x-crowdin-label">Accessory</context>
+          <context context-type="x-crowdin-label-1">Accessory</context>
+          <context context-type="x-crowdin-label-2">Temp</context>
         </context-group>
         <note from="RivaStyle" priority="4">also here, it should be &quot;Insert&quot;</note>
       </trans-unit>
@@ -98450,7 +98468,8 @@ Group: Accessory Names</context>
 
 Id: r_chs_cover_tread_plate_inset
 Group: Accessory Names</context>
-          <context context-type="x-crowdin-label">Accessory</context>
+          <context context-type="x-crowdin-label-1">Accessory</context>
+          <context context-type="x-crowdin-label-2">Temp</context>
         </context-group>
         <note from="RivaStyle" priority="4">shouldn't it be &quot;Insert&quot;?</note>
       </trans-unit>
@@ -115674,9 +115693,11 @@ Group: Washington TBs and POIs localization.</context>
 
 Id: poi_wa2_04
 Group: Washington TBs and POIs localization.</context>
-          <context context-type="x-crowdin-label-1">1.61 Addition</context>
-          <context context-type="x-crowdin-label-2">Tourist Info</context>
+          <context context-type="x-crowdin-label-1">Temp</context>
+          <context context-type="x-crowdin-label-2">1.61 Addition</context>
+          <context context-type="x-crowdin-label-3">Tourist Info</context>
         </context-group>
+        <note from="RivaStyle" priority="4">should be &quot;Wenatchee&quot;, with an &quot;e&quot;.</note>
       </trans-unit>
       <trans-unit id="685710" resname="poi_wa2_04_desc">
         <source>Along the Wenatchee River, remnants of early 19th-century irrigation canals and mills show how settlers harnessed its waters. Native tribes also relied on its salmon-rich waters for food and trade long before European settlement.</source>
@@ -115722,9 +115743,12 @@ Group: Washington TBs and POIs localization.</context>
 
 Id: poi_wa2_06
 Group: Washington TBs and POIs localization.</context>
-          <context context-type="x-crowdin-label-1">1.61 Addition</context>
-          <context context-type="x-crowdin-label-2">Tourist Info</context>
+          <context context-type="x-crowdin-label-1">Temp</context>
+          <context context-type="x-crowdin-label-2">1.61 Addition</context>
+          <context context-type="x-crowdin-label-3">Tourist Info</context>
         </context-group>
+        <note from="RivaStyle" priority="4">should be &quot;Dam&quot;</note>
+        <note from="Viktor Dobrovolný (Nettle)" priority="4">@RivaStyle haha. Yes. It definitely should be (and it will be corrected before the release of next patch. Nice catch.)</note>
       </trans-unit>
       <trans-unit id="685718" resname="poi_wa2_06_desc">
         <source>Constructed to manage local waterways, Dry Falls Dam sits atop prehistoric basalt cliffs, controlling seasonal flows while revealing terraces and plunge pools carved by Ice Age floods.</source>
@@ -116316,6 +116340,10 @@ Group: Oregon TBs and POIs localization.</context>
           <context context-type="x-crowdin-label-1">1.61 Addition</context>
           <context context-type="x-crowdin-label-2">Tourist Info</context>
         </context-group>
+        <note from="JohnnyW" priority="4">Disregarding my initial message, what is this entry about, exactly?</note>
+        <note from="Viktor Dobrovolný (Nettle)" priority="4">@JohnnyW Given the description, it seems you might be right in your original assessment. Either way, I will investigate and get back on this.</note>
+        <note from="Viktor Dobrovolný (Nettle)" priority="4">Investigation complete. The string is meant in the spirit of &quot;The State of Peter Ogden,&quot; giving importance to the historical figure in the region. It is a title (that's why it has to be short) of a tourist board (a new mechanic introduced in Road Trip, which has you following a route/string of different landmarks (one of which is the Peter Skene Ogden Viewpoint)).</note>
+        <note from="JohnnyW" priority="4">@Nettle Much appreciated for your thorough response.</note>
       </trans-unit>
       <trans-unit id="685816" resname="tb_or3_desc">
         <source>This route follows Oregon’s inland north–south corridor, passing forests and high desert. First explored by fur trader Peter Skene Ogden in the 1820s, it later gained strategic importance during the Second World War for its timber and transport routes.</source>

@@ -3565,7 +3565,7 @@ Group: Various accessory slots or accessory names.</context>
       </trans-unit>
       <trans-unit id="824" resname="exhaust_m">
         <source>Rear Exhaust</source>
-        <target state="translated">뒷 배기관</target>
+        <target state="translated">뒤쪽 배기관</target>
         <context-group purpose="information">
           <context context-type="source">exhaust_m
 
@@ -6011,6 +6011,10 @@ Group: Freight market job selection screen
 The player uses its own truck to pick up and deliver the cargo.
 Group: Job Market</context>
         </context-group>
+        <note from="Diego Tavares (DTavares2112)" priority="4">The currently approved translation is not correct. Please review my suggestion:
+&quot;Ganhe dinheiro para sua empresa usando seu próprio caminhão. Carregue a mercadoria e entregue-a em segurança.&quot;
+
+The expression &quot;sã e salva&quot; cannot be used for objects in the context of cargo transport.</note>
       </trans-unit>
       <trans-unit id="1010" resname="select_job_offer">
         <source>Set as GPS Destination</source>
@@ -21415,6 +21419,7 @@ Screen used to configure graphics related options.</context>
           <context context-type="x-crowdin-label">Temp</context>
         </context-group>
         <note from="QL Localization (crowdin.loca)" priority="4">@Nettle There's a space introduced in game after the colon (not present in CrowdIn string). Is this something it can be fixed or will you waive it?</note>
+        <note from="Viktor Dobrovolný (Nettle)" priority="4">Yeah, this is indeed an issue; I'll check if we can do anything about this when programmers have some time.</note>
       </trans-unit>
       <trans-unit id="2034" resname="sec">
         <source>seconds</source>
@@ -28767,7 +28772,7 @@ Group: Names of individual cargos.</context>
       </trans-unit>
       <trans-unit id="3392" resname="cn_concr_beams">
         <source>Concrete Beams</source>
-        <target state="translated">콘크리트 빔</target>
+        <target state="translated">콘크리트 보</target>
         <context-group purpose="information">
           <context context-type="source">cn_concr_beams
 
@@ -28777,7 +28782,7 @@ Group: Names of individual cargos.</context>
       </trans-unit>
       <trans-unit id="23110" resname="cn_concr_centering">
         <source>Concrete Centring</source>
-        <target state="translated">콘크리트 센터링</target>
+        <target state="translated">콘크리트 중심</target>
         <context-group purpose="information">
           <context context-type="source">cn_concr_centering
 
@@ -29437,7 +29442,7 @@ Group: Names of individual cargos.</context>
       </trans-unit>
       <trans-unit id="2940" resname="cn_largetubes">
         <source>Large Tubes</source>
-        <target state="translated">대형 튜브</target>
+        <target state="translated">대형 강관</target>
         <context-group purpose="information">
           <context context-type="source">cn_largetubes
 
@@ -32486,7 +32491,7 @@ Group: Special transport cargo names</context>
       </trans-unit>
       <trans-unit id="461754" resname="cn_ovs_tank">
         <source>Large Reservoir Tank</source>
-        <target state="translated">대형 저수지 탱크</target>
+        <target state="translated">대형 저수조</target>
         <context-group purpose="information">
           <context context-type="source">cn_ovs_tank
 
@@ -49380,6 +49385,8 @@ Group: Texts on screens related to World of Trucks online jobs</context>
 Id: external_market_desc
 Group: Texts on screens related to World of Trucks online jobs</context>
         </context-group>
+        <note from="Diego Tavares (DTavares2112)" priority="4">The currently approved translation is not correct. Please review my suggestion:
+&quot;Complete contratos do World of Trucks usando o seu próprio caminhão e reboque. O registo dessas entregas será armazenado no seu perfil do World of Trucks.&quot;</note>
       </trans-unit>
       <trans-unit id="72686" resname="external_market_t">
         <source>EXTERNAL MARKET</source>
@@ -54324,7 +54331,7 @@ Group: Trailer body types usage in tooltips</context>
       </trans-unit>
       <trans-unit id="59072" resname="body_cargo_types_log">
         <source>Logs, beams or tubes</source>
-        <target state="translated">통나무, 빔 또는 튜브</target>
+        <target state="translated">통나무, 보 또는 튜브</target>
         <context-group purpose="information">
           <context context-type="source">body_cargo_types_log
 
@@ -66495,7 +66502,6 @@ Group: Names of viewpoint cutscenes</context>
 Id: poc_cut_bjornfjell
 Google maps: https://maps.app.goo.gl/Vpnno7K7L64531ok9
 Group: Names of viewpoint cutscenes</context>
-          <context context-type="x-crowdin-label">Temp</context>
         </context-group>
         <note from="RivaStyle" priority="4">Given that the place's in Sweden (and the Maps link), the name should be Björnfjell instead of the proposed one.</note>
         <note from="Adam Hoas (adamhoas99)" priority="4">@RivaStyle Bjørnfjell is a small village in Norway. It's placed in Narvik's munincipal.</note>
@@ -72597,11 +72603,11 @@ Group: Book 1 Scenario 2_04</context>
 
 Id: aca_scenario_book1_2_05_title
 Group: Book 1 Scenario 2_05</context>
-          <context context-type="x-crowdin-label">Temp</context>
         </context-group>
         <note from="Diego Tavares (DTavares2112)" priority="4">For some reason, in Brazilian Portuguese, the information that appears is the string ID &quot;aca_scenario_book1_2_05_title&quot;. Below is a screenshot.
 https://prnt.sc/CBl5TYj-EWTN</note>
         <note from="QL Localization (crowdin.loca)" priority="4">@Nettle could you please check if this is still present in game?</note>
+        <note from="Viktor Dobrovolný (Nettle)" priority="4">Seems to be fine in both ATS and ETS2.</note>
       </trans-unit>
       <trans-unit id="397972" resname="aca_scenario_book1_2_05_desc">
         <source>In this scenario, we'll reverse the truck into a parking spot next to a kerb.</source>
@@ -124048,6 +124054,7 @@ Group: Names of paintjob accessories.</context>
 
 Id: pj_swooshmaster
 Group: Names of paintjob accessories.</context>
+          <context context-type="x-crowdin-label">Temp</context>
         </context-group>
         <note from="Adam Fojtík (morrelo)" priority="4">The empty or nbsp spaces probably shouldn't be part of the translation.</note>
       </trans-unit>

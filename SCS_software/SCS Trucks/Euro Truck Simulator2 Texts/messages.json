@@ -1264,7 +1264,7 @@
 		"description": "Id: exhaust_l\nGroup: Various accessory slots or accessory names."
 	},
 	"exhaust_m": {
-		"message": "뒷 배기관",
+		"message": "뒤쪽 배기관",
 		"description": "Id: exhaust_m\nAn open exhaust behind truck's cab. Usully one or two large vertical steel or chromed exhaust tubes.\nGroup: Various accessory slots or accessory names."
 	},
 	"exhaust_r": {
@@ -9944,11 +9944,11 @@
 		"description": "Id: cn_computers\nGroup: Names of individual cargos."
 	},
 	"cn_concr_beams": {
-		"message": "콘크리트 빔",
+		"message": "콘크리트 보",
 		"description": "Id: cn_concr_beams\nGroup: Names of individual cargos."
 	},
 	"cn_concr_centering": {
-		"message": "콘크리트 센터링",
+		"message": "콘크리트 중심",
 		"description": "Id: cn_concr_centering\nGroup: Names of individual cargos."
 	},
 	"cn_concr_stair": {
@@ -10208,7 +10208,7 @@
 		"description": "Id: cn_large_containers\nGroup: Names of individual cargos."
 	},
 	"cn_largetubes": {
-		"message": "대형 튜브",
+		"message": "대형 강관",
 		"description": "Id: cn_largetubes\nGroup: Names of individual cargos."
 	},
 	"cn_lead": {
@@ -11404,7 +11404,7 @@
 		"description": "Id: cn_mystery_cyl\nGroup: Special transport cargo names"
 	},
 	"cn_ovs_tank": {
-		"message": "대형 저수지 탱크",
+		"message": "대형 저수조",
 		"description": "Id: cn_ovs_tank\nGroup: Special transport cargo names"
 	},
 	"cn_pilot_boat": {
@@ -19452,7 +19452,7 @@
 		"description": "Id: body_cargo_types_livestock\nGroup: Trailer body types usage in tooltips"
 	},
 	"body_cargo_types_log": {
-		"message": "통나무, 빔 또는 튜브",
+		"message": "통나무, 보 또는 튜브",
 		"description": "Id: body_cargo_types_log\nGroup: Trailer body types usage in tooltips"
 	},
 	"body_cargo_types_lowbed": {

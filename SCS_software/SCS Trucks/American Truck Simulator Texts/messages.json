@@ -1268,7 +1268,7 @@
 		"description": "Id: exhaust_l\nGroup: Various accessory slots or accessory names."
 	},
 	"exhaust_m": {
-		"message": "뒷 배기관",
+		"message": "뒤쪽 배기관",
 		"description": "Id: exhaust_m\nAn open exhaust behind truck's cab. Usully one or two large vertical steel or chromed exhaust tubes.\nGroup: Various accessory slots or accessory names."
 	},
 	"exhaust_r": {
@@ -9800,7 +9800,7 @@
 		"description": "Id: cn_computers\nGroup: Names of individual cargos."
 	},
 	"cn_concr_beams": {
-		"message": "콘크리트 빔",
+		"message": "콘크리트 보",
 		"description": "Id: cn_concr_beams\nGroup: Names of individual cargos."
 	},
 	"cn_concrete": {
@@ -10020,7 +10020,7 @@
 		"description": "Id: cn_kerosene\nGroup: Names of individual cargos."
 	},
 	"cn_largetubes": {
-		"message": "대형 튜브",
+		"message": "대형 강관",
 		"description": "Id: cn_largetubes\nGroup: Names of individual cargos."
 	},
 	"cn_lead": {
@@ -10796,7 +10796,7 @@
 		"description": "Id: cn_mystery_cyl\nGroup: Special transport cargo names"
 	},
 	"cn_ovs_tank": {
-		"message": "대형 저수지 탱크",
+		"message": "대형 저수조",
 		"description": "Id: cn_ovs_tank\nGroup: Special transport cargo names"
 	},
 	"cn_pilot_boat": {
@@ -17092,7 +17092,7 @@
 		"description": "Id: body_cargo_types_livestock\nGroup: Trailer body types usage in tooltips"
 	},
 	"body_cargo_types_log": {
-		"message": "통나무, 빔 또는 튜브",
+		"message": "통나무, 보 또는 튜브",
 		"description": "Id: body_cargo_types_log\nGroup: Trailer body types usage in tooltips"
 	},
 	"body_cargo_types_lowboy": {
@@ -20704,7 +20704,7 @@
 		"description": "Id: tourist_board_discovered\nMessage that appears in the middle of the screen when a item is discovered. Example: \"BRUSSEL DISCOVERED\". Please, keep in uppercase.\nGroup: Road trip localization."
 	},
 	"tourist_board_msg": {
-		"message": "관광 안내판을 활성화하려면 다음 키를 누르세요:",
+		"message": "관광청을 활성화하려면 다음 키를 누르세요:",
 		"description": "Id: tourist_board_msg\nGroup: Road trip localization."
 	},
 	"stop_car_short": {
@@ -22152,7 +22152,7 @@
 		"description": "Id: detail_discover_tb\nGroup: Atlas localization."
 	},
 	"detail_discover_photo_album_item": {
-		"message": "관광청 웹사이트를 방문하여 위치를 확인하세요.",
+		"message": "위치를 알아보려면 관광청을 찾아보세요.",
 		"description": "Id: detail_discover_photo_album_item\nGroup: Atlas localization."
 	},
 	"detail_explore_photo_album_item": {
@@ -22428,7 +22428,7 @@
 		"description": "Id: adv_hud_tourist_board_completed\nGroup: Adviser Options"
 	},
 	"adv_hud_tourist_board_details": {
-		"message": "Atlas에서 세부 정보를 보려면 $KEY$를 사용하십시오",
+		"message": "아틀라스에서 세부 정보를 보려면 $KEY$를 사용하십시오",
 		"description": "Id: adv_hud_tourist_board_details\nGroup: Adviser Options"
 	},
 	"adv_hud_tourist_board_line_op_tooltip": {
@@ -29736,7 +29736,7 @@
 		"description": "Id: hint_tb_first_title"
 	},
 	"hint_tb_first_text": {
-		"message": "지역 관광 안내소의 첫 번째 위치를 둘러보셨습니다. 자세한 내용은 <color value=@@clr_sel@@>@@tourist_atlas_link@@</color>에서 확인하실 수 있습니다. 모든 위치를 둘러보고 더 많은 정보를 얻고 보상을 받으세요.",
+		"message": "지역 관광청의 첫 번째 위치를 둘러보셨습니다. 자세한 내용은 <color value=@@clr_sel@@>@@tourist_atlas_link@@</color>에서 확인하실 수 있습니다. 모든 위치를 둘러보고 더 많은 정보를 얻고 보상을 받으세요.",
 		"description": "Id: hint_tb_first_text"
 	},
 	"hint_tb_bef_compl_title": {
@@ -30036,11 +30036,11 @@
 		"description": "Id: body_livestock_belly\nGroup: Accessory Names"
 	},
 	"body_log_4": {
-		"message": "4 볼스터 로거",
+		"message": "4 받침 로거",
 		"description": "Id: body_log_4\nGroup: Accessory Names"
 	},
 	"body_log_6": {
-		"message": "6 볼스터 로거",
+		"message": "6 받침 로거",
 		"description": "Id: body_log_6\nGroup: Accessory Names"
 	},
 	"body_reefer": {
