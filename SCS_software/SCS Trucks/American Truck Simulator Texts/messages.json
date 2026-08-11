@@ -20704,7 +20704,7 @@
 		"description": "Id: tourist_board_discovered\nMessage that appears in the middle of the screen when a item is discovered. Example: \"BRUSSEL DISCOVERED\". Please, keep in uppercase.\nGroup: Road trip localization."
 	},
 	"tourist_board_msg": {
-		"message": "관광청을 활성화하려면 다음 키를 누르세요:",
+		"message": "관광 안내판을 활성화하려면 다음 키를 누르세요:",
 		"description": "Id: tourist_board_msg\nGroup: Road trip localization."
 	},
 	"stop_car_short": {
@@ -21912,7 +21912,7 @@
 		"description": "Id: career_progress_stats_explore_atlas\nGroup: Car career localization."
 	},
 	"career_progress_stats_explore_tbs_discovered": {
-		"message": "관광청이 발견했습니다",
+		"message": "관광 안내판이 발견했습니다",
 		"description": "Id: career_progress_stats_explore_tbs_discovered\nGroup: Car career localization."
 	},
 	"career_progress_stats_explore_pois_discovered": {
@@ -21956,7 +21956,7 @@
 		"description": "Id: tourist_atlas_filter_all\nGroup: Atlas localization."
 	},
 	"tourist_atlas_filter_touristbs": {
-		"message": "모든 관광청",
+		"message": "모든 관광 안내판",
 		"description": "Id: tourist_atlas_filter_touristbs\nGroup: Atlas localization."
 	},
 	"tourist_atlas_filter_photo_trophies": {
@@ -21996,19 +21996,19 @@
 		"description": "Id: mapl_point_of_interest_discovered\nGroup: Atlas localization."
 	},
 	"mapl_tourist_board": {
-		"message": "관광청",
+		"message": "관광 안내판",
 		"description": "Id: mapl_tourist_board\nGroup: Atlas localization."
 	},
 	"mapl_tourist_board_completed": {
-		"message": "관광청 (탐색됨)",
+		"message": "관광 안내판 (탐색됨)",
 		"description": "Id: mapl_tourist_board_completed\nGroup: Atlas localization."
 	},
 	"mapl_tourist_board_discovered": {
-		"message": "관광청 (발견됨)",
+		"message": "관광 안내판 (발견됨)",
 		"description": "Id: mapl_tourist_board_discovered\nGroup: Atlas localization."
 	},
 	"mapl_tourist_board_undiscovered": {
-		"message": "관광청 (미발견)",
+		"message": "관광 안내판 (미발견)",
 		"description": "Id: mapl_tourist_board_undiscovered\nGroup: Atlas localization."
 	},
 	"mapl_location_states": {
@@ -22040,7 +22040,7 @@
 		"description": "Id: tourist_atlas_locations\nGroup: Atlas localization."
 	},
 	"tourist_atlas_last_updated_tb": {
-		"message": "관광청 최종 업데이트:",
+		"message": "관광 안내판 최종 업데이트:",
 		"description": "Id: tourist_atlas_last_updated_tb\nGroup: Atlas localization."
 	},
 	"tourist_atlas_last_updated_loc": {
@@ -22080,7 +22080,7 @@
 		"description": "Id: tourist_atlas_undiscovered\nGroup: Atlas localization."
 	},
 	"tourist_atlas_touristbs": {
-		"message": "관광청",
+		"message": "관광 안내판",
 		"description": "Id: tourist_atlas_touristbs\nGroup: Atlas localization."
 	},
 	"tourist_atlas_photo_trophies": {
@@ -22096,7 +22096,7 @@
 		"description": "Id: tourist_atlas_pointsoi\nGroup: Atlas localization."
 	},
 	"tourist_atlas_select_tb": {
-		"message": "자세한 내용을 알아보려면 관광청을 선택하세요.",
+		"message": "자세한 내용을 알아보려면 관광 안내판을 선택하세요.",
 		"description": "Id: tourist_atlas_select_tb\nGroup: Atlas localization."
 	},
 	"attractions_along_the_road": {
@@ -22104,7 +22104,7 @@
 		"description": "Id: attractions_along_the_road\nGroup: Atlas localization."
 	},
 	"belongs_to_tb": {
-		"message": "관광청 소속:",
+		"message": "관광 안내판 소속:",
 		"description": "Id: belongs_to_tb\nGroup: Atlas localization."
 	},
 	"tourist_atlas_detail_show_location": {
@@ -22120,7 +22120,7 @@
 		"description": "Id: overlay_focus_panel\nGroup: Atlas localization."
 	},
 	"overlay_open_tb": {
-		"message": "열린 관광청",
+		"message": "열린 관광 안내판",
 		"description": "Id: overlay_open_tb\nGroup: Atlas localization."
 	},
 	"overlay_open_item": {
@@ -22148,11 +22148,11 @@
 		"description": "Id: tourist_atlas_view_in_gallery\nGroup: Atlas localization."
 	},
 	"detail_discover_tb": {
-		"message": "더 자세한 정보를 원하시면 해당 관광청을 방문해 보세요.",
+		"message": "더 자세한 정보를 원하시면 해당 관광 안내판을 방문해 보세요.",
 		"description": "Id: detail_discover_tb\nGroup: Atlas localization."
 	},
 	"detail_discover_photo_album_item": {
-		"message": "위치를 알아보려면 관광청을 찾아보세요.",
+		"message": "위치를 알아보려면 관광 안내판을 찾아보세요.",
 		"description": "Id: detail_discover_photo_album_item\nGroup: Atlas localization."
 	},
 	"detail_explore_photo_album_item": {
@@ -22176,7 +22176,7 @@
 		"description": "Id: tourist_atlas_nav_full\nGroup: Atlas localization."
 	},
 	"no_discovered_tb": {
-		"message": "발견되지 않은 관광청",
+		"message": "발견되지 않은 관광 안내판",
 		"description": "Id: no_discovered_tb\nGroup: Atlas localization."
 	},
 	"postcard_progress": {
@@ -22184,11 +22184,11 @@
 		"description": "Id: postcard_progress\nGroup: Atlas localization."
 	},
 	"photo_album_touristbs_tab": {
-		"message": "관광청",
+		"message": "관광 안내판",
 		"description": "Id: photo_album_touristbs_tab\nGroup: Atlas localization."
 	},
 	"photo_album_touristbs_non_visited_tooltip": {
-		"message": "관광청은 아직 완료되지 않았습니다",
+		"message": "관광 안내판은 아직 완료되지 않았습니다",
 		"description": "Id: photo_album_touristbs_non_visited_tooltip\nGroup: Atlas localization."
 	},
 	"photo_album_poi_unknown": {
@@ -22424,7 +22424,7 @@
 		"description": "Id: adv_hud_tourist_board_newly_discovered\nGroup: Adviser Options"
 	},
 	"adv_hud_tourist_board_completed": {
-		"message": "관광청 완료",
+		"message": "관광 안내판 완료",
 		"description": "Id: adv_hud_tourist_board_completed\nGroup: Adviser Options"
 	},
 	"adv_hud_tourist_board_details": {
@@ -29724,11 +29724,11 @@
 		"description": "Id: hint_car_job_text"
 	},
 	"hint_tour_board_title": {
-		"message": "관광청",
+		"message": "관광 안내판",
 		"description": "Id: hint_tour_board_title"
 	},
 	"hint_tour_board_text": {
-		"message": "관광청이 근처에 있습니다. 활성화하면 <color value=@@clr_sel@@>@@tourist_atlas_link@@</color>의 콘텐츠를 잠금 해제하여 인근 명소와 관심 장소를 탐색할 수 있습니다.",
+		"message": "관광 안내판이 근처에 있습니다. 활성화하면 <color value=@@clr_sel@@>@@tourist_atlas_link@@</color>의 콘텐츠를 잠금 해제하여 인근 명소와 관심 지점을 탐색할 수 있습니다.",
 		"description": "Id: hint_tour_board_text"
 	},
 	"hint_tb_first_title": {
@@ -29736,7 +29736,7 @@
 		"description": "Id: hint_tb_first_title"
 	},
 	"hint_tb_first_text": {
-		"message": "지역 관광청의 첫 번째 위치를 둘러보셨습니다. 자세한 내용은 <color value=@@clr_sel@@>@@tourist_atlas_link@@</color>에서 확인하실 수 있습니다. 모든 위치를 둘러보고 더 많은 정보를 얻고 보상을 받으세요.",
+		"message": "지역 관광 안내판의 첫 번째 위치를 둘러보셨습니다. 자세한 내용은 <color value=@@clr_sel@@>@@tourist_atlas_link@@</color>에서 확인하실 수 있습니다. 모든 위치를 둘러보고 더 많은 정보를 얻고 보상을 받으세요.",
 		"description": "Id: hint_tb_first_text"
 	},
 	"hint_tb_bef_compl_title": {
@@ -29744,15 +29744,15 @@
 		"description": "Id: hint_tb_bef_compl_title"
 	},
 	"hint_tb_bef_compl_text": {
-		"message": "첫 번째 지역 관광청을 완전히 탐험하고 엽서를 받기 전에 단 한 곳만 남습니다.",
+		"message": "첫 번째 지역 관광 안내판을 완전히 탐험하고 엽서를 받기 전에 단 한 곳만 남습니다.",
 		"description": "Id: hint_tb_bef_compl_text"
 	},
 	"hint_tb_done_title": {
-		"message": "관광청 탐색됨",
+		"message": "관광 안내판 탐색됨",
 		"description": "Id: hint_tb_done_title"
 	},
 	"hint_tb_done_text": {
-		"message": "지역 관광청의 모든 지점을 성공적으로 둘러보셨습니다. 자세한 정보는 <color value=@@clr_sel@@>@@tourist_atlas_link@@</color>에서 확인하실 수 있습니다. 보상으로, 이제 차량에 엽서를 전시할 수 있습니다.",
+		"message": "지역 관광 안내판의 모든 지점을 성공적으로 둘러보셨습니다. 자세한 정보는 <color value=@@clr_sel@@>@@tourist_atlas_link@@</color>에서 확인하실 수 있습니다. 보상으로, 이제 차량에 엽서를 전시할 수 있습니다.",
 		"description": "Id: hint_tb_done_text"
 	},
 	"hint_vehicle_prio_title": {

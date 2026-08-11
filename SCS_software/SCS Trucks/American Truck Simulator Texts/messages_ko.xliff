@@ -56939,7 +56939,7 @@ Group: Road trip localization.</context>
       </trans-unit>
       <trans-unit id="707176" resname="tourist_board_msg">
         <source>Press the following key to activate tourist board:</source>
-        <target state="translated">관광청을 활성화하려면 다음 키를 누르세요:</target>
+        <target state="translated">관광 안내판을 활성화하려면 다음 키를 누르세요:</target>
         <context-group purpose="information">
           <context context-type="source">tourist_board_msg
 
@@ -60059,7 +60059,7 @@ Group: Car career localization.</context>
       </trans-unit>
       <trans-unit id="707780" resname="career_progress_stats_explore_tbs_discovered">
         <source>Tourist boards discovered</source>
-        <target state="translated">관광청이 발견했습니다</target>
+        <target state="translated">관광 안내판이 발견했습니다</target>
         <context-group purpose="information">
           <context context-type="source">career_progress_stats_explore_tbs_discovered
 
@@ -60173,7 +60173,7 @@ Group: Atlas localization.</context>
       </trans-unit>
       <trans-unit id="707802" resname="tourist_atlas_filter_touristbs">
         <source>All Tourist Boards</source>
-        <target state="translated">모든 관광청</target>
+        <target state="translated">모든 관광 안내판</target>
         <context-group purpose="information">
           <context context-type="source">tourist_atlas_filter_touristbs
 
@@ -60273,7 +60273,7 @@ Group: Atlas localization.</context>
       </trans-unit>
       <trans-unit id="707822" resname="mapl_tourist_board">
         <source>Tourist Board</source>
-        <target state="translated">관광청</target>
+        <target state="translated">관광 안내판</target>
         <context-group purpose="information">
           <context context-type="source">mapl_tourist_board
 
@@ -60283,7 +60283,7 @@ Group: Atlas localization.</context>
       </trans-unit>
       <trans-unit id="707824" resname="mapl_tourist_board_completed">
         <source>Tourist Board (explored)</source>
-        <target state="translated">관광청 (탐색됨)</target>
+        <target state="translated">관광 안내판 (탐색됨)</target>
         <context-group purpose="information">
           <context context-type="source">mapl_tourist_board_completed
 
@@ -60293,7 +60293,7 @@ Group: Atlas localization.</context>
       </trans-unit>
       <trans-unit id="707826" resname="mapl_tourist_board_discovered">
         <source>Tourist Board (discovered)</source>
-        <target state="translated">관광청 (발견됨)</target>
+        <target state="translated">관광 안내판 (발견됨)</target>
         <context-group purpose="information">
           <context context-type="source">mapl_tourist_board_discovered
 
@@ -60303,7 +60303,7 @@ Group: Atlas localization.</context>
       </trans-unit>
       <trans-unit id="707828" resname="mapl_tourist_board_undiscovered">
         <source>Tourist Board (undiscovered)</source>
-        <target state="translated">관광청 (미발견)</target>
+        <target state="translated">관광 안내판 (미발견)</target>
         <context-group purpose="information">
           <context context-type="source">mapl_tourist_board_undiscovered
 
@@ -60383,7 +60383,7 @@ Group: Atlas localization.</context>
       </trans-unit>
       <trans-unit id="707844" resname="tourist_atlas_last_updated_tb">
         <source>Last updated Tourist Board:</source>
-        <target state="translated">관광청 최종 업데이트:</target>
+        <target state="translated">관광 안내판 최종 업데이트:</target>
         <context-group purpose="information">
           <context context-type="source">tourist_atlas_last_updated_tb
 
@@ -60483,7 +60483,7 @@ Group: Atlas localization.</context>
       </trans-unit>
       <trans-unit id="707864" resname="tourist_atlas_touristbs">
         <source>Tourist Boards</source>
-        <target state="translated">관광청</target>
+        <target state="translated">관광 안내판</target>
         <context-group purpose="information">
           <context context-type="source">tourist_atlas_touristbs
 
@@ -60523,7 +60523,7 @@ Group: Atlas localization.</context>
       </trans-unit>
       <trans-unit id="707872" resname="tourist_atlas_select_tb">
         <source>Select a Tourist Board to learn more.</source>
-        <target state="translated">자세한 내용을 알아보려면 관광청을 선택하세요.</target>
+        <target state="translated">자세한 내용을 알아보려면 관광 안내판을 선택하세요.</target>
         <context-group purpose="information">
           <context context-type="source">tourist_atlas_select_tb
 
@@ -60543,7 +60543,7 @@ Group: Atlas localization.</context>
       </trans-unit>
       <trans-unit id="707876" resname="belongs_to_tb">
         <source>Belongs to tourist board:</source>
-        <target state="translated">관광청 소속:</target>
+        <target state="translated">관광 안내판 소속:</target>
         <context-group purpose="information">
           <context context-type="source">belongs_to_tb
 
@@ -60583,7 +60583,7 @@ Group: Atlas localization.</context>
       </trans-unit>
       <trans-unit id="707884" resname="overlay_open_tb">
         <source>Open tourist board</source>
-        <target state="translated">열린 관광청</target>
+        <target state="translated">열린 관광 안내판</target>
         <context-group purpose="information">
           <context context-type="source">overlay_open_tb
 
@@ -60653,7 +60653,7 @@ Group: Atlas localization.</context>
       </trans-unit>
       <trans-unit id="707898" resname="detail_discover_tb">
         <source>Discover this Tourist Board to learn more.</source>
-        <target state="translated">더 자세한 정보를 원하시면 해당 관광청을 방문해 보세요.</target>
+        <target state="translated">더 자세한 정보를 원하시면 해당 관광 안내판을 방문해 보세요.</target>
         <context-group purpose="information">
           <context context-type="source">detail_discover_tb
 
@@ -60663,7 +60663,7 @@ Group: Atlas localization.</context>
       </trans-unit>
       <trans-unit id="707900" resname="detail_discover_photo_album_item">
         <source>Discover the Tourist Board to learn its location.</source>
-        <target state="translated">위치를 알아보려면 관광청을 찾아보세요.</target>
+        <target state="translated">위치를 알아보려면 관광 안내판을 찾아보세요.</target>
         <context-group purpose="information">
           <context context-type="source">detail_discover_photo_album_item
 
@@ -60723,7 +60723,7 @@ Group: Atlas localization.</context>
       </trans-unit>
       <trans-unit id="707912" resname="no_discovered_tb">
         <source>No discovered Tourist Board</source>
-        <target state="translated">발견되지 않은 관광청</target>
+        <target state="translated">발견되지 않은 관광 안내판</target>
         <context-group purpose="information">
           <context context-type="source">no_discovered_tb
 
@@ -60743,7 +60743,7 @@ Group: Atlas localization.</context>
       </trans-unit>
       <trans-unit id="707916" resname="photo_album_touristbs_tab">
         <source>Tourist Boards</source>
-        <target state="translated">관광청</target>
+        <target state="translated">관광 안내판</target>
         <context-group purpose="information">
           <context context-type="source">photo_album_touristbs_tab
 
@@ -60753,7 +60753,7 @@ Group: Atlas localization.</context>
       </trans-unit>
       <trans-unit id="707918" resname="photo_album_touristbs_non_visited_tooltip">
         <source>Tourist Board is not completed yet</source>
-        <target state="translated">관광청은 아직 완료되지 않았습니다</target>
+        <target state="translated">관광 안내판은 아직 완료되지 않았습니다</target>
         <context-group purpose="information">
           <context context-type="source">photo_album_touristbs_non_visited_tooltip
 
@@ -61363,7 +61363,7 @@ Group: Adviser Options</context>
       </trans-unit>
       <trans-unit id="708036" resname="adv_hud_tourist_board_completed">
         <source>Tourist Board Completed</source>
-        <target state="translated">관광청 완료</target>
+        <target state="translated">관광 안내판 완료</target>
         <context-group purpose="information">
           <context context-type="source">adv_hud_tourist_board_completed
 
@@ -79953,7 +79953,7 @@ Id: hint_car_job_text</context>
       </trans-unit>
       <trans-unit id="708054" resname="hint_tour_board_title">
         <source>Tourist Board</source>
-        <target state="translated">관광청</target>
+        <target state="translated">관광 안내판</target>
         <context-group purpose="information">
           <context context-type="source">hint_tour_board_title
 
@@ -79963,7 +79963,7 @@ Id: hint_tour_board_title</context>
       </trans-unit>
       <trans-unit id="708056" resname="hint_tour_board_text">
         <source>A Tourist Board is nearby. Activate it to unlock its content in &lt;color value=@@clr_sel@@&gt;@@tourist_atlas_link@@&lt;/color&gt; to guide your exploration of nearby landmarks and points of interest.</source>
-        <target state="translated">관광청이 근처에 있습니다. 활성화하면 &lt;color value=@@clr_sel@@&gt;@@tourist_atlas_link@@&lt;/color&gt;의 콘텐츠를 잠금 해제하여 인근 명소와 관심 장소를 탐색할 수 있습니다.</target>
+        <target state="translated">관광 안내판이 근처에 있습니다. 활성화하면 &lt;color value=@@clr_sel@@&gt;@@tourist_atlas_link@@&lt;/color&gt;의 콘텐츠를 잠금 해제하여 인근 명소와 관심 지점을 탐색할 수 있습니다.</target>
         <context-group purpose="information">
           <context context-type="source">hint_tour_board_text
 
@@ -79983,7 +79983,7 @@ Id: hint_tb_first_title</context>
       </trans-unit>
       <trans-unit id="708060" resname="hint_tb_first_text">
         <source>You have explored the first location of a local Tourist Board. You can view its details in &lt;color value=@@clr_sel@@&gt;@@tourist_atlas_link@@&lt;/color&gt;. Explore all locations to learn more and earn rewards.</source>
-        <target state="translated">지역 관광청의 첫 번째 위치를 둘러보셨습니다. 자세한 내용은 &lt;color value=@@clr_sel@@&gt;@@tourist_atlas_link@@&lt;/color&gt;에서 확인하실 수 있습니다. 모든 위치를 둘러보고 더 많은 정보를 얻고 보상을 받으세요.</target>
+        <target state="translated">지역 관광 안내판의 첫 번째 위치를 둘러보셨습니다. 자세한 내용은 &lt;color value=@@clr_sel@@&gt;@@tourist_atlas_link@@&lt;/color&gt;에서 확인하실 수 있습니다. 모든 위치를 둘러보고 더 많은 정보를 얻고 보상을 받으세요.</target>
         <context-group purpose="information">
           <context context-type="source">hint_tb_first_text
 
@@ -80003,7 +80003,7 @@ Id: hint_tb_bef_compl_title</context>
       </trans-unit>
       <trans-unit id="708064" resname="hint_tb_bef_compl_text">
         <source>Only one location remains before you fully explore your first local Tourist Board and earn your postcard.</source>
-        <target state="translated">첫 번째 지역 관광청을 완전히 탐험하고 엽서를 받기 전에 단 한 곳만 남습니다.</target>
+        <target state="translated">첫 번째 지역 관광 안내판을 완전히 탐험하고 엽서를 받기 전에 단 한 곳만 남습니다.</target>
         <context-group purpose="information">
           <context context-type="source">hint_tb_bef_compl_text
 
@@ -80013,7 +80013,7 @@ Id: hint_tb_bef_compl_text</context>
       </trans-unit>
       <trans-unit id="708066" resname="hint_tb_done_title">
         <source>Tourist Board Explored</source>
-        <target state="translated">관광청 탐색됨</target>
+        <target state="translated">관광 안내판 탐색됨</target>
         <context-group purpose="information">
           <context context-type="source">hint_tb_done_title
 
@@ -80023,7 +80023,7 @@ Id: hint_tb_done_title</context>
       </trans-unit>
       <trans-unit id="708068" resname="hint_tb_done_text">
         <source>You have successfully explored all locations of a local Tourist Board. You can view their details in &lt;color value=@@clr_sel@@&gt;@@tourist_atlas_link@@&lt;/color&gt;. As a reward, you can now display the postcard in your vehicle.</source>
-        <target state="translated">지역 관광청의 모든 지점을 성공적으로 둘러보셨습니다. 자세한 정보는 &lt;color value=@@clr_sel@@&gt;@@tourist_atlas_link@@&lt;/color&gt;에서 확인하실 수 있습니다. 보상으로, 이제 차량에 엽서를 전시할 수 있습니다.</target>
+        <target state="translated">지역 관광 안내판의 모든 지점을 성공적으로 둘러보셨습니다. 자세한 정보는 &lt;color value=@@clr_sel@@&gt;@@tourist_atlas_link@@&lt;/color&gt;에서 확인하실 수 있습니다. 보상으로, 이제 차량에 엽서를 전시할 수 있습니다.</target>
         <context-group purpose="information">
           <context context-type="source">hint_tb_done_text
 
