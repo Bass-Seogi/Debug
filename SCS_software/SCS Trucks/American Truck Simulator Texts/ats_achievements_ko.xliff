@@ -2642,6 +2642,7 @@ Achievement description for American Truck Simulator shown on the Steam website 
         </context-group>
         <note from="Alexander Tselikov (San_Sany4)" priority="4">@crowdin.loca the current translation is ambiguous</note>
         <note from="QL_RU_P" priority="4">What is ambiguous, please?@San_Sany4</note>
+        <note from="Alexander Tselikov (San_Sany4)" priority="4">@QL_RU_P Not sure right now, I guess something has changed since I opened that issue. I'll reopen if I see a problem again.</note>
       </trans-unit>
       <trans-unit id="462607" resname="NEW_ACHIEVEMENT_11_0_SHORT">
         <source>Complete deliveries on at least 10 oversize routes in base game</source>
