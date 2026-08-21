@@ -2075,6 +2075,7 @@ Id: NEW_ACHIEVEMENT_4_30_NAME
 Achievement name for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
         </context-group>
         <note from="Kuna (kuna.kunosic)" priority="4">I would keep this as original &quot;Sky Delivery&quot;</note>
+        <note from="Alexander Tselikov (San_Sany4)" priority="4">@QL_RU_P I think this achievement translation should be swapped with &quot;Up and Away&quot; translation in Russian. They fit each other original strings better.</note>
       </trans-unit>
       <trans-unit id="462533" resname="NEW_ACHIEVEMENT_4_30_DESC">
         <source>Deliver cargo to An-124 depot</source>
@@ -2610,6 +2611,9 @@ Achievement description for American Truck Simulator shown on the Steam website 
         </context-group>
         <note from="Alexander Tselikov (San_Sany4)" priority="4">@crowdin.loca the current translation is ambiguous</note>
         <note from="QL_RU_P" priority="4">@San_Sany4 Could you please clarify, why it seems ambiguous? For me it looks clear.</note>
+        <note from="Alexander Tselikov (San_Sany4)" priority="4">@QL_RU_P Because translation doesn't say they have to be unique. Doing the same cargo on another route doesn't count.
+
+https://forum.scssoft.com/viewtopic.php?p=2128404#p2128404</note>
       </trans-unit>
       <trans-unit id="493521" resname="NEW_ACHIEVEMENT_11_3_SHORT">
         <source>Complete at least 10 unique deliveries of oversize cargoes</source>
@@ -3334,6 +3338,7 @@ Achievement name for American Truck Simulator shown on the Steam website (http:/
         <note from="Adam Hoas (adamhoas99)" priority="4">@SpanishProofreader I fully agree. Seems easier to just use it due to the achievement text.</note>
         <note from="CptMeatmug" priority="4">I know I'm late to the party, but I'd say this could be translated to any other big or legendary local train if there's one, since Big Boy is not that well-known other than probably locals and connection with Cheyenne/Wyoming is also not recogniced. Most people would propably think that it's just not translated yet if left untranslated on purpose. Atleast us Finns don't usually use that much English phrases and it would make more sense to have it translated.
 The achievement text will still fit and would miss only title's slight connection with hauling something heavy.</note>
+        <note from="Alexander Tselikov (San_Sany4)" priority="4">@QL_RU_P this is the name of an iconic steam locomotive. I don't think it should be translated.</note>
       </trans-unit>
       <trans-unit id="462693" resname="NEW_ACHIEVEMENT_33_9_DESC">
         <source>Deliver Train Axles, Tamping Machine and Rails to or from the rail yard in Cheyenne</source>
