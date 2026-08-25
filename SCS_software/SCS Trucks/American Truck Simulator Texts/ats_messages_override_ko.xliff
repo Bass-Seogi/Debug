@@ -315,6 +315,17 @@ Id: roof_window
 Group: Various accessory slots or accessory names.</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="732094" resname="ats_rv_mirror">
+        <source>Rearview Mirror</source>
+        <target state="translated">후방 카메라</target>
+        <context-group purpose="information">
+          <context context-type="source">ats_rv_mirror
+
+Id: rv_mirror
+Group: Various accessory slots or accessory names.</context>
+          <context context-type="x-crowdin-label">1.61 Addition</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="263745" resname="ats_s_logo">
         <source>Side Logo</source>
         <target state="translated">사이드 로고</target>
@@ -4336,6 +4347,17 @@ Id: aberdeen
 Group: Names of cities</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="732096" resname="ats_aberdeen_sd">
+        <source>Aberdeen</source>
+        <target state="translated">애버딘</target>
+        <context-group purpose="information">
+          <context context-type="source">ats_aberdeen_sd
+
+Id: aberdeen_sd
+Group: Names of cities</context>
+          <context context-type="x-crowdin-label">1.61 Addition</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="263463" resname="ats_abilene">
         <source>Abilene</source>
         <target state="translated">애빌린</target>
@@ -4566,6 +4588,17 @@ Id: bozeman
 Group: Names of cities</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="732098" resname="ats_brookings">
+        <source>Brookings</source>
+        <target state="translated">브루킹스</target>
+        <context-group purpose="information">
+          <context context-type="source">ats_brookings
+
+Id: brookings
+Group: Names of cities</context>
+          <context context-type="x-crowdin-label">1.61 Addition</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="263471" resname="ats_brownsville">
         <source>Brownsville</source>
         <target state="translated">브라운즈빌</target>
@@ -4574,6 +4607,17 @@ Group: Names of cities</context>
 
 Id: brownsville
 Group: Names of cities</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="732100" resname="ats_buffalo">
+        <source>Buffalo</source>
+        <target state="translated">버팔로</target>
+        <context-group purpose="information">
+          <context context-type="source">ats_buffalo
+
+Id: buffalo
+Group: Names of cities</context>
+          <context context-type="x-crowdin-label">1.61 Addition</context>
         </context-group>
       </trans-unit>
       <trans-unit id="133366" resname="ats_burlington">
@@ -6014,6 +6058,17 @@ Id: missoula
 Group: Names of cities</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="732102" resname="ats_mitchell">
+        <source>Mitchell</source>
+        <target state="translated">미첼</target>
+        <context-group purpose="information">
+          <context context-type="source">ats_mitchell
+
+Id: mitchell
+Group: Names of cities</context>
+          <context context-type="x-crowdin-label">1.61 Addition</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="101286" resname="ats_moab">
         <source>Moab</source>
         <target state="translated">모아브</target>
@@ -6022,6 +6077,17 @@ Group: Names of cities</context>
 
 Id: moab
 Group: Names of cities</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="732104" resname="ats_mobridge">
+        <source>Mobridge</source>
+        <target state="translated">모브릿지</target>
+        <context-group purpose="information">
+          <context context-type="source">ats_mobridge
+
+Id: mobridge
+Group: Names of cities</context>
+          <context context-type="x-crowdin-label">1.61 Addition</context>
         </context-group>
       </trans-unit>
       <trans-unit id="370110" resname="ats_modesto">
@@ -6324,6 +6390,17 @@ Id: phoenix
 Group: Names of cities</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="732106" resname="ats_pierre">
+        <source>Pierre</source>
+        <target state="translated">피에르</target>
+        <context-group purpose="information">
+          <context context-type="source">ats_pierre
+
+Id: pierre
+Group: Names of cities</context>
+          <context context-type="x-crowdin-label">1.61 Addition</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="396790" resname="ats_pine_bluff">
         <source>Pine Bluff</source>
         <target state="translated">파인블러프</target>
@@ -6472,6 +6549,17 @@ Group: Names of cities</context>
 
 Id: rangely
 Group: Names of cities</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="732108" resname="ats_rapid_city">
+        <source>Rapid City</source>
+        <target state="translated">래피드시티</target>
+        <context-group purpose="information">
+          <context context-type="source">ats_rapid_city
+
+Id: rapid_city
+Group: Names of cities</context>
+          <context context-type="x-crowdin-label">1.61 Addition</context>
         </context-group>
       </trans-unit>
       <trans-unit id="59196" resname="ats_raton">
@@ -6815,6 +6903,17 @@ Id: sioux_city
 Group: Names of cities</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="732110" resname="ats_sioux_falls">
+        <source>Sioux Falls</source>
+        <target state="translated">수폴스</target>
+        <context-group purpose="information">
+          <context context-type="source">ats_sioux_falls
+
+Id: sioux_falls
+Group: Names of cities</context>
+          <context context-type="x-crowdin-label">1.61 Addition</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="59226" resname="ats_socorro">
         <source>Socorro</source>
         <target state="translated">소코로</target>
@@ -6823,6 +6922,17 @@ Group: Names of cities</context>
 
 Id: socorro
 Group: Names of cities</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="732112" resname="ats_spearfish">
+        <source>Spearfish</source>
+        <target state="translated">스페어피쉬</target>
+        <context-group purpose="information">
+          <context context-type="source">ats_spearfish
+
+Id: spearfish
+Group: Names of cities</context>
+          <context context-type="x-crowdin-label">1.61 Addition</context>
         </context-group>
       </trans-unit>
       <trans-unit id="73046" resname="ats_spokane">
@@ -7118,6 +7228,17 @@ Id: waterloo
 Group: Names of cities</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="732114" resname="ats_watertown">
+        <source>Watertown</source>
+        <target state="translated">워터타운</target>
+        <context-group purpose="information">
+          <context context-type="source">ats_watertown
+
+Id: watertown
+Group: Names of cities</context>
+          <context context-type="x-crowdin-label">1.61 Addition</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="73052" resname="ats_wenatchee">
         <source>Wenatchee</source>
         <target state="translated">웨나치</target>
@@ -7158,6 +7279,17 @@ Id: winnemucca
 Group: Names of cities</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="732116" resname="ats_winner">
+        <source>Winner</source>
+        <target state="translated">위너</target>
+        <context-group purpose="information">
+          <context context-type="source">ats_winner
+
+Id: winner
+Group: Names of cities</context>
+          <context context-type="x-crowdin-label">1.61 Addition</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="588669" resname="ats_winslow">
         <source>Winslow</source>
         <target state="translated">윈슬로우</target>
@@ -7196,6 +7328,17 @@ Group: Names of cities</context>
 
 Id: yuma
 Group: Names of cities</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="732118" resname="ats_yankton">
+        <source>Yankton</source>
+        <target state="translated">얭크튼</target>
+        <context-group purpose="information">
+          <context context-type="source">ats_yankton
+
+Id: yankton
+Group: Names of cities</context>
+          <context context-type="x-crowdin-label">1.61 Addition</context>
         </context-group>
       </trans-unit>
     </body>

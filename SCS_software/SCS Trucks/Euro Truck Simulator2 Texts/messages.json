@@ -20068,7 +20068,7 @@
 		"description": "Id: cm_legend_truck_status_returning\nGroup: Company management screens legend texts."
 	},
 	"cm_legend_truck_status_undrivable": {
-		"message": "트럭 서비스가 필요합니다",
+		"message": "트럭 점검 필요",
 		"description": "Id: cm_legend_truck_status_undrivable\nGroup: Company management screens legend texts."
 	},
 	"cm_legend_truck_player": {
@@ -20088,7 +20088,7 @@
 		"description": "Id: cm_legend_trailer_status_private\nGroup: Company management screens legend texts."
 	},
 	"cm_legend_trailer_status_undrivable": {
-		"message": "트레일러 점검이 필요합니다",
+		"message": "트레일러 점검 필요",
 		"description": "Id: cm_legend_trailer_status_undrivable\nGroup: Company management screens legend texts."
 	},
 	"cm_legend_trailer_player": {
@@ -20112,7 +20112,7 @@
 		"description": "Id: cm_legend_driver_status_returning\nGroup: Company management screens legend texts."
 	},
 	"cm_legend_driver_status_truck_undrivable": {
-		"message": "트럭 서비스가 필요합니다",
+		"message": "트럭 점검 필요",
 		"description": "Id: cm_legend_driver_status_truck_undrivable\nGroup: Company management screens legend texts."
 	},
 	"cm_legend_driver_player": {
@@ -44196,11 +44196,11 @@
 		"description": "Id: pj_golden_raven\nGroup: Names of paintjob accessories."
 	},
 	"pj_golden_topaz": {
-		"message": "Golden Topaz",
+		"message": "골든 토파즈",
 		"description": "Id: pj_golden_topaz\nGroup: Names of paintjob accessories."
 	},
 	"pj_golden_years": {
-		"message": "Golden Years",
+		"message": "골든 이어즈",
 		"description": "Id: pj_golden_years\nGroup: Names of paintjob accessories."
 	},
 	"pj_gondolier": {

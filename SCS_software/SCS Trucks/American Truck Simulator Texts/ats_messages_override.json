@@ -115,6 +115,10 @@
 		"message": "지붕 윈도우",
 		"description": "Id: roof_window\nGroup: Various accessory slots or accessory names."
 	},
+	"ats_rv_mirror": {
+		"message": "후방 카메라",
+		"description": "Id: rv_mirror\nGroup: Various accessory slots or accessory names."
+	},
 	"ats_s_logo": {
 		"message": "사이드 로고",
 		"description": "Id: s_logo\nGroup: Various accessory slots or accessory names."
@@ -1527,6 +1531,10 @@
 		"message": "애버딘",
 		"description": "Id: aberdeen\nGroup: Names of cities"
 	},
+	"ats_aberdeen_sd": {
+		"message": "애버딘",
+		"description": "Id: aberdeen_sd\nGroup: Names of cities"
+	},
 	"ats_abilene": {
 		"message": "애빌린",
 		"description": "Id: abilene\nGroup: Names of cities"
@@ -1619,9 +1627,17 @@
 		"message": "보즈먼",
 		"description": "Id: bozeman\nGroup: Names of cities"
 	},
+	"ats_brookings": {
+		"message": "브루킹스",
+		"description": "Id: brookings\nGroup: Names of cities"
+	},
 	"ats_brownsville": {
 		"message": "브라운즈빌",
 		"description": "Id: brownsville\nGroup: Names of cities"
+	},
+	"ats_buffalo": {
+		"message": "버팔로",
+		"description": "Id: buffalo\nGroup: Names of cities"
 	},
 	"ats_burlington": {
 		"message": "벌링턴",
@@ -2195,9 +2211,17 @@
 		"message": "미줄라",
 		"description": "Id: missoula\nGroup: Names of cities"
 	},
+	"ats_mitchell": {
+		"message": "미첼",
+		"description": "Id: mitchell\nGroup: Names of cities"
+	},
 	"ats_moab": {
 		"message": "모아브",
 		"description": "Id: moab\nGroup: Names of cities"
+	},
+	"ats_mobridge": {
+		"message": "모브릿지",
+		"description": "Id: mobridge\nGroup: Names of cities"
 	},
 	"ats_modesto": {
 		"message": "머데스토",
@@ -2319,6 +2343,10 @@
 		"message": "피닉스",
 		"description": "Id: phoenix\nGroup: Names of cities"
 	},
+	"ats_pierre": {
+		"message": "피에르",
+		"description": "Id: pierre\nGroup: Names of cities"
+	},
 	"ats_pine_bluff": {
 		"message": "파인블러프",
 		"description": "Id: pine_bluff\nGroup: Names of cities"
@@ -2378,6 +2406,10 @@
 	"ats_rangely": {
 		"message": "랭글리",
 		"description": "Id: rangely\nGroup: Names of cities"
+	},
+	"ats_rapid_city": {
+		"message": "래피드시티",
+		"description": "Id: rapid_city\nGroup: Names of cities"
 	},
 	"ats_raton": {
 		"message": "래턴",
@@ -2515,9 +2547,17 @@
 		"message": "수 시티",
 		"description": "Id: sioux_city\nGroup: Names of cities"
 	},
+	"ats_sioux_falls": {
+		"message": "수폴스",
+		"description": "Id: sioux_falls\nGroup: Names of cities"
+	},
 	"ats_socorro": {
 		"message": "소코로",
 		"description": "Id: socorro\nGroup: Names of cities"
+	},
+	"ats_spearfish": {
+		"message": "스페어피쉬",
+		"description": "Id: spearfish\nGroup: Names of cities"
 	},
 	"ats_spokane": {
 		"message": "스포캔",
@@ -2635,6 +2675,10 @@
 		"message": "워털루",
 		"description": "Id: waterloo\nGroup: Names of cities"
 	},
+	"ats_watertown": {
+		"message": "워터타운",
+		"description": "Id: watertown\nGroup: Names of cities"
+	},
 	"ats_wenatchee": {
 		"message": "웨나치",
 		"description": "Id: wenatchee\nGroup: Names of cities"
@@ -2651,6 +2695,10 @@
 		"message": "위네뮤카",
 		"description": "Id: winnemucca\nGroup: Names of cities"
 	},
+	"ats_winner": {
+		"message": "위너",
+		"description": "Id: winner\nGroup: Names of cities"
+	},
 	"ats_winslow": {
 		"message": "윈슬로우",
 		"description": "Id: winslow\nGroup: Names of cities"
@@ -2666,5 +2714,9 @@
 	"ats_yuma": {
 		"message": "유마",
 		"description": "Id: yuma\nGroup: Names of cities"
+	},
+	"ats_yankton": {
+		"message": "얭크튼",
+		"description": "Id: yankton\nGroup: Names of cities"
 	}
 }

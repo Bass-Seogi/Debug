@@ -1226,7 +1226,7 @@ Group: Individual bindable actions
 Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="684334" resname="vehicle_analysis_info_tooltip" translate="no">
+      <trans-unit id="684334" resname="vehicle_analysis_info_tooltip">
         <source>Given your expected typical type of transportation, tune your vehicle to optimize it according to a combination of economy of driving, technical and legal limitations.</source>
         <target state="translated">예상되는 운송 수단을 감안할 때, 운전기술 및 법적 제한사항을 고려하여 차량을 조정하십시오.</target>
         <context-group purpose="information">
@@ -1306,7 +1306,7 @@ Group: Individual bindable actions
 Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="684336" resname="maneuverability_tooltip" translate="no">
+      <trans-unit id="684336" resname="maneuverability_tooltip">
         <source>Ability of your vehicle to maneuver in tight space areas</source>
         <target state="translated">좁은 공간에서 차량이 움직일 수 있는 능력</target>
         <context-group purpose="information">
@@ -1318,7 +1318,7 @@ Group: Names of list categories which might be shown in various shopping screens
 Keep the uppercased strings in upper case where possible.</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="684338" resname="hill_climbing_tooltip" translate="no">
+      <trans-unit id="684338" resname="hill_climbing_tooltip">
         <source>Optimized vehicle's power-train for smoother hill climbing and descent</source>
         <target state="translated">오르막과 내리막을 더욱 부드럽게 주행하기 위해 최적화된 차량 파워트레인</target>
         <context-group purpose="information">
@@ -55993,7 +55993,7 @@ Group: Company management screens legend texts.</context>
       </trans-unit>
       <trans-unit id="347778" resname="cm_legend_truck_status_undrivable">
         <source>Truck needs service</source>
-        <target state="translated">트럭 서비스가 필요합니다</target>
+        <target state="translated">트럭 점검 필요</target>
         <context-group purpose="information">
           <context context-type="source">cm_legend_truck_status_undrivable
 
@@ -56043,7 +56043,7 @@ Group: Company management screens legend texts.</context>
       </trans-unit>
       <trans-unit id="348198" resname="cm_legend_trailer_status_undrivable" translate="no">
         <source>Trailer needs service</source>
-        <target state="translated">트레일러 점검이 필요합니다</target>
+        <target state="translated">트레일러 점검 필요</target>
         <context-group purpose="information">
           <context context-type="source">cm_legend_trailer_status_undrivable
 
@@ -56103,7 +56103,7 @@ Group: Company management screens legend texts.</context>
       </trans-unit>
       <trans-unit id="347780" resname="cm_legend_driver_status_truck_undrivable">
         <source>Truck needs service</source>
-        <target state="translated">트럭 서비스가 필요합니다</target>
+        <target state="translated">트럭 점검 필요</target>
         <context-group purpose="information">
           <context context-type="source">cm_legend_driver_status_truck_undrivable
 
@@ -120804,7 +120804,7 @@ Group: Names of paintjob accessories.</context>
       </trans-unit>
       <trans-unit id="636723" resname="pj_golden_topaz">
         <source>Golden Topaz</source>
-        <target state="translated">Golden Topaz</target>
+        <target state="translated">골든 토파즈</target>
         <context-group purpose="information">
           <context context-type="source">pj_golden_topaz
 
@@ -120815,7 +120815,7 @@ Group: Names of paintjob accessories.</context>
       </trans-unit>
       <trans-unit id="636725" resname="pj_golden_years">
         <source>Golden Years</source>
-        <target state="translated">Golden Years</target>
+        <target state="translated">골든 이어즈</target>
         <context-group purpose="information">
           <context context-type="source">pj_golden_years
 
