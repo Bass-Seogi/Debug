@@ -4064,7 +4064,7 @@
 		"description": "Id: timezones_full\nEnabled time zones and show full info (including zone names).\nGroup: Time zones and their display mode\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"displayed_currency": {
-		"message": "통화 표기",
+		"message": "화폐 표기",
 		"description": "Id: displayed_currency\nListbox for currency selection.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"localized_city_country_names": {
@@ -4452,7 +4452,7 @@
 		"description": "Id: map_alignment_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"map_exploration_mode_op_tooltip": {
-		"message": "세계 지도를 탐색하는 방법을 선택하세요:<br>- \"근접 탐색\"은 탐색할 때 더 넓은 영역을 표시합니다.<br>- \"정밀 탐색\"은 플레이어 주변의 영역만 표시합니다.",
+		"message": "월드 맵을 탐색하는 방법을 선택하세요:<br>- \"근접 탐색\"은 탐색할 때 더 넓은 영역을 표시합니다.<br>- \"정밀 탐색\"은 플레이어 주변의 영역만 표시합니다.",
 		"description": "Id: map_exploration_mode_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"show_navigation_op_tooltip": {
@@ -4700,7 +4700,7 @@
 		"description": "Id: show_secondary_names_in_map_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"displayed_currency_op_tooltip": {
-		"message": "어떤 화폐단위를 사용할지 선택하십시오.",
+		"message": "어떤 화폐단위를 사용할지 선택하세요.",
 		"description": "Id: displayed_currency_op_tooltip\nGroup: Tooltips.\nGroup: Options/Gameplay\nScreen used to configure gameplay related options."
 	},
 	"clock_notation_op_tooltip": {
@@ -24840,7 +24840,7 @@
 		"description": "Id: landmark_arctic_cathedral\nGroup: Names of landmarks"
 	},
 	"landmark_halogaland": {
-		"message": "할로갈란드 브리지",
+		"message": "호로갈란드교",
 		"description": "Id: landmark_halogaland\nGroup: Names of landmarks"
 	},
 	"landmark_stortinden": {

@@ -7124,7 +7124,7 @@ Fallback news text content in case of fetch errors
 Group: Profile selection.</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="684364" resname="no_truck_dlc" translate="no">
+      <trans-unit id="684364" resname="no_truck_dlc">
         <source>No trucks found! Please re-enable at least one vehicle DLC and restart the game.</source>
         <target state="translated">차량을 찾을 수 없습니다! 차량 DLC를 하나 이상 활성화하고 게임을 다시 시작하십시오.</target>
         <context-group purpose="information">
@@ -11578,7 +11578,7 @@ Screen used to configure gameplay related options.</context>
       </trans-unit>
       <trans-unit id="1514" resname="displayed_currency">
         <source>Displayed currency</source>
-        <target state="translated">통화 표기</target>
+        <target state="translated">화폐 표기</target>
         <context-group purpose="information">
           <context context-type="source">displayed_currency
 
@@ -12777,7 +12777,7 @@ Screen used to configure gameplay related options.</context>
       </trans-unit>
       <trans-unit id="684502" resname="map_exploration_mode_op_tooltip">
         <source>Choose how the World Map is explored:&lt;br&gt;- &quot;Proximity exploration&quot; marks a larger area as explored.&lt;br&gt;- &quot;Precision exploration&quot; reveals only the areas immediately around the player.</source>
-        <target state="translated">세계 지도를 탐색하는 방법을 선택하세요:&lt;br&gt;- &quot;근접 탐색&quot;은 탐색할 때 더 넓은 영역을 표시합니다.&lt;br&gt;- &quot;정밀 탐색&quot;은 플레이어 주변의 영역만 표시합니다.</target>
+        <target state="translated">월드 맵을 탐색하는 방법을 선택하세요:&lt;br&gt;- &quot;근접 탐색&quot;은 탐색할 때 더 넓은 영역을 표시합니다.&lt;br&gt;- &quot;정밀 탐색&quot;은 플레이어 주변의 영역만 표시합니다.</target>
         <context-group purpose="information">
           <context context-type="source">map_exploration_mode_op_tooltip
 
@@ -13527,7 +13527,7 @@ Screen used to configure gameplay related options.</context>
       </trans-unit>
       <trans-unit id="370428" resname="displayed_currency_op_tooltip">
         <source>Choose which currency to use.</source>
-        <target state="translated">어떤 화폐단위를 사용할지 선택하십시오.</target>
+        <target state="translated">어떤 화폐단위를 사용할지 선택하세요.</target>
         <context-group purpose="information">
           <context context-type="source">displayed_currency_op_tooltip
 
@@ -23861,6 +23861,8 @@ Group: Route adviser</context>
           <context context-type="x-crowdin-label">TruckToVehicle</context>
         </context-group>
         <note from="Mads Teland (mads1153)" priority="4">Job instead delivery should be here.</note>
+        <note from="QL_CZ_P" priority="4">@morrelo I noticed that the translation uses &quot;Tvé&quot; and &quot;Tvoje&quot; inconsistently. Maybe it would be good idea to unify this in the future. &quot;Tvé&quot; is too formal for this environment, I suppose.</note>
+        <note from="Adam Fojtík (morrelo)" priority="4">@QL_CZ_P In this case I wouldn't dogmatically use one or the other. There can be cases where one or the other sounds better. With that said, the form &quot;tvé&quot; is much more common in the current translations.</note>
       </trans-unit>
       <trans-unit id="707068" resname="wanna_recover" translate="no">
         <source>Assistance Service can take you and your vehicle to the nearest road. It will cost $MONEY$ and the trip will take $TIME$.&lt;br offset=30&gt;Do you agree?</source>
@@ -68401,7 +68403,7 @@ Group: Names of landmarks</context>
       </trans-unit>
       <trans-unit id="555417" resname="landmark_halogaland">
         <source>Hålogaland Bridge</source>
-        <target state="translated">할로갈란드 브리지</target>
+        <target state="translated">호로갈란드교</target>
         <context-group purpose="information">
           <context context-type="source">landmark_halogaland
 
