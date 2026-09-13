@@ -588,7 +588,7 @@
 		"description": "Id: cn_windrower\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_cn_wire_rod_coil": {
-		"message": "와이어로드 코일",
+		"message": "와이어 로드 코일",
 		"description": "Id: cn_wire_rod_coil\nGroup: Names of individual cargos.\nGroup: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English)."
 	},
 	"ats_cn_work_truck_chassis": {
@@ -1580,7 +1580,7 @@
 		"description": "Id: austin\nGroup: Names of cities"
 	},
 	"ats_bakersfield": {
-		"message": "베이커스필드",
+		"message": "베이커즈필드",
 		"description": "Id: bakersfield\nGroup: Names of cities"
 	},
 	"ats_barstow": {
@@ -1816,7 +1816,7 @@
 		"description": "Id: el_centro\nGroup: Names of cities"
 	},
 	"ats_el_dorado": {
-		"message": "엘 도라도",
+		"message": "엘도라도",
 		"description": "Id: el_dorado\nGroup: Names of cities"
 	},
 	"ats_el_paso": {
@@ -1874,6 +1874,10 @@
 	"ats_fort_dodge": {
 		"message": "포트 다지",
 		"description": "Id: fort_dodge\nGroup: Names of cities"
+	},
+	"ats_fort_pierre": {
+		"message": "포트 피에르",
+		"description": "Id: fort_pierre\nGroup: Names of cities"
 	},
 	"ats_fort_smith": {
 		"message": "포트스미스",
@@ -2028,7 +2032,7 @@
 		"description": "Id: indio\nGroup: Names of cities"
 	},
 	"ats_iowa_city": {
-		"message": "아이오와 시티",
+		"message": "아이오와시티",
 		"description": "Id: iowa_city\nGroup: Names of cities"
 	},
 	"ats_jackpot": {
@@ -2184,7 +2188,7 @@
 		"description": "Id: maryville\nGroup: Names of cities"
 	},
 	"ats_mason_city": {
-		"message": "메이슨 시티",
+		"message": "메이슨시티",
 		"description": "Id: mason_city\nGroup: Names of cities"
 	},
 	"ats_medford": {
@@ -2196,7 +2200,7 @@
 		"description": "Id: miles_city\nGroup: Names of cities"
 	},
 	"ats_mcalester": {
-		"message": "매캘러스터",
+		"message": "맥엘레스터",
 		"description": "Id: mcalester\nGroup: Names of cities"
 	},
 	"ats_mcallen": {
@@ -2272,7 +2276,7 @@
 		"description": "Id: norfolk\nGroup: Names of cities"
 	},
 	"ats_north_platte": {
-		"message": "노스 플랫",
+		"message": "노스플랫",
 		"description": "Id: north_platte\nGroup: Names of cities"
 	},
 	"ats_oakdale": {
@@ -2292,7 +2296,7 @@
 		"description": "Id: ogden\nGroup: Names of cities"
 	},
 	"ats_oklahoma_city": {
-		"message": "오클라호마 시티",
+		"message": "오클라호마시티",
 		"description": "Id: oklahoma_city\nGroup: Names of cities"
 	},
 	"ats_olympia": {

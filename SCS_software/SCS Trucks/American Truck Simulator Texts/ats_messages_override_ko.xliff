@@ -1722,7 +1722,7 @@ Group: Text deviations for American Truck Simulator. Please, use only terms appr
       </trans-unit>
       <trans-unit id="493313" resname="ats_cn_wire_rod_coil">
         <source>Wire Rod Coil</source>
-        <target state="translated">와이어로드 코일</target>
+        <target state="translated">와이어 로드 코일</target>
         <context-group purpose="information">
           <context context-type="source">ats_cn_wire_rod_coil
 
@@ -4470,7 +4470,7 @@ Group: Names of cities</context>
       </trans-unit>
       <trans-unit id="59098" resname="ats_bakersfield">
         <source>Bakersfield</source>
-        <target state="translated">베이커스필드</target>
+        <target state="translated">베이커즈필드</target>
         <context-group purpose="information">
           <context context-type="source">ats_bakersfield
 
@@ -5065,7 +5065,7 @@ Group: Names of cities</context>
       </trans-unit>
       <trans-unit id="396776" resname="ats_el_dorado">
         <source>El Dorado</source>
-        <target state="translated">엘 도라도</target>
+        <target state="translated">엘도라도</target>
         <context-group purpose="information">
           <context context-type="source">ats_el_dorado
 
@@ -5211,6 +5211,18 @@ Group: Names of cities</context>
 
 Id: fort_dodge
 Group: Names of cities</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="732150" resname="ats_fort_pierre">
+        <source>Fort Pierre</source>
+        <target state="translated">포트 피에르</target>
+        <context-group purpose="information">
+          <context context-type="source">ats_fort_pierre
+
+Id: fort_pierre
+Group: Names of cities</context>
+          <context context-type="x-crowdin-label-1">1.61 Addition</context>
+          <context context-type="x-crowdin-label-2">Last minute</context>
         </context-group>
       </trans-unit>
       <trans-unit id="396780" resname="ats_fort_smith">
@@ -5600,7 +5612,7 @@ Group: Names of cities</context>
       </trans-unit>
       <trans-unit id="493329" resname="ats_iowa_city">
         <source>Iowa City</source>
-        <target state="translated">아이오와 시티</target>
+        <target state="translated">아이오와시티</target>
         <context-group purpose="information">
           <context context-type="source">ats_iowa_city
 
@@ -5990,7 +6002,7 @@ Group: Names of cities</context>
       </trans-unit>
       <trans-unit id="493331" resname="ats_mason_city">
         <source>Mason City</source>
-        <target state="translated">메이슨 시티</target>
+        <target state="translated">메이슨시티</target>
         <context-group purpose="information">
           <context context-type="source">ats_mason_city
 
@@ -6020,7 +6032,7 @@ Group: Names of cities</context>
       </trans-unit>
       <trans-unit id="305527" resname="ats_mcalester">
         <source>McAlester</source>
-        <target state="translated">매캘러스터</target>
+        <target state="translated">맥엘레스터</target>
         <context-group purpose="information">
           <context context-type="source">ats_mcalester
 
@@ -6212,7 +6224,7 @@ Group: Names of cities</context>
       </trans-unit>
       <trans-unit id="371514" resname="ats_north_platte">
         <source>North Platte</source>
-        <target state="translated">노스 플랫</target>
+        <target state="translated">노스플랫</target>
         <context-group purpose="information">
           <context context-type="source">ats_north_platte
 
@@ -6262,7 +6274,7 @@ Group: Names of cities</context>
       </trans-unit>
       <trans-unit id="305571" resname="ats_oklahoma_city">
         <source>Oklahoma City</source>
-        <target state="translated">오클라호마 시티</target>
+        <target state="translated">오클라호마시티</target>
         <context-group purpose="information">
           <context context-type="source">ats_oklahoma_city
 
