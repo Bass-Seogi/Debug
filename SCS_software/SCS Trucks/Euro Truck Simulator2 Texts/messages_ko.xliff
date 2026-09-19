@@ -120615,7 +120615,7 @@ Group: Names of paintjob accessories.</context>
       </trans-unit>
       <trans-unit id="636639" resname="pj_feldbinder_international">
         <source>Feldbinder International</source>
-        <target state="translated">Feldbinder 인터내셔널</target>
+        <target state="translated">Feldbinder International</target>
         <context-group purpose="information">
           <context context-type="source">pj_feldbinder_international
 
