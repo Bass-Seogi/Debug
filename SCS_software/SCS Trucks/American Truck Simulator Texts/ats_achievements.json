@@ -1547,6 +1547,126 @@
     "message": "에버그린 옥수수밭 미로의 중심으로 운전하십시오",
     "description": "Id: NEW_ACHIEVEMENT_98_1_SHORT\nShort version of achievement description for American Truck Simulator. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit."
   },
+  "NEW_ACHIEVEMENT_98_6_NAME": {
+    "message": "만능 재주꾼",
+    "description": "Id: NEW_ACHIEVEMENT_98_6_NAME\nAchievement name for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
+  },
+  "NEW_ACHIEVEMENT_98_6_DESC": {
+    "message": "자동차를 이용해 5개의 서로 다른 화물을 운송하세요",
+    "description": "Id: NEW_ACHIEVEMENT_98_6_DESC\nAchievement description for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
+  },
+  "NEW_ACHIEVEMENT_98_6_SHORT": {
+    "message": "자동차를 이용해 5개의 서로 다른 화물을 운송하세요",
+    "description": "Id: NEW_ACHIEVEMENT_98_6_SHORT\nShort version of achievement description for American Truck Simulator. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit."
+  },
+  "NEW_ACHIEVEMENT_98_7_NAME": {
+    "message": "우회할 가치가 있는 곳",
+    "description": "Id: NEW_ACHIEVEMENT_98_7_NAME\nAchievement name for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
+  },
+  "NEW_ACHIEVEMENT_98_7_DESC": {
+    "message": "관광 안내판에서 투어를 완료하고 엽서를 받으세요",
+    "description": "Id: NEW_ACHIEVEMENT_98_7_DESC\nAchievement description for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
+  },
+  "NEW_ACHIEVEMENT_98_7_SHORT": {
+    "message": "관광 안내판에서 투어를 완료하고 엽서를 받으세요",
+    "description": "Id: NEW_ACHIEVEMENT_98_7_SHORT\nShort version of achievement description for American Truck Simulator. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit."
+  },
+  "NEW_ACHIEVEMENT_98_8_NAME": {
+    "message": "열쇠를 손에 쥐다",
+    "description": "Id: NEW_ACHIEVEMENT_98_8_NAME\nAchievement name for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
+  },
+  "NEW_ACHIEVEMENT_98_8_DESC": {
+    "message": "첫 차를 소유하세요",
+    "description": "Id: NEW_ACHIEVEMENT_98_8_DESC\nAchievement description for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
+  },
+  "NEW_ACHIEVEMENT_98_8_SHORT": {
+    "message": "첫 차를 소유하세요",
+    "description": "Id: NEW_ACHIEVEMENT_98_8_SHORT\nShort version of achievement description for American Truck Simulator. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit."
+  },
+  "NEW_ACHIEVEMENT_98_9_NAME": {
+    "message": "주간 고속도로 전설",
+    "description": "Id: NEW_ACHIEVEMENT_98_9_NAME\nAchievement name for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
+  },
+  "NEW_ACHIEVEMENT_98_9_DESC": {
+    "message": "어떤 차든 5,000마일을 운전하거나 50,000달러를 벌어보세요",
+    "description": "Id: NEW_ACHIEVEMENT_98_9_DESC\nAchievement description for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
+  },
+  "NEW_ACHIEVEMENT_98_9_SHORT": {
+    "message": "어떤 차든 5,000마일을 운전하거나 50,000달러를 벌어보세요",
+    "description": "Id: NEW_ACHIEVEMENT_98_9_SHORT\nShort version of achievement description for American Truck Simulator. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit."
+  },
+  "NEW_ACHIEVEMENT_98_10_NAME": {
+    "message": "흠집 하나 없음",
+    "description": "Id: NEW_ACHIEVEMENT_98_10_NAME\nAchievement name for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
+  },
+  "NEW_ACHIEVEMENT_98_10_DESC": {
+    "message": "어떤 차량이든 상관없이 5회 연속으로 별점 5점을 받아 화물을 배송하세요",
+    "description": "Id: NEW_ACHIEVEMENT_98_10_DESC\nAchievement description for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
+  },
+  "NEW_ACHIEVEMENT_98_10_SHORT": {
+    "message": "어떤 차량이든 상관없이 5회 연속으로 별점 5점을 받아 화물을 배송하세요",
+    "description": "Id: NEW_ACHIEVEMENT_98_10_SHORT\nShort version of achievement description for American Truck Simulator. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit."
+  },
+  "NEW_ACHIEVEMENT_98_11_NAME": {
+    "message": "달릴 곳이 없다",
+    "description": "Id: NEW_ACHIEVEMENT_98_11_NAME\nAchievement name for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
+  },
+  "NEW_ACHIEVEMENT_98_11_DESC": {
+    "message": "어떤 차량이든 벌금 없이 20개의 연속 작업을 완료하세요",
+    "description": "Id: NEW_ACHIEVEMENT_98_11_DESC\nAchievement description for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
+  },
+  "NEW_ACHIEVEMENT_98_11_SHORT": {
+    "message": "어떤 차량이든 벌금 없이 20개의 연속 작업을 완료하세요",
+    "description": "Id: NEW_ACHIEVEMENT_98_11_SHORT\nShort version of achievement description for American Truck Simulator. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit."
+  },
+  "NEW_ACHIEVEMENT_98_2_NAME": {
+    "message": "마운트 러시모어 스테이트",
+    "description": "Id: NEW_ACHIEVEMENT_98_2_NAME\nAchievement name for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
+  },
+  "NEW_ACHIEVEMENT_98_2_DESC": {
+    "message": "사우스다코타 주의 10개 도시를 방문하십시오",
+    "description": "Id: NEW_ACHIEVEMENT_98_2_DESC\nAchievement description for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
+  },
+  "NEW_ACHIEVEMENT_98_2_SHORT": {
+    "message": "사우스다코타 주의 10개 도시를 방문하십시오",
+    "description": "Id: NEW_ACHIEVEMENT_98_2_SHORT\nShort version of achievement description for American Truck Simulator. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit."
+  },
+  "NEW_ACHIEVEMENT_98_3_NAME": {
+    "message": "멋진 얼굴들, 멋진 장소들",
+    "description": "Id: NEW_ACHIEVEMENT_98_3_NAME\nAchievement name for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
+  },
+  "NEW_ACHIEVEMENT_98_3_DESC": {
+    "message": "사우스다코타 주의 10개 뷰포인트의 컷신을 감상하십시오",
+    "description": "Id: NEW_ACHIEVEMENT_98_3_DESC\nAchievement description for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
+  },
+  "NEW_ACHIEVEMENT_98_3_SHORT": {
+    "message": "사우스다코타 주의 10개 뷰포인트의 컷신을 감상하십시오",
+    "description": "Id: NEW_ACHIEVEMENT_98_3_SHORT\nShort version of achievement description for American Truck Simulator. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit."
+  },
+  "NEW_ACHIEVEMENT_98_4_NAME": {
+    "message": "빅 머디 런",
+    "description": "Id: NEW_ACHIEVEMENT_98_4_NAME\nAchievement name for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
+  },
+  "NEW_ACHIEVEMENT_98_4_DESC": {
+    "message": "다음 순서로 손상 없이 두 번의 배송을 완료하십시오: 모브릿지 - 피에르, 피에르 - 얭크튼",
+    "description": "Id: NEW_ACHIEVEMENT_98_4_DESC\nAchievement description for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
+  },
+  "NEW_ACHIEVEMENT_98_4_SHORT": {
+    "message": "다음 순서로 손상 없이 두 번의 배송을 완료하십시오: 모브릿지 - 피에르, 피에르 - 얭크튼",
+    "description": "Id: NEW_ACHIEVEMENT_98_4_SHORT\nShort version of achievement description for American Truck Simulator. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit."
+  },
+  "NEW_ACHIEVEMENT_98_5_NAME": {
+    "message": "누가 당신이 집에 갈 수 없다고 했나요?",
+    "description": "Id: NEW_ACHIEVEMENT_98_5_NAME\nAchievement name for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
+  },
+  "NEW_ACHIEVEMENT_98_5_DESC": {
+    "message": "워터타운 또는 스피어피시에 있는 주택 건설 현장에 서로 다른 두 종류의 화물을 배송하세요",
+    "description": "Id: NEW_ACHIEVEMENT_98_5_DESC\nAchievement description for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
+  },
+  "NEW_ACHIEVEMENT_98_5_SHORT": {
+    "message": "워터타운 또는 스피어피시에 있는 주택 건설 현장에 서로 다른 두 종류의 화물을 배송하세요",
+    "description": "Id: NEW_ACHIEVEMENT_98_5_SHORT\nShort version of achievement description for American Truck Simulator. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit."
+  },
   "NEW_ACHIEVEMENT_11_28_NAME": {
     "message": "스네이크 강을 따라",
     "description": "Id: NEW_ACHIEVEMENT_11_28_NAME\nAchievement name for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
@@ -1646,5 +1766,13 @@
   "ach_illinois_dlc_suffix": {
     "message": "(Illinois DLC가 필요함)",
     "description": "Id: ach_illinois_dlc_suffix\nSuffix for achievement descriptions for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Appended to every description requiring given DLC/module."
+  },
+  "ach_road_trip_dlc_suffix": {
+    "message": "(Road Trip DLC가 필요함)",
+    "description": "Id: ach_road_trip_dlc_suffix\nSuffix for achievement descriptions for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Appended to every description requiring given DLC/module."
+  },
+  "ach_south_dakota_dlc_suffix": {
+    "message": "(South Dakota DLC가 필요함)",
+    "description": "Id: ach_south_dakota_dlc_suffix\nSuffix for achievement descriptions for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Appended to every description requiring given DLC/module."
   }
 }

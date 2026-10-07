@@ -328,7 +328,7 @@ This DLC also includes special wheel hubs and bolt covers:
 
 - Kögel Wheel Hubs
 - Kögel Nut Covers</source>
-        <target state="translated">모든 트럭에는 신뢰할 수 있는 트레일러가 필요하며, 이것이 바로 Kögel Trailer Pack이 Euro Truck Simulator 2의 세계에 가져온 것입니다! Burtenbach에 본사를 둔 Kögel Trailer는 1934년에 설립된 이래 운송 산업에서 오랜 역사를 가지고 있습니다. 혁신적인 디자인과 품질에 대한 헌신으로 유명한 Kögel은 전 세계 물류 전문가의 변화하는 요구에 맞게 맞춤 제작된 다양한 트레일러를 제조합니다. 새로운 Kögel 트레일러 6개, 캐빈 액세서리 5개, 휠 허브, 너트 커버가 있어 화물을 배달해야 하는 마감일을 절대 놓치지 않을 것입니다!
+        <target state="translated">모든 트럭에는 믿을 수 있는 트레일러가 필요하며, 이것이 바로 Kögel Trailer Pack이 Euro Truck Simulator 2의 세계에 가져온 것입니다! Burtenbach에 본사를 둔 Kögel Trailer는 1934년에 설립된 이래 운송 산업에서 오랜 역사를 가지고 있습니다. 혁신적인 디자인과 품질에 대한 헌신으로 유명한 Kögel은 전 세계 물류 전문가의 변화하는 요구에 맞게 맞춤 제작된 다양한 트레일러를 제조합니다. 새로운 Kögel 트레일러 6개, 캐빈 액세서리 5개, 휠 허브, 너트 커버가 있어 화물을 배달해야 하는 마감일을 절대 놓치지 않을 것입니다!
 
 이 DLC에는 다음 트레일러가 포함됩니다:
 
@@ -676,6 +676,7 @@ Take your time and enjoy every moment as you discover:
 
 Long description for ATS Arkansas.</context>
         </context-group>
+        <note from="CptMeatmug" priority="4">Should it be &quot;Fort Smith&quot; and not &quot;Fortsmith&quot;?</note>
       </trans-unit>
       <trans-unit id="431378" resname="ats_forestry_short_description">
         <source>Haul heavy machinery and decorate your truck with forest-themed accessories! Forest Machinery DLC is the next step in our series of heavy cargo expansions, which introduces machinery and equipment designed and designated for the hard-working people of the wood industry in American Truck Simulator.</source>

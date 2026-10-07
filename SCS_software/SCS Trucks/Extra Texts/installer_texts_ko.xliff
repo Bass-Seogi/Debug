@@ -7,7 +7,7 @@
     <body>
       <trans-unit id="46048" resname="no_steam">
         <source>Steam version of the game is not supported by this installer. You need to install the DLC through Steam.</source>
-        <target state="translated">이 설치기는 스팀 버전을 지원하지 않습니다. 스팀을 통해 DLC를 설치하십시오.</target>
+        <target state="translated">스팀 버전의 게임은 이 인스톨러에서 지원하지 않습니다 DLC는 스팀에서 설치해야합니다</target>
         <context-group purpose="information">
           <context context-type="source">Id: no_steam
 Error message shown when DLC installer detects that the user is trying to apply it to Steam version of the game.</context>

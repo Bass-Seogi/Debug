@@ -1,6 +1,6 @@
 {
     "no_steam": {
-        "message": "이 설치기는 스팀 버전을 지원하지 않습니다. 스팀을 통해 DLC를 설치하십시오.",
+        "message": "스팀 버전의 게임은 이 인스톨러에서 지원하지 않습니다 DLC는 스팀에서 설치해야합니다",
         "description": "Id: no_steam\nError message shown when DLC installer detects that the user is trying to apply it to Steam version of the game."
     },
     "app_path_not_found": {

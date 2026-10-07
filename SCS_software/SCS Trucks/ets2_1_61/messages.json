@@ -1,19 +1,19 @@
 {
-	"steam_controller": {
-		"message": "스팀 컨트롤러",
-		"description": "Id: steam_controller\nName of Steam Controller input device. It is followed by ID number (e.g. `Steam Controller 000000123456789A`).\nGroup: Steam Controller UI localization in game"
-	},
 	"lang_name": {
 		"message": "한국어",
 		"description": "Id: lang_name\nName of currently selected language, please do not translate, put your native language name here in your native language."
 	},
-	"steam_emulated_controller": {
-		"message": "스팀 호환 컨트롤러",
-		"description": "Id: steam_emulated_controller\nName of input device which is emulated by Steam Controler API. It is followed by ID number (e.g. `Steam Emulated Controller 000000123456789A`).\nGroup: Steam Controller UI localization in game"
+	"steam_controller": {
+		"message": "스팀 컨트롤러",
+		"description": "Id: steam_controller\nName of Steam Controller input device. It is followed by ID number (e.g. `Steam Controller 000000123456789A`).\nGroup: Steam Controller UI localization in game"
 	},
 	"moded_game": {
 		"message": "무단으로 변경된 데이터가 게임에 포함되어있습니다. 수정된 게임은 지원 대상이 아닙니다. 문제 또는 충돌이 발생할 경우 MOD를 제거하시기 바랍니다!",
 		"description": "Id: moded_game"
+	},
+	"steam_emulated_controller": {
+		"message": "스팀 호환 컨트롤러",
+		"description": "Id: steam_emulated_controller\nName of input device which is emulated by Steam Controler API. It is followed by ID number (e.g. `Steam Emulated Controller 000000123456789A`).\nGroup: Steam Controller UI localization in game"
 	},
 	"steam_sctrl_action_set_simple": {
 		"message": "심플",
@@ -63,13 +63,13 @@
 		"message": "보행",
 		"description": "Id: sctrl_action_set_layer_walking\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"desktop": {
-		"message": "바탕화면",
-		"description": "Id: desktop\nIcon label under \"Back to desktop\" button"
-	},
 	"steam_sctrl_action_set_driving": {
 		"message": "주행",
 		"description": "Id: sctrl_action_set_driving\nGroup: Steam Controller UI localizations in Steam client"
+	},
+	"desktop": {
+		"message": "바탕화면",
+		"description": "Id: desktop\nIcon label under \"Back to desktop\" button"
 	},
 	"steam_sctrl_action_set_layer_photo_mode": {
 		"message": "포토 모드",
@@ -95,13 +95,13 @@
 		"message": "변속기",
 		"description": "Id: transmission_t\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
-	"transmission": {
-		"message": "변속기",
-		"description": "Id: transmission\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
-	},
 	"steam_sctrl_action_mouse_rel_position": {
 		"message": "마우스 이동",
 		"description": "Id: sctrl_action_mouse_rel_position\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	},
+	"transmission": {
+		"message": "변속기",
+		"description": "Id: transmission\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
 	"steam_sctrl_action_mouse_button_left": {
 		"message": "마우스 왼쪽",
@@ -111,37 +111,37 @@
 		"message": "샤시",
 		"description": "Id: chassis_t\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
-	"chassis": {
-		"message": "샤시",
-		"description": "Id: chassis\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
-	},
 	"steam_sctrl_action_mouse_button_right": {
 		"message": "마우스 오른쪽",
 		"description": "Id: sctrl_action_mouse_button_right\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"steam_sctrl_action_pause": {
-		"message": "일시 정지",
-		"description": "Id: sctrl_action_pause\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	"chassis": {
+		"message": "샤시",
+		"description": "Id: chassis\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
 	"cabin_t": {
 		"message": "캐빈",
 		"description": "Id: cabin_t\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
-	"cabin": {
-		"message": "캐빈",
-		"description": "Id: cabin\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
+	"steam_sctrl_action_pause": {
+		"message": "일시 정지",
+		"description": "Id: sctrl_action_pause\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"steam_sctrl_action_back": {
 		"message": "이전",
 		"description": "Id: sctrl_action_back\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"wheels_t": {
-		"message": "휠",
-		"description": "Id: wheels_t\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
+	"cabin": {
+		"message": "캐빈",
+		"description": "Id: cabin\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
 	"steam_sctrl_action_steering": {
 		"message": "조향",
 		"description": "Id: sctrl_action_steering\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	},
+	"wheels_t": {
+		"message": "휠",
+		"description": "Id: wheels_t\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
 	"wheels": {
 		"message": "휠",
@@ -151,29 +151,29 @@
 		"message": "가속/전진",
 		"description": "Id: sctrl_action_aforward\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"interior_t": {
-		"message": "인테리어",
-		"description": "Id: interior_t\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
-	},
 	"steam_sctrl_action_abackward": {
 		"message": "브레이크/후진",
 		"description": "Id: sctrl_action_abackward\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"interior": {
+	"interior_t": {
 		"message": "인테리어",
-		"description": "Id: interior\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
+		"description": "Id: interior_t\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
 	"steam_sctrl_action_clutch": {
 		"message": "클러치",
 		"description": "Id: sctrl_action_clutch\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"steam_sctrl_action_scrol_up": {
-		"message": "스크롤 업",
-		"description": "Id: sctrl_action_scrol_up\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	"interior": {
+		"message": "인테리어",
+		"description": "Id: interior\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
 	"accessory_t": {
 		"message": "액세서리",
 		"description": "Id: accessory_t\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
+	},
+	"steam_sctrl_action_scrol_up": {
+		"message": "스크롤 업",
+		"description": "Id: sctrl_action_scrol_up\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"steam_sctrl_action_scrol_dwn": {
 		"message": "스크롤 다운",
@@ -183,13 +183,13 @@
 		"message": "액세서리",
 		"description": "Id: accessory\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
-	"in_accessory_t": {
-		"message": "인테리어 액세서리",
-		"description": "Id: in_accessory_t\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
-	},
 	"steam_sctrl_action_mapzoom_in": {
 		"message": "지도 확대",
 		"description": "Id: sctrl_action_mapzoom_in\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	},
+	"in_accessory_t": {
+		"message": "인테리어 액세서리",
+		"description": "Id: in_accessory_t\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
 	"steam_sctrl_action_mapzoom_out": {
 		"message": "지도 축소",
@@ -199,53 +199,53 @@
 		"message": "인테리어 액세서리",
 		"description": "Id: in_accessory\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
-	"paint_job_t": {
-		"message": "순정 색상",
-		"description": "Id: paint_job_t\nHeader of list containing stock colors.\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
-	},
 	"steam_sctrl_action_selectfcs": {
 		"message": "선택",
 		"description": "Id: sctrl_action_selectfcs\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"steam_sctrl_action_skip": {
-		"message": "건너뛰기",
-		"description": "Id: sctrl_action_skip\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	"paint_job_t": {
+		"message": "순정 색상",
+		"description": "Id: paint_job_t\nHeader of list containing stock colors.\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
 	"paint_job": {
 		"message": "순정 색상",
 		"description": "Id: paint_job\nHeader of list containing stock colors.\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
-	"steam_sctrl_action_j_left": {
-		"message": "왼쪽",
-		"description": "Id: sctrl_action_j_left\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	"steam_sctrl_action_skip": {
+		"message": "건너뛰기",
+		"description": "Id: sctrl_action_skip\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"every_paint_job_t": {
 		"message": "도색",
 		"description": "Id: every_paint_job_t\nHeader of list containing all paint jobs.\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
-	"steam_sctrl_action_j_right": {
-		"message": "오른쪽",
-		"description": "Id: sctrl_action_j_right\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	"steam_sctrl_action_j_left": {
+		"message": "왼쪽",
+		"description": "Id: sctrl_action_j_left\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"every_paint_job": {
 		"message": "도색",
 		"description": "Id: every_paint_job\nHeader of list containing all paint jobs.\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
-	"steam_sctrl_action_j_up": {
-		"message": "위",
-		"description": "Id: sctrl_action_j_up\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	"steam_sctrl_action_j_right": {
+		"message": "오른쪽",
+		"description": "Id: sctrl_action_j_right\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"brand_t": {
 		"message": "차량 디자인",
 		"description": "Id: brand_t\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
-	"steam_sctrl_action_j_down": {
-		"message": "아래",
-		"description": "Id: sctrl_action_j_down\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	"steam_sctrl_action_j_up": {
+		"message": "위",
+		"description": "Id: sctrl_action_j_up\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"brand": {
 		"message": "차량 디자인",
 		"description": "Id: brand\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
+	},
+	"steam_sctrl_action_j_down": {
+		"message": "아래",
+		"description": "Id: sctrl_action_j_down\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"basket_t": {
 		"message": "주문",
@@ -255,21 +255,21 @@
 		"message": "이전 화면",
 		"description": "Id: sctrl_action_joy_nav_prv\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"steam_sctrl_action_joy_nav_nxt": {
-		"message": "다음 화면",
-		"description": "Id: sctrl_action_joy_nav_nxt\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
-	},
 	"vehicle_analysis_t": {
 		"message": "차량 분석",
 		"description": "Id: vehicle_analysis_t\nHeader of the widget in vehicle configurator\nTruck analysis feature - truck konfigurator and pop-up\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
-	"steam_sctrl_action_joy_sec_prv": {
-		"message": "이전 탭",
-		"description": "Id: sctrl_action_joy_sec_prv\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	"steam_sctrl_action_joy_nav_nxt": {
+		"message": "다음 화면",
+		"description": "Id: sctrl_action_joy_nav_nxt\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"vehicle_analysis_popup_t": {
 		"message": "차량 분석",
 		"description": "Id: vehicle_analysis_popup_t\nHeader of the pop-up when taking heavy cargo\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
+	},
+	"steam_sctrl_action_joy_sec_prv": {
+		"message": "이전 탭",
+		"description": "Id: sctrl_action_joy_sec_prv\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"steam_sctrl_action_joy_sec_nxt": {
 		"message": "다음 탭",
@@ -279,13 +279,13 @@
 		"message": "차량 구성",
 		"description": "Id: current_vehicle_params\nHeader inside the vehicle analysis widget for vehicle parameters\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
-	"steam_sctrl_action_shortcut_1": {
-		"message": "바로가기 1",
-		"description": "Id: sctrl_action_shortcut_1\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
-	},
 	"current_vehicle_parameters": {
 		"message": "차량 구성",
 		"description": "Id: current_vehicle_parameters\nHeader inside the vehicle analysis pop-up for vehicle parameters\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
+	},
+	"steam_sctrl_action_shortcut_1": {
+		"message": "바로가기 1",
+		"description": "Id: sctrl_action_shortcut_1\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"normal_cargo": {
 		"message": "일반 화물",
@@ -295,21 +295,21 @@
 		"message": "바로가기 1 홀드",
 		"description": "Id: sctrl_action_shortcut_1h\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"heavy_cargo": {
-		"message": "중량화물",
-		"description": "Id: heavy_cargo\nname of the bar for heavy cargo suitability\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
-	},
 	"steam_sctrl_action_shortcut_2": {
 		"message": "바로가기 2",
 		"description": "Id: sctrl_action_shortcut_2\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"maneuverability": {
-		"message": "기동성",
-		"description": "Id: maneuverability\nname of the bar for maneurability indication\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
+	"heavy_cargo": {
+		"message": "중량화물",
+		"description": "Id: heavy_cargo\nname of the bar for heavy cargo suitability\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
 	"steam_sctrl_action_shortcut_2h": {
 		"message": "바로가기 2 홀드",
 		"description": "Id: sctrl_action_shortcut_2h\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	},
+	"maneuverability": {
+		"message": "기동성",
+		"description": "Id: maneuverability\nname of the bar for maneurability indication\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
 	"steam_sctrl_action_shortcut_3": {
 		"message": "바로가기 3",
@@ -319,29 +319,29 @@
 		"message": "등판능력",
 		"description": "Id: hill_climbing\nname of the bar for truck's performance to take up on hills, up or down\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
-	"uneven_terrain": {
-		"message": "비포장도로",
-		"description": "Id: uneven_terrain\nname of the bar for truck's performance to take up on broken / uneven terrain / grassy terrain\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
-	},
 	"steam_sctrl_action_shortcut_3h": {
 		"message": "바로가기 3 홀드",
 		"description": "Id: sctrl_action_shortcut_3h\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"steam_sctrl_action_shortcut_4": {
-		"message": "바로가기 4",
-		"description": "Id: sctrl_action_shortcut_4\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	"uneven_terrain": {
+		"message": "비포장도로",
+		"description": "Id: uneven_terrain\nname of the bar for truck's performance to take up on broken / uneven terrain / grassy terrain\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
 	"engine_torque": {
 		"message": "토크",
 		"description": "Id: engine_torque\ntruck's engine torque value in Nm / newton-meters\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
-	"first_gear_ratio": {
-		"message": "최초 기어비",
-		"description": "Id: first_gear_ratio\nFirst Gear Ratio of the gearbox\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
+	"steam_sctrl_action_shortcut_4": {
+		"message": "바로가기 4",
+		"description": "Id: sctrl_action_shortcut_4\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"steam_sctrl_action_shortcut_4h": {
 		"message": "바로가기 4 홀드",
 		"description": "Id: sctrl_action_shortcut_4h\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	},
+	"first_gear_ratio": {
+		"message": "최초 기어비",
+		"description": "Id: first_gear_ratio\nFirst Gear Ratio of the gearbox\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
 	"steam_sctrl_action_j_cam_lk": {
 		"message": "트럭 장면 카메라 보기",
@@ -359,13 +359,13 @@
 		"message": "트럭 장면 카메라 이동",
 		"description": "Id: sctrl_action_j_cam_mv\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"effective_wheel_base": {
-		"message": "유효 축간거리",
-		"description": "Id: effective_wheel_base\ntruck's wheelbase in meters, m\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
-	},
 	"steam_sctrl_action_j_trzoom_in": {
 		"message": "트럭 장면 확대",
 		"description": "Id: sctrl_action_j_trzoom_in\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	},
+	"effective_wheel_base": {
+		"message": "유효 축간거리",
+		"description": "Id: effective_wheel_base\ntruck's wheelbase in meters, m\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
 	"steam_sctrl_action_j_trzoom_out": {
 		"message": "트럭 장면 축소",
@@ -375,13 +375,13 @@
 		"message": "조향각도",
 		"description": "Id: steer_angle\nmaximum degree angle of streeting wheels\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
-	"steam_sctrl_action_j_mapzom_in": {
-		"message": "지도 확대",
-		"description": "Id: sctrl_action_j_mapzom_in\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
-	},
 	"retarder_analysis": {
 		"message": "리타더",
 		"description": "Id: retarder_analysis\nretarder presense value yes / no\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
+	},
+	"steam_sctrl_action_j_mapzom_in": {
+		"message": "지도 확대",
+		"description": "Id: sctrl_action_j_mapzom_in\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"powered_axles": {
 		"message": "구동 축",
@@ -407,13 +407,13 @@
 		"message": "액슬 개수",
 		"description": "Id: axles\namount of axles truck has\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
-	"steam_sctrl_action_phot_z_j_in": {
-		"message": "포토 모드 확대",
-		"description": "Id: sctrl_action_phot_z_j_in\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
-	},
 	"gear_count": {
 		"message": "기어 개수",
 		"description": "Id: gear_count\namount of gears in trucks's transmission\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
+	},
+	"steam_sctrl_action_phot_z_j_in": {
+		"message": "포토 모드 확대",
+		"description": "Id: sctrl_action_phot_z_j_in\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"power": {
 		"message": "엔진 마력",
@@ -423,21 +423,21 @@
 		"message": "포토 모드 축소",
 		"description": "Id: sctrl_action_phot_z_j_out\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"steam_sctrl_action_photoup": {
-		"message": "포토 모드 카메라 업",
-		"description": "Id: sctrl_action_photoup\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
-	},
 	"truck_analysis_heavy_introduction": {
 		"message": "중량화물을 운송하려고 합니다. 현재 트럭 구성을 검토하여 문제가 없는지 확인하십시오.",
 		"description": "Id: truck_analysis_heavy_introduction\nDescription in the truck analysis pop-up window when taking heavy cargo job\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
-	"vehicle_analysis_info_tooltip": {
-		"message": "예상되는 운송 수단을 감안할 때, 운전기술 및 법적 제한사항을 고려하여 차량을 조정하십시오.",
-		"description": "Id: vehicle_analysis_info_tooltip\nGeneral tooltip description of Vehicle Analysis feature\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
+	"steam_sctrl_action_photoup": {
+		"message": "포토 모드 카메라 업",
+		"description": "Id: sctrl_action_photoup\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"steam_sctrl_action_photodown": {
 		"message": "포토 모드 카메라 다운",
 		"description": "Id: sctrl_action_photodown\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	},
+	"vehicle_analysis_info_tooltip": {
+		"message": "예상되는 운송 수단을 감안할 때, 운전기술 및 법적 제한사항을 고려하여 차량을 조정하십시오.",
+		"description": "Id: vehicle_analysis_info_tooltip\nGeneral tooltip description of Vehicle Analysis feature\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
 	"normal_cargo_tooltip": {
 		"message": "경량화물 및 중형화물 운송 업무에 최적화 됨",
@@ -463,13 +463,13 @@
 		"message": "포토 모드 플레이어 네임 토글",
 		"description": "Id: sctrl_action_photonames\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"hill_climbing_tooltip": {
-		"message": "오르막과 내리막을 더욱 부드럽게 주행하기 위해 최적화된 차량 파워트레인",
-		"description": "Id: hill_climbing_tooltip\nTooltip description for the Hill Traversal bar in Vehicle Analysis\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
-	},
 	"steam_sctrl_action_photo_hctrl": {
 		"message": "포토 모드 컨트롤 윈도우 토글",
 		"description": "Id: sctrl_action_photo_hctrl\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	},
+	"hill_climbing_tooltip": {
+		"message": "오르막과 내리막을 더욱 부드럽게 주행하기 위해 최적화된 차량 파워트레인",
+		"description": "Id: hill_climbing_tooltip\nTooltip description for the Hill Traversal bar in Vehicle Analysis\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
 	"uneven_terrain_tooltip": {
 		"message": "평탄하지 않고 거친 표면을 지나갈 수 있는 능력",
@@ -543,21 +543,21 @@
 		"message": "Dpad 위쪽 버튼",
 		"description": "Id: sctrl_action_simple_pov1_up\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"truck_upgrades": {
-		"message": "트럭 업그레이드",
-		"description": "Id: truck_upgrades\nThe name of the screen containing truck upgrades.\nGroup: Screen showing list of the upgrades."
-	},
 	"steam_sctrl_action_simple_pov1_right": {
 		"message": "Dpad 오른쪽 버튼",
 		"description": "Id: sctrl_action_simple_pov1_right\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"steam_sctrl_action_simple_pov1_down": {
-		"message": "Dpad 아래쪽 버튼",
-		"description": "Id: sctrl_action_simple_pov1_down\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	"truck_upgrades": {
+		"message": "트럭 업그레이드",
+		"description": "Id: truck_upgrades\nThe name of the screen containing truck upgrades.\nGroup: Screen showing list of the upgrades."
 	},
 	"trailer_upgrades": {
 		"message": "트레일러 업그레이드",
 		"description": "Id: trailer_upgrades\nThe name of the screen containing trailer upgrades.\nGroup: Screen showing list of the upgrades."
+	},
+	"steam_sctrl_action_simple_pov1_down": {
+		"message": "Dpad 아래쪽 버튼",
+		"description": "Id: sctrl_action_simple_pov1_down\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"new_upgrades_about": {
 		"message": "사용할 수 있는 새로운 업그레이드를 확인하십시오.",
@@ -599,45 +599,45 @@
 		"message": "메뉴 2 버튼",
 		"description": "Id: sctrl_action_simple_menu2\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"truck_action_t": {
-		"message": "차량 서비스",
-		"description": "Id: truck_action_t\nTitle of window providing selection between various kinds of truck services (repairs, upgrades, paint shop). Please keep in upper case where possible."
-	},
 	"steam_sctrl_action_simple_share": {
 		"message": "공유 버튼",
 		"description": "Id: sctrl_action_simple_share\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"truck_service_t": {
+	"truck_action_t": {
 		"message": "서비스",
-		"description": "Id: truck_service_t\nTitle of the screen. Please keep in upper case where possible.\nGroup: Truck service screen.\nAllows to repair damaged components of the truck."
+		"description": "Id: truck_action_t\nTitle of window providing selection between various kinds of truck services (repairs, upgrades, paint shop). Please keep in upper case where possible."
 	},
 	"steam_sctrl_action_simple_x": {
 		"message": "왼쪽 스틱 X",
 		"description": "Id: sctrl_action_simple_x\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"steam_sctrl_action_simple_y": {
-		"message": "왼쪽 스틱 Y",
-		"description": "Id: sctrl_action_simple_y\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	"truck_service_t": {
+		"message": "서비스",
+		"description": "Id: truck_service_t\nTitle of the screen. Please keep in upper case where possible.\nGroup: Truck service screen.\nAllows to repair damaged components of the truck."
 	},
 	"truck_service": {
 		"message": "서비스",
 		"description": "Id: truck_service\nIcon allowing player to repair the truck. There is limited space allowing for two lines of 7 'W' characters each.\nGroup: Truck service screen.\nAllows to repair damaged components of the truck."
 	},
-	"vehicle_service_about": {
-		"message": "차량을 정비 또는 수리합니다. 훌륭한 운전자는 자신의 차량을 항상 최상의 상태로 유지합니다.",
-		"description": "Id: vehicle_service_about\nHelp message associated with service icon.\nGroup: Truck service screen.\nAllows to repair damaged components of the truck."
+	"steam_sctrl_action_simple_y": {
+		"message": "왼쪽 스틱 Y",
+		"description": "Id: sctrl_action_simple_y\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"steam_sctrl_action_simple_xy": {
 		"message": "왼쪽 스틱",
 		"description": "Id: sctrl_action_simple_xy\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"steam_sctrl_action_simple_rx": {
-		"message": "오른쪽 스틱 X",
-		"description": "Id: sctrl_action_simple_rx\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	"vehicle_service_about": {
+		"message": "차량을 정비 또는 수리합니다. 훌륭한 운전자는 자신의 차량을 항상 최상의 상태로 유지합니다.",
+		"description": "Id: vehicle_service_about\nHelp message associated with service icon.\nGroup: Truck service screen.\nAllows to repair damaged components of the truck."
 	},
 	"damage_t": {
 		"message": "대미지 리포트",
 		"description": "Id: damage_t\nHeader of section displaying status of individual components of the vehicle (engine, transmission, ....). Please keep in upper case where possible. Please keep in upper case where possible.\nGroup: Truck service screen.\nAllows to repair damaged components of the truck."
+	},
+	"steam_sctrl_action_simple_rx": {
+		"message": "오른쪽 스틱 X",
+		"description": "Id: sctrl_action_simple_rx\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"truck_service_repair_all": {
 		"message": "모두 수리",
@@ -655,21 +655,21 @@
 		"message": "모두 교체",
 		"description": "Id: truck_service_replace_all\nLabel of checkbox that sets all vehicle accessories to be replaced.\nGroup: Truck service screen.\nAllows to repair damaged components of the truck."
 	},
-	"steam_sctrl_action_simple_v1x": {
-		"message": "축 1 X",
-		"description": "Id: sctrl_action_simple_v1x\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
-	},
 	"vehicle_service_vehicle_t": {
 		"message": "차량 대미지 리포트",
 		"description": "Id: vehicle_service_vehicle_t\nHeader of section displaying status of individual components of the vehicle. Please keep in upper case where possible.\nGroup: Truck service screen.\nAllows to repair damaged components of the truck."
 	},
-	"steam_sctrl_action_simple_v1y": {
-		"message": "축 1 Y",
-		"description": "Id: sctrl_action_simple_v1y\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	"steam_sctrl_action_simple_v1x": {
+		"message": "축 1 X",
+		"description": "Id: sctrl_action_simple_v1x\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"truck_service_trailer_t": {
 		"message": "트레일러 대미지 리포트",
 		"description": "Id: truck_service_trailer_t\nHeader of section displaying status of individual components of the trailer. Please keep in upper case where possible.\nGroup: Truck service screen.\nAllows to repair damaged components of the truck."
+	},
+	"steam_sctrl_action_simple_v1y": {
+		"message": "축 1 Y",
+		"description": "Id: sctrl_action_simple_v1y\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"steam_sctrl_action_simple_v1": {
 		"message": "축 1",
@@ -679,13 +679,13 @@
 		"message": "확인",
 		"description": "Id: repair\nButton which confirms selected actions.\nGroup: Truck service screen.\nAllows to repair damaged components of the truck."
 	},
-	"steam_sctrl_action_simple_v2x": {
-		"message": "축 2 X",
-		"description": "Id: sctrl_action_simple_v2x\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
-	},
 	"vehicle_damage": {
 		"message": "차량 대미지",
 		"description": "Id: vehicle_damage\nPrice for the vehicle damage\nGroup: Truck service screen.\nAllows to repair damaged components of the truck."
+	},
+	"steam_sctrl_action_simple_v2x": {
+		"message": "축 2 X",
+		"description": "Id: sctrl_action_simple_v2x\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"vehicle_config_t": {
 		"message": "차량 구성",
@@ -703,13 +703,13 @@
 		"message": "차량 구성",
 		"description": "Id: vehicle_config\nIcon allowing player to upgrade the vehicle.\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
-	"steam_sctrl_action_simple_v3x": {
-		"message": "축 3 X",
-		"description": "Id: sctrl_action_simple_v3x\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
-	},
 	"vehicle_config_about": {
 		"message": "아시다시피, 당신은 차량을 튜닝 및 페인트를 칠하여 좀 더 만족할 수 있을겁니다.",
 		"description": "Id: vehicle_config_about\nHelp message associated with upgrade icon.\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
+	},
+	"steam_sctrl_action_simple_v3x": {
+		"message": "축 3 X",
+		"description": "Id: sctrl_action_simple_v3x\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"price": {
 		"message": "가격",
@@ -735,13 +735,13 @@
 		"message": "상단 메뉴에서 업그레이드 범주를 선택하십시오.",
 		"description": "Id: select_cat\nText shown if user did not select any component category.\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
-	"steam_sctrl_action_simple_v4y": {
-		"message": "축 4 Y",
-		"description": "Id: sctrl_action_simple_v4y\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
-	},
 	"select_pin": {
 		"message": "차량에 배치된 핀을 선택하면 적용할 수 있는 액세서리를 볼 수 있습니다.",
 		"description": "Id: select_pin\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
+	},
+	"steam_sctrl_action_simple_v4y": {
+		"message": "축 4 Y",
+		"description": "Id: sctrl_action_simple_v4y\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"steam_sctrl_action_simple_v4": {
 		"message": "축 4",
@@ -751,13 +751,13 @@
 		"message": "원래 가격:",
 		"description": "Id: tc_orig_price\nFollowed by the price of the original configuration of the new truck.\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
-	"steam_sctrl_action_simple_lt": {
-		"message": "왼쪽 트리거",
-		"description": "Id: sctrl_action_simple_lt\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
-	},
 	"tc_extra_price": {
 		"message": "추가 가격:",
 		"description": "Id: tc_extra_price\nFollowed by difference between the new price with all the modifications and the price of the original configuration.\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
+	},
+	"steam_sctrl_action_simple_lt": {
+		"message": "왼쪽 트리거",
+		"description": "Id: sctrl_action_simple_lt\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"tc_new_total": {
 		"message": "새로운 합계:",
@@ -775,13 +775,13 @@
 		"message": "환불된 부품",
 		"description": "Id: spare_parts\nRefunded parts title in the shopping cart\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
-	"refund_t": {
-		"message": "환불",
-		"description": "Id: refund_t\nTitle of dialog box with missing parts refundation\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
-	},
 	"steam_sctrl_action_simple_a2": {
 		"message": "트리거 2",
 		"description": "Id: sctrl_action_simple_a2\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	},
+	"refund_t": {
+		"message": "환불",
+		"description": "Id: refund_t\nTitle of dialog box with missing parts refundation\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
 	"steam_sctrl_action_simple_a3": {
 		"message": "트리거 3",
@@ -823,29 +823,29 @@
 		"message": "버튼 3",
 		"description": "Id: sctrl_action_simple_b3\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"steam_sctrl_action_simple_b4": {
-		"message": "버튼 4",
-		"description": "Id: sctrl_action_simple_b4\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
-	},
 	"overlay_lights": {
 		"message": "라이트",
 		"description": "Id: overlay_lights\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
-	"steam_sctrl_action_simple_b5": {
-		"message": "버튼 5",
-		"description": "Id: sctrl_action_simple_b5\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	"steam_sctrl_action_simple_b4": {
+		"message": "버튼 4",
+		"description": "Id: sctrl_action_simple_b4\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"overlay_fullscreen_activate": {
 		"message": "전체화면",
 		"description": "Id: overlay_fullscreen_activate\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
-	"steam_sctrl_action_simple_b6": {
-		"message": "버튼 6",
-		"description": "Id: sctrl_action_simple_b6\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	"steam_sctrl_action_simple_b5": {
+		"message": "버튼 5",
+		"description": "Id: sctrl_action_simple_b5\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"overlay_fullscreen_deactivate": {
 		"message": "전체화면 종료",
 		"description": "Id: overlay_fullscreen_deactivate\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
+	},
+	"steam_sctrl_action_simple_b6": {
+		"message": "버튼 6",
+		"description": "Id: sctrl_action_simple_b6\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"steam_sctrl_action_simple_b7": {
 		"message": "버튼 7",
@@ -863,13 +863,13 @@
 		"message": "트럭 연결",
 		"description": "Id: overlay_att_truck\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
-	"overlay_det_truck": {
-		"message": "트럭 분리",
-		"description": "Id: overlay_det_truck\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
-	},
 	"steam_decide_steam_input_mode_t": {
 		"message": "스팀 입력 매핑 모드 선택",
 		"description": "Id: decide_steam_input_mode_t\nTitle of the message box.\nGroup: Steam Input mapping mode introduction message box."
+	},
+	"overlay_det_truck": {
+		"message": "트럭 분리",
+		"description": "Id: overlay_det_truck\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
 	"steam_decide_steam_input_mode": {
 		"message": "새로운 <color value=@@clr_sel@@>게임 내 매핑 모드<color value=@@clr_txt@@>를 소개합니다, 이 모드는 전체 게임 내 키 바인딩 구성과 더 나은 버튼 힌트를 지원합니다. 이것은 권장되는 모드입니다.<br><br>스팀 클라이언트를 통해 게임패드 레이아웃을 사용자 지정한 경우 <color value=@@clr_sel@@>스팀 클라이언트 매핑 모드<color value=@@clr_txt@@>를 유지하십시오.<br><br>입력 마법사를 사용하여 옵션에서 언제든지 모드를 변경할 수 있습니다.",
@@ -887,13 +887,13 @@
 		"message": "스팀 클라이언트 모드 계속하기",
 		"description": "Id: decide_steam_input_mode_keep_advanced\nButton keeping the old advanced mode of Steam Input.\nGroup: Steam Input mapping mode introduction message box."
 	},
-	"steam_decide_steam_input_mode_setup_simple": {
-		"message": "입력 마법사 열기",
-		"description": "Id: decide_steam_input_mode_setup_simple\nButton opening Input Wizard.\nGroup: Steam Input mapping mode introduction message box."
-	},
 	"overlay_scroll": {
 		"message": "Scroll",
 		"description": "Id: overlay_scroll\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
+	},
+	"steam_decide_steam_input_mode_setup_simple": {
+		"message": "입력 마법사 열기",
+		"description": "Id: decide_steam_input_mode_setup_simple\nButton opening Input Wizard.\nGroup: Steam Input mapping mode introduction message box."
 	},
 	"steam_input_mode": {
 		"message": "스팀 입력 매핑 모드",
@@ -911,13 +911,13 @@
 		"message": "색상 조정",
 		"description": "Id: overlay_select_color\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
-	"steam_input_mode_advanced": {
-		"message": "스팀 클라이언트 매핑",
-		"description": "Id: steam_input_mode_advanced\nAdvanced external layout configured in Steam Client.\nGroup: Selection of the Steam Input Mapping Mode\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
-	},
 	"tooltip_apply_color_to_compatible": {
 		"message": "호환되는 모든 항목에 적용",
 		"description": "Id: tooltip_apply_color_to_compatible\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
+	},
+	"steam_input_mode_advanced": {
+		"message": "스팀 클라이언트 매핑",
+		"description": "Id: steam_input_mode_advanced\nAdvanced external layout configured in Steam Client.\nGroup: Selection of the Steam Input Mapping Mode\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
 	"steam_input_mode_op_tooltip": {
 		"message": "@@controller_ps5@@, @@controller_xbox_one@@ 또는 @@controller_steam_deck@@와(과) 같은 게임패드에 대한 모드를 선택하여 스팀 입력 인터페이스를 선택합니다:<br>- \"스팀 클라이언트 매핑\" - 스팀 클라이언트를 통해 구성된 독립형 레이아웃을 사용합니다. 게임 내 버튼 힌트에 대한 지원이 제한적이며 게임 내 바인딩 구성이 없습니다.<br>_ \"게임 내 매핑\" - 범용 단순 레이아웃을 사용합니다. 전체 게임 내 키 바인딩 구성과 더 나은 버튼 힌트를 지원합니다. 이 모드로 전환할 때 입력 마법사를 실행하는 것이 좋습니다. 이것이 권장되는 모드입니다.",
@@ -927,21 +927,21 @@
 		"message": "현재 설정을 그대로 진행하시겠습니까?<br>총 가격은 <color value=@@clr_sel@@>$CART_PRICE$<color value=@@clr_txt@@>입니다.",
 		"description": "Id: tc_confirm_order\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
-	"td_confirm": {
-		"message": "현재 설정을 그대로 진행하시겠습니까?",
-		"description": "Id: td_confirm\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
-	},
 	"steam_controller_steam": {
 		"message": "스팀 컨트롤러",
 		"description": "Id: controller_steam\nGroup: Supported controller names."
 	},
-	"steam_controller_steam_deck": {
-		"message": "스팀덱",
-		"description": "Id: controller_steam_deck\nGroup: Supported controller names."
+	"td_confirm": {
+		"message": "현재 설정을 그대로 진행하시겠습니까?",
+		"description": "Id: td_confirm\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
 	"truck_diag_t": {
 		"message": "차량 진단",
 		"description": "Id: truck_diag_t\nTitle of the screen. Please keep in upper case where possible.\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
+	},
+	"steam_controller_steam_deck": {
+		"message": "스팀덱",
+		"description": "Id: controller_steam_deck\nGroup: Supported controller names."
 	},
 	"steam_controller_steam_fusion": {
 		"message": "스팀 입력 컨트롤러",
@@ -951,13 +951,13 @@
 		"message": "차량 진단",
 		"description": "Id: truck_diag\nIcon allowing player to show damage on the truck.\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
 	},
-	"steam_cloud_synchronization": {
-		"message": "스팀 클라우드 동기화:",
-		"description": "Id: steam_cloud_synchronization\nWhether is steam cloud synchronization active.\nGroup: Profile selection."
-	},
 	"vehicle_diag_about": {
 		"message": "차량 및 현재 상태에 대한 정보를 볼 수 있습니다.",
 		"description": "Id: vehicle_diag_about\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
+	},
+	"steam_cloud_synchronization": {
+		"message": "스팀 클라우드 동기화:",
+		"description": "Id: steam_cloud_synchronization\nWhether is steam cloud synchronization active.\nGroup: Profile selection."
 	},
 	"truck_diag_warning": {
 		"message": "차량 상태가 좋지 않습니다. 가능한 빨리 서비스를 받으십시오.",
@@ -967,13 +967,13 @@
 		"message": "이전 버전의 게임을 사용하고 있습니다.<br>자동 업데이트를 끄지 않으셨다면 스팀이 자동으로 게임을 업데이트합니다.",
 		"description": "Id: new_version_available_steam\nGroup: News."
 	},
-	"steam_demo": {
-		"message": "Euro Truck Simulator 2 무료 평가판이 마음에 드셨다면 <LINK URL=@@steam_buy_url@@ COLOR=@@clr_link@@>스팀</LINK>에서 정식 버전을 구입해 주시기 바랍니다!",
-		"description": "Id: steam_demo\nMessage shown on the \"activation\" screen for Steam demo only build."
-	},
 	"truck_diag_warning_minor_dmg": {
 		"message": "가까운 서비스 센터에서 차량을 수리할 수 있습니다.",
 		"description": "Id: truck_diag_warning_minor_dmg\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
+	},
+	"steam_demo": {
+		"message": "Euro Truck Simulator 2 무료 평가판이 마음에 드셨다면 <LINK URL=@@steam_buy_url@@ COLOR=@@clr_link@@>스팀</LINK>에서 정식 버전을 구입해 주시기 바랍니다!",
+		"description": "Id: steam_demo\nMessage shown on the \"activation\" screen for Steam demo only build."
 	},
 	"steam_sys_no_steam": {
 		"message": "Euro Truck Simulator 2가 스팀 클라이언트에 접근할 수 없습니다. 문제 해결을 위한 제안입니다:\n\n1. 스팀 클라이언트가 실행 중인지 확인하십시오.\n2. 스팀 클라이언트의 버전을 업데이트했는지 확인하십시오.\n3. 자동 업데이트가 활성화되어 있고 게임이 최신 버전으로 업데이트되어 있는지 확인합니다.",
@@ -991,13 +991,13 @@
 		"message": "현재 설치된 DLC (다운로드 가능한 콘텐츠) 중 일부는 현재 게임 버전과 호환되지 않으므로 사용할 수 없습니다. 스팀 게임 캐시의 무결성을 확인하십시오.<br><br>호환되지 않는 콘텐츠는 다음과 같습니다:",
 		"description": "Id: incompatible_dlc_steam\nGroup: Message shown when there are DLC packs which are not compatible with the game."
 	},
-	"truck_diag_tooltip_wear_unfixable": {
-		"message": "평균 마모:",
-		"description": "Id: truck_diag_tooltip_wear_unfixable\nLabel of unfixable wear in tooltip.\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
-	},
 	"steam_profile_already_exists": {
 		"message": "동일한 이름의 스팀 프로필이 이미 있으므로 스팀 프로필을 만들 수 없습니다.",
 		"description": "Id: steam_profile_already_exists\nCreate profile screen, cannot create steam profile because of name conflict.\nGroup: Steam cloud."
+	},
+	"truck_diag_tooltip_wear_unfixable": {
+		"message": "평균 마모:",
+		"description": "Id: truck_diag_tooltip_wear_unfixable\nLabel of unfixable wear in tooltip.\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
 	},
 	"steam_migration_target_profile_already_exists": {
 		"message": "프로필을 이전할 수 없습니다. 이미 다른 프로필에 동일한 이름이 존재합니다.",
@@ -1007,29 +1007,29 @@
 		"message": "부품 교체를 통해 수리.",
 		"description": "Id: truck_diag_tooltip_wear_unfixable_note\nExplanation of unfixable wear in tooltip.\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
 	},
-	"truck_diag_tooltip_wear": {
-		"message": "평균 대미지:",
-		"description": "Id: truck_diag_tooltip_wear\nLabel of damage in tooltip.\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
-	},
 	"steam_profile_migration_error": {
 		"message": "프로필 이전에 실패하였습니다",
 		"description": "Id: steam_profile_migration_error\nEdit screen, cannot migrate profile because of some internal error.\nGroup: Steam cloud."
 	},
-	"truck_diag_tooltip_wear_note": {
-		"message": "수리 또는 부품 교체를 통해 수리.",
-		"description": "Id: truck_diag_tooltip_wear_note\nExplanation of damage in tooltip.\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
+	"truck_diag_tooltip_wear": {
+		"message": "평균 대미지:",
+		"description": "Id: truck_diag_tooltip_wear\nLabel of damage in tooltip.\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
 	},
 	"steam_cloud_settings_label": {
 		"message": "스팀 클라우드 동기화",
 		"description": "Id: steam_cloud_settings_label\nEdit or create screen checkbox.\nGroup: Steam cloud."
 	},
-	"steam_load_msg_out_of_steam_intro_has_space": {
-		"message": "스팀 클라우드는 저장하기 위한 공간이 충분히 있습니다.",
-		"description": "Id: load_msg_out_of_steam_intro_has_space\nLoad screen with out of steam warning when player removed enough save.\nGroup: Steam cloud."
+	"truck_diag_tooltip_wear_note": {
+		"message": "수리 또는 부품 교체를 통해 수리.",
+		"description": "Id: truck_diag_tooltip_wear_note\nExplanation of damage in tooltip.\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
 	},
 	"truck_diag_recommend_repairs": {
 		"message": "수리 제안",
 		"description": "Id: truck_diag_recommend_repairs\nLabel of button that offers actions (no action, repair or replace) recommended by service.\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
+	},
+	"steam_load_msg_out_of_steam_intro_has_space": {
+		"message": "스팀 클라우드는 저장하기 위한 공간이 충분히 있습니다.",
+		"description": "Id: load_msg_out_of_steam_intro_has_space\nLoad screen with out of steam warning when player removed enough save.\nGroup: Steam cloud."
 	},
 	"steam_load_msg_out_of_steam_intro_no_space": {
 		"message": "<color value=@@clr_red@@>스팀 클라우드의 용량이 부족합니다!<color value=@@clr_txt@@><br><br>계속하려면 일부 세이브 파일을 삭제하십시오. 다음은 플레이어를 돕기 위한 정보입니다:",
@@ -1047,53 +1047,53 @@
 		"message": "마모",
 		"description": "Id: wear_unfixable\nAccesory unfixable wear column table header.\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
 	},
-	"steam_load_msg_out_of_steam_to_free_files": {
-		"message": "초과된 파일: <color value=@@clr_red@@>$FILES$<color value=@@clr_txt@@>",
-		"description": "Id: load_msg_out_of_steam_to_free_files\nNumber of files player has to remove.\nGroup: Steam cloud."
-	},
 	"wear": {
 		"message": "대미지",
 		"description": "Id: wear\nAccesory damage column table header.\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
 	},
-	"truck_diag_action": {
-		"message": "행동",
-		"description": "Id: truck_diag_action\nAccesory action column table header.\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
+	"steam_load_msg_out_of_steam_to_free_files": {
+		"message": "초과된 파일: <color value=@@clr_red@@>$FILES$<color value=@@clr_txt@@>",
+		"description": "Id: load_msg_out_of_steam_to_free_files\nNumber of files player has to remove.\nGroup: Steam cloud."
 	},
 	"steam_load_msg_out_of_steam_used_bytes": {
 		"message": "스팀 클라우드 공간 사용: <color value=@@clr_sel@@>$BYTES$ MB<color value=@@clr_txt@@>",
 		"description": "Id: load_msg_out_of_steam_used_bytes\nNumber of Megabytes player has in the cloud.\nGroup: Steam cloud."
 	},
-	"steam_load_msg_out_of_steam_used_files": {
-		"message": "스팀 클라우드의 파일: <color value=@@clr_sel@@>$FILES$<color value=@@clr_txt@@>",
-		"description": "Id: load_msg_out_of_steam_used_files\nNumber of files player has in the cloud.\nGroup: Steam cloud."
+	"truck_diag_action": {
+		"message": "행동",
+		"description": "Id: truck_diag_action\nAccesory action column table header.\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
 	},
 	"truck_diag_cost": {
 		"message": "비용",
 		"description": "Id: truck_diag_cost\nAccesory action cost column table header.\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
 	},
-	"truck_repair_quick": {
-		"message": "수리 비용은 당신의 고용주가 부담할 것입니다.",
-		"description": "Id: truck_repair_quick\nShown in repair screens when the player is driving a quick job truck."
+	"steam_load_msg_out_of_steam_used_files": {
+		"message": "스팀 클라우드의 파일: <color value=@@clr_sel@@>$FILES$<color value=@@clr_txt@@>",
+		"description": "Id: load_msg_out_of_steam_used_files\nNumber of files player has in the cloud.\nGroup: Steam cloud."
 	},
 	"steam_load_msg_out_of_steam_selected_save": {
 		"message": "선택된 저장 <color value=@@clr_sel@@>$SAVE$<color value=@@clr_txt@@> has <color value=@@clr_sel@@>$BYTES$ MB<color value=@@clr_txt@@> <color value=@@clr_sel@@>$FILES$<color value=@@clr_txt@@> 의 파일이 있습니다.",
 		"description": "Id: load_msg_out_of_steam_selected_save\nSelected save info.\nGroup: Steam cloud."
 	},
-	"steam_load_msg_out_of_steam_box": {
-		"message": "스팀 클라우드의 용량이 부족합니다. 계속하려면 일부 세이브 파일을 삭제하십시오.<br><br>오른쪽 패널에서 자세한 정보를 읽으십시오.",
-		"description": "Id: load_msg_out_of_steam_box\nPopup when trying load game ignoring warning about steam cloud running out of space.\nGroup: Steam cloud."
+	"truck_repair_quick": {
+		"message": "수리 비용은 당신의 고용주가 부담할 것입니다.",
+		"description": "Id: truck_repair_quick\nShown in repair screens when the player is driving a quick job truck."
 	},
 	"your_money": {
 		"message": "소지금:",
 		"description": "Id: your_money\nFollowed by balance on players bank account."
 	},
-	"coinsurance": {
-		"message": "공동보험:",
-		"description": "Id: coinsurance\nFollowed by to limits of current insurance."
+	"steam_load_msg_out_of_steam_box": {
+		"message": "스팀 클라우드의 용량이 부족합니다. 계속하려면 일부 세이브 파일을 삭제하십시오.<br><br>오른쪽 패널에서 자세한 정보를 읽으십시오.",
+		"description": "Id: load_msg_out_of_steam_box\nPopup when trying load game ignoring warning about steam cloud running out of space.\nGroup: Steam cloud."
 	},
 	"steam_profile_migration_to_local_warning": {
 		"message": "프로필을 로컬 프로필 형태로 전환하면 해당 프로필은 접속한 스팀 계정과 관계없이 이 컴퓨터에서만 사용할 수 있습니다.",
 		"description": "Id: steam_profile_migration_to_local_warning\nPopup warning when player unchecks the steam cloud checkbox in the profile edit screen.\nGroup: Steam cloud."
+	},
+	"coinsurance": {
+		"message": "공동보험:",
+		"description": "Id: coinsurance\nFollowed by to limits of current insurance."
 	},
 	"steam_migration_failed": {
 		"message": "프로필 마이그레이션에 실패했습니다. 데이터가 전송되지 않았으며, 시스템은 원본 프로필을 그대로 유지했습니다. 다시 시도해 주십시오.",
@@ -1458,10 +1458,6 @@
 	"nuts": {
 		"message": "너트",
 		"description": "Id: nuts\nWheel nuts\nGroup: Various accessory slots or accessory names."
-	},
-	"p_seats": {
-		"message": "승객석",
-		"description": "Id: p_seats\nPassenger Seats\nGroup: Various accessory slots or accessory names."
 	},
 	"r_banner": {
 		"message": "후방 배너",
@@ -3028,7 +3024,7 @@
 		"description": "Id: dlc_category_accessories\nButton/tab in DLC browser. Please keep it as short as possible.\nGroup: DLC browser."
 	},
 	"dlc_category_paint_jobs": {
-		"message": "스킨",
+		"message": "도색",
 		"description": "Id: dlc_category_paint_jobs\nButton/tab in DLC browser. Please keep it as short as possible.\nGroup: DLC browser."
 	},
 	"dlc_category_vehicles": {
@@ -7016,11 +7012,11 @@
 		"description": "Id: set_navigation_to_portal\nGroup: XMAS event\nGroup: Options/Eye tracking\nScreen used to configure eye tracking related options"
 	},
 	"wanna_assistance_portal": {
-		"message": "긴급출동 서비스가 당신의 차량을 임의의 포털로 데려갈 것이며 비용은 무료입니다.<br offset=30>동의하십니까?",
+		"message": "긴급출동 서비스가 당신의 트럭을 임의의 포털로 데려갈 것이며 비용은 무료입니다.<br offset=30>동의하십니까?",
 		"description": "Id: wanna_assistance_portal\nGroup: XMAS event\nGroup: Options/Eye tracking\nScreen used to configure eye tracking related options"
 	},
 	"wanna_assistance_portal_online": {
-		"message": "긴급출동 서비스가 당신의 차량을 임의의 포털로 데려갈 것이며 비용은 무료입니다.<br offset=30>진행 중인 화물 운송이 취소됩니다.<br offset=30>동의하십니까?",
+		"message": "긴급출동 서비스가 당신의 트럭을 임의의 포털로 데려갈 것이며 비용은 무료입니다.<br offset=30>진행 중인 화물 운송이 취소됩니다.<br offset=30>동의하십니까?",
 		"description": "Id: wanna_assistance_portal_online\nGroup: XMAS event\nGroup: Options/Eye tracking\nScreen used to configure eye tracking related options"
 	},
 	"mp_job_quick_travel_other_land": {
@@ -8180,15 +8176,15 @@
 		"description": "Id: wanna_assistance_online\nGroup: Route adviser"
 	},
 	"wanna_recover": {
-		"message": "긴급출동 서비스가 당신과 차량을 가장 가까운 도로로 안내해 드릴 수 있습니다. 비용은 $MONEY$이며 $TIME$이 소요됩니다.<br offset=30>동의하십니까?",
+		"message": "긴급출동 서비스가 당신과 트럭을 가장 가까운 도로로 안내해 드릴 수 있습니다. 비용은 $MONEY$이며 $TIME$이 소요됩니다.<br offset=30>동의하십니까?",
 		"description": "Id: wanna_recover\nGroup: Route adviser"
 	},
 	"wanna_recover_quick": {
-		"message": "긴급출동 서비스가 당신과 차량을 가장 가까운 도로로 안내해 드릴 수 있습니다. 비용은 $MONEY$이며 $TIME$이 소요됩니다.<br>(비용은 고용주가 부담할 것입니다)<br offset=30>동의하십니까?",
+		"message": "긴급출동 서비스가 당신과 트럭을 가장 가까운 도로로 안내해 드릴 수 있습니다. 비용은 $MONEY$이며 $TIME$이 소요됩니다.<br>(비용은 고용주가 부담할 것입니다)<br offset=30>동의하십니까?",
 		"description": "Id: wanna_recover_quick\nGroup: Route adviser"
 	},
 	"wanna_recover_online": {
-		"message": "긴급출동 서비스가 당신과 차량을 가장 가까운 도로로 안내해 드릴 수 있습니다. 비용은 $MONEY$이고 $TIME$이 소요되며<br offset=30>진행 중인 화물 운송이 취소됩니다.<br offset=30>동의하십니까?",
+		"message": "긴급출동 서비스가 당신과 트럭을 가장 가까운 도로로 안내해 드릴 수 있습니다. 비용은 $MONEY$이고 $TIME$이 소요되며<br offset=30>진행 중인 화물 운송이 취소됩니다.<br offset=30>동의하십니까?",
 		"description": "Id: wanna_recover_online\nGroup: Route adviser"
 	},
 	"wanna_refuel": {
@@ -8539,10 +8535,6 @@
 		"message": "화주가 당신을 애타게 기다리고 있습니다! 시간 내에 도착할 수 있도록 하십시오!",
 		"description": "Id: hurry_up\nGroup: Route adviser"
 	},
-	"bus_hurry_up": {
-		"message": "일정보다 늦어지고 있습니다",
-		"description": "Id: bus_hurry_up\nGroup: Route adviser"
-	},
 	"toll_one_time": {
 		"message": "통과하려면 $MONEY$ 만큼 내야합니다.<br>누르기:",
 		"description": "Id: toll_one_time\nGroup: Route adviser"
@@ -8812,7 +8804,7 @@
 		"description": "Id: adv_hud_finances_line_op_tooltip\nGroup: Adviser Options\nGroup: Route adviser"
 	},
 	"adv_hud_damage_line": {
-		"message": "데미지",
+		"message": "대미지",
 		"description": "Id: adv_hud_damage_line\nWidget name for displaying vehicle damage.\nGroup: Adviser Options\nGroup: Route adviser"
 	},
 	"adv_hud_job_info": {
@@ -12015,10 +12007,6 @@
 		"message": "읽지 않은 $COUNT$ 개의 메시지가 있습니다",
 		"description": "Id: mail_new_mail\nShown in message preview panel if there are unread messages. The $COUNT$ is replaced with number of messages. For example \"You have 1 unread message(s)\"\nGroup: Mail screen\nShows incomming emails from bank and truck dealers."
 	},
-	"mail_switch_vehicle_mode_confirmation": {
-		"message": "이 정보를 보려면 $VEHICLE_MODE$로 전환해야 합니다 <br><br>계속하시겠습니까?",
-		"description": "Id: mail_switch_vehicle_mode_confirmation\nShown when clicking on link in message would cause vehicle mode switch.\nGroup: Mail screen\nShows incomming emails from bank and truck dealers."
-	},
 	"compman_title": {
 		"message": "회사 관리자",
 		"description": "Id: compman_title\nTitle of window providing selection between various management screens (Garage, Truck, Driver). Please keep in upper case where possible."
@@ -13491,10 +13479,6 @@
 		"message": "도로 번호",
 		"description": "Id: mapl_road_numbers\nGroup: Texts shown near individual icons on the map legend.\nGroup: World map"
 	},
-	"mapl_bus_stop": {
-		"message": "버스 정류장",
-		"description": "Id: mapl_bus_stop\nGroup: Texts shown near individual icons on the map legend.\nGroup: World map"
-	},
 	"about_t": {
 		"message": "소개",
 		"description": "Id: about_t\nTitle of the screen. Please keep in upper case where possible.\nGroup: About"
@@ -13755,10 +13739,6 @@
 		"message": "EEST",
 		"description": "Id: tz_eest\nGroup: Timezone names"
 	},
-	"tz_gmt": {
-		"message": "GMT",
-		"description": "Id: tz_gmt\nGroup: Timezone names"
-	},
 	"tz_msk": {
 		"message": "MSK",
 		"description": "Id: tz_msk\nGroup: Timezone names"
@@ -13859,14 +13839,6 @@
 		"message": "카메라 회전",
 		"description": "Id: mirror_camera_rotate\nGroup: Mirrors Adjuster\nWindow for tweaking orientation of the mirrors."
 	},
-	"front_left": {
-		"message": "전방 왼쪽",
-		"description": "Id: front_left\nCheckbox selecting top mirror on the left side.\nGroup: Mirrors Adjuster\nWindow for tweaking orientation of the mirrors."
-	},
-	"front_right": {
-		"message": "전방 오른쪽",
-		"description": "Id: front_right\nCheckbox selecting top mirror on the right side.\nGroup: Mirrors Adjuster\nWindow for tweaking orientation of the mirrors."
-	},
 	"light_setting_t": {
 		"message": "라이트 조정",
 		"description": "Id: light_setting_t\nTitle of the window. Please keep in upper case where possible.\nGroup: Light Adjuster\nWindow for tweaking state of various lights."
@@ -13902,10 +13874,6 @@
 	"dash_backlight": {
 		"message": "대시보드 백라이트",
 		"description": "Id: dash_backlight\nLabel of slider controlling intensity of dashboard backlight.\nGroup: Light Adjuster\nWindow for tweaking state of various lights."
-	},
-	"cabin_light": {
-		"message": "캐빈 라이트",
-		"description": "Id: cabin_light\nCheckbox enabling the interior lights in the passenger part of the coach.\nGroup: Light Adjuster\nWindow for tweaking state of various lights."
 	},
 	"seat_adj_t": {
 		"message": "시트 조정",
@@ -16187,22 +16155,6 @@
 		"message": "새롭게 업데이트된 홈 화면을 둘러봐주셔서 감사합니다.",
 		"description": "Id: desktop_tut_tour_finish\nGroup: Messages shown as part of the tutorial.\nThe $KEY$ texts are placeholders for various keys and should be left intact."
 	},
-	"desktop_tut_first_bus_job_t": {
-		"message": "코치 모드에 오신 것을 환영합니다",
-		"description": "Id: desktop_tut_first_bus_job_t\nGroup: Messages shown as part of the tutorial.\nThe $KEY$ texts are placeholders for various keys and should be left intact."
-	},
-	"desktop_tut_first_bus_job": {
-		"message": "이 모드에서는 버스 기사로서의 경력을 쌓을 수 있습니다. 고용된 기사로 버스를 운행하거나, 직접 버스를 구매 및 개조하여 운송 계약 및 관광 운행 업무를 수행해 보세요. 더 까다로운 업무를 맡는 데 필요한 실력을 키워나가십시오.<br><br>시작하려면 첫 번째 빠른 작업을 수행해 보세요.",
-		"description": "Id: desktop_tut_first_bus_job\nGroup: Messages shown as part of the tutorial.\nThe $KEY$ texts are placeholders for various keys and should be left intact."
-	},
-	"desktop_tut_bus_eshop": {
-		"message": "코치 딜러",
-		"description": "Id: desktop_tut_bus_eshop\nGroup: Messages shown as part of the tutorial.\nThe $KEY$ texts are placeholders for various keys and should be left intact."
-	},
-	"desktop_tut_owned_bus_job": {
-		"message": "계약직 및 관광 일자리 잠금 해제",
-		"description": "Id: desktop_tut_owned_bus_job\nGroup: Messages shown as part of the tutorial.\nThe $KEY$ texts are placeholders for various keys and should be left intact."
-	},
 	"desktop_vehicle_mode_reenable_hints_t": {
 		"message": "힌트 사용하기",
 		"description": "Id: desktop_vehicle_mode_reenable_hints_t\nGroup: Messages shown as part of the tutorial.\nThe $KEY$ texts are placeholders for various keys and should be left intact."
@@ -18003,10 +17955,6 @@
 		"message": "게임 변경 사항이 감지되었습니다. 트럭의 빠른 이동 목적지를 선택하세요:",
 		"description": "Id: select_quick_travel_destination_economy_reset_truck\nShown during economy reset quick travel for truck.\nGroup: Quick travel screen."
 	},
-	"select_quick_travel_destination_economy_reset_bus": {
-		"message": "게임 변경 사항이 감지되었습니다. 코치의 빠른 이동 목적지를 선택하세요:",
-		"description": "Id: select_quick_travel_destination_economy_reset_bus\nShown during economy reset quick travel for bus.\nGroup: Quick travel screen."
-	},
 	"confirm_quick_travel": {
 		"message": "빠른 여행 확인",
 		"description": "Id: confirm_quick_travel\nGroup: Quick travel screen."
@@ -18040,7 +17988,7 @@
 		"description": "Id: quick_travel_cond_repair_trailer\nGroup: Quick travel screen."
 	},
 	"quick_travel_cond_vehicle_fuel": {
-		"message": "차량이 빠른 여행을 할 수 있는 상태가 아닙니다. 차량에 연료를 보충하거나 도움을 요청하십시오.",
+		"message": "차량이 빠른 여행을 할 수 있는 상태가 아닙니다. 트럭에 연료를 보충하거나 도움을 요청하십시오.",
 		"description": "Id: quick_travel_cond_vehicle_fuel\nGroup: Quick travel screen."
 	},
 	"quick_travel_cond_vehicle_fallen": {
@@ -19795,10 +19743,6 @@
 		"message": "3액슬, 롱",
 		"description": "Id: tn_single_3axle_long\nGroup: Trailer chain/chassis configurations"
 	},
-	"tn_single_3axle_short": {
-		"message": "3액슬, 짧음",
-		"description": "Id: tn_single_3axle_short\nGroup: Trailer chain/chassis configurations"
-	},
 	"tn_single_3axle_single_leg": {
 		"message": "3액슬, 싱글 레그",
 		"description": "Id: tn_single_3axle_single_leg\nGroup: Trailer chain/chassis configurations"
@@ -20034,14 +19978,6 @@
 	"bs_gas_tank": {
 		"message": "가스 탱크",
 		"description": "Id: bs_gas_tank\nGroup: Trailer body sets"
-	},
-	"bs_inloader_closed": {
-		"message": "내부적재, 닫힘",
-		"description": "Id: bs_inloader_closed\nGroup: Trailer body sets"
-	},
-	"bs_inloader_open": {
-		"message": "내부적재, 열림",
-		"description": "Id: bs_inloader_open\nGroup: Trailer body sets"
 	},
 	"bs_insulated": {
 		"message": "단열",
@@ -21400,11 +21336,11 @@
 		"description": "Id: mp_truck_idle\nGroup: Multiplayer current session."
 	},
 	"mp_truck_on_job": {
-		"message": "가능한 작업이 없습니다",
+		"message": "운행 중",
 		"description": "Id: mp_truck_on_job\nGroup: Multiplayer current session."
 	},
 	"mp_truck_on_convoy": {
-		"message": "가능한 작업",
+		"message": "콘보이 중",
 		"description": "Id: mp_truck_on_convoy\nGroup: Multiplayer current session."
 	},
 	"mp_fetching_from_server": {
@@ -23510,1038 +23446,6 @@
 	"rest_state_simulation_op_tooltip": {
 		"message": "활성화되면 시간이 지남에 따라 피로의 영향을 경험하게 됩니다.<br><br>회복을 위해 휴식을 취해야 합니다.",
 		"description": "Id: rest_state_simulation_op_tooltip\nGroup: Time skip feature"
-	},
-	"desktop_menu_category_garage": {
-		"message": "차고",
-		"description": "Id: desktop_menu_category_garage\nDesktop category for garage related screens.\nGroup: Bus specific desktop catagories."
-	},
-	"loading_bus_job": {
-		"message": "코치 서비스",
-		"description": "Id: loading_bus_job\nText shown as type of job.\nGroup: Bus loading screen."
-	},
-	"bus_passenger_satisfaction": {
-		"message": "만족도: ",
-		"description": "Id: bus_passenger_satisfaction"
-	},
-	"bus_departure_time": {
-		"message": "출발 시간",
-		"description": "Id: bus_departure_time\nLabel for sorting of jobs by departure time.\nGroup: Bus job selection screen."
-	},
-	"bus_difficulty": {
-		"message": "어려움",
-		"description": "Id: bus_difficulty\nLabel for sorting of jobs by difficulty.\nGroup: Bus job selection screen."
-	},
-	"bus_stop_count": {
-		"message": "정지 횟수",
-		"description": "Id: bus_stop_count\nLabel for sorting of jobs by bus stop count.\nGroup: Bus job selection screen."
-	},
-	"bus_scheduled_time_total": {
-		"message": "예정 시간",
-		"description": "Id: bus_scheduled_time_total\nTotal amount of time a job takes according to the schedule\nGroup: Bus job selection screen."
-	},
-	"bus_job_t": {
-		"message": "빠른 작업",
-		"description": "Id: bus_job_t\nTitle of the screen. Please keep in upper case where possible.\nGroup: Bus quick job selection screen.\nDuring a bus quick job the player drives a company provided bus from start to destination."
-	},
-	"bus_job": {
-		"message": "빠른 작업",
-		"description": "Id: bus_job\nIcon opening the quick job screen. There is limited space allowing for two lines of 7 'W' characters each.\nGroup: Bus quick job selection screen.\nDuring a bus quick job the player drives a company provided bus from start to destination."
-	},
-	"bus_job_desc": {
-		"message": "전문 버스 기사로 취업해 보세요. 오직 승객과 도로 상황에만 집중하면 됩니다. 그 외의 모든 사항은 알아서 처리됩니다. 그저 운행할 노선을 선택하고 운전하기만 하면 됩니다.",
-		"description": "Id: bus_job_desc\nTooltip for the icon opening the quick job screen.\nGroup: Bus quick job selection screen.\nDuring a bus quick job the player drives a company provided bus from start to destination."
-	},
-	"bus_company_job_t": {
-		"message": "계약직 일자리",
-		"description": "Id: bus_company_job_t\nTitle of the screen. Please keep in upper case where possible.\nGroup: Bus company job selection screen.\nDuring a bus company job the player drives owned bus from start to destination."
-	},
-	"bus_company_job": {
-		"message": "계약직 일자리",
-		"description": "Id: bus_company_job\nIcon opening the quick job screen. There is limited space allowing for two lines of 7 'W' characters each.\nGroup: Bus company job selection screen.\nDuring a bus company job the player drives owned bus from start to destination."
-	},
-	"bus_company_job_desc": {
-		"message": "자신의 관광버스로 수익을 올리세요. 승객을 태우고 목적지까지 안전하게 모셔다드리세요.",
-		"description": "Id: bus_company_job_desc\nTooltip for the icon opening the company job screen.\nGroup: Bus company job selection screen.\nDuring a bus company job the player drives owned bus from start to destination."
-	},
-	"link_locked_msg_bus_company_jobs": {
-		"message": "계약직 업무에 접근하려면 먼저 코치가 배정되어야 합니다.",
-		"description": "Id: link_locked_msg_bus_company_jobs\nGroup: Bus company job selection screen.\nDuring a bus company job the player drives owned bus from start to destination."
-	},
-	"bus_tourist_job_t": {
-		"message": "관광 일자리",
-		"description": "Id: bus_tourist_job_t\nTitle of the screen. Please keep in upper case where possible.\nGroup: Bus tourist job selection screen.\nDuring a bus tourist job the player drives owned bus around tourist destinations."
-	},
-	"bus_tourist_job": {
-		"message": "관광 일자리",
-		"description": "Id: bus_tourist_job\nIcon opening the quick job screen. There is limited space allowing for two lines of 7 'W' characters each.\nGroup: Bus tourist job selection screen.\nDuring a bus tourist job the player drives owned bus around tourist destinations."
-	},
-	"bus_tourist_job_desc": {
-		"message": "관광객을 인기 명소와 관광지로 안전하게 이동시켜 주세요. 운행 일정에 여유가 있으므로, 승객에게 부드럽고 편안한 승차감을 제공하는 데 집중해 주시기 바랍니다.",
-		"description": "Id: bus_tourist_job_desc\nTooltip for the icon opening the tourist job screen.\nGroup: Bus tourist job selection screen.\nDuring a bus tourist job the player drives owned bus around tourist destinations."
-	},
-	"link_locked_msg_bus_tourist_jobs": {
-		"message": "관광 업무에 접근하려면 먼저 코치가 배정되어야 합니다.",
-		"description": "Id: link_locked_msg_bus_tourist_jobs\nGroup: Bus tourist job selection screen.\nDuring a bus tourist job the player drives owned bus around tourist destinations."
-	},
-	"bus_job_failed_overturned_fade_text": {
-		"message": "코치를 전복시켰군요",
-		"description": "Id: bus_job_failed_overturned_fade_text\nMessage shown during fade when player overturns the bus during job.\nGroup: Bus quick job failure screen.\nThis screen is shown when player overturns bus during job."
-	},
-	"bus_job_failed_extreme_acceleration_fade_text": {
-		"message": "심한 충돌 사고를 겪으셨군요",
-		"description": "Id: bus_job_failed_extreme_acceleration_fade_text\nMessage shown during fade when player severely crashes the bus during job.\nGroup: Bus quick job failure screen.\nThis screen is shown when player overturns bus during job."
-	},
-	"bus_job_failed_t": {
-		"message": "작업 실패",
-		"description": "Id: bus_job_failed_t\nTitle of the screen. Please keep in upper case where possible.\nGroup: Bus quick job failure screen.\nThis screen is shown when player overturns bus during job."
-	},
-	"bus_job_bus_overturned_text": {
-		"message": "버스가 전복되어 운행을 계속할 수 없습니다. 게임을 불러오거나 운행을 포기할 수 있습니다.<br><br>포기 버튼을 누르면 대체 버스가 승객을 목적지까지 이송하며, 운행이 종료되고 $MONEY$의 벌금이 부과됩니다.",
-		"description": "Id: bus_job_bus_overturned_text\nMessage shown when player overturns the bus during job.\nGroup: Bus quick job failure screen.\nThis screen is shown when player overturns bus during job."
-	},
-	"bus_job_extreme_acceleration_text": {
-		"message": "심각한 충돌 사고가 발생하여 운행을 계속할 수 없습니다. 게임을 불러오거나 운행을 포기할 수 있습니다.<br><br>포기 버튼을 누르면 대체 버스가 승객을 목적지까지 이송하며, 운행이 종료되고 $MONEY$의 벌금이 부과됩니다.",
-		"description": "Id: bus_job_extreme_acceleration_text\nMessage shown when player severely crashes the bus during job.\nGroup: Bus quick job failure screen.\nThis screen is shown when player overturns bus during job."
-	},
-	"bus_job_status_t": {
-		"message": "작업 정보",
-		"description": "Id: bus_job_status_t\nTitle of the screen. Please keep in upper case where possible.\nGroup: Bus job status screen."
-	},
-	"bus_job_current": {
-		"message": "현재 배차",
-		"description": "Id: bus_job_current\nHeader of current job section.\nGroup: Bus job status screen."
-	},
-	"bus_job_current_time": {
-		"message": "현재 시간",
-		"description": "Id: bus_job_current_time\nCurrent time label.\nGroup: Bus job status screen."
-	},
-	"bus_job_delay": {
-		"message": "딜레이",
-		"description": "Id: bus_job_delay\nDelay label.\nGroup: Bus job status screen."
-	},
-	"bus_job_current_source_stop": {
-		"message": "출발",
-		"description": "Id: bus_job_current_source_stop\nSource stop label.\nGroup: Bus job status screen."
-	},
-	"bus_job_current_target_stop": {
-		"message": "도착",
-		"description": "Id: bus_job_current_target_stop\nTarget stop label.\nGroup: Bus job status screen."
-	},
-	"bus_job_on_time": {
-		"message": "정시",
-		"description": "Id: bus_job_on_time\nCoach job arrived on time. Shown in current job detail and in coach stop table.\nGroup: Bus job status screen."
-	},
-	"bus_job_scheduled_arrival": {
-		"message": "예정 도착",
-		"description": "Id: bus_job_scheduled_arrival\nLabel for scheduled arrival to target stop.\nGroup: Bus job status screen."
-	},
-	"bus_job_income": {
-		"message": "들어오는 소득",
-		"description": "Id: bus_job_income\nIncome label.\nGroup: Bus job status screen."
-	},
-	"bus_job_number_of_stops": {
-		"message": "정차 횟수",
-		"description": "Id: bus_job_number_of_stops\nLabel for number of stops.\nGroup: Bus job status screen."
-	},
-	"bus_job_passengers": {
-		"message": "현재 노선 승객 현황",
-		"description": "Id: bus_job_passengers\nHeader of current job passenger section.\nGroup: Bus job status screen."
-	},
-	"bus_job_passengers_transported_so_far": {
-		"message": "현재까지 총 승객 수",
-		"description": "Id: bus_job_passengers_transported_so_far\nLabel for total number of passengers transported so far.\nGroup: Bus job status screen."
-	},
-	"bus_job_passengers_current": {
-		"message": "현재 승객",
-		"description": "Id: bus_job_passengers_current\nLabel for current number of passengers.\nGroup: Bus job status screen."
-	},
-	"bus_job_passengers_left": {
-		"message": "하차 승객",
-		"description": "Id: bus_job_passengers_left\nLabel for number of passengers that left the bus.\nGroup: Bus job status screen."
-	},
-	"bus_job_interim_satisfaction": {
-		"message": "잠정적 만족",
-		"description": "Id: bus_job_interim_satisfaction\nLabel for average passenger satisfaction computed from completed stages.\nGroup: Bus job status screen."
-	},
-	"bus_job_cancel": {
-		"message": "배차 취소 횟수",
-		"description": "Id: bus_job_cancel\nLabel of button that cancels the current job.\nGroup: Bus job status screen."
-	},
-	"bus_job_resume": {
-		"message": "작업 재개",
-		"description": "Id: bus_job_resume\nLabel of button that resume the current job.\nGroup: Bus job status screen."
-	},
-	"bus_job_header_stop": {
-		"message": "목적지",
-		"description": "Id: bus_job_header_stop\nHeader of bus stop column.\nGroup: Bus job status screen."
-	},
-	"bus_job_header_planned_arrival": {
-		"message": "예정 도착",
-		"description": "Id: bus_job_header_planned_arrival\nHeader of planned arrival column.\nGroup: Bus job status screen."
-	},
-	"bus_job_header_arrival": {
-		"message": "도착",
-		"description": "Id: bus_job_header_arrival\nHeader of actual arrival column.\nGroup: Bus job status screen."
-	},
-	"bus_job_header_planned_departure": {
-		"message": "예정된 출발",
-		"description": "Id: bus_job_header_planned_departure\nHeader of planned departure column.\nGroup: Bus job status screen."
-	},
-	"bus_job_header_departure": {
-		"message": "출발",
-		"description": "Id: bus_job_header_departure\nHeader of actual departure column.\nGroup: Bus job status screen."
-	},
-	"bus_job_header_satisfaction": {
-		"message": "만족도",
-		"description": "Id: bus_job_header_satisfaction\nHeader of passenger satisfaction column.\nGroup: Bus job status screen."
-	},
-	"bus_log_model": {
-		"message": "모델",
-		"description": "Id: bus_log_model\nGroup: Bus job log screen."
-	},
-	"bus_log_day": {
-		"message": "일",
-		"description": "Id: bus_log_day\nGroup: Bus job log screen."
-	},
-	"bus_log_source_stop": {
-		"message": "출발",
-		"description": "Id: bus_log_source_stop\nGroup: Bus job log screen."
-	},
-	"bus_log_target_stop": {
-		"message": "도착",
-		"description": "Id: bus_log_target_stop\nGroup: Bus job log screen."
-	},
-	"bus_log_stop_count": {
-		"message": "정차",
-		"description": "Id: bus_log_stop_count\nGroup: Bus job log screen."
-	},
-	"bus_log_duration": {
-		"message": "소요 시간",
-		"description": "Id: bus_log_duration\nGroup: Bus job log screen."
-	},
-	"bus_log_transported_passengers": {
-		"message": "승객",
-		"description": "Id: bus_log_transported_passengers\nGroup: Bus job log screen."
-	},
-	"bus_log_satisfaction": {
-		"message": "만족도",
-		"description": "Id: bus_log_satisfaction\nGroup: Bus job log screen."
-	},
-	"bus_log_reward": {
-		"message": "소득",
-		"description": "Id: bus_log_reward\nGroup: Bus job log screen."
-	},
-	"bus_log_xp_delta": {
-		"message": "경험치",
-		"description": "Id: bus_log_xp_delta\nGroup: Bus job log screen."
-	},
-	"bus_stop": {
-		"message": "다음 버튼을 눌러 승객 서비스를 진행하십시오:",
-		"description": "Id: bus_stop\nGroup: Bus job stop cutscene screen."
-	},
-	"bus_stop_cutscene_t": {
-		"message": "버스 정류장",
-		"description": "Id: bus_stop_cutscene_t\nTitle of the screen. Please keep in upper case where possible.\nGroup: Bus job stop cutscene screen."
-	},
-	"bus_stop_cutscene_satisfaction": {
-		"message": "완벽한 만족",
-		"description": "Id: bus_stop_cutscene_satisfaction\nGroup: Bus job stop cutscene screen."
-	},
-	"bus_stop_cutscene_passenger_satisfaction": {
-		"message": "개인적 만족",
-		"description": "Id: bus_stop_cutscene_passenger_satisfaction\nGroup: Bus job stop cutscene screen."
-	},
-	"bus_stop_cutscene_next_stops": {
-		"message": "다음 정류장",
-		"description": "Id: bus_stop_cutscene_next_stops\nGroup: Bus job stop cutscene screen."
-	},
-	"bus_current_passengers": {
-		"message": "모든 승객",
-		"description": "Id: bus_current_passengers\nGroup: Bus job stop cutscene screen."
-	},
-	"bus_leaving_passengers": {
-		"message": "하차중인 승객",
-		"description": "Id: bus_leaving_passengers\nGroup: Bus job stop cutscene screen."
-	},
-	"bus_entering_passengers": {
-		"message": "승차 승객",
-		"description": "Id: bus_entering_passengers\nGroup: Bus job stop cutscene screen."
-	},
-	"bus_stop_cutscene_satisfaction_change_label": {
-		"message": "서비스 영향",
-		"description": "Id: bus_stop_cutscene_satisfaction_change_label\nGroup: Bus job stop cutscene screen."
-	},
-	"bus_satisfaction_on_time": {
-		"message": "제시간 도착",
-		"description": "Id: bus_satisfaction_on_time\nGroup: Bus job stop cutscene screen."
-	},
-	"bus_satisfaction_late": {
-		"message": "늦게 도착함",
-		"description": "Id: bus_satisfaction_late\nGroup: Bus job stop cutscene screen."
-	},
-	"bus_satisfaction_leaving_passengers": {
-		"message": "하차",
-		"description": "Id: bus_satisfaction_leaving_passengers\nGroup: Bus job stop cutscene screen."
-	},
-	"bus_satisfaction_entering_passengers": {
-		"message": "신규 참여자",
-		"description": "Id: bus_satisfaction_entering_passengers\nGroup: Bus job stop cutscene screen."
-	},
-	"bus_continue": {
-		"message": "계속합니다",
-		"description": "Id: bus_continue\nGroup: Bus job stop cutscene screen."
-	},
-	"bus_drive": {
-		"message": "드라이브",
-		"description": "Id: bus_drive\nGroup: Bus job stop cutscene screen."
-	},
-	"bus_all_aboard": {
-		"message": "계속합니다",
-		"description": "Id: bus_all_aboard\nGroup: Bus job stop cutscene screen."
-	},
-	"bus_leave_passengers": {
-		"message": "하차 승객",
-		"description": "Id: bus_leave_passengers\nGroup: Bus job stop cutscene screen."
-	},
-	"bus_enter_passengers": {
-		"message": "승차 승객",
-		"description": "Id: bus_enter_passengers\nGroup: Bus job stop cutscene screen."
-	},
-	"bus_satisfaction_core_vehicle_wear": {
-		"message": "코치 상태",
-		"description": "Id: bus_satisfaction_core_vehicle_wear\nGroup: Bus job stop cutscene screen."
-	},
-	"bus_job_final_stop_t": {
-		"message": "작업 완료",
-		"description": "Id: bus_job_final_stop_t\nTitle of the screen. Please keep in upper case where possible.\nGroup: Bus job final stop screen."
-	},
-	"bus_job_final_satisfaction": {
-		"message": "최종적인 만족",
-		"description": "Id: bus_job_final_satisfaction\nGroup: Bus job final stop screen."
-	},
-	"bus_job_done_desc": {
-		"message": "$SOURCE$에서 $TARGET$까지의 노선에서 $PASSENGERS$명의 승객을 수송했습니다.<br>주행 거리: $DISTANCE$.",
-		"description": "Id: bus_job_done_desc\nDescription of the finished job.\nGroup: Bus job final stop screen."
-	},
-	"bus_job_reward_level_0_t": {
-		"message": "완벽 합니다",
-		"description": "Id: bus_job_reward_level_0_t\nTitle of the level 0 medal. Please keep in upper case where possible.\nGroup: Bus job final stop screen."
-	},
-	"bus_job_reward_level_1_t": {
-		"message": "좋습니다",
-		"description": "Id: bus_job_reward_level_1_t\nTitle of the level 1 medal. Please keep in upper case where possible.\nGroup: Bus job final stop screen."
-	},
-	"bus_job_reward_level_2_t": {
-		"message": "믿을 수 있습니다",
-		"description": "Id: bus_job_reward_level_2_t\nTitle of the level 2 medal. Please keep in upper case where possible.\nGroup: Bus job final stop screen."
-	},
-	"bus_job_reward_level_3_t": {
-		"message": "평균 입니다",
-		"description": "Id: bus_job_reward_level_3_t\nTitle of the level 3 medal. Please keep in upper case where possible.\nGroup: Bus job final stop screen."
-	},
-	"bus_job_reward_level_4_t": {
-		"message": "형편없음",
-		"description": "Id: bus_job_reward_level_4_t\nTitle of the level 4 medal. Please keep in upper case where possible.\nGroup: Bus job final stop screen."
-	},
-	"bus_job_reward_level_5_t": {
-		"message": "나쁩니다",
-		"description": "Id: bus_job_reward_level_5_t\nTitle of the level 5 medal. Please keep in upper case where possible.\nGroup: Bus job final stop screen."
-	},
-	"bus_job_reward_level_6_t": {
-		"message": "비전문적",
-		"description": "Id: bus_job_reward_level_6_t\nTitle of the level 6 medal. Please keep in upper case where possible.\nGroup: Bus job final stop screen."
-	},
-	"bus_job_reward_level_0": {
-		"message": "완벽 합니다",
-		"description": "Id: bus_job_reward_level_0\nName of the level 0 medal.\nGroup: Bus job final stop screen."
-	},
-	"bus_job_reward_level_1": {
-		"message": "좋습니다",
-		"description": "Id: bus_job_reward_level_1\nName of the level 1 medal.\nGroup: Bus job final stop screen."
-	},
-	"bus_job_reward_level_2": {
-		"message": "믿을 수 있습니다",
-		"description": "Id: bus_job_reward_level_2\nName of the level 2 medal.\nGroup: Bus job final stop screen."
-	},
-	"bus_job_reward_level_3": {
-		"message": "평균 입니다",
-		"description": "Id: bus_job_reward_level_3\nName of the level 3 medal.\nGroup: Bus job final stop screen."
-	},
-	"bus_job_reward_level_4": {
-		"message": "형편없음",
-		"description": "Id: bus_job_reward_level_4\nName of the level 4 medal.\nGroup: Bus job final stop screen."
-	},
-	"bus_job_reward_level_5": {
-		"message": "나쁩니다",
-		"description": "Id: bus_job_reward_level_5\nName of the level 5 medal.\nGroup: Bus job final stop screen."
-	},
-	"bus_job_reward_level_6": {
-		"message": "비전문적",
-		"description": "Id: bus_job_reward_level_6\nName of the level 6 medal.\nGroup: Bus job final stop screen."
-	},
-	"bus_job_total_delay": {
-		"message": "총 지연",
-		"description": "Id: bus_job_total_delay\nLabel of total delay table entry.\nGroup: Bus job final stop screen."
-	},
-	"bus_job_transported_passengers": {
-		"message": "수송된 승객",
-		"description": "Id: bus_job_transported_passengers\nLabel of transporeted passengers table entry.\nGroup: Bus job final stop screen."
-	},
-	"bus_job_next_job": {
-		"message": "채용 제안",
-		"description": "Id: bus_job_next_job\nLabel of button that takes player to bus job offers.\nGroup: Bus job final stop screen."
-	},
-	"bus_job_show_schedule": {
-		"message": "정보",
-		"description": "Id: bus_job_show_schedule\nLabel of button that takes player to shedule of finished job.\nGroup: Bus job final stop screen."
-	},
-	"bus_job_show_summary": {
-		"message": "요약",
-		"description": "Id: bus_job_show_summary\nLabel of button that takes player back to summary of finished job.\nGroup: Bus job final stop screen."
-	},
-	"mp_bus_quick_job": {
-		"message": "빠른 코치 업무",
-		"description": "Id: mp_bus_quick_job\nGroup: Multiplayer."
-	},
-	"mp_bus_company_job": {
-		"message": "계약직 일자리",
-		"description": "Id: mp_bus_company_job\nGroup: Multiplayer."
-	},
-	"mp_bus_quick_tourist_job": {
-		"message": "빠른 관광 업무",
-		"description": "Id: mp_bus_quick_tourist_job\nGroup: Multiplayer."
-	},
-	"mp_bus_tourist_job": {
-		"message": "관광 일자리",
-		"description": "Id: mp_bus_tourist_job\nGroup: Multiplayer."
-	},
-	"mp_bus_regular_line": {
-		"message": "계약 라인",
-		"description": "Id: mp_bus_regular_line\nGroup: Multiplayer."
-	},
-	"mp_inline_stop_count": {
-		"message": "$COUNT$ 정차",
-		"description": "Id: mp_inline_stop_count\n$COUNT$ is usually between 2 and 5\nGroup: Multiplayer."
-	},
-	"mp_stop_count": {
-		"message": "정차:",
-		"description": "Id: mp_stop_count\nGroup: Multiplayer."
-	},
-	"mp_job_status_bus": {
-		"message": "코치",
-		"description": "Id: mp_job_status_bus\nGroup: Multiplayer."
-	},
-	"mp_bus_idle": {
-		"message": "대기 중",
-		"description": "Id: mp_bus_idle\nGroup: Multiplayer."
-	},
-	"mp_bus_on_job": {
-		"message": "가능한 작업이 없습니다",
-		"description": "Id: mp_bus_on_job\nGroup: Multiplayer."
-	},
-	"mp_bus_on_convoy": {
-		"message": "가능한 작업",
-		"description": "Id: mp_bus_on_convoy\nGroup: Multiplayer."
-	},
-	"equipment_provided_bus": {
-		"message": "제공된 버스",
-		"description": "Id: equipment_provided_bus\nGroup: Multiplayer."
-	},
-	"equipment_owned_bus": {
-		"message": "소유한 버스",
-		"description": "Id: equipment_owned_bus\nGroup: Multiplayer."
-	},
-	"mp_job_wrong_bus_stop": {
-		"message": "일부 버스 정류장은 찾을 수 없었습니다.",
-		"description": "Id: mp_job_wrong_bus_stop\nGroup: Multiplayer."
-	},
-	"mp_job_wrong_bus": {
-		"message": "현재 할당된 호환 버스가 없습니다.",
-		"description": "Id: mp_job_wrong_bus\nGroup: Multiplayer."
-	},
-	"satisfaction_reward": {
-		"message": "승객 만족도 보너스",
-		"description": "Id: satisfaction_reward\nGroup: Individual possible components of the bus reward."
-	},
-	"long_duty_bonus": {
-		"message": "장기 근속 보너스",
-		"description": "Id: long_duty_bonus\nGroup: Individual possible components of the bus reward."
-	},
-	"tight_schedule_bonus": {
-		"message": "촉박한 일정에 대한 보너스",
-		"description": "Id: tight_schedule_bonus\nGroup: Individual possible components of the bus reward."
-	},
-	"satisfaction_decrease_bonus": {
-		"message": "프리미엄 서비스 보너스",
-		"description": "Id: satisfaction_decrease_bonus\nGroup: Individual possible components of the bus reward."
-	},
-	"low_acceleration_bonus": {
-		"message": "편안한 여정 보너스",
-		"description": "Id: low_acceleration_bonus\nGroup: Individual possible components of the bus reward."
-	},
-	"bus_damage_penalty": {
-		"message": "코치 손상 페널티",
-		"description": "Id: bus_damage_penalty\nGroup: Individual possible components of the bus reward."
-	},
-	"career_progress_stats_bus_job": {
-		"message": "코치 서비스",
-		"description": "Id: career_progress_stats_bus_job\nTitle bus job section.\nGroup: Career stats screen for bus mode."
-	},
-	"career_progress_stats_bus_job_highlights": {
-		"message": "운송 하이라이트",
-		"description": "Id: career_progress_stats_bus_job_highlights\nTitle bus job highlights section.\nGroup: Career stats screen for bus mode."
-	},
-	"career_progress_stats_bus_transported_passengers": {
-		"message": "수송 승객 수",
-		"description": "Id: career_progress_stats_bus_transported_passengers\nLabel stat for count of transported passengers.\nGroup: Career stats screen for bus mode."
-	},
-	"career_progress_stats_bus_average_transported_passengers": {
-		"message": "평균 승객 수",
-		"description": "Id: career_progress_stats_bus_average_transported_passengers\nLabel stat for average count of transported passengers per job.\nGroup: Career stats screen for bus mode."
-	},
-	"career_progress_stats_bus_average_satisfaction": {
-		"message": "평균 승객 만족도",
-		"description": "Id: career_progress_stats_bus_average_satisfaction\nLabel stat for average passenger satisfaction per job.\nGroup: Career stats screen for bus mode."
-	},
-	"career_progress_stats_bus_job_count": {
-		"message": "서비스 수",
-		"description": "Id: career_progress_stats_bus_job_count\nLabel stat for total number of bus jobs.\nGroup: Career stats screen for bus mode."
-	},
-	"career_progress_stats_bus_job_qualities": {
-		"message": "서비스 등급",
-		"description": "Id: career_progress_stats_bus_job_qualities\nTitle bus job quality section.\nGroup: Career stats screen for bus mode."
-	},
-	"career_progress_stats_bus_all_stages_on_time_count": {
-		"message": "정확한 시간",
-		"description": "Id: career_progress_stats_bus_all_stages_on_time_count\nLabel stat for count of bus jobs when all stops were on time.\nGroup: Career stats screen for bus mode."
-	},
-	"career_progress_stats_bus_maximum_satisfaction": {
-		"message": "최상의 승객 만족도",
-		"description": "Id: career_progress_stats_bus_maximum_satisfaction\nLabel stat for maximum passenger satisfaction at the end of job.\nGroup: Career stats screen for bus mode."
-	},
-	"career_progress_stats_bus_experience": {
-		"message": "코치 운전 경력",
-		"description": "Id: career_progress_stats_bus_experience\nTitle experience section.\nGroup: Career stats screen for bus mode."
-	},
-	"career_progress_stats_experience_buses": {
-		"message": "코치",
-		"description": "Id: career_progress_stats_experience_buses\nTitle bus experience section.\nGroup: Career stats screen for bus mode."
-	},
-	"career_progress_stats_used_bus_count": {
-		"message": "서비스에 사용된 모델",
-		"description": "Id: career_progress_stats_used_bus_count\nLabel stat for count of unique bus models used during jobs.\nGroup: Career stats screen for bus mode."
-	},
-	"career_progress_stats_most_used_bus": {
-		"message": "가장 많이 사용되는 모델",
-		"description": "Id: career_progress_stats_most_used_bus\nLabel stat for most used bus model during jobs.\nGroup: Career stats screen for bus mode."
-	},
-	"bus_dealer_t": {
-		"message": "코치 딜러",
-		"description": "Id: bus_dealer_t\nTitle of the screen. Please keep in upper case where possible.\nGroup: Online bus dealer screen."
-	},
-	"bus_dealer": {
-		"message": "코치 딜러",
-		"description": "Id: bus_dealer\nIcon opening the online bus dealer screen. There is limited space allowing for two lines of 7 'W' characters each.\nGroup: Online bus dealer screen."
-	},
-	"bus_dealer_help": {
-		"message": "구매할 수 있는 코치를 찾아보고 검토하고 재구성하십시오.",
-		"description": "Id: bus_dealer_help\nTooltip for the icon opening the online bus dealer screen.\nGroup: Online bus dealer screen."
-	},
-	"bus_dealer_online_bus_bought_t": {
-		"message": "코치 구매",
-		"description": "Id: bus_dealer_online_bus_bought_t\nTitle of bus bought message box. Please keep in upper case where possible.\nGroup: Online bus dealer screen."
-	},
-	"bus_dealer_online_bus_bought": {
-		"message": "구매해 주셔서 감사합니다.<br><br>$BUS_NAME$이(가) 차고에 추가되었습니다.",
-		"description": "Id: bus_dealer_online_bus_bought\nMessage of bus bought message box.\nGroup: Online bus dealer screen."
-	},
-	"view_in_garage": {
-		"message": "차고에서 보기",
-		"description": "Id: view_in_garage\nButton that takes player to vehicle garage.\nGroup: Online bus dealer screen."
-	},
-	"bus_garage_t": {
-		"message": "코치 선택",
-		"description": "Id: bus_garage_t\nTitle of the screen. Please keep in upper case where possible.\nGroup: Bus garage screen."
-	},
-	"bus_garage": {
-		"message": "내 코치",
-		"description": "Id: bus_garage\nIcon opening the bus selection screen. There is limited space allowing for two lines of 7 'W' characters each.\nGroup: Bus garage screen."
-	},
-	"bus_garage_help": {
-		"message": "운행에 투입할 코치를 선택하거나, 자유롭게 운전해 보세요.",
-		"description": "Id: bus_garage_help\nTooltip for the icon opening the bus garage screen.\nGroup: Bus garage screen."
-	},
-	"vehicle_garage_no_vehicles": {
-		"message": "차고에 차량이 없습니다.",
-		"description": "Id: vehicle_garage_no_vehicles\nGroup: Bus garage screen."
-	},
-	"vehicle_garage_sell": {
-		"message": "매매",
-		"description": "Id: vehicle_garage_sell\nGroup: Bus garage screen."
-	},
-	"vehicle_garage_configure": {
-		"message": "설정",
-		"description": "Id: vehicle_garage_configure\nGroup: Bus garage screen."
-	},
-	"vehicle_garage_use": {
-		"message": "사용",
-		"description": "Id: vehicle_garage_use\nGroup: Bus garage screen."
-	},
-	"vehicle_garage_drive": {
-		"message": "드라이브",
-		"description": "Id: vehicle_garage_drive\nGroup: Bus garage screen."
-	},
-	"vehicle_garage_sell_t": {
-		"message": "차량 매각",
-		"description": "Id: vehicle_garage_sell_t\nGroup: Bus garage screen."
-	},
-	"vehicle_garage_sell_message": {
-		"message": "정말로 당신의 $VEHICLE$ 을 $MONEY$ 에 판매할까요?",
-		"description": "Id: vehicle_garage_sell_message\nGroup: Bus garage screen."
-	},
-	"vehicle_garage_sell_message_on_job": {
-		"message": "운송 도중 차량을 매각할 수 없습니다! 운송을 끝마친 후 다시 시도하십시오.",
-		"description": "Id: vehicle_garage_sell_message_on_job\nGroup: Bus garage screen."
-	},
-	"vehicle_garage_use_t": {
-		"message": "차량 사용",
-		"description": "Id: vehicle_garage_use_t\nMessage box title. Please keep in upper case where possible.\nGroup: Bus garage screen."
-	},
-	"vehicle_garage_use_message_on_job": {
-		"message": "일하는 도중에 차량을 바꿀수없습니다! 먼저 운송을 완료하시기 바랍니다.",
-		"description": "Id: vehicle_garage_use_message_on_job\nGroup: Bus garage screen."
-	},
-	"garage_configure_message_teleport": {
-		"message": "현재 사용 중인 차량을 설정하려면 주유소를 방문해야 합니다. 가장 가까운 것으로 빠르게 이동하시겠어요?",
-		"description": "Id: garage_configure_message_teleport\nGroup: Bus garage screen."
-	},
-	"garage_vehicle_name": {
-		"message": "차량",
-		"description": "Id: garage_vehicle_name\nGroup: Bus garage screen."
-	},
-	"garage_power": {
-		"message": "엔진 마력",
-		"description": "Id: garage_power\nGroup: Bus garage screen."
-	},
-	"garage_fuel_tank": {
-		"message": "연료 탱크:",
-		"description": "Id: garage_fuel_tank\nGroup: Bus garage screen."
-	},
-	"garage_distance": {
-		"message": "주행 거리:",
-		"description": "Id: garage_distance\nGroup: Bus garage screen."
-	},
-	"garage_condition": {
-		"message": "상태:",
-		"description": "Id: garage_condition\nGroup: Bus garage screen."
-	},
-	"vehicle_details_tab": {
-		"message": "차량 정보",
-		"description": "Id: vehicle_details_tab\nGroup: Bus garage screen."
-	},
-	"all_vehicles_tab": {
-		"message": "모든 차량",
-		"description": "Id: all_vehicles_tab\nGroup: Bus garage screen."
-	},
-	"garage_statistics": {
-		"message": "차량 통계",
-		"description": "Id: garage_statistics\nGroup: Bus garage screen."
-	},
-	"garage_value": {
-		"message": "값",
-		"description": "Id: garage_value\nGroup: Bus garage screen."
-	},
-	"garage_current_value": {
-		"message": "현재 값:",
-		"description": "Id: garage_current_value\nGroup: Bus garage screen."
-	},
-	"garage_value_of_new": {
-		"message": "쇼룸 가격:",
-		"description": "Id: garage_value_of_new\nGroup: Bus garage screen."
-	},
-	"garage_configure_t": {
-		"message": "차량 구성",
-		"description": "Id: garage_configure_t\nGroup: Bus garage screen."
-	},
-	"garage_configure_message_on_job": {
-		"message": "일하는 도중에 차량을 바꿀수없습니다! 먼저 운송을 완료하시기 바랍니다.",
-		"description": "Id: garage_configure_message_on_job\nGroup: Bus garage screen."
-	},
-	"garage_info_model": {
-		"message": "모델:",
-		"description": "Id: garage_info_model\nGroup: Bus garage screen."
-	},
-	"garage_info_drivetrain": {
-		"message": "구동계:",
-		"description": "Id: garage_info_drivetrain\nGroup: Bus garage screen."
-	},
-	"garage_info_bodywork": {
-		"message": "차체:",
-		"description": "Id: garage_info_bodywork\nGroup: Bus garage screen."
-	},
-	"garage_info_steering": {
-		"message": "조향:",
-		"description": "Id: garage_info_steering\nSteering side. For example \"Steering:&nbsp;&nbsp;&nbsp;&nbsp; Left-hand\"\nGroup: Bus garage screen."
-	},
-	"garage_info_engine_name": {
-		"message": "엔진:",
-		"description": "Id: garage_info_engine_name\nGroup: Bus garage screen."
-	},
-	"garage_info_transmission": {
-		"message": "기어 박스:",
-		"description": "Id: garage_info_transmission\nType of the gearbox. \"For example \"Gearbox:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12 speed gearbox\"\nGroup: Bus garage screen."
-	},
-	"garage_info_tank": {
-		"message": "연료 탱크:",
-		"description": "Id: garage_info_tank\nGroup: Bus garage screen."
-	},
-	"garage_damage": {
-		"message": "손상 보고서:",
-		"description": "Id: garage_damage\nGroup: Bus garage screen."
-	},
-	"garage_ownership_time": {
-		"message": "소유 시간:",
-		"description": "Id: garage_ownership_time\nGroup: Bus garage screen."
-	},
-	"garage_fuel_consumption": {
-		"message": "평균 연료 소비량:",
-		"description": "Id: garage_fuel_consumption\nGroup: Bus garage screen."
-	},
-	"link_locked_msg_bus_garage": {
-		"message": "@@bus_garage@@에 입장하려면 첫 번째 코치를 구매해야 합니다.",
-		"description": "Id: link_locked_msg_bus_garage\nGroup: Bus garage screen."
-	},
-	"garage_vehicle_name_column": {
-		"message": "차량",
-		"description": "Id: garage_vehicle_name_column\nGroup: Bus garage screen."
-	},
-	"garage_ownership_time_column": {
-		"message": "소유 시간",
-		"description": "Id: garage_ownership_time_column\nGroup: Bus garage screen."
-	},
-	"garage_power_column": {
-		"message": "엔진 마력",
-		"description": "Id: garage_power_column\nGroup: Bus garage screen."
-	},
-	"garage_avg_fuel_column": {
-		"message": "평균 연료 사용량",
-		"description": "Id: garage_avg_fuel_column\nGroup: Bus garage screen."
-	},
-	"garage_distance_column": {
-		"message": "주행 거리",
-		"description": "Id: garage_distance_column\nGroup: Bus garage screen."
-	},
-	"garage_condition_column": {
-		"message": "상태",
-		"description": "Id: garage_condition_column\nGroup: Bus garage screen."
-	},
-	"garage_currently_driving_t": {
-		"message": "현재 운전 중",
-		"description": "Id: garage_currently_driving_t\nKeep capitalized\nGroup: Bus garage screen."
-	},
-	"bus_browser_t": {
-		"message": "코치 익스플로러",
-		"description": "Id: bus_browser_t\nTitle of the screen. Please keep in upper case where possible.\nGroup: Bus garage screen."
-	},
-	"bus_browser": {
-		"message": "코치 익스플로러",
-		"description": "Id: bus_browser\nIcon opening the bus selection screen. There is limited space allowing for two lines of 7 'W' characters each.\nGroup: Bus garage screen."
-	},
-	"bus_browser_help": {
-		"message": "다양한 코치 구성을 실험해 보세요.",
-		"description": "Id: bus_browser_help\nTooltip for the icon opening the bus garage screen.\nGroup: Bus garage screen."
-	},
-	"bus_lvl_name0": {
-		"message": "코치 연수중",
-		"description": "Id: bus_lvl_name0\nGroup: Bus levels."
-	},
-	"bus_lvl_name1": {
-		"message": "수습사원",
-		"description": "Id: bus_lvl_name1\nGroup: Bus levels."
-	},
-	"bus_lvl_name2": {
-		"message": "전속기사",
-		"description": "Id: bus_lvl_name2\nGroup: Bus levels."
-	},
-	"bus_lvl_name3": {
-		"message": "배차 책임자",
-		"description": "Id: bus_lvl_name3\nGroup: Bus levels."
-	},
-	"bus_lvl_name4": {
-		"message": "실무 관리자",
-		"description": "Id: bus_lvl_name4\nGroup: Bus levels."
-	},
-	"bus_lvl_name5": {
-		"message": "기능 강사",
-		"description": "Id: bus_lvl_name5\nGroup: Bus levels."
-	},
-	"bus_lvl_name6": {
-		"message": "모범사원",
-		"description": "Id: bus_lvl_name6\nGroup: Bus levels."
-	},
-	"bus_lvl_name7": {
-		"message": "교통 안전 관리자",
-		"description": "Id: bus_lvl_name7\nGroup: Bus levels."
-	},
-	"bus_lvl_name8": {
-		"message": "노련한 버스 기사",
-		"description": "Id: bus_lvl_name8\nGroup: Bus levels."
-	},
-	"bus_lvl_name9": {
-		"message": "신성한 코치",
-		"description": "Id: bus_lvl_name9\nGroup: Bus levels."
-	},
-	"bus_job_skill_rank_1": {
-		"message": "적당합니다",
-		"description": "Id: bus_job_skill_rank_1\nGroup: Bus skills."
-	},
-	"bus_job_skill_rank_2": {
-		"message": "주의 하세요",
-		"description": "Id: bus_job_skill_rank_2\nGroup: Bus skills."
-	},
-	"bus_job_skill_rank_3": {
-		"message": "곤란 합니다",
-		"description": "Id: bus_job_skill_rank_3\nGroup: Bus skills."
-	},
-	"unlimited_bus_stops": {
-		"message": "무제한",
-		"description": "Id: unlimited_bus_stops\nGroup: Bus skills."
-	},
-	"tt_ico_bus_job_no_skills": {
-		"message": "표준 작업",
-		"description": "Id: tt_ico_bus_job_no_skills\nGroup: Bus skills."
-	},
-	"skill_long_duty_title": {
-		"message": "더 긴 임무",
-		"description": "Id: skill_long_duty_title\nGroup: Bus skills."
-	},
-	"skill_long_duty_info": {
-		"message": "더 긴 임무 기술은 근무 중 운전할 수 있는 최대 정차 횟수를 결정합니다.",
-		"description": "Id: skill_long_duty_info\nGroup: Bus skills."
-	},
-	"skill_tight_schedule_title": {
-		"message": "촉박한 일정",
-		"description": "Id: skill_tight_schedule_title\nGroup: Bus skills."
-	},
-	"skill_tight_schedule_info": {
-		"message": "촉박한 일정 관리 능력은 더욱 촉박한 납품 일정을 얼마나 잘 처리할 수 있는지를 보여줍니다. 이 능력을 통해 마감 기한이 더 엄격한 새로운 유형의 작업에 도전할 수 있으며, 더 높은 경험치 보상을 획득할 수 있습니다.",
-		"description": "Id: skill_tight_schedule_info\nGroup: Bus skills."
-	},
-	"skill_satisfaction_decrease_title": {
-		"message": "프리미엄 서비스",
-		"description": "Id: skill_satisfaction_decrease_title\nGroup: Bus skills."
-	},
-	"skill_satisfaction_decrease_info": {
-		"message": "프리미엄 서비스는 승객에게 제공하는 서비스 수준을 나타냅니다. 이 기술은 더 높은 품질의 서비스를 위해 기꺼이 더 많은 비용을 지불할 의향이 있는 승객을 유치합니다. 실수 시 더 엄격한 페널티가 따르지만 금전적 보상은 더 큰 새로운 유형의 업무를 잠금 해제합니다.",
-		"description": "Id: skill_satisfaction_decrease_info\nGroup: Bus skills."
-	},
-	"skill_low_acceleration_title": {
-		"message": "편안한 여정",
-		"description": "Id: skill_low_acceleration_title\nGroup: Bus skills."
-	},
-	"skill_low_acceleration_info": {
-		"message": "부드러운 여정 스킬은 운전이 얼마나 부드럽고 편안한지를 보여줍니다. 승객들은 편안한 승차감을 위해 더 많은 비용을 지불할 의향이 있으며, 운전자는 이 스킬을 통해 더 많은 경험치를 얻을 수 있습니다. 또한, 갑작스러운 움직임에 대한 허용치가 높은 임무를 수행할 수 있게 되며, 더 높은 수입과 경험치 보상을 제공합니다.",
-		"description": "Id: skill_low_acceleration_info\nGroup: Bus skills."
-	},
-	"skill_satisfaction_increase_title": {
-		"message": "선호하는 승객",
-		"description": "Id: skill_satisfaction_increase_title\nGroup: Bus skills."
-	},
-	"skill_satisfaction_increase_info": {
-		"message": "승객 만족도 스킬은 승객이 당신과 함께 여행하는 것을 얼마나 즐기는지를 결정하며, 완벽한 운전을 할 때 만족도를 높여줍니다.",
-		"description": "Id: skill_satisfaction_increase_info\nGroup: Bus skills."
-	},
-	"long_duty_desc_count": {
-		"message": "최대 <color value=@@clr_skill_desc_highlight@@>$NEW_STOPS$</color>개의 버스 정류장이 포함된 일감을 수락하세요",
-		"description": "Id: long_duty_desc_count\nGroup: Bus skills."
-	},
-	"long_duty_desc_count_max": {
-		"message": "무제한 버스 정류장",
-		"description": "Id: long_duty_desc_count_max\nGroup: Bus skills."
-	},
-	"long_duty_desc_revenue_bonus": {
-		"message": "<color value=@@clr_skill_desc_highlight@@>$REVENUE_BONUS$% 더 높은 매출</color>$OLD_STOPS$개에서 $NEW_STOPS$개 사이의 정류장을<br>운행하는 노선",
-		"description": "Id: long_duty_desc_revenue_bonus\nGroup: Bus skills."
-	},
-	"long_duty_desc_revenue_bonus_max": {
-		"message": "<color value=@@clr_skill_desc_highlight@@>$REVENUE_BONUS$% 더 높은 매출</color> 노선별<br>$OLD_STOPS$개 이상의 정류장",
-		"description": "Id: long_duty_desc_revenue_bonus_max\nGroup: Bus skills."
-	},
-	"long_duty_desc_revenue_bonus_total": {
-		"message": "<color value=@@clr_skill_desc_highlight@@>0-$REVENUE_BONUS$% 더 높은 매출</color> 버스 정류장 수를 기준",
-		"description": "Id: long_duty_desc_revenue_bonus_total\nGroup: Bus skills."
-	},
-	"long_duty_desc_xp_bonus": {
-		"message": "<color value=@@clr_skill_desc_highlight@@>$XP_BONUS$% 경험치 보너스</color>$OLD_STOPS$ 정류장과 $NEW_STOPS$ 정류장 사이의 <br>노선",
-		"description": "Id: long_duty_desc_xp_bonus\nGroup: Bus skills."
-	},
-	"long_duty_desc_xp_bonus_total": {
-		"message": "<color value=@@clr_skill_desc_highlight@@>0-$XP_BONUS$% % 더 높은 경험치 보너스</color>버스 정류장 수",
-		"description": "Id: long_duty_desc_xp_bonus_total\nGroup: Bus skills."
-	},
-	"long_duty_desc_xp_bonus_max": {
-		"message": "<color value=@@clr_skill_desc_highlight@@>$REVENUE_BONUS$% 경험치 보너스</color> 노선별<br>$OLD_STOPS$개 이상의 정류장",
-		"description": "Id: long_duty_desc_xp_bonus_max\nGroup: Bus skills."
-	},
-	"tight_schedule_desc_new": {
-		"message": "<color value=@@clr_skill_desc_highlight@@>촉박한 일정</color>이 요구되는 새로운 일자리 이용 가능",
-		"description": "Id: tight_schedule_desc_new\nGroup: Bus skills."
-	},
-	"tight_schedule_desc_rank_1": {
-		"message": "잠금 해제 <color value=@@clr_skill_desc_highlight@@>@@skill_tight_schedule_title@@ - @@bus_job_skill_rank_1@@</color> <color value=@@clr_skill_desc_highlight@@>정차 지점 간 이동 시간이 단축된</color> 운행",
-		"description": "Id: tight_schedule_desc_rank_1\nGroup: Bus skills."
-	},
-	"tight_schedule_desc_rank_2": {
-		"message": "잠금 해제 <color value=@@clr_skill_desc_highlight@@>@@skill_tight_schedule_title@@ - @@bus_job_skill_rank_2@@</color> 정차 지점 간 <color value=@@clr_skill_desc_highlight@@>시간 여유가 부족한</color> 운행",
-		"description": "Id: tight_schedule_desc_rank_2\nGroup: Bus skills."
-	},
-	"tight_schedule_desc_rank_3": {
-		"message": "잠금 해제 <color value=@@clr_skill_desc_highlight@@>@@skill_tight_schedule_title@@ - @@bus_job_skill_rank_3@@</color> 정차 지점 간 <color value=@@clr_skill_desc_highlight@@>시간 여유가 매우 부족한</color> 운행",
-		"description": "Id: tight_schedule_desc_rank_3\nGroup: Bus skills."
-	},
-	"tight_schedule_desc_xp_bonus": {
-		"message": "<color value=@@clr_skill_desc_highlight@@>$XP_BONUS$% 겸험치 보너스</color> 새로운 운행",
-		"description": "Id: tight_schedule_desc_xp_bonus\nGroup: Bus skills."
-	},
-	"tight_schedule_desc_xp_bonus_total": {
-		"message": "<color value=@@clr_skill_desc_highlight@@>0-$XP_BONUS$% 더 높은 경험치 보너스</color> 운행 유형",
-		"description": "Id: tight_schedule_desc_xp_bonus_total\nGroup: Bus skills."
-	},
-	"satisfaction_decrease_desc_new": {
-		"message": "<color value=@@clr_skill_desc_highlight@@>만족도가 더 빠르게 감소하는</color> 승객을 태우는 새로운 일거리를 이용할 수 있습니다.",
-		"description": "Id: satisfaction_decrease_desc_new\nGroup: Bus skills."
-	},
-	"satisfaction_decrease_desc_rank_1": {
-		"message": "잠금 해제 <color value=@@clr_skill_desc_highlight@@>@@skill_satisfaction_decrease_title@@ - @@bus_job_skill_rank_1@@</color> 운전 실수 후 <color value=@@clr_skill_desc_highlight@@>만족도가 약간 더 많이 하락하는</color> 승객을 태우는 운행",
-		"description": "Id: satisfaction_decrease_desc_rank_1\nGroup: Bus skills."
-	},
-	"satisfaction_decrease_desc_rank_2": {
-		"message": "잠금 해제 <color value=@@clr_skill_desc_highlight@@>@@skill_satisfaction_decrease_title@@ - @@bus_job_skill_rank_2@@</color> 운전 실수 후 <color value=@@clr_skill_desc_highlight@@>만족도가 훨씬 더 많이 떨어지는</color> 승객을 태우는 운행",
-		"description": "Id: satisfaction_decrease_desc_rank_2\nGroup: Bus skills."
-	},
-	"satisfaction_decrease_desc_rank_3": {
-		"message": "잠금 해제 <color value=@@clr_skill_desc_highlight@@>@@skill_satisfaction_decrease_title@@ - @@bus_job_skill_rank_3@@</color> 운전 실수 후 <color value=@@clr_skill_desc_highlight@@>만족도가 훨씬 더 크게 하락하는</color> 승객을 태우는 운행",
-		"description": "Id: satisfaction_decrease_desc_rank_3\nGroup: Bus skills."
-	},
-	"satisfaction_decrease_desc_revenue_bonus": {
-		"message": "<color value=@@clr_skill_desc_highlight@@>$REVENUE_BONUS$% 더 높은 매출</color> 새로운 운행 유형",
-		"description": "Id: satisfaction_decrease_desc_revenue_bonus\nGroup: Bus skills."
-	},
-	"satisfaction_decrease_desc_revenue_bonus_total": {
-		"message": "<color value=@@clr_skill_desc_highlight@@>0-$REVENUE_BONUS$% 더 높은 매출</color> 운행 유형",
-		"description": "Id: satisfaction_decrease_desc_revenue_bonus_total\nGroup: Bus skills."
-	},
-	"low_acceleration_desc_new": {
-		"message": "<color value=@@clr_skill_desc_highlight@@>더 부드러운 주행</color>을 필요로 하는 승객을 위한 새로운 일감이 있습니다",
-		"description": "Id: low_acceleration_desc_new\nGroup: Bus skills."
-	},
-	"low_acceleration_desc_rank_1": {
-		"message": "잠금 해제 <color value=@@clr_skill_desc_highlight@@>@@skill_low_acceleration_title@@ - @@bus_job_skill_rank_1@@</color> <color value=@@clr_skill_desc_highlight@@>더 부드러운 주행</color>을 필요로 하는 승객을 태우는 운행",
-		"description": "Id: low_acceleration_desc_rank_1\nGroup: Bus skills."
-	},
-	"low_acceleration_desc_rank_2": {
-		"message": "잠금 해제 <color value=@@clr_skill_desc_highlight@@>@@skill_low_acceleration_title@@ - @@bus_job_skill_rank_2@@</color> <color value=@@clr_skill_desc_highlight@@>매우 부드러운 주행</color>을 필요로 하는 승객을 태우는 운행",
-		"description": "Id: low_acceleration_desc_rank_2\nGroup: Bus skills."
-	},
-	"low_acceleration_desc_rank_3": {
-		"message": "잠금 해제 <color value=@@clr_skill_desc_highlight@@>@@skill_low_acceleration_title@@ - @@bus_job_skill_rank_3@@</color> <color value=@@clr_skill_desc_highlight@@>매우 부드러운 승차감</color>을 필요로 하는 승객을 태우는 운행",
-		"description": "Id: low_acceleration_desc_rank_3\nGroup: Bus skills."
-	},
-	"low_acceleration_desc_revenue_bonus": {
-		"message": "<color value=@@clr_skill_desc_highlight@@>$REVENUE_BONUS$% 더 높은 매출</color> 새로운 운행 유형",
-		"description": "Id: low_acceleration_desc_revenue_bonus\nGroup: Bus skills."
-	},
-	"low_acceleration_desc_revenue_bonus_total": {
-		"message": "<color value=@@clr_skill_desc_highlight@@>0-$REVENUE_BONUS$% 더 높은 매출</color> 운행 유형",
-		"description": "Id: low_acceleration_desc_revenue_bonus_total\nGroup: Bus skills."
-	},
-	"low_acceleration_desc_xp_bonus": {
-		"message": "<color value=@@clr_skill_desc_highlight@@>$XP_BONUS$% 더 높은 경험치 보너스</color> 새로운 운행 유형",
-		"description": "Id: low_acceleration_desc_xp_bonus\nGroup: Bus skills."
-	},
-	"low_acceleration_desc_xp_bonus_total": {
-		"message": "<color value=@@clr_skill_desc_highlight@@>0-$XP_BONUS$% 더 높은 경험치 보너스</color> 운행 유형",
-		"description": "Id: low_acceleration_desc_xp_bonus_total\nGroup: Bus skills."
-	},
-	"satisfaction_increase_desc": {
-		"message": "버스 승객 만족도가 최대 <color value=@@clr_skill_desc_highlight@@>$SATISFACTION_INCREASE$% 증가</color>합니다",
-		"description": "Id: satisfaction_increase_desc\nGroup: Bus skills."
-	},
-	"economy": {
-		"message": "이코노미",
-		"description": "Id: economy\nGroup: Coach analysis panel in the vehicle configurator."
-	},
-	"economy_tooltip": {
-		"message": "엔진 출력 단위당 해당 버스가 수송하는 승객 수.",
-		"description": "Id: economy_tooltip\nGroup: Coach analysis panel in the vehicle configurator."
-	},
-	"passenger_capacity": {
-		"message": "승객 정원",
-		"description": "Id: passenger_capacity\nGroup: Coach analysis panel in the vehicle configurator."
-	},
-	"passenger_capacity_tooltip": {
-		"message": "버스가 탈수 있는 승객 정원.",
-		"description": "Id: passenger_capacity_tooltip\nGroup: Coach analysis panel in the vehicle configurator."
-	},
-	"height": {
-		"message": "높이",
-		"description": "Id: height\nOverall height of the coach, shown in meters.\nGroup: Coach analysis panel in the vehicle configurator."
-	},
-	"width": {
-		"message": "넓이",
-		"description": "Id: width\nOverall width of the coach, shown in meters.\nGroup: Coach analysis panel in the vehicle configurator."
-	},
-	"length": {
-		"message": "길이",
-		"description": "Id: length\nOverall length of the coach, shown in meters.\nGroup: Coach analysis panel in the vehicle configurator."
-	},
-	"seats": {
-		"message": "시트",
-		"description": "Id: seats\nNumber of passenger seats in the coach.\nGroup: Coach analysis panel in the vehicle configurator."
-	},
-	"doors": {
-		"message": "도어",
-		"description": "Id: doors\nNumber of passenger doors in the coach.\nGroup: Coach analysis panel in the vehicle configurator."
-	},
-	"truck_job_different_mode": {
-		"message": "트럭 모드<br>작업 진행 중",
-		"description": "Id: truck_job_different_mode\nGroup: Job widget."
-	},
-	"bus_job_different_mode": {
-		"message": "코치 모드<br>운행 중",
-		"description": "Id: bus_job_different_mode\nGroup: Job widget."
-	},
-	"no_gps_different_mode": {
-		"message": "다른 모드로 이미 계획된 여행",
-		"description": "Id: no_gps_different_mode\nGroup: World map."
-	},
-	"bus_satisfaction_reward_no_penalty": {
-		"message": "안전하고 부드러운 주행",
-		"description": "Id: bus_satisfaction_reward_no_penalty\nSatisfaction increase message shown after a period of no penalties\nGroup: Bus related adviser notifications"
-	},
-	"bus_satisfaction_penalty_acceleration": {
-		"message": "급가속",
-		"description": "Id: bus_satisfaction_penalty_acceleration\nSatisfaction decrease message shown when the passengers experience excessive acceleration/deceleration\nGroup: Bus related adviser notifications"
-	},
-	"bus_satisfaction_penalty_offence": {
-		"message": "교통법규 위반 단속",
-		"description": "Id: bus_satisfaction_penalty_offence\nSatisfaction decrease message shown when the player commits a traffic offence\nGroup: Bus related adviser notifications"
-	},
-	"bus_satisfaction_penalty_core_wear": {
-		"message": "코치 대미지",
-		"description": "Id: bus_satisfaction_penalty_core_wear\nSatisfacation decrease message shown when the player damages the coach\nGroup: Bus related adviser notifications"
-	},
-	"bus_satisfaction_penalty_crash": {
-		"message": "충돌",
-		"description": "Id: bus_satisfaction_penalty_crash\nSatisfaction decrease message shown when the player crashes the coach into something\nGroup: Bus related adviser notifications"
-	},
-	"bus_satisfaction_penalty_speed": {
-		"message": "과속 운전",
-		"description": "Id: bus_satisfaction_penalty_speed\nSatisfacation decrease message shown when the player drives too fast\nGroup: Bus related adviser notifications"
-	},
-	"bus_damage": {
-		"message": "코치 대미지",
-		"description": "Id: bus_damage\nGroup: Adviser info - notification"
 	},
 	"mailtext.test1.from": {
 		"message": "시스템",
@@ -29672,7 +28576,7 @@
 		"description": "Id: aca_msg_book1_3_22_check1\nGroup: Book 1 Scenario 3_22"
 	},
 	"aca_msg_book1_3_22_stopmid": {
-		"message": "<color value=@@clr_white@@>원하는 주차 공간을 지나 표시된 구역으로 운전하세요, 여기서 후진 조작을 시작할 수 있습니다.<br><br><font face=/font/big_bold.font>표시된 지점에서 멈추십시오. </font>",
+		"message": "<color value=@@clr_white@@>원하는 주차 공간을 지나 표시된 구역으로 운전하세요. 여기서 후진 조작을 시작할 수 있습니다.<br><br><font face=/font/big_bold.font>표시된 지점에서 멈추십시오. </font>",
 		"description": "Id: aca_msg_book1_3_22_stopmid\nGroup: Book 1 Scenario 3_22"
 	},
 	"aca_msg_book1_3_22_backward": {
@@ -31399,54 +30303,6 @@
 		"message": "@@desktop_menu_category_options@@에서 스마트 가속 페달 제어를 활성화할 수 있습니다. 이 기능을 활성화하면 차량은 기본적으로 가속 페달을 더 낮게 유지합니다. 가속 페달 버튼을 빠르게 두 번 누른 후, 버튼에서 손을 뗄 때까지 차량은 전속력으로 유지됩니다.",
 		"description": "Id: hint_sm_throttle_text"
 	},
-	"hint_bus_job_title": {
-		"message": "승객 만족도",
-		"description": "Id: hint_bus_job_title"
-	},
-	"hint_bus_job_text": {
-		"message": "시간을 엄수하고 편안하고 부드러우며 안전한 주행을 제공하여 승객을 만족시키십시오.",
-		"description": "Id: hint_bus_job_text"
-	},
-	"hint_satis_dec_title": {
-		"message": "승객 만족도 관리",
-		"description": "Id: hint_satis_dec_title"
-	},
-	"hint_satis_dec_text": {
-		"message": "일정 기간 동안 교통 법규를 위반하지 않고 꾸준히 부드러우며 손상 없는 주행을 제공함으로써 승객 만족도를 높일 수 있습니다.",
-		"description": "Id: hint_satis_dec_text"
-	},
-	"hint_low_satis_title": {
-		"message": "승객 만족도 향상",
-		"description": "Id: hint_low_satis_title"
-	},
-	"hint_low_satis_text": {
-		"message": "일정 기간 동안 교통 법규를 위반하지 않고 꾸준히 부드러우며 손상 없는 주행을 제공함으로써 승객 만족도를 높일 수 있습니다.",
-		"description": "Id: hint_low_satis_text"
-	},
-	"hint_bus_late_title": {
-		"message": "지연 운행",
-		"description": "Id: hint_bus_late_title"
-	},
-	"hint_bus_late_text": {
-		"message": "현재 일정이 지연되고 있어 도착 시 승객 만족도에 영향을 미칠 수 있습니다. 가능한 경우 지연된 시간을 만회할 수 있겠지만, 항상 안전하게 운행해 주십시오.",
-		"description": "Id: hint_bus_late_text"
-	},
-	"hint_bus_stop_title": {
-		"message": "버스 정류장에 정차하세요",
-		"description": "Id: hint_bus_stop_title"
-	},
-	"hint_bus_stop_text": {
-		"message": "승객이 승하차할 수 있도록 지정된 구역에 정차해 주십시오. 새로 탑승하는 승객들은 깨끗하고 파손되지 않은 차량을 선호합니다.",
-		"description": "Id: hint_bus_stop_text"
-	},
-	"hint_bus_stop_fin_title": {
-		"message": "버스 정류장에 정차하세요",
-		"description": "Id: hint_bus_stop_fin_title"
-	},
-	"hint_bus_stop_fin_text": {
-		"message": "표시된 구역에 멈춰서 운행을 종료하세요.",
-		"description": "Id: hint_bus_stop_fin_text"
-	},
 	"air_tank_aluminium": {
 		"message": "알루미늄",
 		"description": "Id: air_tank_aluminium\nAluminium mirror, doorhandle or other accessory\nGroup: Accessory Names"
@@ -32835,26 +31691,6 @@
 		"message": "토르, 페인트",
 		"description": "Id: bumper_thor_painted\nPainted mirror, doorhandle or other accessory\nGroup: Accessory Names"
 	},
-	"busbody_121m": {
-		"message": "12.1m",
-		"description": "Id: busbody_121m\nGroup: Accessory Names"
-	},
-	"busbody_dd_40m": {
-		"message": "DD 4.0m",
-		"description": "Id: busbody_dd_40m\nGroup: Accessory Names"
-	},
-	"busbody_hd_129m_4x2": {
-		"message": "12.9m, 4x2",
-		"description": "Id: busbody_hd_129m_4x2\nGroup: Accessory Names"
-	},
-	"busbody_hd_137m_6x2_4": {
-		"message": "13.7m, 6x2/4",
-		"description": "Id: busbody_hd_137m_6x2_4\nGroup: Accessory Names"
-	},
-	"busbody_l_139m": {
-		"message": "L 13.9m",
-		"description": "Id: busbody_l_139m\nGroup: Accessory Names"
-	},
 	"c_grill_accent": {
 		"message": "Accent",
 		"description": "Id: c_grill_accent\nGroup: Accessory Names"
@@ -33314,10 +32150,6 @@
 	"chassis_single_3axle_long": {
 		"message": "3액슬, 롱",
 		"description": "Id: chassis_single_3axle_long\nGroup: Accessory Names"
-	},
-	"chassis_single_3axle_short": {
-		"message": "3액슬, 짧음",
-		"description": "Id: chassis_single_3axle_short\nGroup: Accessory Names"
 	},
 	"chassis_single_3axle_single_leg": {
 		"message": "3액슬, 싱글 레그",
@@ -34982,18 +33814,6 @@
 	"engine_d2676_lf80_316_euro_6d": {
 		"message": "D2676 LF80 316 Euro 6d",
 		"description": "Id: engine_d2676_lf80_316_euro_6d\nGroup: Accessory Names"
-	},
-	"engine_d2676_lfaz_324_euro_6e": {
-		"message": "D2676 LFAZ 324 Euro 6e",
-		"description": "Id: engine_d2676_lfaz_324_euro_6e\nGroup: Accessory Names"
-	},
-	"engine_d2676_lfay_353_euro_6e": {
-		"message": "D2676 LFAY 353 Euro 6e",
-		"description": "Id: engine_d2676_lfay_353_euro_6e\nGroup: Accessory Names"
-	},
-	"engine_d2676_lfax_382_euro_6e": {
-		"message": "D2676 LFAX 382 Euro 6e",
-		"description": "Id: engine_d2676_lfax_382_euro_6e\nGroup: Accessory Names"
 	},
 	"engine_d2868_500": {
 		"message": "D2868 500",
@@ -42631,10 +41451,6 @@
 		"message": "사과 방향제",
 		"description": "Id: toy_apple_air_freshener\nGroup: Accessory Names"
 	},
-	"toy_atlantic_puffin": {
-		"message": "코뿔바다오리",
-		"description": "Id: toy_atlantic_puffin\nGroup: Accessory Names"
-	},
 	"toy_austria_pennant": {
 		"message": "오스트리아 페넌트",
 		"description": "Id: toy_austria_pennant\nGroup: Accessory Names"
@@ -42958,10 +41774,6 @@
 	"toy_electric_cooling_box": {
 		"message": "전기 아이스박스",
 		"description": "Id: toy_electric_cooling_box\nGroup: Accessory Names"
-	},
-	"toy_ember_grimoire": {
-		"message": "불의 마법",
-		"description": "Id: toy_ember_grimoire\nGroup: Accessory Names"
 	},
 	"toy_empty": {
 		"message": "Empty",
@@ -43342,10 +42154,6 @@
 	"toy_kassbohrer_stc_model_1_100": {
 		"message": "Kässbohrer STC 모델 1:100",
 		"description": "Id: toy_kassbohrer_stc_model_1_100\nGroup: Accessory Names"
-	},
-	"toy_key_to_brackenreach": {
-		"message": "브래컨리치의 열쇠",
-		"description": "Id: toy_key_to_brackenreach\nGroup: Accessory Names"
 	},
 	"toy_king_mini_scarf": {
 		"message": "킹 미니 스카프",
@@ -44019,10 +42827,6 @@
 		"message": "트럭 무늬 베개",
 		"description": "Id: toy_track_pillow\nGroup: Accessory Names"
 	},
-	"toy_troll": {
-		"message": "트롤",
-		"description": "Id: toy_troll\nGroup: Accessory Names"
-	},
 	"toy_trophy_skull": {
 		"message": "전리품 해골",
 		"description": "Id: toy_trophy_skull\nGroup: Accessory Names"
@@ -44156,7 +42960,7 @@
 		"description": "Id: toy_wingfoot_air_freshener\nGroup: Accessory Names"
 	},
 	"toy_winning_dice": {
-		"message": "승리의 주사위",
+		"message": "승리의 주사위 더블",
 		"description": "Id: toy_winning_dice\nAccessory name, DLC Pink Ribbon.\nGroup: Accessory Names"
 	},
 	"toy_winter_bauble": {
@@ -44186,10 +42990,6 @@
 	"toy_wishing_star": {
 		"message": "소원의 별",
 		"description": "Id: toy_wishing_star\nHanging interior accessory\nGroup: Accessory Names"
-	},
-	"toy_wisp_lantern": {
-		"message": "위스프 랜턴",
-		"description": "Id: toy_wisp_lantern\nGroup: Accessory Names"
 	},
 	"toy_witchs_compass": {
 		"message": "마녀의 나침반",
@@ -44302,14 +43102,6 @@
 	"transmission_i_shift_ato3812g_r_aso_ulc": {
 		"message": "I-Shift ATO3812G R + ASO-ULC",
 		"description": "Id: transmission_i_shift_ato3812g_r_aso_ulc\nGroup: Accessory Names"
-	},
-	"transmission_ishift_at2612f": {
-		"message": "I-Shift AT2612F",
-		"description": "Id: transmission_ishift_at2612f\nGroup: Accessory Names"
-	},
-	"transmission_ishift_at2612f_retth": {
-		"message": "I-Shift AT2612F + RET-TH",
-		"description": "Id: transmission_ishift_at2612f_retth\nGroup: Accessory Names"
 	},
 	"transmission_opticruise_g25cm": {
 		"message": "Opticruise G25CM",
@@ -44443,14 +43235,6 @@
 		"message": "TipMatic 12 22 DD R",
 		"description": "Id: transmission_tipmatic_12_22_dd_r\nGroup: Accessory Names"
 	},
-	"transmission_tipmatic_12_26_dd": {
-		"message": "TipMatic 12 26 DD",
-		"description": "Id: transmission_tipmatic_12_26_dd\nGroup: Accessory Names"
-	},
-	"transmission_tipmatic_12_26_dd_r": {
-		"message": "TipMatic 12 26 DD R",
-		"description": "Id: transmission_tipmatic_12_26_dd_r\nGroup: Accessory Names"
-	},
 	"transmission_tipmatic_12_30_od": {
 		"message": "TipMatic 12 30 OD",
 		"description": "Id: transmission_tipmatic_12_30_od\nGroup: Accessory Names"
@@ -44555,10 +43339,6 @@
 		"message": "ZF 16TX2641TO R",
 		"description": "Id: transmission_zf_16tx2641to_r\nGroup: Accessory Names"
 	},
-	"transmission_zf_ecolife_2": {
-		"message": "ZF Ecolife 2",
-		"description": "Id: transmission_zf_ecolife_2\nGroup: Accessory Names"
-	},
 	"windowtrim_actros": {
 		"message": "Actros",
 		"description": "Id: windowtrim_actros\nGroup: Accessory Names"
@@ -44634,10 +43414,6 @@
 	"pj_25_year_edition": {
 		"message": "25 주년 에디션",
 		"description": "Id: pj_25_year_edition\nGroup: Names of paintjob accessories."
-	},
-	"pj_30th_czech_anniversary_edition": {
-		"message": "체코 30주년 한정판",
-		"description": "Id: pj_30th_czech_anniversary_edition\nGroup: Names of paintjob accessories."
 	},
 	"pj_770_aluminium": {
 		"message": "770 알루미늄",
@@ -44727,10 +43503,6 @@
 		"message": "Arcimboldo",
 		"description": "Id: pj_arcimboldo\nGroup: Names of paintjob accessories."
 	},
-	"pj_aurora_blue": {
-		"message": "오로라 블루",
-		"description": "Id: pj_aurora_blue\nGroup: Names of paintjob accessories."
-	},
 	"pj_aurora_borealis": {
 		"message": "오로라",
 		"description": "Id: pj_aurora_borealis\nGroup: Names of paintjob accessories."
@@ -44750,10 +43522,6 @@
 	"pj_austrian_flag_metallic": {
 		"message": "오스트리아 깃발 메탈릭",
 		"description": "Id: pj_austrian_flag_metallic\nGroup: Names of paintjob accessories."
-	},
-	"pj_autonomous_orange": {
-		"message": "Autonomous Orange",
-		"description": "Id: pj_autonomous_orange\nGroup: Names of paintjob accessories."
 	},
 	"pj_autumn_orange": {
 		"message": "Autumn Orange",
@@ -45039,10 +43807,6 @@
 		"message": "Coffee Brown",
 		"description": "Id: pj_coffee_brown\nGroup: Names of paintjob accessories."
 	},
-	"pj_coke_red": {
-		"message": "코크 레드",
-		"description": "Id: pj_coke_red\nGroup: Names of paintjob accessories."
-	},
 	"pj_cold_mystery": {
 		"message": "Cold Mystery",
 		"description": "Id: pj_cold_mystery\nGroup: Names of paintjob accessories."
@@ -45287,10 +44051,6 @@
 		"message": "에메랄드 드래곤",
 		"description": "Id: pj_emerald_dragon\nGroup: Names of paintjob accessories."
 	},
-	"pj_emerald_edition": {
-		"message": "에메랄드 에디션",
-		"description": "Id: pj_emerald_edition\nGroup: Names of paintjob accessories."
-	},
 	"pj_emerald_green": {
 		"message": "에메랄드 그린",
 		"description": "Id: pj_emerald_green\nGroup: Names of paintjob accessories."
@@ -45439,10 +44199,6 @@
 		"message": "Front Liner",
 		"description": "Id: pj_front_liner\nGroup: Names of paintjob accessories."
 	},
-	"pj_frost_white": {
-		"message": "프로스트 화이트",
-		"description": "Id: pj_frost_white\nGroup: Names of paintjob accessories."
-	},
 	"pj_full_steam_santa": {
 		"message": "풀 스팀 산타",
 		"description": "Id: pj_full_steam_santa\nGroup: Names of paintjob accessories."
@@ -45580,7 +44336,7 @@
 		"description": "Id: pj_great_trident\nGroup: Names of paintjob accessories."
 	},
 	"pj_green": {
-		"message": "녹색",
+		"message": "그린",
 		"description": "Id: pj_green\nGroup: Names of paintjob accessories."
 	},
 	"pj_green_metallic": {
@@ -45710,10 +44466,6 @@
 	"pj_individual_grey": {
 		"message": "Individual Grey",
 		"description": "Id: pj_individual_grey\nGroup: Names of paintjob accessories."
-	},
-	"pj_industrial_grey": {
-		"message": "인더스트리얼 그레이",
-		"description": "Id: pj_industrial_grey\nGroup: Names of paintjob accessories."
 	},
 	"pj_irish_flag_decal": {
 		"message": "아일랜드 깃발 데칼",
@@ -46215,10 +44967,6 @@
 		"message": "Odin's Wisdom",
 		"description": "Id: pj_odin_s_wisdom\nGroup: Names of paintjob accessories."
 	},
-	"pj_olive_gray_metallic": {
-		"message": "올리브 그레이 메탈릭",
-		"description": "Id: pj_olive_gray_metallic\nGroup: Names of paintjob accessories."
-	},
 	"pj_olive_green": {
 		"message": "올리브 그린",
 		"description": "Id: pj_olive_green\nGroup: Names of paintjob accessories."
@@ -46239,10 +44987,6 @@
 		"message": "Optifuel Gray",
 		"description": "Id: pj_optifuel_gray\nGroup: Names of paintjob accessories."
 	},
-	"pj_orange": {
-		"message": "오렌지",
-		"description": "Id: pj_orange\nGroup: Names of paintjob accessories."
-	},
 	"pj_orc_marauder": {
 		"message": "Orc Marauder",
 		"description": "Id: pj_orc_marauder\nGroup: Names of paintjob accessories."
@@ -46258,10 +45002,6 @@
 	"pj_original_orange": {
 		"message": "Original Orange",
 		"description": "Id: pj_original_orange\nGroup: Names of paintjob accessories."
-	},
-	"pj_pale_green": {
-		"message": "팔레 그린",
-		"description": "Id: pj_pale_green\nGroup: Names of paintjob accessories."
 	},
 	"pj_parallel_lines": {
 		"message": "Parallel Lines",
@@ -46290,10 +45030,6 @@
 	"pj_perfect_white": {
 		"message": "Perfect White",
 		"description": "Id: pj_perfect_white\nGroup: Names of paintjob accessories."
-	},
-	"pj_phantom_white": {
-		"message": "팬텀 화이트",
-		"description": "Id: pj_phantom_white\nGroup: Names of paintjob accessories."
 	},
 	"pj_phoenix": {
 		"message": "피닉스",
@@ -46539,10 +45275,6 @@
 		"message": "산타 트럭커",
 		"description": "Id: pj_santa_trucker\nGroup: Names of paintjob accessories."
 	},
-	"pj_sapphire_edition": {
-		"message": "사파이어 에디션",
-		"description": "Id: pj_sapphire_edition\nGroup: Names of paintjob accessories."
-	},
 	"pj_savanna_yellow": {
 		"message": "Savanna Yellow",
 		"description": "Id: pj_savanna_yellow\nGroup: Names of paintjob accessories."
@@ -46715,10 +45447,6 @@
 		"message": "한국 깃발 데칼",
 		"description": "Id: pj_south_korean_flag_decal\nGroup: Names of paintjob accessories."
 	},
-	"pj_sovereign_wave": {
-		"message": "소버린 웨이브",
-		"description": "Id: pj_sovereign_wave\nGroup: Names of paintjob accessories."
-	},
 	"pj_space": {
 		"message": "스페이스",
 		"description": "Id: pj_space\nGroup: Names of paintjob accessories."
@@ -46734,10 +45462,6 @@
 	"pj_spanish_flag_metallic": {
 		"message": "스페인 깃발 메탈릭",
 		"description": "Id: pj_spanish_flag_metallic\nGroup: Names of paintjob accessories."
-	},
-	"pj_sparkle_jade": {
-		"message": "Sparkle Jade",
-		"description": "Id: pj_sparkle_jade\nGroup: Names of paintjob accessories."
 	},
 	"pj_special_transport": {
 		"message": "특수 화물운송",
@@ -47366,10 +46090,6 @@
 	"pj_xmas_spirit": {
 		"message": "Xmas Spirit",
 		"description": "Id: pj_xmas_spirit\nGroup: Names of paintjob accessories."
-	},
-	"pj_yara_light_blue": {
-		"message": "야라 라이트 블루",
-		"description": "Id: pj_yara_light_blue\nGroup: Names of paintjob accessories."
 	},
 	"pj_year_of_the_dog": {
 		"message": "개의 해",

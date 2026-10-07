@@ -3917,6 +3917,7 @@ Short version of achievement description for American Truck Simulator. Must fit 
 Id: NEW_ACHIEVEMENT_70_31_NAME
 Achievement name for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
         </context-group>
+        <note from="Alexander Tselikov (San_Sany4)" priority="4">@QL_RU_P I think the current translation feels less natural than my variant.</note>
       </trans-unit>
       <trans-unit id="637983" resname="NEW_ACHIEVEMENT_70_31_DESC">
         <source>View cutscenes from at least 12 viewpoints in Illinois</source>
@@ -3997,6 +3998,350 @@ Achievement description for American Truck Simulator shown on the Steam website 
 
 Id: NEW_ACHIEVEMENT_98_1_SHORT
 Short version of achievement description for American Truck Simulator. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="732186" resname="NEW_ACHIEVEMENT_98_6_NAME">
+        <source>Jack of All Trades</source>
+        <target state="translated">만능 재주꾼</target>
+        <context-group purpose="information">
+          <context context-type="source">NEW_ACHIEVEMENT_98_6_NAME
+
+Id: NEW_ACHIEVEMENT_98_6_NAME
+Achievement name for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
+          <context context-type="x-crowdin-label">Last minute</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="732188" resname="NEW_ACHIEVEMENT_98_6_DESC">
+        <source>Deliver 5 unique cargoes using a car</source>
+        <target state="translated">자동차를 이용해 5개의 서로 다른 화물을 운송하세요</target>
+        <context-group purpose="information">
+          <context context-type="source">NEW_ACHIEVEMENT_98_6_DESC
+
+Id: NEW_ACHIEVEMENT_98_6_DESC
+Achievement description for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
+          <context context-type="x-crowdin-label">Last minute</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="732190" resname="NEW_ACHIEVEMENT_98_6_SHORT">
+        <source>Deliver 5 unique cargoes using a car</source>
+        <target state="translated">자동차를 이용해 5개의 서로 다른 화물을 운송하세요</target>
+        <context-group purpose="information">
+          <context context-type="source">NEW_ACHIEVEMENT_98_6_SHORT
+
+Id: NEW_ACHIEVEMENT_98_6_SHORT
+Short version of achievement description for American Truck Simulator. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit.</context>
+          <context context-type="x-crowdin-label">Last minute</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="732192" resname="NEW_ACHIEVEMENT_98_7_NAME">
+        <source>Worth the Detour</source>
+        <target state="translated">우회할 가치가 있는 곳</target>
+        <context-group purpose="information">
+          <context context-type="source">NEW_ACHIEVEMENT_98_7_NAME
+
+Id: NEW_ACHIEVEMENT_98_7_NAME
+Achievement name for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
+          <context context-type="x-crowdin-label">Last minute</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="732194" resname="NEW_ACHIEVEMENT_98_7_DESC">
+        <source>Earn a Postcard by completing a Tourist Board</source>
+        <target state="translated">관광 안내판에서 투어를 완료하고 엽서를 받으세요</target>
+        <context-group purpose="information">
+          <context context-type="source">NEW_ACHIEVEMENT_98_7_DESC
+
+Id: NEW_ACHIEVEMENT_98_7_DESC
+Achievement description for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
+          <context context-type="x-crowdin-label">Last minute</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="732196" resname="NEW_ACHIEVEMENT_98_7_SHORT">
+        <source>Earn a Postcard by completing a Tourist Board</source>
+        <target state="translated">관광 안내판에서 투어를 완료하고 엽서를 받으세요</target>
+        <context-group purpose="information">
+          <context context-type="source">NEW_ACHIEVEMENT_98_7_SHORT
+
+Id: NEW_ACHIEVEMENT_98_7_SHORT
+Short version of achievement description for American Truck Simulator. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit.</context>
+          <context context-type="x-crowdin-label">Last minute</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="732198" resname="NEW_ACHIEVEMENT_98_8_NAME">
+        <source>Keys in Hand</source>
+        <target state="translated">열쇠를 손에 쥐다</target>
+        <context-group purpose="information">
+          <context context-type="source">NEW_ACHIEVEMENT_98_8_NAME
+
+Id: NEW_ACHIEVEMENT_98_8_NAME
+Achievement name for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
+          <context context-type="x-crowdin-label">Last minute</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="732200" resname="NEW_ACHIEVEMENT_98_8_DESC">
+        <source>Own your first car</source>
+        <target state="translated">첫 차를 소유하세요</target>
+        <context-group purpose="information">
+          <context context-type="source">NEW_ACHIEVEMENT_98_8_DESC
+
+Id: NEW_ACHIEVEMENT_98_8_DESC
+Achievement description for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
+          <context context-type="x-crowdin-label">Last minute</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="732202" resname="NEW_ACHIEVEMENT_98_8_SHORT">
+        <source>Own your first car</source>
+        <target state="translated">첫 차를 소유하세요</target>
+        <context-group purpose="information">
+          <context context-type="source">NEW_ACHIEVEMENT_98_8_SHORT
+
+Id: NEW_ACHIEVEMENT_98_8_SHORT
+Short version of achievement description for American Truck Simulator. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit.</context>
+          <context context-type="x-crowdin-label">Last minute</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="732204" resname="NEW_ACHIEVEMENT_98_9_NAME">
+        <source>Interstate Legend</source>
+        <target state="translated">주간 고속도로 전설</target>
+        <context-group purpose="information">
+          <context context-type="source">NEW_ACHIEVEMENT_98_9_NAME
+
+Id: NEW_ACHIEVEMENT_98_9_NAME
+Achievement name for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
+          <context context-type="x-crowdin-label">Last minute</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="732206" resname="NEW_ACHIEVEMENT_98_9_DESC">
+        <source>Drive 5,000 miles or earn 50,000 dollars using any car</source>
+        <target state="translated">어떤 차든 5,000마일을 운전하거나 50,000달러를 벌어보세요</target>
+        <context-group purpose="information">
+          <context context-type="source">NEW_ACHIEVEMENT_98_9_DESC
+
+Id: NEW_ACHIEVEMENT_98_9_DESC
+Achievement description for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
+          <context context-type="x-crowdin-label">Last minute</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="732208" resname="NEW_ACHIEVEMENT_98_9_SHORT">
+        <source>Drive 5,000 miles or earn 50,000 dollars using any car</source>
+        <target state="translated">어떤 차든 5,000마일을 운전하거나 50,000달러를 벌어보세요</target>
+        <context-group purpose="information">
+          <context context-type="source">NEW_ACHIEVEMENT_98_9_SHORT
+
+Id: NEW_ACHIEVEMENT_98_9_SHORT
+Short version of achievement description for American Truck Simulator. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit.</context>
+          <context context-type="x-crowdin-label">Last minute</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="732210" resname="NEW_ACHIEVEMENT_98_10_NAME">
+        <source>Not a Scratch</source>
+        <target state="translated">흠집 하나 없음</target>
+        <context-group purpose="information">
+          <context context-type="source">NEW_ACHIEVEMENT_98_10_NAME
+
+Id: NEW_ACHIEVEMENT_98_10_NAME
+Achievement name for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
+          <context context-type="x-crowdin-label">Last minute</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="732212" resname="NEW_ACHIEVEMENT_98_10_DESC">
+        <source>Deliver cargo with a 5-star rating 5 times in a row using any car</source>
+        <target state="translated">어떤 차량이든 상관없이 5회 연속으로 별점 5점을 받아 화물을 배송하세요</target>
+        <context-group purpose="information">
+          <context context-type="source">NEW_ACHIEVEMENT_98_10_DESC
+
+Id: NEW_ACHIEVEMENT_98_10_DESC
+Achievement description for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
+          <context context-type="x-crowdin-label">Last minute</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="732214" resname="NEW_ACHIEVEMENT_98_10_SHORT">
+        <source>Deliver cargo with a 5-star rating 5 times in a row using any car</source>
+        <target state="translated">어떤 차량이든 상관없이 5회 연속으로 별점 5점을 받아 화물을 배송하세요</target>
+        <context-group purpose="information">
+          <context context-type="source">NEW_ACHIEVEMENT_98_10_SHORT
+
+Id: NEW_ACHIEVEMENT_98_10_SHORT
+Short version of achievement description for American Truck Simulator. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit.</context>
+          <context context-type="x-crowdin-label">Last minute</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="732216" resname="NEW_ACHIEVEMENT_98_11_NAME">
+        <source>Nowhere to Rush</source>
+        <target state="translated">달릴 곳이 없다</target>
+        <context-group purpose="information">
+          <context context-type="source">NEW_ACHIEVEMENT_98_11_NAME
+
+Id: NEW_ACHIEVEMENT_98_11_NAME
+Achievement name for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
+          <context context-type="x-crowdin-label">Last minute</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="732218" resname="NEW_ACHIEVEMENT_98_11_DESC">
+        <source>Complete 20 consecutive jobs without a fine in any car</source>
+        <target state="translated">어떤 차량이든 벌금 없이 20개의 연속 작업을 완료하세요</target>
+        <context-group purpose="information">
+          <context context-type="source">NEW_ACHIEVEMENT_98_11_DESC
+
+Id: NEW_ACHIEVEMENT_98_11_DESC
+Achievement description for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
+          <context context-type="x-crowdin-label">Last minute</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="732220" resname="NEW_ACHIEVEMENT_98_11_SHORT">
+        <source>Complete 20 consecutive jobs without a fine in any car</source>
+        <target state="translated">어떤 차량이든 벌금 없이 20개의 연속 작업을 완료하세요</target>
+        <context-group purpose="information">
+          <context context-type="source">NEW_ACHIEVEMENT_98_11_SHORT
+
+Id: NEW_ACHIEVEMENT_98_11_SHORT
+Short version of achievement description for American Truck Simulator. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit.</context>
+          <context context-type="x-crowdin-label">Last minute</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="732222" resname="NEW_ACHIEVEMENT_98_2_NAME">
+        <source>Mount Rushmore State</source>
+        <target state="translated">마운트 러시모어 스테이트</target>
+        <context-group purpose="information">
+          <context context-type="source">NEW_ACHIEVEMENT_98_2_NAME
+
+Id: NEW_ACHIEVEMENT_98_2_NAME
+Achievement name for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
+          <context context-type="x-crowdin-label">Last minute</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="732224" resname="NEW_ACHIEVEMENT_98_2_DESC">
+        <source>Discover at least 10 cities in South Dakota</source>
+        <target state="translated">사우스다코타 주의 10개 도시를 방문하십시오</target>
+        <context-group purpose="information">
+          <context context-type="source">NEW_ACHIEVEMENT_98_2_DESC
+
+Id: NEW_ACHIEVEMENT_98_2_DESC
+Achievement description for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
+          <context context-type="x-crowdin-label">Last minute</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="732226" resname="NEW_ACHIEVEMENT_98_2_SHORT">
+        <source>Discover at least 10 cities in South Dakota</source>
+        <target state="translated">사우스다코타 주의 10개 도시를 방문하십시오</target>
+        <context-group purpose="information">
+          <context context-type="source">NEW_ACHIEVEMENT_98_2_SHORT
+
+Id: NEW_ACHIEVEMENT_98_2_SHORT
+Short version of achievement description for American Truck Simulator. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit.</context>
+          <context context-type="x-crowdin-label">Last minute</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="732228" resname="NEW_ACHIEVEMENT_98_3_NAME">
+        <source>Great Faces, Great Places</source>
+        <target state="translated">멋진 얼굴들, 멋진 장소들</target>
+        <context-group purpose="information">
+          <context context-type="source">NEW_ACHIEVEMENT_98_3_NAME
+
+Id: NEW_ACHIEVEMENT_98_3_NAME
+Achievement name for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
+          <context context-type="x-crowdin-label">Last minute</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="732230" resname="NEW_ACHIEVEMENT_98_3_DESC">
+        <source>View cutscenes from at least 10 viewpoints in South Dakota</source>
+        <target state="translated">사우스다코타 주의 10개 뷰포인트의 컷신을 감상하십시오</target>
+        <context-group purpose="information">
+          <context context-type="source">NEW_ACHIEVEMENT_98_3_DESC
+
+Id: NEW_ACHIEVEMENT_98_3_DESC
+Achievement description for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
+          <context context-type="x-crowdin-label">Last minute</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="732232" resname="NEW_ACHIEVEMENT_98_3_SHORT">
+        <source>View cutscenes from at least 10 viewpoints in South Dakota</source>
+        <target state="translated">사우스다코타 주의 10개 뷰포인트의 컷신을 감상하십시오</target>
+        <context-group purpose="information">
+          <context context-type="source">NEW_ACHIEVEMENT_98_3_SHORT
+
+Id: NEW_ACHIEVEMENT_98_3_SHORT
+Short version of achievement description for American Truck Simulator. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit.</context>
+          <context context-type="x-crowdin-label">Last minute</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="732234" resname="NEW_ACHIEVEMENT_98_4_NAME">
+        <source>Big Muddy Run</source>
+        <target state="translated">빅 머디 런</target>
+        <context-group purpose="information">
+          <context context-type="source">NEW_ACHIEVEMENT_98_4_NAME
+
+Id: NEW_ACHIEVEMENT_98_4_NAME
+Achievement name for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
+          <context context-type="x-crowdin-label-1">Temp</context>
+          <context context-type="x-crowdin-label-2">Last minute</context>
+        </context-group>
+        <note from="QL_CZ_P" priority="4">@morrelo
+Hello,
+Could you please clarify the intended meaning of “Big Muddy Run”? We understand that “Big Muddy” refers to the Missouri River, as explained in another string:
+
+Řeka Missouri, známá pod přezdívkou „Big Muddy“, je nejdelší řekou ve Spojených státech. Protéká v délce 2 341 mil od Skalnatých hor v Montaně až k řece Mississippi a sehrála klíčovou roli při průzkumu, obchodu a rozšíření americké hranice směrem na západ.
+
+Does “Run” here mean a journey/route along the Missouri, a race, or something else? Also, should the full name be localized, or is “Big Muddy Run” intended to remain as a proper name?
+
+&quot;Jízda podél Big Muddy&quot; could be a solution?</note>
+        <note from="Adam Fojtík (morrelo)" priority="4">@QL_CZ_P You are absolutely right, it's meant to be a journey along the Missouri river, so feel free to use your suggestion. I also suggested another variant with more humorous name (which we can do for achievements).</note>
+        <note from="Viktor Dobrovolný (Nettle)" priority="4">&quot;Velká blátivá jízda&quot; is great. &quot;Jízda podél Big Muddy&quot; would be (while correct) imho too sterile for an Achievement name.</note>
+      </trans-unit>
+      <trans-unit id="732236" resname="NEW_ACHIEVEMENT_98_4_DESC">
+        <source>Complete two undamaged deliveries in this order: Mobridge - Pierre, Pierre - Yankton</source>
+        <target state="translated">다음 순서로 손상 없이 두 번의 배송을 완료하십시오: 모브릿지 - 피에르, 피에르 - 얭크튼</target>
+        <context-group purpose="information">
+          <context context-type="source">NEW_ACHIEVEMENT_98_4_DESC
+
+Id: NEW_ACHIEVEMENT_98_4_DESC
+Achievement description for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
+          <context context-type="x-crowdin-label">Last minute</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="732238" resname="NEW_ACHIEVEMENT_98_4_SHORT">
+        <source>Complete two undamaged deliveries in this order: Mobridge - Pierre, Pierre - Yankton</source>
+        <target state="translated">다음 순서로 손상 없이 두 번의 배송을 완료하십시오: 모브릿지 - 피에르, 피에르 - 얭크튼</target>
+        <context-group purpose="information">
+          <context context-type="source">NEW_ACHIEVEMENT_98_4_SHORT
+
+Id: NEW_ACHIEVEMENT_98_4_SHORT
+Short version of achievement description for American Truck Simulator. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit.</context>
+          <context context-type="x-crowdin-label">Last minute</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="732240" resname="NEW_ACHIEVEMENT_98_5_NAME">
+        <source>Who Says You Can’t Go Home?</source>
+        <target state="translated">누가 당신이 집에 갈 수 없다고 했나요?</target>
+        <context-group purpose="information">
+          <context context-type="source">NEW_ACHIEVEMENT_98_5_NAME
+
+Id: NEW_ACHIEVEMENT_98_5_NAME
+Achievement name for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
+          <context context-type="x-crowdin-label">Last minute</context>
+        </context-group>
+        <note from="RivaStyle" priority="4">context: reference to this Bon Jovi song?
+https://www.youtube.com/watch?v=5CeX5VEo10c</note>
+      </trans-unit>
+      <trans-unit id="732242" resname="NEW_ACHIEVEMENT_98_5_DESC">
+        <source>Deliver two different types of cargo to the residential construction sites in Watertown or Spearfish</source>
+        <target state="translated">워터타운 또는 스피어피시에 있는 주택 건설 현장에 서로 다른 두 종류의 화물을 배송하세요</target>
+        <context-group purpose="information">
+          <context context-type="source">NEW_ACHIEVEMENT_98_5_DESC
+
+Id: NEW_ACHIEVEMENT_98_5_DESC
+Achievement description for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
+          <context context-type="x-crowdin-label">Last minute</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="732244" resname="NEW_ACHIEVEMENT_98_5_SHORT">
+        <source>Deliver two different types of cargo to the residential construction sites in Watertown or Spearfish</source>
+        <target state="translated">워터타운 또는 스피어피시에 있는 주택 건설 현장에 서로 다른 두 종류의 화물을 배송하세요</target>
+        <context-group purpose="information">
+          <context context-type="source">NEW_ACHIEVEMENT_98_5_SHORT
+
+Id: NEW_ACHIEVEMENT_98_5_SHORT
+Short version of achievement description for American Truck Simulator. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit.</context>
+          <context context-type="x-crowdin-label">Last minute</context>
         </context-group>
       </trans-unit>
       <trans-unit id="117822" resname="NEW_ACHIEVEMENT_11_28_NAME">
@@ -4248,6 +4593,32 @@ Suffix for achievement descriptions for American Truck Simulator shown on the St
 Id: ach_illinois_dlc_suffix
 Suffix for achievement descriptions for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Appended to every description requiring given DLC/module.</context>
         </context-group>
+      </trans-unit>
+      <trans-unit id="732246" resname="ach_road_trip_dlc_suffix">
+        <source>(requires Road Trip DLC)</source>
+        <target state="translated">(Road Trip DLC가 필요함)</target>
+        <context-group purpose="information">
+          <context context-type="source">ach_road_trip_dlc_suffix
+
+Id: ach_road_trip_dlc_suffix
+Suffix for achievement descriptions for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Appended to every description requiring given DLC/module.</context>
+          <context context-type="x-crowdin-label">Last minute</context>
+        </context-group>
+        <note from="mitsumatayariuo" priority="4">While correcting the wording for the South Dakota DLC requirements, I’d like to standardize the wording here as well.
+&quot;（要 Road Trip DLC）&quot;</note>
+      </trans-unit>
+      <trans-unit id="732248" resname="ach_south_dakota_dlc_suffix">
+        <source>(requires South Dakota DLC)</source>
+        <target state="translated">(South Dakota DLC가 필요함)</target>
+        <context-group purpose="information">
+          <context context-type="source">ach_south_dakota_dlc_suffix
+
+Id: ach_south_dakota_dlc_suffix
+Suffix for achievement descriptions for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Appended to every description requiring given DLC/module.</context>
+          <context context-type="x-crowdin-label">Last minute</context>
+        </context-group>
+        <note from="mitsumatayariuo" priority="4">The approved translation is incorrect. Please check the proposed translation.
+&quot;（要 South Dakota DLC）&quot;</note>
       </trans-unit>
     </body>
   </file>

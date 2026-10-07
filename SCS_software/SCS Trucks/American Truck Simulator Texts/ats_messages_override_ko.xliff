@@ -5030,8 +5030,17 @@ Group: Names of cities</context>
 
 Id: east_st_louis
 Group: Names of cities</context>
+          <context context-type="x-crowdin-label">Cert</context>
         </context-group>
         <note from="Mads Teland (mads1153)" priority="4">In Norwegian translation this seems to have two double city names for some reason, but it has exactly same name on top and bottom after Illinois DLC was released. Possible SCS Software did something wrong on this one.</note>
+        <note from="Alexander Tselikov (San_Sany4)" priority="4">@mads1153 I found the reason, in the dlc file/def/city/east_st_louis.sui file, the name of the city has an extra space at the end:
+
+city_name: &quot;East St. Louis &quot;
+
+Because of that, it doesn't match with the translated name and the game shows both.
+
+Reported on forum: https://forum.scssoft.com/viewtopic.php?t=353879</note>
+        <note from="Viktor Dobrovolný (Nettle)" priority="4">@San_Sany4 Thanks for investigating this! If it doesn't get resolved on its own (following your report), I'll poke someone from the map department.</note>
       </trans-unit>
       <trans-unit id="59118" resname="ats_ehrenberg">
         <source>Ehrenberg</source>
@@ -6938,7 +6947,7 @@ Group: Names of cities</context>
       </trans-unit>
       <trans-unit id="732112" resname="ats_spearfish">
         <source>Spearfish</source>
-        <target state="translated">스페어피쉬</target>
+        <target state="translated">스피어피시</target>
         <context-group purpose="information">
           <context context-type="source">ats_spearfish
 
