@@ -1,6 +1,6 @@
 {
   "NEW_ACHIEVEMENT_4_9_NAME": {
-    "message": "문제는 아니지",
+    "message": "문제없습니다",
     "description": "Id: NEW_ACHIEVEMENT_4_9_NAME\nAchievement name for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
   },
   "NEW_ACHIEVEMENT_4_9_DESC": {
@@ -24,7 +24,7 @@
     "description": "Id: NEW_ACHIEVEMENT_4_14_SHORT\nShort version of achievement description for American Truck Simulator. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit."
   },
   "NEW_ACHIEVEMENT_4_13_NAME": {
-    "message": "너의 BMI는?",
+    "message": "당신의 BMI는 얼마인가요?",
     "description": "Id: NEW_ACHIEVEMENT_4_13_NAME\nAchievement name for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
   },
   "NEW_ACHIEVEMENT_4_13_DESC": {

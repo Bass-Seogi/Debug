@@ -864,15 +864,15 @@
     "description": "Id: achievement_sc_volvo_cargo_SHORT\nShort version of achievement description for Euro Truck Simulator 2. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit."
   },
   "achievement_sc_scania_cargo_NAME": {
-    "message": "스카니아 트럭 애호가",
+    "message": "Scania 트럭 애호가",
     "description": "Id: achievement_sc_scania_cargo_NAME\nAchievement name for Euro Truck Simulator 2 shown on the Steam website (http://steamcommunity.com/stats/227300/achievements/). Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
   },
   "achievement_sc_scania_cargo_DESC": {
-    "message": "스카니아 공장에서 트럭 (화물)을 배차받아 운송하십시오",
+    "message": "Scania 공장에서 트럭 (화물)을 배차받아 운송하십시오",
     "description": "Id: achievement_sc_scania_cargo_DESC\nAchievement description for Euro Truck Simulator 2 shown on the Steam website (http://steamcommunity.com/stats/227300/achievements/). Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
   },
   "achievement_sc_scania_cargo_SHORT": {
-    "message": "스카니아 공장에서 트럭 (화물)을 배차받아 운송하십시오",
+    "message": "Scania 공장에서 트럭 (화물)을 배차받아 운송하십시오",
     "description": "Id: achievement_sc_scania_cargo_SHORT\nShort version of achievement description for Euro Truck Simulator 2. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit."
   },
   "achievement_sc_cows_to_farm_NAME": {

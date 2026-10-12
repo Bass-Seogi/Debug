@@ -2222,7 +2222,7 @@ Short version of achievement description for Euro Truck Simulator 2. Must fit wi
       </trans-unit>
       <trans-unit id="290" resname="achievement_sc_scania_cargo_NAME">
         <source>Scania Trucks Lover</source>
-        <target state="translated">스카니아 트럭 애호가</target>
+        <target state="translated">Scania 트럭 애호가</target>
         <context-group purpose="information">
           <context context-type="source">achievement_sc_scania_cargo_NAME
 
@@ -2233,7 +2233,7 @@ Achievement name for Euro Truck Simulator 2 shown on the Steam website (http://s
       </trans-unit>
       <trans-unit id="462171" resname="achievement_sc_scania_cargo_DESC">
         <source>Deliver truck cargo from Scania factory</source>
-        <target state="translated">스카니아 공장에서 트럭 (화물)을 배차받아 운송하십시오</target>
+        <target state="translated">Scania 공장에서 트럭 (화물)을 배차받아 운송하십시오</target>
         <context-group purpose="information">
           <context context-type="source">achievement_sc_scania_cargo_DESC
 
@@ -2243,7 +2243,7 @@ Achievement description for Euro Truck Simulator 2 shown on the Steam website (h
       </trans-unit>
       <trans-unit id="462173" resname="achievement_sc_scania_cargo_SHORT">
         <source>Deliver truck cargo from Scania factory</source>
-        <target state="translated">스카니아 공장에서 트럭 (화물)을 배차받아 운송하십시오</target>
+        <target state="translated">Scania 공장에서 트럭 (화물)을 배차받아 운송하십시오</target>
         <context-group purpose="information">
           <context context-type="source">achievement_sc_scania_cargo_SHORT
 

@@ -6041,7 +6041,7 @@ Group: Names of cities</context>
       </trans-unit>
       <trans-unit id="305527" resname="ats_mcalester">
         <source>McAlester</source>
-        <target state="translated">맥엘레스터</target>
+        <target state="translated">매캘러스터</target>
         <context-group purpose="information">
           <context context-type="source">ats_mcalester
 
