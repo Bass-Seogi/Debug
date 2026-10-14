@@ -26,15 +26,6 @@ Id: lang_name
 Name of currently selected language, please do not translate, put your native language name here in your native language.</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="440" resname="moded_game">
-        <source>The game contains unauthorized modifications. No support is available for modified game. In case of problems or crashes try to remove your mod packs!</source>
-        <target state="translated">무단으로 변경된 데이터가 게임에 포함되어있습니다. 수정된 게임은 지원 대상이 아닙니다. 문제 또는 충돌이 발생할 경우 MOD를 제거하시기 바랍니다!</target>
-        <context-group purpose="information">
-          <context context-type="source">moded_game
-
-Id: moded_game</context>
-        </context-group>
-      </trans-unit>
       <trans-unit id="72182" resname="steam_emulated_controller">
         <source>Steam Emulated Controller</source>
         <target state="translated">스팀 호환 컨트롤러</target>
@@ -46,14 +37,13 @@ Name of input device which is emulated by Steam Controler API. It is followed by
 Group: Steam Controller UI localization in game</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="442" resname="europe.mbd">
-        <source>Europe</source>
-        <target state="translated">유럽</target>
+      <trans-unit id="440" resname="moded_game">
+        <source>The game contains unauthorized modifications. No support is available for modified game. In case of problems or crashes try to remove your mod packs!</source>
+        <target state="translated">무단으로 변경된 데이터가 게임에 포함되어있습니다. 수정된 게임은 지원 대상이 아닙니다. 문제 또는 충돌이 발생할 경우 MOD를 제거하시기 바랍니다!</target>
         <context-group purpose="information">
-          <context context-type="source">europe.mbd
+          <context context-type="source">moded_game
 
-Id: europe.mbd
-Map names</context>
+Id: moded_game</context>
         </context-group>
       </trans-unit>
       <trans-unit id="554969" resname="steam_sctrl_action_set_simple">
@@ -64,6 +54,16 @@ Map names</context>
 
 Id: sctrl_action_set_simple
 Group: Steam Controller UI localizations in Steam client</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="442" resname="europe.mbd">
+        <source>Europe</source>
+        <target state="translated">유럽</target>
+        <context-group purpose="information">
+          <context context-type="source">europe.mbd
+
+Id: europe.mbd
+Map names</context>
         </context-group>
       </trans-unit>
       <trans-unit id="554971" resname="steam_sctrl_action_set_ui">
@@ -107,16 +107,6 @@ Id: sctrl_action_set_layer_default
 Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="708142" resname="loading_location_country" translate="no">
-        <source>Somewhere in $COUNTRY$</source>
-        <target state="translated">$COUNTRY$ 어딘가에</target>
-        <context-group purpose="information">
-          <context context-type="source">loading_location_country
-
-Id: loading_location_country
-Message shown on loading screen when player location is inside specific country.</context>
-        </context-group>
-      </trans-unit>
       <trans-unit id="554975" resname="steam_sctrl_action_set_layer_map">
         <source>Map</source>
         <target state="translated">지도</target>
@@ -127,14 +117,14 @@ Id: sctrl_action_set_layer_map
 Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="554977" resname="steam_sctrl_action_set_layer_truck_config">
-        <source>Truck Config</source>
-        <target state="translated">트럭 구성</target>
+      <trans-unit id="708142" resname="loading_location_country" translate="no">
+        <source>Somewhere in $COUNTRY$</source>
+        <target state="translated">$COUNTRY$ 어딘가에</target>
         <context-group purpose="information">
-          <context context-type="source">steam_sctrl_action_set_layer_truck_config
+          <context context-type="source">loading_location_country
 
-Id: sctrl_action_set_layer_truck_config
-Group: Steam Controller UI localizations in Steam client</context>
+Id: loading_location_country
+Message shown on loading screen when player location is inside specific country.</context>
         </context-group>
       </trans-unit>
       <trans-unit id="708144" resname="loading_changing_mode" translate="no">
@@ -147,13 +137,13 @@ Id: loading_changing_mode
 Message shown on loading screen when player is switching between vehicle modes.</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="554979" resname="steam_sctrl_action_set_layer_walking">
-        <source>Walking</source>
-        <target state="translated">보행</target>
+      <trans-unit id="554977" resname="steam_sctrl_action_set_layer_truck_config">
+        <source>Truck Config</source>
+        <target state="translated">트럭 구성</target>
         <context-group purpose="information">
-          <context context-type="source">steam_sctrl_action_set_layer_walking
+          <context context-type="source">steam_sctrl_action_set_layer_truck_config
 
-Id: sctrl_action_set_layer_walking
+Id: sctrl_action_set_layer_truck_config
 Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
       </trans-unit>
@@ -167,14 +157,14 @@ Id: current_job_title</context>
         </context-group>
         <note from="Krezzin" priority="4">&quot;Текуща работа&quot; в момента се появява на няколко места - на работния плот и на зареждащия екран, в случая: &quot;Текуща работа: замразена храна&quot;. Така &quot;работа&quot; може да се замести от &quot;доставка&quot; и се получи по-добрият вариант: &quot;Текуща доставка: замразена храна&quot;</note>
       </trans-unit>
-      <trans-unit id="448" resname="desktop">
-        <source>Desktop</source>
-        <target state="translated">바탕화면</target>
+      <trans-unit id="554979" resname="steam_sctrl_action_set_layer_walking">
+        <source>Walking</source>
+        <target state="translated">보행</target>
         <context-group purpose="information">
-          <context context-type="source">desktop
+          <context context-type="source">steam_sctrl_action_set_layer_walking
 
-Id: desktop
-Icon label under &quot;Back to desktop&quot; button</context>
+Id: sctrl_action_set_layer_walking
+Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
       </trans-unit>
       <trans-unit id="554981" resname="steam_sctrl_action_set_driving">
@@ -187,14 +177,14 @@ Id: sctrl_action_set_driving
 Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="554983" resname="steam_sctrl_action_set_layer_photo_mode">
-        <source>Photo Mode</source>
-        <target state="translated">포토 모드</target>
+      <trans-unit id="448" resname="desktop">
+        <source>Desktop</source>
+        <target state="translated">바탕화면</target>
         <context-group purpose="information">
-          <context context-type="source">steam_sctrl_action_set_layer_photo_mode
+          <context context-type="source">desktop
 
-Id: sctrl_action_set_layer_photo_mode
-Group: Steam Controller UI localizations in Steam client</context>
+Id: desktop
+Icon label under &quot;Back to desktop&quot; button</context>
         </context-group>
       </trans-unit>
       <trans-unit id="450" resname="engine_t">
@@ -206,6 +196,16 @@ Group: Steam Controller UI localizations in Steam client</context>
 Id: engine_t
 Group: Names of list categories which might be shown in various shopping screens.
 Keep the uppercased strings in upper case where possible.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="554983" resname="steam_sctrl_action_set_layer_photo_mode">
+        <source>Photo Mode</source>
+        <target state="translated">포토 모드</target>
+        <context-group purpose="information">
+          <context context-type="source">steam_sctrl_action_set_layer_photo_mode
+
+Id: sctrl_action_set_layer_photo_mode
+Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
       </trans-unit>
       <trans-unit id="554985" resname="steam_sctrl_action_set_layer_photo_walk">
@@ -229,6 +229,17 @@ Group: Names of list categories which might be shown in various shopping screens
 Keep the uppercased strings in upper case where possible.</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="454" resname="transmission_t">
+        <source>TRANSMISSION</source>
+        <target state="translated">변속기</target>
+        <context-group purpose="information">
+          <context context-type="source">transmission_t
+
+Id: transmission_t
+Group: Names of list categories which might be shown in various shopping screens.
+Keep the uppercased strings in upper case where possible.</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="554987" resname="steam_sctrl_action_mouse_look">
         <source>Mouse Look</source>
         <target state="translated">마우스 보기</target>
@@ -240,13 +251,13 @@ Group: Individual bindable actions
 Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="454" resname="transmission_t">
-        <source>TRANSMISSION</source>
+      <trans-unit id="456" resname="transmission">
+        <source>Transmission</source>
         <target state="translated">변속기</target>
         <context-group purpose="information">
-          <context context-type="source">transmission_t
+          <context context-type="source">transmission
 
-Id: transmission_t
+Id: transmission
 Group: Names of list categories which might be shown in various shopping screens.
 Keep the uppercased strings in upper case where possible.</context>
         </context-group>
@@ -262,15 +273,15 @@ Group: Individual bindable actions
 Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="456" resname="transmission">
-        <source>Transmission</source>
-        <target state="translated">변속기</target>
+      <trans-unit id="554991" resname="steam_sctrl_action_mouse_button_left">
+        <source>Mouse Left</source>
+        <target state="translated">마우스 왼쪽</target>
         <context-group purpose="information">
-          <context context-type="source">transmission
+          <context context-type="source">steam_sctrl_action_mouse_button_left
 
-Id: transmission
-Group: Names of list categories which might be shown in various shopping screens.
-Keep the uppercased strings in upper case where possible.</context>
+Id: sctrl_action_mouse_button_left
+Group: Individual bindable actions
+Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
       </trans-unit>
       <trans-unit id="458" resname="chassis_t">
@@ -291,28 +302,6 @@ Please check your Crowdin messege.
 수정하신 문자 중 '섀'를 포함한 일부 문자는 게임에서 표시되지 않습니다. 예전 문자로 복원하십시오.
 이와 관련된 내용은 Crowdin 메시지로 보내드렸습니다.</note>
       </trans-unit>
-      <trans-unit id="554991" resname="steam_sctrl_action_mouse_button_left">
-        <source>Mouse Left</source>
-        <target state="translated">마우스 왼쪽</target>
-        <context-group purpose="information">
-          <context context-type="source">steam_sctrl_action_mouse_button_left
-
-Id: sctrl_action_mouse_button_left
-Group: Individual bindable actions
-Group: Steam Controller UI localizations in Steam client</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="554993" resname="steam_sctrl_action_mouse_button_right">
-        <source>Mouse Right</source>
-        <target state="translated">마우스 오른쪽</target>
-        <context-group purpose="information">
-          <context context-type="source">steam_sctrl_action_mouse_button_right
-
-Id: sctrl_action_mouse_button_right
-Group: Individual bindable actions
-Group: Steam Controller UI localizations in Steam client</context>
-        </context-group>
-      </trans-unit>
       <trans-unit id="460" resname="chassis">
         <source>Chassis</source>
         <target state="translated">샤시</target>
@@ -324,13 +313,13 @@ Group: Names of list categories which might be shown in various shopping screens
 Keep the uppercased strings in upper case where possible.</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="554995" resname="steam_sctrl_action_pause">
-        <source>Pause</source>
-        <target state="translated">일시 정지</target>
+      <trans-unit id="554993" resname="steam_sctrl_action_mouse_button_right">
+        <source>Mouse Right</source>
+        <target state="translated">마우스 오른쪽</target>
         <context-group purpose="information">
-          <context context-type="source">steam_sctrl_action_pause
+          <context context-type="source">steam_sctrl_action_mouse_button_right
 
-Id: sctrl_action_pause
+Id: sctrl_action_mouse_button_right
 Group: Individual bindable actions
 Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
@@ -346,15 +335,15 @@ Group: Names of list categories which might be shown in various shopping screens
 Keep the uppercased strings in upper case where possible.</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="464" resname="cabin">
-        <source>Cabin</source>
-        <target state="translated">캐빈</target>
+      <trans-unit id="554995" resname="steam_sctrl_action_pause">
+        <source>Pause</source>
+        <target state="translated">일시 정지</target>
         <context-group purpose="information">
-          <context context-type="source">cabin
+          <context context-type="source">steam_sctrl_action_pause
 
-Id: cabin
-Group: Names of list categories which might be shown in various shopping screens.
-Keep the uppercased strings in upper case where possible.</context>
+Id: sctrl_action_pause
+Group: Individual bindable actions
+Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
       </trans-unit>
       <trans-unit id="554997" resname="steam_sctrl_action_back">
@@ -368,15 +357,15 @@ Group: Individual bindable actions
 Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="554999" resname="steam_sctrl_action_steering">
-        <source>Steering</source>
-        <target state="translated">조향</target>
+      <trans-unit id="464" resname="cabin">
+        <source>Cabin</source>
+        <target state="translated">캐빈</target>
         <context-group purpose="information">
-          <context context-type="source">steam_sctrl_action_steering
+          <context context-type="source">cabin
 
-Id: sctrl_action_steering
-Group: Individual bindable actions
-Group: Steam Controller UI localizations in Steam client</context>
+Id: cabin
+Group: Names of list categories which might be shown in various shopping screens.
+Keep the uppercased strings in upper case where possible.</context>
         </context-group>
       </trans-unit>
       <trans-unit id="466" resname="wheels_t">
@@ -388,6 +377,17 @@ Group: Steam Controller UI localizations in Steam client</context>
 Id: wheels_t
 Group: Names of list categories which might be shown in various shopping screens.
 Keep the uppercased strings in upper case where possible.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="554999" resname="steam_sctrl_action_steering">
+        <source>Steering</source>
+        <target state="translated">조향</target>
+        <context-group purpose="information">
+          <context context-type="source">steam_sctrl_action_steering
+
+Id: sctrl_action_steering
+Group: Individual bindable actions
+Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
       </trans-unit>
       <trans-unit id="468" resname="wheels">
@@ -437,17 +437,6 @@ Group: Individual bindable actions
 Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="472" resname="interior">
-        <source>Interior</source>
-        <target state="translated">인테리어</target>
-        <context-group purpose="information">
-          <context context-type="source">interior
-
-Id: interior
-Group: Names of list categories which might be shown in various shopping screens.
-Keep the uppercased strings in upper case where possible.</context>
-        </context-group>
-      </trans-unit>
       <trans-unit id="555005" resname="steam_sctrl_action_clutch">
         <source>Clutch</source>
         <target state="translated">클러치</target>
@@ -459,15 +448,15 @@ Group: Individual bindable actions
 Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="555007" resname="steam_sctrl_action_scrol_up">
-        <source>Scroll Up</source>
-        <target state="translated">스크롤 업</target>
+      <trans-unit id="472" resname="interior">
+        <source>Interior</source>
+        <target state="translated">인테리어</target>
         <context-group purpose="information">
-          <context context-type="source">steam_sctrl_action_scrol_up
+          <context context-type="source">interior
 
-Id: sctrl_action_scrol_up
-Group: Individual bindable actions
-Group: Steam Controller UI localizations in Steam client</context>
+Id: interior
+Group: Names of list categories which might be shown in various shopping screens.
+Keep the uppercased strings in upper case where possible.</context>
         </context-group>
       </trans-unit>
       <trans-unit id="474" resname="accessory_t">
@@ -481,13 +470,13 @@ Group: Names of list categories which might be shown in various shopping screens
 Keep the uppercased strings in upper case where possible.</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="555009" resname="steam_sctrl_action_scrol_dwn">
-        <source>Scroll Down</source>
-        <target state="translated">스크롤 다운</target>
+      <trans-unit id="555007" resname="steam_sctrl_action_scrol_up">
+        <source>Scroll Up</source>
+        <target state="translated">스크롤 업</target>
         <context-group purpose="information">
-          <context context-type="source">steam_sctrl_action_scrol_dwn
+          <context context-type="source">steam_sctrl_action_scrol_up
 
-Id: sctrl_action_scrol_dwn
+Id: sctrl_action_scrol_up
 Group: Individual bindable actions
 Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
@@ -501,6 +490,17 @@ Group: Steam Controller UI localizations in Steam client</context>
 Id: accessory
 Group: Names of list categories which might be shown in various shopping screens.
 Keep the uppercased strings in upper case where possible.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="555009" resname="steam_sctrl_action_scrol_dwn">
+        <source>Scroll Down</source>
+        <target state="translated">스크롤 다운</target>
+        <context-group purpose="information">
+          <context context-type="source">steam_sctrl_action_scrol_dwn
+
+Id: sctrl_action_scrol_dwn
+Group: Individual bindable actions
+Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
       </trans-unit>
       <trans-unit id="587605" resname="in_accessory_t">
@@ -525,17 +525,6 @@ Group: Individual bindable actions
 Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="587607" resname="in_accessory">
-        <source>Interior Accessories</source>
-        <target state="translated">인테리어 액세서리</target>
-        <context-group purpose="information">
-          <context context-type="source">in_accessory
-
-Id: in_accessory
-Group: Names of list categories which might be shown in various shopping screens.
-Keep the uppercased strings in upper case where possible.</context>
-        </context-group>
-      </trans-unit>
       <trans-unit id="555013" resname="steam_sctrl_action_mapzoom_out">
         <source>Map Zoom Out</source>
         <target state="translated">지도 축소</target>
@@ -545,6 +534,17 @@ Keep the uppercased strings in upper case where possible.</context>
 Id: sctrl_action_mapzoom_out
 Group: Individual bindable actions
 Group: Steam Controller UI localizations in Steam client</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="587607" resname="in_accessory">
+        <source>Interior Accessories</source>
+        <target state="translated">인테리어 액세서리</target>
+        <context-group purpose="information">
+          <context context-type="source">in_accessory
+
+Id: in_accessory
+Group: Names of list categories which might be shown in various shopping screens.
+Keep the uppercased strings in upper case where possible.</context>
         </context-group>
       </trans-unit>
       <trans-unit id="478" resname="paint_job_t">
@@ -578,6 +578,17 @@ Group: Individual bindable actions
 Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="555017" resname="steam_sctrl_action_skip">
+        <source>Skip</source>
+        <target state="translated">건너뛰기</target>
+        <context-group purpose="information">
+          <context context-type="source">steam_sctrl_action_skip
+
+Id: sctrl_action_skip
+Group: Individual bindable actions
+Group: Steam Controller UI localizations in Steam client</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="480" resname="paint_job">
         <source>Stock colour</source>
         <target state="translated">순정 색상</target>
@@ -591,17 +602,6 @@ Keep the uppercased strings in upper case where possible.</context>
         </context-group>
         <note from="Alexandre Brochu (rookie_one)" priority="4">The currently approved translation is not correct, please review my translation:
 &quot;Couleurs d'origines&quot;</note>
-      </trans-unit>
-      <trans-unit id="555017" resname="steam_sctrl_action_skip">
-        <source>Skip</source>
-        <target state="translated">건너뛰기</target>
-        <context-group purpose="information">
-          <context context-type="source">steam_sctrl_action_skip
-
-Id: sctrl_action_skip
-Group: Individual bindable actions
-Group: Steam Controller UI localizations in Steam client</context>
-        </context-group>
       </trans-unit>
       <trans-unit id="555019" resname="steam_sctrl_action_j_left">
         <source>Left</source>
@@ -649,17 +649,6 @@ Group: Individual bindable actions
 Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="684322" resname="brand_t" translate="no">
-        <source>VEHICLE DESIGN</source>
-        <target state="translated">차량 디자인</target>
-        <context-group purpose="information">
-          <context context-type="source">brand_t
-
-Id: brand_t
-Group: Names of list categories which might be shown in various shopping screens.
-Keep the uppercased strings in upper case where possible.</context>
-        </context-group>
-      </trans-unit>
       <trans-unit id="555023" resname="steam_sctrl_action_j_up">
         <source>Up</source>
         <target state="translated">위</target>
@@ -669,6 +658,17 @@ Keep the uppercased strings in upper case where possible.</context>
 Id: sctrl_action_j_up
 Group: Individual bindable actions
 Group: Steam Controller UI localizations in Steam client</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="684322" resname="brand_t" translate="no">
+        <source>VEHICLE DESIGN</source>
+        <target state="translated">차량 디자인</target>
+        <context-group purpose="information">
+          <context context-type="source">brand_t
+
+Id: brand_t
+Group: Names of list categories which might be shown in various shopping screens.
+Keep the uppercased strings in upper case where possible.</context>
         </context-group>
       </trans-unit>
       <trans-unit id="684324" resname="brand" translate="no">
@@ -693,6 +693,18 @@ Group: Individual bindable actions
 Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="490" resname="basket_t">
+        <source>ORDER</source>
+        <target state="translated">주문</target>
+        <context-group purpose="information">
+          <context context-type="source">basket_t
+
+Id: basket_t
+Content of the basket.
+Group: Names of list categories which might be shown in various shopping screens.
+Keep the uppercased strings in upper case where possible.</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="555027" resname="steam_sctrl_action_joy_nav_prv">
         <source>Previous Screen</source>
         <target state="translated">이전 화면</target>
@@ -704,16 +716,15 @@ Group: Individual bindable actions
 Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="490" resname="basket_t">
-        <source>ORDER</source>
-        <target state="translated">주문</target>
+      <trans-unit id="555029" resname="steam_sctrl_action_joy_nav_nxt">
+        <source>Next Screen</source>
+        <target state="translated">다음 화면</target>
         <context-group purpose="information">
-          <context context-type="source">basket_t
+          <context context-type="source">steam_sctrl_action_joy_nav_nxt
 
-Id: basket_t
-Content of the basket.
-Group: Names of list categories which might be shown in various shopping screens.
-Keep the uppercased strings in upper case where possible.</context>
+Id: sctrl_action_joy_nav_nxt
+Group: Individual bindable actions
+Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
       </trans-unit>
       <trans-unit id="684326" resname="vehicle_analysis_t" translate="no">
@@ -729,13 +740,13 @@ Group: Names of list categories which might be shown in various shopping screens
 Keep the uppercased strings in upper case where possible.</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="555029" resname="steam_sctrl_action_joy_nav_nxt">
-        <source>Next Screen</source>
-        <target state="translated">다음 화면</target>
+      <trans-unit id="555031" resname="steam_sctrl_action_joy_sec_prv">
+        <source>Previous Tab</source>
+        <target state="translated">이전 탭</target>
         <context-group purpose="information">
-          <context context-type="source">steam_sctrl_action_joy_nav_nxt
+          <context context-type="source">steam_sctrl_action_joy_sec_prv
 
-Id: sctrl_action_joy_nav_nxt
+Id: sctrl_action_joy_sec_prv
 Group: Individual bindable actions
 Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
@@ -752,13 +763,13 @@ Group: Names of list categories which might be shown in various shopping screens
 Keep the uppercased strings in upper case where possible.</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="555031" resname="steam_sctrl_action_joy_sec_prv">
-        <source>Previous Tab</source>
-        <target state="translated">이전 탭</target>
+      <trans-unit id="555033" resname="steam_sctrl_action_joy_sec_nxt">
+        <source>Next Tab</source>
+        <target state="translated">다음 탭</target>
         <context-group purpose="information">
-          <context context-type="source">steam_sctrl_action_joy_sec_prv
+          <context context-type="source">steam_sctrl_action_joy_sec_nxt
 
-Id: sctrl_action_joy_sec_prv
+Id: sctrl_action_joy_sec_nxt
 Group: Individual bindable actions
 Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
@@ -775,28 +786,6 @@ Group: Names of list categories which might be shown in various shopping screens
 Keep the uppercased strings in upper case where possible.</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="555033" resname="steam_sctrl_action_joy_sec_nxt">
-        <source>Next Tab</source>
-        <target state="translated">다음 탭</target>
-        <context-group purpose="information">
-          <context context-type="source">steam_sctrl_action_joy_sec_nxt
-
-Id: sctrl_action_joy_sec_nxt
-Group: Individual bindable actions
-Group: Steam Controller UI localizations in Steam client</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="555035" resname="steam_sctrl_action_shortcut_1">
-        <source>Shortcut 1</source>
-        <target state="translated">바로가기 1</target>
-        <context-group purpose="information">
-          <context context-type="source">steam_sctrl_action_shortcut_1
-
-Id: sctrl_action_shortcut_1
-Group: Individual bindable actions
-Group: Steam Controller UI localizations in Steam client</context>
-        </context-group>
-      </trans-unit>
       <trans-unit id="684332" resname="current_vehicle_parameters" translate="no">
         <source>Vehicle Configuration</source>
         <target state="translated">차량 구성</target>
@@ -809,13 +798,13 @@ Group: Names of list categories which might be shown in various shopping screens
 Keep the uppercased strings in upper case where possible.</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="589823" resname="steam_sctrl_action_shortcut_1h" translate="no">
-        <source>Shortcut 1 Hold</source>
-        <target state="translated">바로가기 1 홀드</target>
+      <trans-unit id="555035" resname="steam_sctrl_action_shortcut_1">
+        <source>Shortcut 1</source>
+        <target state="translated">바로가기 1</target>
         <context-group purpose="information">
-          <context context-type="source">steam_sctrl_action_shortcut_1h
+          <context context-type="source">steam_sctrl_action_shortcut_1
 
-Id: sctrl_action_shortcut_1h
+Id: sctrl_action_shortcut_1
 Group: Individual bindable actions
 Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
@@ -830,6 +819,17 @@ Id: normal_cargo
 name of the bar for normal cargo suitability
 Group: Names of list categories which might be shown in various shopping screens.
 Keep the uppercased strings in upper case where possible.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="589823" resname="steam_sctrl_action_shortcut_1h" translate="no">
+        <source>Shortcut 1 Hold</source>
+        <target state="translated">바로가기 1 홀드</target>
+        <context-group purpose="information">
+          <context context-type="source">steam_sctrl_action_shortcut_1h
+
+Id: sctrl_action_shortcut_1h
+Group: Individual bindable actions
+Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
       </trans-unit>
       <trans-unit id="555037" resname="steam_sctrl_action_shortcut_2">
@@ -855,18 +855,6 @@ Group: Names of list categories which might be shown in various shopping screens
 Keep the uppercased strings in upper case where possible.</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="504" resname="maneuverability">
-        <source>Maneuverability</source>
-        <target state="translated">기동성</target>
-        <context-group purpose="information">
-          <context context-type="source">maneuverability
-
-Id: maneuverability
-name of the bar for maneurability indication
-Group: Names of list categories which might be shown in various shopping screens.
-Keep the uppercased strings in upper case where possible.</context>
-        </context-group>
-      </trans-unit>
       <trans-unit id="589825" resname="steam_sctrl_action_shortcut_2h" translate="no">
         <source>Shortcut 2 Hold</source>
         <target state="translated">바로가기 2 홀드</target>
@@ -878,15 +866,16 @@ Group: Individual bindable actions
 Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="555039" resname="steam_sctrl_action_shortcut_3">
-        <source>Shortcut 3</source>
-        <target state="translated">바로가기 3</target>
+      <trans-unit id="504" resname="maneuverability">
+        <source>Maneuverability</source>
+        <target state="translated">기동성</target>
         <context-group purpose="information">
-          <context context-type="source">steam_sctrl_action_shortcut_3
+          <context context-type="source">maneuverability
 
-Id: sctrl_action_shortcut_3
-Group: Individual bindable actions
-Group: Steam Controller UI localizations in Steam client</context>
+Id: maneuverability
+name of the bar for maneurability indication
+Group: Names of list categories which might be shown in various shopping screens.
+Keep the uppercased strings in upper case where possible.</context>
         </context-group>
       </trans-unit>
       <trans-unit id="506" resname="hill_climbing">
@@ -901,6 +890,17 @@ Group: Names of list categories which might be shown in various shopping screens
 Keep the uppercased strings in upper case where possible.</context>
         </context-group>
         <note from="Constantinos (Costpap)" priority="4">The currently provided translation in Greek is incorrect, as it includes a space at the end of the text which is not present in the original text. Due to that, I suggest that my translation should be considered instead.</note>
+      </trans-unit>
+      <trans-unit id="555039" resname="steam_sctrl_action_shortcut_3">
+        <source>Shortcut 3</source>
+        <target state="translated">바로가기 3</target>
+        <context-group purpose="information">
+          <context context-type="source">steam_sctrl_action_shortcut_3
+
+Id: sctrl_action_shortcut_3
+Group: Individual bindable actions
+Group: Steam Controller UI localizations in Steam client</context>
+        </context-group>
       </trans-unit>
       <trans-unit id="508" resname="uneven_terrain">
         <source>Uneven Terrain</source>
@@ -925,17 +925,6 @@ Group: Individual bindable actions
 Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="555041" resname="steam_sctrl_action_shortcut_4">
-        <source>Shortcut 4</source>
-        <target state="translated">바로가기 4</target>
-        <context-group purpose="information">
-          <context context-type="source">steam_sctrl_action_shortcut_4
-
-Id: sctrl_action_shortcut_4
-Group: Individual bindable actions
-Group: Steam Controller UI localizations in Steam client</context>
-        </context-group>
-      </trans-unit>
       <trans-unit id="510" resname="engine_torque">
         <source>Torque</source>
         <target state="translated">토크</target>
@@ -948,13 +937,13 @@ Group: Names of list categories which might be shown in various shopping screens
 Keep the uppercased strings in upper case where possible.</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="589829" resname="steam_sctrl_action_shortcut_4h" translate="no">
-        <source>Shortcut 4 Hold</source>
-        <target state="translated">바로가기 4 홀드</target>
+      <trans-unit id="555041" resname="steam_sctrl_action_shortcut_4">
+        <source>Shortcut 4</source>
+        <target state="translated">바로가기 4</target>
         <context-group purpose="information">
-          <context context-type="source">steam_sctrl_action_shortcut_4h
+          <context context-type="source">steam_sctrl_action_shortcut_4
 
-Id: sctrl_action_shortcut_4h
+Id: sctrl_action_shortcut_4
 Group: Individual bindable actions
 Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
@@ -969,6 +958,17 @@ Id: first_gear_ratio
 First Gear Ratio of the gearbox
 Group: Names of list categories which might be shown in various shopping screens.
 Keep the uppercased strings in upper case where possible.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="589829" resname="steam_sctrl_action_shortcut_4h" translate="no">
+        <source>Shortcut 4 Hold</source>
+        <target state="translated">바로가기 4 홀드</target>
+        <context-group purpose="information">
+          <context context-type="source">steam_sctrl_action_shortcut_4h
+
+Id: sctrl_action_shortcut_4h
+Group: Individual bindable actions
+Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
       </trans-unit>
       <trans-unit id="514" resname="last_gear_ratio">
@@ -1024,17 +1024,6 @@ Group: Individual bindable actions
 Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="555047" resname="steam_sctrl_action_j_trzoom_in">
-        <source>Truck Scene Zoom In</source>
-        <target state="translated">트럭 장면 확대</target>
-        <context-group purpose="information">
-          <context context-type="source">steam_sctrl_action_j_trzoom_in
-
-Id: sctrl_action_j_trzoom_in
-Group: Individual bindable actions
-Group: Steam Controller UI localizations in Steam client</context>
-        </context-group>
-      </trans-unit>
       <trans-unit id="518" resname="effective_wheel_base">
         <source>Effective Wheelbase</source>
         <target state="translated">유효 축간거리</target>
@@ -1047,16 +1036,15 @@ Group: Names of list categories which might be shown in various shopping screens
 Keep the uppercased strings in upper case where possible.</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="520" resname="steer_angle">
-        <source>Steer Angle</source>
-        <target state="translated">조향각도</target>
+      <trans-unit id="555047" resname="steam_sctrl_action_j_trzoom_in">
+        <source>Truck Scene Zoom In</source>
+        <target state="translated">트럭 장면 확대</target>
         <context-group purpose="information">
-          <context context-type="source">steer_angle
+          <context context-type="source">steam_sctrl_action_j_trzoom_in
 
-Id: steer_angle
-maximum degree angle of streeting wheels
-Group: Names of list categories which might be shown in various shopping screens.
-Keep the uppercased strings in upper case where possible.</context>
+Id: sctrl_action_j_trzoom_in
+Group: Individual bindable actions
+Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
       </trans-unit>
       <trans-unit id="555049" resname="steam_sctrl_action_j_trzoom_out">
@@ -1068,6 +1056,18 @@ Keep the uppercased strings in upper case where possible.</context>
 Id: sctrl_action_j_trzoom_out
 Group: Individual bindable actions
 Group: Steam Controller UI localizations in Steam client</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="520" resname="steer_angle">
+        <source>Steer Angle</source>
+        <target state="translated">조향각도</target>
+        <context-group purpose="information">
+          <context context-type="source">steer_angle
+
+Id: steer_angle
+maximum degree angle of streeting wheels
+Group: Names of list categories which might be shown in various shopping screens.
+Keep the uppercased strings in upper case where possible.</context>
         </context-group>
       </trans-unit>
       <trans-unit id="555051" resname="steam_sctrl_action_j_mapzom_in">
@@ -1093,6 +1093,17 @@ Group: Names of list categories which might be shown in various shopping screens
 Keep the uppercased strings in upper case where possible.</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="555053" resname="steam_sctrl_action_j_mapzom_out">
+        <source>Map Zoom Out</source>
+        <target state="translated">지도 축소</target>
+        <context-group purpose="information">
+          <context context-type="source">steam_sctrl_action_j_mapzom_out
+
+Id: sctrl_action_j_mapzom_out
+Group: Individual bindable actions
+Group: Steam Controller UI localizations in Steam client</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="524" resname="powered_axles">
         <source>Powered Axles</source>
         <target state="translated">구동 축</target>
@@ -1103,17 +1114,6 @@ Id: powered_axles
 amount of powered axles truck has
 Group: Names of list categories which might be shown in various shopping screens.
 Keep the uppercased strings in upper case where possible.</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="555053" resname="steam_sctrl_action_j_mapzom_out">
-        <source>Map Zoom Out</source>
-        <target state="translated">지도 축소</target>
-        <context-group purpose="information">
-          <context context-type="source">steam_sctrl_action_j_mapzom_out
-
-Id: sctrl_action_j_mapzom_out
-Group: Individual bindable actions
-Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
       </trans-unit>
       <trans-unit id="555055" resname="steam_sctrl_action_j_panscroll">
@@ -1139,17 +1139,6 @@ Group: Names of list categories which might be shown in various shopping screens
 Keep the uppercased strings in upper case where possible.</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="555057" resname="steam_sctrl_action_photo_mode">
-        <source>Photo Mode</source>
-        <target state="translated">포토 모드</target>
-        <context-group purpose="information">
-          <context context-type="source">steam_sctrl_action_photo_mode
-
-Id: sctrl_action_photo_mode
-Group: Individual bindable actions
-Group: Steam Controller UI localizations in Steam client</context>
-        </context-group>
-      </trans-unit>
       <trans-unit id="528" resname="axles">
         <source>Axle Count</source>
         <target state="translated">액슬 개수</target>
@@ -1160,6 +1149,17 @@ Id: axles
 amount of axles truck has
 Group: Names of list categories which might be shown in various shopping screens.
 Keep the uppercased strings in upper case where possible.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="555057" resname="steam_sctrl_action_photo_mode">
+        <source>Photo Mode</source>
+        <target state="translated">포토 모드</target>
+        <context-group purpose="information">
+          <context context-type="source">steam_sctrl_action_photo_mode
+
+Id: sctrl_action_photo_mode
+Group: Individual bindable actions
+Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
       </trans-unit>
       <trans-unit id="555059" resname="steam_sctrl_action_phot_z_j_in">
@@ -1233,6 +1233,17 @@ Group: Individual bindable actions
 Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="555065" resname="steam_sctrl_action_photodown">
+        <source>Photo Mode Camera Down</source>
+        <target state="translated">포토 모드 카메라 다운</target>
+        <context-group purpose="information">
+          <context context-type="source">steam_sctrl_action_photodown
+
+Id: sctrl_action_photodown
+Group: Individual bindable actions
+Group: Steam Controller UI localizations in Steam client</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="684334" resname="vehicle_analysis_info_tooltip" translate="no">
         <source>Given the standard expected type of transportation, tune your vehicle to optimise it according to a combination of fuel economy, technical and legal limitations.</source>
         <target state="translated">예상되는 운송 수단을 감안할 때, 운전기술 및 법적 제한사항을 고려하여 차량을 조정하십시오.</target>
@@ -1245,13 +1256,13 @@ Group: Names of list categories which might be shown in various shopping screens
 Keep the uppercased strings in upper case where possible.</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="555065" resname="steam_sctrl_action_photodown">
-        <source>Photo Mode Camera Down</source>
-        <target state="translated">포토 모드 카메라 다운</target>
+      <trans-unit id="555067" resname="steam_sctrl_action_photosnap">
+        <source>Photo Mode Take Picture</source>
+        <target state="translated">포토 모드 촬영</target>
         <context-group purpose="information">
-          <context context-type="source">steam_sctrl_action_photodown
+          <context context-type="source">steam_sctrl_action_photosnap
 
-Id: sctrl_action_photodown
+Id: sctrl_action_photosnap
 Group: Individual bindable actions
 Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
@@ -1266,17 +1277,6 @@ Id: normal_cargo_tooltip
 Tooltip description for the Normal Cargo bar in Truck Analysis
 Group: Names of list categories which might be shown in various shopping screens.
 Keep the uppercased strings in upper case where possible.</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="555067" resname="steam_sctrl_action_photosnap">
-        <source>Photo Mode Take Picture</source>
-        <target state="translated">포토 모드 촬영</target>
-        <context-group purpose="information">
-          <context context-type="source">steam_sctrl_action_photosnap
-
-Id: sctrl_action_photosnap
-Group: Individual bindable actions
-Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
       </trans-unit>
       <trans-unit id="555069" resname="steam_sctrl_action_photosman">
@@ -1373,6 +1373,17 @@ Group: Individual bindable actions
 Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="555077" resname="steam_sctrl_action_photores">
+        <source>Photo Mode Reset Settings</source>
+        <target state="translated">포토 모드 설정 초기화</target>
+        <context-group purpose="information">
+          <context context-type="source">steam_sctrl_action_photores
+
+Id: sctrl_action_photores
+Group: Individual bindable actions
+Group: Steam Controller UI localizations in Steam client</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="548" resname="analysis_popup_heavy_tooltip">
         <source>This parameter is essential for heavy cargo transport</source>
         <target state="translated">이 항목은 중량화물 수송에 필수적임</target>
@@ -1383,17 +1394,6 @@ Id: analysis_popup_heavy_tooltip
 Tooltip note for the Heavy Cargo bar in job popup
 Group: Names of list categories which might be shown in various shopping screens.
 Keep the uppercased strings in upper case where possible.</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="555077" resname="steam_sctrl_action_photores">
-        <source>Photo Mode Reset Settings</source>
-        <target state="translated">포토 모드 설정 초기화</target>
-        <context-group purpose="information">
-          <context context-type="source">steam_sctrl_action_photores
-
-Id: sctrl_action_photores
-Group: Individual bindable actions
-Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
       </trans-unit>
       <trans-unit id="550" resname="personal_t">
@@ -1417,6 +1417,17 @@ Group: Individual bindable actions
 Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="555081" resname="steam_sctrl_action_simple_cancel">
+        <source>Cancel Button</source>
+        <target state="translated">취소 버튼</target>
+        <context-group purpose="information">
+          <context context-type="source">steam_sctrl_action_simple_cancel
+
+Id: sctrl_action_simple_cancel
+Group: Individual bindable actions
+Group: Steam Controller UI localizations in Steam client</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="552" resname="company_t">
         <source>COMPANY STATUS</source>
         <target state="translated">회사 현황</target>
@@ -1427,15 +1438,14 @@ Id: company_t
 Title of window containing information about player's company. Please keep in upper case where possible.</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="555081" resname="steam_sctrl_action_simple_cancel">
-        <source>Cancel Button</source>
-        <target state="translated">취소 버튼</target>
+      <trans-unit id="554" resname="truck_t">
+        <source>MY TRUCK</source>
+        <target state="translated">내 트럭</target>
         <context-group purpose="information">
-          <context context-type="source">steam_sctrl_action_simple_cancel
+          <context context-type="source">truck_t
 
-Id: sctrl_action_simple_cancel
-Group: Individual bindable actions
-Group: Steam Controller UI localizations in Steam client</context>
+Id: truck_t
+Title of window containing information about truck owned by the player. Please keep in upper case where possible.</context>
         </context-group>
       </trans-unit>
       <trans-unit id="555083" resname="steam_sctrl_action_simple_context1">
@@ -1449,14 +1459,15 @@ Group: Individual bindable actions
 Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="554" resname="truck_t">
-        <source>MY TRUCK</source>
-        <target state="translated">내 트럭</target>
+      <trans-unit id="555085" resname="steam_sctrl_action_simple_context2">
+        <source>Context 2 Button</source>
+        <target state="translated">상황별 2 버튼</target>
         <context-group purpose="information">
-          <context context-type="source">truck_t
+          <context context-type="source">steam_sctrl_action_simple_context2
 
-Id: truck_t
-Title of window containing information about truck owned by the player. Please keep in upper case where possible.</context>
+Id: sctrl_action_simple_context2
+Group: Individual bindable actions
+Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
       </trans-unit>
       <trans-unit id="556" resname="driver_plate_t">
@@ -1467,17 +1478,6 @@ Title of window containing information about truck owned by the player. Please k
 
 Id: driver_plate_t
 Title of window used to enter text for the driver's plate.</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="555085" resname="steam_sctrl_action_simple_context2">
-        <source>Context 2 Button</source>
-        <target state="translated">상황별 2 버튼</target>
-        <context-group purpose="information">
-          <context context-type="source">steam_sctrl_action_simple_context2
-
-Id: sctrl_action_simple_context2
-Group: Individual bindable actions
-Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
       </trans-unit>
       <trans-unit id="558" resname="codriver_plate_t">
@@ -1501,17 +1501,6 @@ Group: Individual bindable actions
 Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="555089" resname="steam_sctrl_action_simple_context4">
-        <source>Context 4 Button</source>
-        <target state="translated">상황별 4 버튼</target>
-        <context-group purpose="information">
-          <context context-type="source">steam_sctrl_action_simple_context4
-
-Id: sctrl_action_simple_context4
-Group: Individual bindable actions
-Group: Steam Controller UI localizations in Steam client</context>
-        </context-group>
-      </trans-unit>
       <trans-unit id="16436" resname="truck_upgrades_t">
         <source>TRUCK UPGRADES</source>
         <target state="translated">트럭 업그레이드</target>
@@ -1525,6 +1514,17 @@ Group: Screen showing list of the upgrades.</context>
         </context-group>
         <note from="Mads Teland (mads1153)" priority="4">Should this be renamed for vehicle instead truck?</note>
         <note from="Viktor Dobrovolný (Nettle)" priority="4">@mads1153 Cars do not have an equivalent of truck upgrades, so this string is correctly Truck only.</note>
+      </trans-unit>
+      <trans-unit id="555089" resname="steam_sctrl_action_simple_context4">
+        <source>Context 4 Button</source>
+        <target state="translated">상황별 4 버튼</target>
+        <context-group purpose="information">
+          <context context-type="source">steam_sctrl_action_simple_context4
+
+Id: sctrl_action_simple_context4
+Group: Individual bindable actions
+Group: Steam Controller UI localizations in Steam client</context>
+        </context-group>
       </trans-unit>
       <trans-unit id="555091" resname="steam_sctrl_action_simple_pov1_up">
         <source>D-pad Up Button</source>
@@ -1548,17 +1548,6 @@ Title of the screen. Please keep in upper case where possible.&quot;
 Group: Screen showing list of the upgrades.</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="16440" resname="truck_upgrades">
-        <source>Truck Upgrades</source>
-        <target state="translated">트럭 업그레이드</target>
-        <context-group purpose="information">
-          <context context-type="source">truck_upgrades
-
-Id: truck_upgrades
-The name of the screen containing truck upgrades.
-Group: Screen showing list of the upgrades.</context>
-        </context-group>
-      </trans-unit>
       <trans-unit id="555093" resname="steam_sctrl_action_simple_pov1_right">
         <source>D-pad Right Button</source>
         <target state="translated">Dpad 오른쪽 버튼</target>
@@ -1568,6 +1557,17 @@ Group: Screen showing list of the upgrades.</context>
 Id: sctrl_action_simple_pov1_right
 Group: Individual bindable actions
 Group: Steam Controller UI localizations in Steam client</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="16440" resname="truck_upgrades">
+        <source>Truck Upgrades</source>
+        <target state="translated">트럭 업그레이드</target>
+        <context-group purpose="information">
+          <context context-type="source">truck_upgrades
+
+Id: truck_upgrades
+The name of the screen containing truck upgrades.
+Group: Screen showing list of the upgrades.</context>
         </context-group>
       </trans-unit>
       <trans-unit id="16442" resname="trailer_upgrades">
@@ -1614,17 +1614,6 @@ Help message associated with new upgrades icon.
 Group: Screen showing list of the upgrades.</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="555099" resname="steam_sctrl_action_simple_lb">
-        <source>Left Shoulder Button</source>
-        <target state="translated">왼쪽 숄더 버튼</target>
-        <context-group purpose="information">
-          <context context-type="source">steam_sctrl_action_simple_lb
-
-Id: sctrl_action_simple_lb
-Group: Individual bindable actions
-Group: Steam Controller UI localizations in Steam client</context>
-        </context-group>
-      </trans-unit>
       <trans-unit id="566" resname="upgrades_new_items">
         <source>NEW ITEMS AVAILABLE</source>
         <target state="translated">새로운 아이템 사용 가능</target>
@@ -1636,15 +1625,15 @@ Header line of the list of new upgrades.
 Group: Screen showing list of the upgrades.</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="369872" resname="upgrades_gps">
-        <source>Set GPS to Nearest Service</source>
-        <target state="translated">GPS를 가장 가까운 정비소로 설정</target>
+      <trans-unit id="555099" resname="steam_sctrl_action_simple_lb">
+        <source>Left Shoulder Button</source>
+        <target state="translated">왼쪽 숄더 버튼</target>
         <context-group purpose="information">
-          <context context-type="source">upgrades_gps
+          <context context-type="source">steam_sctrl_action_simple_lb
 
-Id: upgrades_gps
-Button which sets GPS target to the nearest shop.
-Group: Screen showing list of the upgrades.</context>
+Id: sctrl_action_simple_lb
+Group: Individual bindable actions
+Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
       </trans-unit>
       <trans-unit id="555101" resname="steam_sctrl_action_simple_rb">
@@ -1658,15 +1647,15 @@ Group: Individual bindable actions
 Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="555103" resname="steam_sctrl_action_simple_menu1">
-        <source>Menu 1 Button</source>
-        <target state="translated">메뉴 1 버튼</target>
+      <trans-unit id="369872" resname="upgrades_gps">
+        <source>Set GPS to Nearest Service</source>
+        <target state="translated">GPS를 가장 가까운 정비소로 설정</target>
         <context-group purpose="information">
-          <context context-type="source">steam_sctrl_action_simple_menu1
+          <context context-type="source">upgrades_gps
 
-Id: sctrl_action_simple_menu1
-Group: Individual bindable actions
-Group: Steam Controller UI localizations in Steam client</context>
+Id: upgrades_gps
+Button which sets GPS target to the nearest shop.
+Group: Screen showing list of the upgrades.</context>
         </context-group>
       </trans-unit>
       <trans-unit id="570" resname="new_upgrades_notice">
@@ -1680,16 +1669,16 @@ Shown as icon in corner of screen when new upgrades are available.
 Group: Screen showing list of the upgrades.</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="572" resname="change_gps_to_service">
-        <source>Your sat nav is set to a different destination.&lt;br&gt;&lt;br&gt;Do you want to change your destination and drive to the nearest upgrade shop?</source>
-        <target state="translated">내비게이션이 다른 목적지로 설정되었습니다.&lt;br&gt;&lt;br&gt;가장 가까운 업그레이드 상점으로 목적지를 변경하시겠습니까?</target>
+      <trans-unit id="555103" resname="steam_sctrl_action_simple_menu1">
+        <source>Menu 1 Button</source>
+        <target state="translated">메뉴 1 버튼</target>
         <context-group purpose="information">
-          <context context-type="source">change_gps_to_service
+          <context context-type="source">steam_sctrl_action_simple_menu1
 
-Id: change_gps_to_service
-Group: Screen showing list of the upgrades.</context>
+Id: sctrl_action_simple_menu1
+Group: Individual bindable actions
+Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
-        <note from="Krezzin" priority="4">&quot;ъпгрейд магазин&quot; - &quot;ъпгрейд&quot; doesn't really exist as a word in Bulgarian, thus its replaced by &quot;магазин за части&quot; / &quot;tuning shop&quot; or even &quot;автосервиз&quot; / &quot;truck service&quot;. Often in ETS2 you visit the truck service from where you can either upgrade, repaint or analyze your truck performance, so Auto service fits too.</note>
       </trans-unit>
       <trans-unit id="555105" resname="steam_sctrl_action_simple_menu2">
         <source>Menu 2 Button</source>
@@ -1702,16 +1691,16 @@ Group: Individual bindable actions
 Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="555107" resname="steam_sctrl_action_simple_share">
-        <source>Share Button</source>
-        <target state="translated">공유 버튼</target>
+      <trans-unit id="572" resname="change_gps_to_service">
+        <source>Your sat nav is set to a different destination.&lt;br&gt;&lt;br&gt;Do you want to change your destination and drive to the nearest upgrade shop?</source>
+        <target state="translated">내비게이션이 다른 목적지로 설정되었습니다.&lt;br&gt;&lt;br&gt;가장 가까운 업그레이드 상점으로 목적지를 변경하시겠습니까?</target>
         <context-group purpose="information">
-          <context context-type="source">steam_sctrl_action_simple_share
+          <context context-type="source">change_gps_to_service
 
-Id: sctrl_action_simple_share
-Group: Individual bindable actions
-Group: Steam Controller UI localizations in Steam client</context>
+Id: change_gps_to_service
+Group: Screen showing list of the upgrades.</context>
         </context-group>
+        <note from="Krezzin" priority="4">&quot;ъпгрейд магазин&quot; - &quot;ъпгрейд&quot; doesn't really exist as a word in Bulgarian, thus its replaced by &quot;магазин за части&quot; / &quot;tuning shop&quot; or even &quot;автосервиз&quot; / &quot;truck service&quot;. Often in ETS2 you visit the truck service from where you can either upgrade, repaint or analyze your truck performance, so Auto service fits too.</note>
       </trans-unit>
       <trans-unit id="684340" resname="truck_action_t" translate="no">
         <source>SERVICE</source>
@@ -1721,6 +1710,17 @@ Group: Steam Controller UI localizations in Steam client</context>
 
 Id: truck_action_t
 Title of window providing selection between various kinds of truck services (repairs, upgrades, paint shop). Please keep in upper case where possible.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="555107" resname="steam_sctrl_action_simple_share">
+        <source>Share Button</source>
+        <target state="translated">공유 버튼</target>
+        <context-group purpose="information">
+          <context context-type="source">steam_sctrl_action_simple_share
+
+Id: sctrl_action_simple_share
+Group: Individual bindable actions
+Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
       </trans-unit>
       <trans-unit id="347500" resname="truck_service_t">
@@ -1746,6 +1746,17 @@ Group: Individual bindable actions
 Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="555111" resname="steam_sctrl_action_simple_y">
+        <source>Left Stick Y</source>
+        <target state="translated">왼쪽 스틱 Y</target>
+        <context-group purpose="information">
+          <context context-type="source">steam_sctrl_action_simple_y
+
+Id: sctrl_action_simple_y
+Group: Individual bindable actions
+Group: Steam Controller UI localizations in Steam client</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="578" resname="truck_service">
         <source>Service</source>
         <target state="translated">서비스</target>
@@ -1758,17 +1769,6 @@ Group: Truck service screen.
 Allows to repair damaged components of the truck.</context>
         </context-group>
         <note from="Alexander Tselikov (San_Sany4)" priority="4">@crowdin.loca translation does not fit in the UI.</note>
-      </trans-unit>
-      <trans-unit id="555111" resname="steam_sctrl_action_simple_y">
-        <source>Left Stick Y</source>
-        <target state="translated">왼쪽 스틱 Y</target>
-        <context-group purpose="information">
-          <context context-type="source">steam_sctrl_action_simple_y
-
-Id: sctrl_action_simple_y
-Group: Individual bindable actions
-Group: Steam Controller UI localizations in Steam client</context>
-        </context-group>
       </trans-unit>
       <trans-unit id="555113" resname="steam_sctrl_action_simple_xy">
         <source>Left Stick</source>
@@ -1816,17 +1816,6 @@ Group: Truck service screen.
 Allows to repair damaged components of the truck.</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="555117" resname="steam_sctrl_action_simple_ry">
-        <source>Right Stick Y</source>
-        <target state="translated">오른쪽 스틱 Y</target>
-        <context-group purpose="information">
-          <context context-type="source">steam_sctrl_action_simple_ry
-
-Id: sctrl_action_simple_ry
-Group: Individual bindable actions
-Group: Steam Controller UI localizations in Steam client</context>
-        </context-group>
-      </trans-unit>
       <trans-unit id="347502" resname="truck_service_repair_all">
         <source>Repair all</source>
         <target state="translated">모두 수리</target>
@@ -1839,13 +1828,13 @@ Group: Truck service screen.
 Allows to repair damaged components of the truck.</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="555119" resname="steam_sctrl_action_simple_rxy">
-        <source>Right Stick</source>
-        <target state="translated">오른쪽 스틱</target>
+      <trans-unit id="555117" resname="steam_sctrl_action_simple_ry">
+        <source>Right Stick Y</source>
+        <target state="translated">오른쪽 스틱 Y</target>
         <context-group purpose="information">
-          <context context-type="source">steam_sctrl_action_simple_rxy
+          <context context-type="source">steam_sctrl_action_simple_ry
 
-Id: sctrl_action_simple_rxy
+Id: sctrl_action_simple_ry
 Group: Individual bindable actions
 Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
@@ -1862,13 +1851,13 @@ Group: Truck service screen.
 Allows to repair damaged components of the truck.</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="555121" resname="steam_sctrl_action_simple_v1x">
-        <source>Axis 1 X</source>
-        <target state="translated">축 1 X</target>
+      <trans-unit id="555119" resname="steam_sctrl_action_simple_rxy">
+        <source>Right Stick</source>
+        <target state="translated">오른쪽 스틱</target>
         <context-group purpose="information">
-          <context context-type="source">steam_sctrl_action_simple_v1x
+          <context context-type="source">steam_sctrl_action_simple_rxy
 
-Id: sctrl_action_simple_v1x
+Id: sctrl_action_simple_rxy
 Group: Individual bindable actions
 Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
@@ -1885,13 +1874,13 @@ Group: Truck service screen.
 Allows to repair damaged components of the truck.</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="555123" resname="steam_sctrl_action_simple_v1y">
-        <source>Axis 1 Y</source>
-        <target state="translated">축 1 Y</target>
+      <trans-unit id="555121" resname="steam_sctrl_action_simple_v1x">
+        <source>Axis 1 X</source>
+        <target state="translated">축 1 X</target>
         <context-group purpose="information">
-          <context context-type="source">steam_sctrl_action_simple_v1y
+          <context context-type="source">steam_sctrl_action_simple_v1x
 
-Id: sctrl_action_simple_v1y
+Id: sctrl_action_simple_v1x
 Group: Individual bindable actions
 Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
@@ -1908,16 +1897,15 @@ Group: Truck service screen.
 Allows to repair damaged components of the truck.</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="347510" resname="repair">
-        <source>Confirm</source>
-        <target state="translated">확인</target>
+      <trans-unit id="555123" resname="steam_sctrl_action_simple_v1y">
+        <source>Axis 1 Y</source>
+        <target state="translated">축 1 Y</target>
         <context-group purpose="information">
-          <context context-type="source">repair
+          <context context-type="source">steam_sctrl_action_simple_v1y
 
-Id: repair
-Button which confirms selected actions.
-Group: Truck service screen.
-Allows to repair damaged components of the truck.</context>
+Id: sctrl_action_simple_v1y
+Group: Individual bindable actions
+Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
       </trans-unit>
       <trans-unit id="555125" resname="steam_sctrl_action_simple_v1">
@@ -1931,15 +1919,16 @@ Group: Individual bindable actions
 Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="555127" resname="steam_sctrl_action_simple_v2x">
-        <source>Axis 2 X</source>
-        <target state="translated">축 2 X</target>
+      <trans-unit id="347510" resname="repair">
+        <source>Confirm</source>
+        <target state="translated">확인</target>
         <context-group purpose="information">
-          <context context-type="source">steam_sctrl_action_simple_v2x
+          <context context-type="source">repair
 
-Id: sctrl_action_simple_v2x
-Group: Individual bindable actions
-Group: Steam Controller UI localizations in Steam client</context>
+Id: repair
+Button which confirms selected actions.
+Group: Truck service screen.
+Allows to repair damaged components of the truck.</context>
         </context-group>
       </trans-unit>
       <trans-unit id="684346" resname="vehicle_damage" translate="no">
@@ -1954,16 +1943,15 @@ Group: Truck service screen.
 Allows to repair damaged components of the truck.</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="684348" resname="vehicle_config_t" translate="no">
-        <source>CONFIGURATOR</source>
-        <target state="translated">차량 구성</target>
+      <trans-unit id="555127" resname="steam_sctrl_action_simple_v2x">
+        <source>Axis 2 X</source>
+        <target state="translated">축 2 X</target>
         <context-group purpose="information">
-          <context context-type="source">vehicle_config_t
+          <context context-type="source">steam_sctrl_action_simple_v2x
 
-Id: vehicle_config_t
-Title of the screen. Please keep in upper case where possible.
-Group: Truck upgrade/configuration screen.
-Allows to add or remove various accessories.</context>
+Id: sctrl_action_simple_v2x
+Group: Individual bindable actions
+Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
       </trans-unit>
       <trans-unit id="555129" resname="steam_sctrl_action_simple_v2y">
@@ -1977,15 +1965,16 @@ Group: Individual bindable actions
 Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="555131" resname="steam_sctrl_action_simple_v2">
-        <source>Axis 2</source>
-        <target state="translated">축 2</target>
+      <trans-unit id="684348" resname="vehicle_config_t" translate="no">
+        <source>CONFIGURATOR</source>
+        <target state="translated">차량 구성</target>
         <context-group purpose="information">
-          <context context-type="source">steam_sctrl_action_simple_v2
+          <context context-type="source">vehicle_config_t
 
-Id: sctrl_action_simple_v2
-Group: Individual bindable actions
-Group: Steam Controller UI localizations in Steam client</context>
+Id: vehicle_config_t
+Title of the screen. Please keep in upper case where possible.
+Group: Truck upgrade/configuration screen.
+Allows to add or remove various accessories.</context>
         </context-group>
       </trans-unit>
       <trans-unit id="684350" resname="vehicle_config" translate="no">
@@ -1998,6 +1987,17 @@ Id: vehicle_config
 Icon allowing player to upgrade the vehicle.
 Group: Truck upgrade/configuration screen.
 Allows to add or remove various accessories.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="555131" resname="steam_sctrl_action_simple_v2">
+        <source>Axis 2</source>
+        <target state="translated">축 2</target>
+        <context-group purpose="information">
+          <context context-type="source">steam_sctrl_action_simple_v2
+
+Id: sctrl_action_simple_v2
+Group: Individual bindable actions
+Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
       </trans-unit>
       <trans-unit id="555133" resname="steam_sctrl_action_simple_v3x">
@@ -2023,17 +2023,6 @@ Group: Truck upgrade/configuration screen.
 Allows to add or remove various accessories.</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="555135" resname="steam_sctrl_action_simple_v3y">
-        <source>Axis 3 Y</source>
-        <target state="translated">축 3 Y</target>
-        <context-group purpose="information">
-          <context context-type="source">steam_sctrl_action_simple_v3y
-
-Id: sctrl_action_simple_v3y
-Group: Individual bindable actions
-Group: Steam Controller UI localizations in Steam client</context>
-        </context-group>
-      </trans-unit>
       <trans-unit id="592" resname="price">
         <source>Price</source>
         <target state="translated">가격</target>
@@ -2046,13 +2035,13 @@ Group: Truck upgrade/configuration screen.
 Allows to add or remove various accessories.</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="555137" resname="steam_sctrl_action_simple_v3">
-        <source>Axis 3</source>
-        <target state="translated">축 3</target>
+      <trans-unit id="555135" resname="steam_sctrl_action_simple_v3y">
+        <source>Axis 3 Y</source>
+        <target state="translated">축 3 Y</target>
         <context-group purpose="information">
-          <context context-type="source">steam_sctrl_action_simple_v3
+          <context context-type="source">steam_sctrl_action_simple_v3y
 
-Id: sctrl_action_simple_v3
+Id: sctrl_action_simple_v3y
 Group: Individual bindable actions
 Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
@@ -2069,13 +2058,13 @@ Group: Truck upgrade/configuration screen.
 Allows to add or remove various accessories.</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="555139" resname="steam_sctrl_action_simple_v4x">
-        <source>Axis 4 X</source>
-        <target state="translated">축 4 X</target>
+      <trans-unit id="555137" resname="steam_sctrl_action_simple_v3">
+        <source>Axis 3</source>
+        <target state="translated">축 3</target>
         <context-group purpose="information">
-          <context context-type="source">steam_sctrl_action_simple_v4x
+          <context context-type="source">steam_sctrl_action_simple_v3
 
-Id: sctrl_action_simple_v4x
+Id: sctrl_action_simple_v3
 Group: Individual bindable actions
 Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
@@ -2092,13 +2081,13 @@ Group: Truck upgrade/configuration screen.
 Allows to add or remove various accessories.</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="555141" resname="steam_sctrl_action_simple_v4y">
-        <source>Axis 4 Y</source>
-        <target state="translated">축 4 Y</target>
+      <trans-unit id="555139" resname="steam_sctrl_action_simple_v4x">
+        <source>Axis 4 X</source>
+        <target state="translated">축 4 X</target>
         <context-group purpose="information">
-          <context context-type="source">steam_sctrl_action_simple_v4y
+          <context context-type="source">steam_sctrl_action_simple_v4x
 
-Id: sctrl_action_simple_v4y
+Id: sctrl_action_simple_v4x
 Group: Individual bindable actions
 Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
@@ -2112,6 +2101,17 @@ Group: Steam Controller UI localizations in Steam client</context>
 Id: select_pin
 Group: Truck upgrade/configuration screen.
 Allows to add or remove various accessories.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="555141" resname="steam_sctrl_action_simple_v4y">
+        <source>Axis 4 Y</source>
+        <target state="translated">축 4 Y</target>
+        <context-group purpose="information">
+          <context context-type="source">steam_sctrl_action_simple_v4y
+
+Id: sctrl_action_simple_v4y
+Group: Individual bindable actions
+Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
       </trans-unit>
       <trans-unit id="555143" resname="steam_sctrl_action_simple_v4">
@@ -2206,6 +2206,17 @@ Group: Individual bindable actions
 Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="555151" resname="steam_sctrl_action_simple_a2">
+        <source>Trigger 2</source>
+        <target state="translated">트리거 2</target>
+        <context-group purpose="information">
+          <context context-type="source">steam_sctrl_action_simple_a2
+
+Id: sctrl_action_simple_a2
+Group: Individual bindable actions
+Group: Steam Controller UI localizations in Steam client</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="204300" resname="refund_t">
         <source>REFUND</source>
         <target state="translated">환불</target>
@@ -2216,17 +2227,6 @@ Id: refund_t
 Title of dialog box with missing parts refundation
 Group: Truck upgrade/configuration screen.
 Allows to add or remove various accessories.</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="555151" resname="steam_sctrl_action_simple_a2">
-        <source>Trigger 2</source>
-        <target state="translated">트리거 2</target>
-        <context-group purpose="information">
-          <context context-type="source">steam_sctrl_action_simple_a2
-
-Id: sctrl_action_simple_a2
-Group: Individual bindable actions
-Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
       </trans-unit>
       <trans-unit id="204302" resname="refund_spare_parts_msg">
@@ -2277,17 +2277,6 @@ Group: Individual bindable actions
 Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="555157" resname="steam_sctrl_action_simple_b1">
-        <source>Button 1</source>
-        <target state="translated">버튼 1</target>
-        <context-group purpose="information">
-          <context context-type="source">steam_sctrl_action_simple_b1
-
-Id: sctrl_action_simple_b1
-Group: Individual bindable actions
-Group: Steam Controller UI localizations in Steam client</context>
-        </context-group>
-      </trans-unit>
       <trans-unit id="204306" resname="part_type_factory">
         <source>Factory part</source>
         <target state="translated">공장 부품</target>
@@ -2302,6 +2291,17 @@ Allows to add or remove various accessories.</context>
 &quot;Pièce originale&quot;
 Factory part mean an original part that can be installed at the factory, as such &quot;pièce originale&quot; would be a more accurate translation</note>
         <note from="Mel85" priority="4">@rookie_one Maybe more &quot;Pièce d'origine&quot; ?</note>
+      </trans-unit>
+      <trans-unit id="555157" resname="steam_sctrl_action_simple_b1">
+        <source>Button 1</source>
+        <target state="translated">버튼 1</target>
+        <context-group purpose="information">
+          <context context-type="source">steam_sctrl_action_simple_b1
+
+Id: sctrl_action_simple_b1
+Group: Individual bindable actions
+Group: Steam Controller UI localizations in Steam client</context>
+        </context-group>
       </trans-unit>
       <trans-unit id="204308" resname="part_type_licensed">
         <source>Licensed part</source>
@@ -2330,17 +2330,6 @@ Group: Individual bindable actions
 Group: Steam Controller UI localizations in Steam client</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="587609" resname="overlay_reset_cam">
-        <source>Camera reset</source>
-        <target state="translated">카메라 재설정</target>
-        <context-group purpose="information">
-          <context context-type="source">overlay_reset_cam
-
-Id: overlay_reset_cam
-Group: Truck upgrade/configuration screen.
-Allows to add or remove various accessories.</context>
-        </context-group>
-      </trans-unit>
       <trans-unit id="555161" resname="steam_sctrl_action_simple_b3">
         <source>Button 3</source>
         <target state="translated">버튼 3</target>
@@ -2350,6 +2339,17 @@ Allows to add or remove various accessories.</context>
 Id: sctrl_action_simple_b3
 Group: Individual bindable actions
 Group: Steam Controller UI localizations in Steam client</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="587609" resname="overlay_reset_cam">
+        <source>Camera reset</source>
+        <target state="translated">카메라 재설정</target>
+        <context-group purpose="information">
+          <context context-type="source">overlay_reset_cam
+
+Id: overlay_reset_cam
+Group: Truck upgrade/configuration screen.
+Allows to add or remove various accessories.</context>
         </context-group>
       </trans-unit>
       <trans-unit id="587611" resname="overlay_lights">
@@ -2440,17 +2440,6 @@ Group: Truck upgrade/configuration screen.
 Allows to add or remove various accessories.</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="555171" resname="steam_sctrl_action_simple_b8">
-        <source>Button 8</source>
-        <target state="translated">버튼 8</target>
-        <context-group purpose="information">
-          <context context-type="source">steam_sctrl_action_simple_b8
-
-Id: sctrl_action_simple_b8
-Group: Individual bindable actions
-Group: Steam Controller UI localizations in Steam client</context>
-        </context-group>
-      </trans-unit>
       <trans-unit id="587619" resname="overlay_att_truck">
         <source>Attach truck</source>
         <target state="translated">트럭 연결</target>
@@ -2462,6 +2451,17 @@ Group: Truck upgrade/configuration screen.
 Allows to add or remove various accessories.</context>
         </context-group>
         <note from="Γιώργος Βαρδ (gg.vardoukelis)" priority="4">attach the truck to what?</note>
+      </trans-unit>
+      <trans-unit id="555171" resname="steam_sctrl_action_simple_b8">
+        <source>Button 8</source>
+        <target state="translated">버튼 8</target>
+        <context-group purpose="information">
+          <context context-type="source">steam_sctrl_action_simple_b8
+
+Id: sctrl_action_simple_b8
+Group: Individual bindable actions
+Group: Steam Controller UI localizations in Steam client</context>
+        </context-group>
       </trans-unit>
       <trans-unit id="555173" resname="steam_decide_steam_input_mode_t">
         <source>CHOOSE STEAM INPUT MAPPING MODE</source>
@@ -2485,17 +2485,6 @@ Group: Truck upgrade/configuration screen.
 Allows to add or remove various accessories.</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="555175" resname="steam_decide_steam_input_mode">
-        <source>Introducing new &lt;color value=@@clr_sel@@&gt;In-game Mapping Mode&lt;color value=@@clr_txt@@&gt;, which supports full in-game key binding configurations and better button hints. This is the recommended mode.&lt;br&gt;&lt;br&gt;Keep &lt;color value=@@clr_sel@@&gt;Steam Client Mapping Mode&lt;color value=@@clr_txt@@&gt; if you've customized your gamepad layout through the Steam Client.&lt;br&gt;&lt;br&gt;You can change the mode anytime in the options using the Input Wizard.</source>
-        <target state="translated">새로운 &lt;color value=@@clr_sel@@&gt;게임 내 매핑 모드&lt;color value=@@clr_txt@@&gt;를 소개합니다, 이 모드는 전체 게임 내 키 바인딩 구성과 더 나은 버튼 힌트를 지원합니다. 이것은 권장되는 모드입니다.&lt;br&gt;&lt;br&gt;스팀 클라이언트를 통해 게임패드 레이아웃을 사용자 지정한 경우 &lt;color value=@@clr_sel@@&gt;스팀 클라이언트 매핑 모드&lt;color value=@@clr_txt@@&gt;를 유지하십시오.&lt;br&gt;&lt;br&gt;입력 마법사를 사용하여 옵션에서 언제든지 모드를 변경할 수 있습니다.</target>
-        <context-group purpose="information">
-          <context context-type="source">steam_decide_steam_input_mode
-
-Id: decide_steam_input_mode
-Text shown in a message box.
-Group: Steam Input mapping mode introduction message box.</context>
-        </context-group>
-      </trans-unit>
       <trans-unit id="587623" resname="overlay_att_trailer">
         <source>Attach trailer</source>
         <target state="translated">트레일러 연결</target>
@@ -2507,15 +2496,15 @@ Group: Truck upgrade/configuration screen.
 Allows to add or remove various accessories.</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="587625" resname="overlay_det_trailer">
-        <source>Detach trailer</source>
-        <target state="translated">트레일러 분리</target>
+      <trans-unit id="555175" resname="steam_decide_steam_input_mode">
+        <source>Introducing new &lt;color value=@@clr_sel@@&gt;In-game Mapping Mode&lt;color value=@@clr_txt@@&gt;, which supports full in-game key binding configurations and better button hints. This is the recommended mode.&lt;br&gt;&lt;br&gt;Keep &lt;color value=@@clr_sel@@&gt;Steam Client Mapping Mode&lt;color value=@@clr_txt@@&gt; if you've customized your gamepad layout through the Steam Client.&lt;br&gt;&lt;br&gt;You can change the mode anytime in the options using the Input Wizard.</source>
+        <target state="translated">새로운 &lt;color value=@@clr_sel@@&gt;게임 내 매핑 모드&lt;color value=@@clr_txt@@&gt;를 소개합니다, 이 모드는 전체 게임 내 키 바인딩 구성과 더 나은 버튼 힌트를 지원합니다. 이것은 권장되는 모드입니다.&lt;br&gt;&lt;br&gt;스팀 클라이언트를 통해 게임패드 레이아웃을 사용자 지정한 경우 &lt;color value=@@clr_sel@@&gt;스팀 클라이언트 매핑 모드&lt;color value=@@clr_txt@@&gt;를 유지하십시오.&lt;br&gt;&lt;br&gt;입력 마법사를 사용하여 옵션에서 언제든지 모드를 변경할 수 있습니다.</target>
         <context-group purpose="information">
-          <context context-type="source">overlay_det_trailer
+          <context context-type="source">steam_decide_steam_input_mode
 
-Id: overlay_det_trailer
-Group: Truck upgrade/configuration screen.
-Allows to add or remove various accessories.</context>
+Id: decide_steam_input_mode
+Text shown in a message box.
+Group: Steam Input mapping mode introduction message box.</context>
         </context-group>
       </trans-unit>
       <trans-unit id="555177" resname="steam_decide_steam_input_mode_keep_advanced">
@@ -2527,6 +2516,17 @@ Allows to add or remove various accessories.</context>
 Id: decide_steam_input_mode_keep_advanced
 Button keeping the old advanced mode of Steam Input.
 Group: Steam Input mapping mode introduction message box.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="587625" resname="overlay_det_trailer">
+        <source>Detach trailer</source>
+        <target state="translated">트레일러 분리</target>
+        <context-group purpose="information">
+          <context context-type="source">overlay_det_trailer
+
+Id: overlay_det_trailer
+Group: Truck upgrade/configuration screen.
+Allows to add or remove various accessories.</context>
         </context-group>
       </trans-unit>
       <trans-unit id="587627" resname="overlay_scroll">
@@ -2624,6 +2624,17 @@ Group: Options/Control
 Screen used to configure input related to game controllers (axes, force feedback,..)</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="587635" resname="tc_confirm_order">
+        <source>Do you want to proceed with the current configuration?&lt;br&gt;The total price will be &lt;color value=@@clr_sel@@&gt;$CART_PRICE$&lt;color value=@@clr_txt@@&gt;.</source>
+        <target state="translated">현재 설정을 그대로 진행하시겠습니까?&lt;br&gt;총 가격은 &lt;color value=@@clr_sel@@&gt;$CART_PRICE$&lt;color value=@@clr_txt@@&gt;입니다.</target>
+        <context-group purpose="information">
+          <context context-type="source">tc_confirm_order
+
+Id: tc_confirm_order
+Group: Truck upgrade/configuration screen.
+Allows to add or remove various accessories.</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="402032" resname="steam_input_mode_op_tooltip">
         <source>Selects mode for gamepads like @@controller_ps5@@, @@controller_xbox_one@@ or @@controller_steam_deck@@ opted into the Steam Input interface:&lt;br&gt;- &quot;Steam Client Mapping&quot; - Using standalone layouts configured through the Steam Client. Limited support for in-game button hints and no in-game binding configurations.&lt;br&gt;- &quot;In-game Mapping&quot; - Using universal simple layout. Supports full in-game key binding configurations and better button hints. It's recommended to run Input Wizard when switching to this mode. This is the recommended mode.</source>
         <target state="translated">@@controller_ps5@@, @@controller_xbox_one@@ 또는 @@controller_steam_deck@@와(과) 같은 게임패드에 대한 모드를 선택하여 스팀 입력 인터페이스를 선택합니다:&lt;br&gt;- &quot;스팀 클라이언트 매핑&quot; - 스팀 클라이언트를 통해 구성된 독립형 레이아웃을 사용합니다. 게임 내 버튼 힌트에 대한 지원이 제한적이며 게임 내 바인딩 구성이 없습니다.&lt;br&gt;_ &quot;게임 내 매핑&quot; - 범용 단순 레이아웃을 사용합니다. 전체 게임 내 키 바인딩 구성과 더 나은 버튼 힌트를 지원합니다. 이 모드로 전환할 때 입력 마법사를 실행하는 것이 좋습니다. 이것이 권장되는 모드입니다.</target>
@@ -2634,17 +2645,6 @@ Id: steam_input_mode_op_tooltip
 Group: Tooltips.
 Group: Options/Control
 Screen used to configure input related to game controllers (axes, force feedback,..)</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="587635" resname="tc_confirm_order">
-        <source>Do you want to proceed with the current configuration?&lt;br&gt;The total price will be &lt;color value=@@clr_sel@@&gt;$CART_PRICE$&lt;color value=@@clr_txt@@&gt;.</source>
-        <target state="translated">현재 설정을 그대로 진행하시겠습니까?&lt;br&gt;총 가격은 &lt;color value=@@clr_sel@@&gt;$CART_PRICE$&lt;color value=@@clr_txt@@&gt;입니다.</target>
-        <context-group purpose="information">
-          <context context-type="source">tc_confirm_order
-
-Id: tc_confirm_order
-Group: Truck upgrade/configuration screen.
-Allows to add or remove various accessories.</context>
         </context-group>
       </trans-unit>
       <trans-unit id="587637" resname="td_confirm">
@@ -2668,16 +2668,6 @@ Id: controller_steam
 Group: Supported controller names.</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="555183" resname="steam_controller_steam_deck">
-        <source>Steam Deck</source>
-        <target state="translated">스팀덱</target>
-        <context-group purpose="information">
-          <context context-type="source">steam_controller_steam_deck
-
-Id: controller_steam_deck
-Group: Supported controller names.</context>
-        </context-group>
-      </trans-unit>
       <trans-unit id="370124" resname="truck_diag_t" translate="no">
         <source>VEHICLE DIAGNOSTICS</source>
         <target state="translated">차량 진단</target>
@@ -2690,16 +2680,14 @@ Group: Truck diagnostics screen.
 Shows damage of individual components of the truck while on the road.</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="370126" resname="truck_diag" translate="no">
-        <source>Vehicle Diagnostics</source>
-        <target state="translated">차량 진단</target>
+      <trans-unit id="555183" resname="steam_controller_steam_deck">
+        <source>Steam Deck</source>
+        <target state="translated">스팀덱</target>
         <context-group purpose="information">
-          <context context-type="source">truck_diag
+          <context context-type="source">steam_controller_steam_deck
 
-Id: truck_diag
-Icon allowing player to show damage on the truck.
-Group: Truck diagnostics screen.
-Shows damage of individual components of the truck while on the road.</context>
+Id: controller_steam_deck
+Group: Supported controller names.</context>
         </context-group>
       </trans-unit>
       <trans-unit id="555185" resname="steam_controller_steam_fusion">
@@ -2712,13 +2700,14 @@ Id: controller_steam_fusion
 Group: Supported controller names.</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="684356" resname="vehicle_diag_about" translate="no">
-        <source>View information about your vehicle and its current condition.</source>
-        <target state="translated">차량 및 현재 상태에 대한 정보를 볼 수 있습니다.</target>
+      <trans-unit id="370126" resname="truck_diag" translate="no">
+        <source>Vehicle Diagnostics</source>
+        <target state="translated">차량 진단</target>
         <context-group purpose="information">
-          <context context-type="source">vehicle_diag_about
+          <context context-type="source">truck_diag
 
-Id: vehicle_diag_about
+Id: truck_diag
+Icon allowing player to show damage on the truck.
 Group: Truck diagnostics screen.
 Shows damage of individual components of the truck while on the road.</context>
         </context-group>
@@ -2734,6 +2723,27 @@ Whether is steam cloud synchronization active.
 Group: Profile selection.</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="684356" resname="vehicle_diag_about" translate="no">
+        <source>View information about your vehicle and its current condition.</source>
+        <target state="translated">차량 및 현재 상태에 대한 정보를 볼 수 있습니다.</target>
+        <context-group purpose="information">
+          <context context-type="source">vehicle_diag_about
+
+Id: vehicle_diag_about
+Group: Truck diagnostics screen.
+Shows damage of individual components of the truck while on the road.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="555187" resname="steam_new_version_available_steam">
+        <source>You are using an older version of the game.&lt;br&gt;Steam will automatically update the game unless automatic updates are disabled.</source>
+        <target state="translated">이전 버전의 게임을 사용하고 있습니다.&lt;br&gt;자동 업데이트를 끄지 않으셨다면 스팀이 자동으로 게임을 업데이트합니다.</target>
+        <context-group purpose="information">
+          <context context-type="source">steam_new_version_available_steam
+
+Id: new_version_available_steam
+Group: News.</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="347512" resname="truck_diag_warning">
         <source>Your vehicle is in poor condition. Service it as soon as possible.</source>
         <target state="translated">차량 상태가 좋지 않습니다. 가능한 빨리 서비스를 받으십시오.</target>
@@ -2746,16 +2756,6 @@ Shows damage of individual components of the truck while on the road.</context>
         </context-group>
         <note from="JohnnyW" priority="4">Missing a point . sign at the end of the string?</note>
         <note from="Mads Teland (mads1153)" priority="4">@JohnnyW Good point, refer to his comment.</note>
-      </trans-unit>
-      <trans-unit id="555187" resname="steam_new_version_available_steam">
-        <source>You are using an older version of the game.&lt;br&gt;Steam will automatically update the game unless automatic updates are disabled.</source>
-        <target state="translated">이전 버전의 게임을 사용하고 있습니다.&lt;br&gt;자동 업데이트를 끄지 않으셨다면 스팀이 자동으로 게임을 업데이트합니다.</target>
-        <context-group purpose="information">
-          <context context-type="source">steam_new_version_available_steam
-
-Id: new_version_available_steam
-Group: News.</context>
-        </context-group>
       </trans-unit>
       <trans-unit id="242698" resname="truck_diag_warning_minor_dmg">
         <source>You can repair your vehicle at the closest service station.</source>
@@ -2809,16 +2809,6 @@ Error message shown when the game version distributed over Steam can not communi
 Group: Networking errors</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="555191" resname="steam_incompatible_dlc_steam">
-        <source>Part of the currently installed downloadable content is not compatible with the current version of the game and will be disabled. Please verify integrity of the Steam game cache.&lt;br&gt;&lt;br&gt;The following content is incompatible:</source>
-        <target state="translated">현재 설치된 DLC (다운로드 가능한 콘텐츠) 중 일부는 현재 게임 버전과 호환되지 않으므로 사용할 수 없습니다. 스팀 게임 캐시의 무결성을 확인하십시오.&lt;br&gt;&lt;br&gt;호환되지 않는 콘텐츠는 다음과 같습니다:</target>
-        <context-group purpose="information">
-          <context context-type="source">steam_incompatible_dlc_steam
-
-Id: incompatible_dlc_steam
-Group: Message shown when there are DLC packs which are not compatible with the game.</context>
-        </context-group>
-      </trans-unit>
       <trans-unit id="461361" resname="truck_diag_tooltip_integrity_wear_note" translate="no">
         <source>Represents systemic aging and continuous wear increase across the whole vehicle. Fixed by total restoration.</source>
         <target state="translated">차량 전체에 걸친 체계적 노화와 지속적인 마모 증가를 나타냅니다. 전체 복구로 수정되었습니다.</target>
@@ -2829,6 +2819,16 @@ Id: truck_diag_tooltip_integrity_wear_note
 Explanation of integrity wear in tooltip.
 Group: Truck diagnostics screen.
 Shows damage of individual components of the truck while on the road.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="555191" resname="steam_incompatible_dlc_steam">
+        <source>Part of the currently installed downloadable content is not compatible with the current version of the game and will be disabled. Please verify integrity of the Steam game cache.&lt;br&gt;&lt;br&gt;The following content is incompatible:</source>
+        <target state="translated">현재 설치된 DLC (다운로드 가능한 콘텐츠) 중 일부는 현재 게임 버전과 호환되지 않으므로 사용할 수 없습니다. 스팀 게임 캐시의 무결성을 확인하십시오.&lt;br&gt;&lt;br&gt;호환되지 않는 콘텐츠는 다음과 같습니다:</target>
+        <context-group purpose="information">
+          <context context-type="source">steam_incompatible_dlc_steam
+
+Id: incompatible_dlc_steam
+Group: Message shown when there are DLC packs which are not compatible with the game.</context>
         </context-group>
       </trans-unit>
       <trans-unit id="52796" resname="steam_profile_already_exists">
@@ -2861,18 +2861,6 @@ Group: Truck diagnostics screen.
 Shows damage of individual components of the truck while on the road.</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="347520" resname="truck_diag_tooltip_wear_unfixable_note">
-        <source>Fixed by part replacement.</source>
-        <target state="translated">부품 교체를 통해 수리.</target>
-        <context-group purpose="information">
-          <context context-type="source">truck_diag_tooltip_wear_unfixable_note
-
-Id: truck_diag_tooltip_wear_unfixable_note
-Explanation of unfixable wear in tooltip.
-Group: Truck diagnostics screen.
-Shows damage of individual components of the truck while on the road.</context>
-        </context-group>
-      </trans-unit>
       <trans-unit id="555193" resname="steam_migration_target_profile_already_exists">
         <source>Cannot migrate the profile, another profile with the same name already exists.</source>
         <target state="translated">프로필을 이전할 수 없습니다. 이미 다른 프로필에 동일한 이름이 존재합니다.</target>
@@ -2884,15 +2872,16 @@ Edit screen, cannot migrate profile from/to steam because of name conflict.
 Group: Steam cloud.</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="23596" resname="steam_profile_migration_error">
-        <source>Profile migration failed.</source>
-        <target state="translated">프로필 이전에 실패하였습니다</target>
+      <trans-unit id="347520" resname="truck_diag_tooltip_wear_unfixable_note">
+        <source>Fixed by part replacement.</source>
+        <target state="translated">부품 교체를 통해 수리.</target>
         <context-group purpose="information">
-          <context context-type="source">steam_profile_migration_error
+          <context context-type="source">truck_diag_tooltip_wear_unfixable_note
 
-Id: steam_profile_migration_error
-Edit screen, cannot migrate profile because of some internal error.
-Group: Steam cloud.</context>
+Id: truck_diag_tooltip_wear_unfixable_note
+Explanation of unfixable wear in tooltip.
+Group: Truck diagnostics screen.
+Shows damage of individual components of the truck while on the road.</context>
         </context-group>
       </trans-unit>
       <trans-unit id="348116" resname="truck_diag_tooltip_wear" translate="no">
@@ -2907,16 +2896,15 @@ Group: Truck diagnostics screen.
 Shows damage of individual components of the truck while on the road.</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="347524" resname="truck_diag_tooltip_wear_note">
-        <source>Fixed by repair or part replacement.</source>
-        <target state="translated">수리 또는 부품 교체를 통해 수리.</target>
+      <trans-unit id="23596" resname="steam_profile_migration_error">
+        <source>Profile migration failed.</source>
+        <target state="translated">프로필 이전에 실패하였습니다</target>
         <context-group purpose="information">
-          <context context-type="source">truck_diag_tooltip_wear_note
+          <context context-type="source">steam_profile_migration_error
 
-Id: truck_diag_tooltip_wear_note
-Explanation of damage in tooltip.
-Group: Truck diagnostics screen.
-Shows damage of individual components of the truck while on the road.</context>
+Id: steam_profile_migration_error
+Edit screen, cannot migrate profile because of some internal error.
+Group: Steam cloud.</context>
         </context-group>
       </trans-unit>
       <trans-unit id="524605" resname="steam_cloud_settings_label" translate="no">
@@ -2928,6 +2916,18 @@ Shows damage of individual components of the truck while on the road.</context>
 Id: steam_cloud_settings_label
 Edit or create screen checkbox.
 Group: Steam cloud.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="347524" resname="truck_diag_tooltip_wear_note">
+        <source>Fixed by repair or part replacement.</source>
+        <target state="translated">수리 또는 부품 교체를 통해 수리.</target>
+        <context-group purpose="information">
+          <context context-type="source">truck_diag_tooltip_wear_note
+
+Id: truck_diag_tooltip_wear_note
+Explanation of damage in tooltip.
+Group: Truck diagnostics screen.
+Shows damage of individual components of the truck while on the road.</context>
         </context-group>
       </trans-unit>
       <trans-unit id="347526" resname="truck_diag_recommend_repairs">
@@ -2976,6 +2976,17 @@ Group: Truck diagnostics screen.
 Shows damage of individual components of the truck while on the road.</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="555199" resname="steam_load_msg_out_of_steam_to_free_bytes">
+        <source>Exceeded space: &lt;color value=@@clr_red@@&gt;$BYTES$ MB&lt;color value=@@clr_txt@@&gt;</source>
+        <target state="translated">공간 초과: &lt;color value=@@clr_red@@&gt;$BYTES$ MB&lt;color value=@@clr_txt@@&gt;</target>
+        <context-group purpose="information">
+          <context context-type="source">steam_load_msg_out_of_steam_to_free_bytes
+
+Id: load_msg_out_of_steam_to_free_bytes
+Number of Megabytes player has to remove.
+Group: Steam cloud.</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="347530" resname="wear_unfixable">
         <source>Wear</source>
         <target state="translated">마모</target>
@@ -2986,17 +2997,6 @@ Id: wear_unfixable
 Accesory unfixable wear column table header.
 Group: Truck diagnostics screen.
 Shows damage of individual components of the truck while on the road.</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="555199" resname="steam_load_msg_out_of_steam_to_free_bytes">
-        <source>Exceeded space: &lt;color value=@@clr_red@@&gt;$BYTES$ MB&lt;color value=@@clr_txt@@&gt;</source>
-        <target state="translated">공간 초과: &lt;color value=@@clr_red@@&gt;$BYTES$ MB&lt;color value=@@clr_txt@@&gt;</target>
-        <context-group purpose="information">
-          <context context-type="source">steam_load_msg_out_of_steam_to_free_bytes
-
-Id: load_msg_out_of_steam_to_free_bytes
-Number of Megabytes player has to remove.
-Group: Steam cloud.</context>
         </context-group>
       </trans-unit>
       <trans-unit id="347532" resname="wear">
@@ -3022,17 +3022,6 @@ Number of files player has to remove.
 Group: Steam cloud.</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="555203" resname="steam_load_msg_out_of_steam_used_bytes">
-        <source>Used Steam Cloud space: &lt;color value=@@clr_sel@@&gt;$BYTES$ MB&lt;color value=@@clr_txt@@&gt;</source>
-        <target state="translated">스팀 클라우드 공간 사용: &lt;color value=@@clr_sel@@&gt;$BYTES$ MB&lt;color value=@@clr_txt@@&gt;</target>
-        <context-group purpose="information">
-          <context context-type="source">steam_load_msg_out_of_steam_used_bytes
-
-Id: load_msg_out_of_steam_used_bytes
-Number of Megabytes player has in the cloud.
-Group: Steam cloud.</context>
-        </context-group>
-      </trans-unit>
       <trans-unit id="347534" resname="truck_diag_action">
         <source>Action</source>
         <target state="translated">행동</target>
@@ -3045,16 +3034,15 @@ Group: Truck diagnostics screen.
 Shows damage of individual components of the truck while on the road.</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="347536" resname="truck_diag_cost">
-        <source>Cost</source>
-        <target state="translated">비용</target>
+      <trans-unit id="555203" resname="steam_load_msg_out_of_steam_used_bytes">
+        <source>Used Steam Cloud space: &lt;color value=@@clr_sel@@&gt;$BYTES$ MB&lt;color value=@@clr_txt@@&gt;</source>
+        <target state="translated">스팀 클라우드 공간 사용: &lt;color value=@@clr_sel@@&gt;$BYTES$ MB&lt;color value=@@clr_txt@@&gt;</target>
         <context-group purpose="information">
-          <context context-type="source">truck_diag_cost
+          <context context-type="source">steam_load_msg_out_of_steam_used_bytes
 
-Id: truck_diag_cost
-Accesory action cost column table header.
-Group: Truck diagnostics screen.
-Shows damage of individual components of the truck while on the road.</context>
+Id: load_msg_out_of_steam_used_bytes
+Number of Megabytes player has in the cloud.
+Group: Steam cloud.</context>
         </context-group>
       </trans-unit>
       <trans-unit id="555205" resname="steam_load_msg_out_of_steam_used_files">
@@ -3068,6 +3056,18 @@ Number of files player has in the cloud.
 Group: Steam cloud.</context>
         </context-group>
         <note from="JohnnyW" priority="4">The variable $FILES$ in this context returns an integer numerical value? And if so, from what lower values to high values a user should expect it to be?</note>
+      </trans-unit>
+      <trans-unit id="347536" resname="truck_diag_cost">
+        <source>Cost</source>
+        <target state="translated">비용</target>
+        <context-group purpose="information">
+          <context context-type="source">truck_diag_cost
+
+Id: truck_diag_cost
+Accesory action cost column table header.
+Group: Truck diagnostics screen.
+Shows damage of individual components of the truck while on the road.</context>
+        </context-group>
       </trans-unit>
       <trans-unit id="555207" resname="steam_load_msg_out_of_steam_selected_save">
         <source>Selected save &lt;color value=@@clr_sel@@&gt;$SAVE$&lt;color value=@@clr_txt@@&gt; has &lt;color value=@@clr_sel@@&gt;$BYTES$ MB&lt;color value=@@clr_txt@@&gt; in &lt;color value=@@clr_sel@@&gt;$FILES$&lt;color value=@@clr_txt@@&gt; files.</source>
@@ -3090,16 +3090,6 @@ Id: truck_repair_quick
 Shown in repair screens when the player is driving a quick job truck.</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="616" resname="your_money">
-        <source>Your money:</source>
-        <target state="translated">소지금:</target>
-        <context-group purpose="information">
-          <context context-type="source">your_money
-
-Id: your_money
-Followed by balance on players bank account.</context>
-        </context-group>
-      </trans-unit>
       <trans-unit id="555209" resname="steam_load_msg_out_of_steam_box">
         <source>You run out of space on Steam Cloud. Please remove some save files to proceed.&lt;br&gt;&lt;br&gt;Please read detailed information on the right panel.</source>
         <target state="translated">스팀 클라우드의 용량이 부족합니다. 계속하려면 일부 세이브 파일을 삭제하십시오.&lt;br&gt;&lt;br&gt;오른쪽 패널에서 자세한 정보를 읽으십시오.</target>
@@ -3109,6 +3099,16 @@ Followed by balance on players bank account.</context>
 Id: load_msg_out_of_steam_box
 Popup when trying load game ignoring warning about steam cloud running out of space.
 Group: Steam cloud.</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="616" resname="your_money">
+        <source>Your money:</source>
+        <target state="translated">소지금:</target>
+        <context-group purpose="information">
+          <context context-type="source">your_money
+
+Id: your_money
+Followed by balance on players bank account.</context>
         </context-group>
       </trans-unit>
       <trans-unit id="618" resname="coinsurance">
@@ -37020,6 +37020,20 @@ The line name is aligned to the left edge of the box and the value is aligned to
 Group: Truck dealer screen</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="829380" resname="td_info_bus_title">
+        <source>COACH:</source>
+        <target state="translated">코치:</target>
+        <context-group purpose="information">
+          <context context-type="source">td_info_bus_title
+
+Id: td_info_bus_title
+The title of truck dealer info about the truck.
+Group: Content of information box with information about truck.
+The line name is aligned to the left edge of the box and the value is aligned to the right side.
+Group: Truck dealer screen</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="3944" resname="td_info_series">
         <source>Series:</source>
         <target state="translated">시리즈:</target>
@@ -65075,6 +65089,7 @@ Group: Bus loading screen.</context>
 Id: bus_passenger_satisfaction</context>
           <context context-type="x-crowdin-label">1.62 Addition</context>
         </context-group>
+        <note from="Adam Fojtík (morrelo)" priority="4">@Nettle empty space at the end of the source text</note>
       </trans-unit>
       <trans-unit id="827456" resname="bus_departure_time">
         <source>Departure time</source>
@@ -66460,6 +66475,7 @@ Group: Career stats screen for bus mode.</context>
           <context context-type="x-crowdin-label">1.62 Addition</context>
         </context-group>
         <note from="QL_FR_T" priority="4">Is it &quot;Highlights&quot; for the bus job, so for transporting passengers?</note>
+        <note from="QL_ES_P" priority="4">Could you clarify what &quot;highlights&quot; means in this string?</note>
       </trans-unit>
       <trans-unit id="827690" resname="career_progress_stats_bus_transported_passengers">
         <source>Passengers transported</source>
@@ -67979,6 +67995,39 @@ Group: Bus related adviser notifications</context>
 
 Id: bus_damage
 Group: Adviser info - notification</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="829382" resname="description_man_lions_2024">
+        <source>Coach with an aerodynamic profile and angular body, made for intercity and motorway routes. Responsive handling, comfortable ride and well-tuned suspension.</source>
+        <target state="translated">공기역학적 디자인과 각진 차체를 갖춘 이 코치는 도시 간 및 고속도로 주행에 최적화되어 있습니다. 민첩한 핸들링과 편안한 승차감, 그리고 정교하게 세팅된 서스펜션을 자랑합니다.</target>
+        <context-group purpose="information">
+          <context context-type="source">description_man_lions_2024
+
+Id: description_man_lions_2024
+Group: Garage bus descriptions</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="829384" resname="description_scania_touring_2023">
+        <source>Touring coach with stable, predictable handling, built for intercity and tour routes. High fuel efficiency, low noise levels and strong safety performance.</source>
+        <target state="translated">도시 간 운행 및 관광 노선에 최적화된 투어링 코치로, 안정적이고 예측 가능한 주행 성능을 갖췄습니다. 뛰어난 연비와 저소음, 그리고 강력한 안전 성능을 자랑합니다.</target>
+        <context-group purpose="information">
+          <context context-type="source">description_scania_touring_2023
+
+Id: description_scania_touring_2023
+Group: Garage bus descriptions</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="829386" resname="description_volvo_9700_2023">
+        <source>Double-decker with high passenger capacity, made for long-distance routes. Praised for its smooth ride and quiet interior.</source>
+        <target state="translated">장거리 노선용으로 제작된 대용량 2층 버스로, 부드러운 승차감과 정숙한 실내로 호평받고 있습니다.</target>
+        <context-group purpose="information">
+          <context context-type="source">description_volvo_9700_2023
+
+Id: description_volvo_9700_2023
+Group: Garage bus descriptions</context>
           <context context-type="x-crowdin-label">1.62 Addition</context>
         </context-group>
       </trans-unit>
@@ -72450,6 +72499,8 @@ Id: landmark_reykjavikopera
 Group: Names of landmarks</context>
           <context context-type="x-crowdin-label">1.62 Addition</context>
         </context-group>
+        <note from="Alexander Tselikov (San_Sany4)" priority="4">Do I understand it correctly that it is Harpa but we can't use that name?</note>
+        <note from="Viktor Dobrovolný (Nettle)" priority="4">@San_Sany4 We generally try to sidestep trademarked/company specific names. I assume this is the case here as well. So yes, I would try not to mention &quot;Harpa&quot; in the translations as well.</note>
       </trans-unit>
       <trans-unit id="828728" resname="landmark_reynisfjall">
         <source>Reynisfjall</source>
@@ -72483,6 +72534,7 @@ Id: landmark_hverir
 Group: Names of landmarks</context>
           <context context-type="x-crowdin-label">1.62 Addition</context>
         </context-group>
+        <note from="Alexander Tselikov (San_Sany4)" priority="4">Would be great to have google maps links for landmarks as well.</note>
       </trans-unit>
       <trans-unit id="828734" resname="landmark_ismemorial">
         <source>Stephan G. Stephansson Memorial</source>
@@ -86526,6 +86578,17 @@ Group: Accessory Names</context>
           <context context-type="x-crowdin-label">Accessory</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="829388" resname="badge_czechia_30th_anniversary_edition">
+        <source>Czechia 30th Anniversary Edition</source>
+        <target state="translated">체코 30주년 에디션</target>
+        <context-group purpose="information">
+          <context context-type="source">badge_czechia_30th_anniversary_edition
+
+Id: badge_czechia_30th_anniversary_edition
+Group: Accessory Names</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="630261" resname="badge_de13">
         <source>DE13</source>
         <target state="translated">DE13</target>
@@ -86546,6 +86609,17 @@ Group: Accessory Names</context>
 Id: badge_e_tech
 Group: Accessory Names</context>
           <context context-type="x-crowdin-label">Accessory</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="829390" resname="badge_emerald_edition">
+        <source>Emerald Edition</source>
+        <target state="translated">에메랄드 에디션</target>
+        <context-group purpose="information">
+          <context context-type="source">badge_emerald_edition
+
+Id: badge_emerald_edition
+Group: Accessory Names</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
         </context-group>
       </trans-unit>
       <trans-unit id="630265" resname="badge_fh">
@@ -89933,7 +90007,7 @@ Group: Accessory Names</context>
         </context-group>
       </trans-unit>
       <trans-unit id="828504" resname="busbody_hd_137m_6x2_4">
-        <source>HD 13.7m, 6x2/4</source>
+        <source>HD 13.7m, 6x2*4</source>
         <target state="translated">HD 13.7m, 6x2/4</target>
         <context-group purpose="information">
           <context context-type="source">busbody_hd_137m_6x2_4
@@ -94539,6 +94613,17 @@ Painted and chromed mirror, doorhandle or other accessory
 Group: Accessory Names</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="829392" resname="doorhndl_painted_glossy">
+        <source>Painted &amp; Glossy</source>
+        <target state="translated">페인트 &amp; 광택</target>
+        <context-group purpose="information">
+          <context context-type="source">doorhndl_painted_glossy
+
+Id: doorhndl_painted_glossy
+Group: Accessory Names</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="631621" resname="doorhndl_painted_plastic" translate="no">
         <source>Painted &amp; Plastic</source>
         <target state="translated">페인트 &amp; 플라스틱</target>
@@ -97945,6 +98030,17 @@ Group: Accessory Names</context>
           <context context-type="x-crowdin-label">Accessory</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="829394" resname="exhaust_r_stock">
+        <source>Stock</source>
+        <target state="translated">순정</target>
+        <context-group purpose="information">
+          <context context-type="source">exhaust_r_stock
+
+Id: exhaust_r_stock
+Group: Accessory Names</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="632215" resname="exhaust_r_volcano">
         <source>Volcano</source>
         <target state="translated">Volcano</target>
@@ -97987,6 +98083,16 @@ Group: Accessory Names</context>
 Id: exhaust_r_volcano_iii
 Group: Accessory Names</context>
           <context context-type="x-crowdin-label">Accessory</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="829396" resname="exhaust_stock" translate="no">
+        <source>Stock</source>
+        <target state="translated">순정</target>
+        <context-group purpose="information">
+          <context context-type="source">exhaust_stock
+
+Id: exhaust_stock
+Group: Accessory Names</context>
         </context-group>
       </trans-unit>
       <trans-unit id="707088" resname="f_body_aluminium" translate="no">
@@ -100939,6 +101045,28 @@ Aluminium mirror, doorhandle or other accessory
 Group: Accessory Names</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="829398" resname="f_intake_cab_black_painted">
+        <source>Black, Painted</source>
+        <target state="translated">검정, 페인트</target>
+        <context-group purpose="information">
+          <context context-type="source">f_intake_cab_black_painted
+
+Id: f_intake_cab_black_painted
+Group: Accessory Names</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="829400" resname="f_intake_cab_black_painted_glossy">
+        <source>Black, Painted &amp; Glossy</source>
+        <target state="translated">검정, 페인트 &amp; 광택</target>
+        <context-group purpose="information">
+          <context context-type="source">f_intake_cab_black_painted_glossy
+
+Id: f_intake_cab_black_painted_glossy
+Group: Accessory Names</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="632725" resname="f_intake_cab_body_colour_streams">
         <source>Body Colour Streams</source>
         <target state="translated">바디 컬러 스트림</target>
@@ -101326,6 +101454,28 @@ Id: f_intake_cab_stock_v8
 Stock truck accesory
 Group: Accessory Names</context>
           <context context-type="x-crowdin-label">Accessory</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="829402" resname="f_intake_chs_black_painted">
+        <source>Black, Painted</source>
+        <target state="translated">검정, 페인트</target>
+        <context-group purpose="information">
+          <context context-type="source">f_intake_chs_black_painted
+
+Id: f_intake_chs_black_painted
+Group: Accessory Names</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="829404" resname="f_intake_chs_black_painted_glossy">
+        <source>Black, Painted &amp; Glossy</source>
+        <target state="translated">검정, 페인트 &amp; 광택</target>
+        <context-group purpose="information">
+          <context context-type="source">f_intake_chs_black_painted_glossy
+
+Id: f_intake_chs_black_painted_glossy
+Group: Accessory Names</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
         </context-group>
       </trans-unit>
       <trans-unit id="632793" resname="f_intake_chs_body_colour_streams">
@@ -101982,6 +102132,17 @@ Group: Accessory Names</context>
           <context context-type="x-crowdin-label">1.62 Addition</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="829406" resname="f_light_top_black">
+        <source>Black</source>
+        <target state="translated">검정</target>
+        <context-group purpose="information">
+          <context context-type="source">f_light_top_black
+
+Id: f_light_top_black
+Group: Accessory Names</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="632899" resname="f_light_top_evolution">
         <source>Evolution</source>
         <target state="translated">에볼루션</target>
@@ -102119,6 +102280,17 @@ Group: Accessory Names</context>
           <context context-type="x-crowdin-label">Accessory</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="829408" resname="f_logo_black_lit">
+        <source>Black, Lit</source>
+        <target state="translated">검정, 라이트</target>
+        <context-group purpose="information">
+          <context context-type="source">f_logo_black_lit
+
+Id: f_logo_black_lit
+Group: Accessory Names</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="632923" resname="f_logo_chromed">
         <source>Chromed</source>
         <target state="translated">크롬</target>
@@ -102242,6 +102414,17 @@ Group: Accessory Names</context>
 Id: f_logo_stock
 Stock truck accesory
 Group: Accessory Names</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="829410" resname="f_logo_white">
+        <source>White</source>
+        <target state="translated">흰색</target>
+        <context-group purpose="information">
+          <context context-type="source">f_logo_white
+
+Id: f_logo_white
+Group: Accessory Names</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
         </context-group>
       </trans-unit>
       <trans-unit id="632941" resname="f_turn_light_exclusive">
@@ -102523,6 +102706,28 @@ Group: Accessory Names</context>
           <context context-type="x-crowdin-label">Accessory</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="829412" resname="fcover_pacific_black">
+        <source>Pacific Black</source>
+        <target state="translated">Pacific 검정</target>
+        <context-group purpose="information">
+          <context context-type="source">fcover_pacific_black
+
+Id: fcover_pacific_black
+Group: Accessory Names</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="829414" resname="fcover_pacific_gloss">
+        <source>Pacific Gloss</source>
+        <target state="translated">Pacific 광택</target>
+        <context-group purpose="information">
+          <context context-type="source">fcover_pacific_gloss
+
+Id: fcover_pacific_gloss
+Group: Accessory Names</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="632983" resname="fcover_pacific_painted">
         <source>Pacific Painted</source>
         <target state="translated">Pacific 페인트</target>
@@ -102548,6 +102753,17 @@ Group: Accessory Names</context>
         <note from="Adam Fojtík (morrelo)" priority="4">@QL_RU_T &quot;solid&quot; as in &quot;full, completely covered shape&quot;.
 
 It's used as a name for a wheel hub cover. The &quot;Pacific&quot; hub covers generally cover only the area directly around wheel nuts, but &quot;solid&quot; in this case means that this particular variant has full solid cover in the middle, i.e. it covers not only the nuts, but also the middle of the hub.</note>
+      </trans-unit>
+      <trans-unit id="829416" resname="fcover_pacific_solid_gloss">
+        <source>Pacific Solid Gloss</source>
+        <target state="translated">Pacific Solid 광택</target>
+        <context-group purpose="information">
+          <context context-type="source">fcover_pacific_solid_gloss
+
+Id: fcover_pacific_solid_gloss
+Group: Accessory Names</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
       </trans-unit>
       <trans-unit id="632987" resname="fcover_pacific_solid_painted">
         <source>Pacific Solid Painted</source>
@@ -102780,6 +102996,17 @@ Group: Accessory Names</context>
           <context context-type="x-crowdin-label">Accessory</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="829418" resname="fdisc_american_dream_painted_chromed">
+        <source>American Dream, Painted &amp; Chromed</source>
+        <target state="translated">아메리칸 드림, 페인트 &amp; 크롬</target>
+        <context-group purpose="information">
+          <context context-type="source">fdisc_american_dream_painted_chromed
+
+Id: fdisc_american_dream_painted_chromed
+Group: Accessory Names</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="633021" resname="fdisc_dark_silver">
         <source>Dark Silver</source>
         <target state="translated">Dark Silver</target>
@@ -102902,6 +103129,17 @@ Group: Accessory Names</context>
           <context context-type="x-crowdin-label">Accessory</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="829420" resname="fdisc_elite_rider_painted_chromed">
+        <source>Elite Rider, Painted &amp; Chromed</source>
+        <target state="translated">Elite Rider, 페인트 &amp; 크롬</target>
+        <context-group purpose="information">
+          <context context-type="source">fdisc_elite_rider_painted_chromed
+
+Id: fdisc_elite_rider_painted_chromed
+Group: Accessory Names</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="633043" resname="fdisc_raven">
         <source>Raven</source>
         <target state="translated">Raven</target>
@@ -102977,6 +103215,17 @@ Group: Accessory Names</context>
 Id: fdisc_sirius
 Group: Accessory Names</context>
           <context context-type="x-crowdin-label">Accessory</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="829422" resname="fdisc_sirius_black">
+        <source>Sirius Black</source>
+        <target state="translated">시리우스 블랙</target>
+        <context-group purpose="information">
+          <context context-type="source">fdisc_sirius_black
+
+Id: fdisc_sirius_black
+Group: Accessory Names</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
         </context-group>
       </trans-unit>
       <trans-unit id="633057" resname="fdisc_sirius_chromed">
@@ -103236,6 +103485,17 @@ Group: Accessory Names</context>
           <context context-type="x-crowdin-label">Accessory</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="829424" resname="fender_painted_led">
+        <source>Painted, LED</source>
+        <target state="translated">페인트, LED</target>
+        <context-group purpose="information">
+          <context context-type="source">fender_painted_led
+
+Id: fender_painted_led
+Group: Accessory Names</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="633103" resname="fender_painted_modern">
         <source>Painted Modern</source>
         <target state="translated">페인트 모던</target>
@@ -103281,6 +103541,17 @@ Id: fender_painted_plastic_evolution
 Plastic mixed with painted mirror, doorhandle or other accessory
 Group: Accessory Names</context>
           <context context-type="x-crowdin-label">Accessory</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="829426" resname="fender_painted_plastic_gray">
+        <source>Painted, Gray Plastic</source>
+        <target state="translated">페인트, 그레이 플라스틱</target>
+        <context-group purpose="information">
+          <context context-type="source">fender_painted_plastic_gray
+
+Id: fender_painted_plastic_gray
+Group: Accessory Names</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
         </context-group>
       </trans-unit>
       <trans-unit id="633111" resname="fender_painted_plus">
@@ -103435,6 +103706,17 @@ Group: Accessory Names</context>
           <context context-type="x-crowdin-label">Accessory</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="829428" resname="fender_plastic_led">
+        <source>Plastic, LED</source>
+        <target state="translated">플라스틱, LED</target>
+        <context-group purpose="information">
+          <context context-type="source">fender_plastic_led
+
+Id: fender_plastic_led
+Group: Accessory Names</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="633135" resname="fender_standard" translate="no">
         <source>Standard</source>
         <target state="translated">일반형</target>
@@ -103479,6 +103761,17 @@ Group: Accessory Names</context>
 Id: fender_stock
 Stock truck accesory
 Group: Accessory Names</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="829430" resname="fhub_absolute_fury">
+        <source>Absolute Fury</source>
+        <target state="translated">Absolute Fury</target>
+        <context-group purpose="information">
+          <context context-type="source">fhub_absolute_fury
+
+Id: fhub_absolute_fury
+Group: Accessory Names</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
         </context-group>
       </trans-unit>
       <trans-unit id="828812" resname="fhub_absolute_fury_black_edition">
@@ -106750,6 +107043,17 @@ Group: Accessory Names</context>
           <context context-type="x-crowdin-label">Accessory</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="829432" resname="fnuts_black">
+        <source>Black</source>
+        <target state="translated">검정</target>
+        <context-group purpose="information">
+          <context context-type="source">fnuts_black
+
+Id: fnuts_black
+Group: Accessory Names</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="633725" resname="fnuts_chrome">
         <source>Chrome</source>
         <target state="translated">크롬</target>
@@ -107831,6 +108135,28 @@ Group: Accessory Names</context>
           <context context-type="x-crowdin-label">Last minute</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="829434" resname="interior_30th_anniversary_edition">
+        <source>30th Anniversary Edition</source>
+        <target state="translated">30주년 에디션</target>
+        <context-group purpose="information">
+          <context context-type="source">interior_30th_anniversary_edition
+
+Id: interior_30th_anniversary_edition
+Group: Accessory Names</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="829436" resname="interior_30th_anniversary_edition_uk">
+        <source>30th Anniversary Edition UK</source>
+        <target state="translated">30주년 에디션 UK</target>
+        <context-group purpose="information">
+          <context context-type="source">interior_30th_anniversary_edition_uk
+
+Id: interior_30th_anniversary_edition_uk
+Group: Accessory Names</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="633907" resname="interior_antracite_2024">
         <source>Antracite 2024</source>
         <target state="translated">Antracite 2024</target>
@@ -107984,6 +108310,28 @@ Group: Accessory Names</context>
 Id: interior_elegance_uk
 Group: Accessory Names</context>
           <context context-type="x-crowdin-label">Accessory</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="829438" resname="interior_emerald_edition">
+        <source>Emerald Edition</source>
+        <target state="translated">에메랄드 에디션</target>
+        <context-group purpose="information">
+          <context context-type="source">interior_emerald_edition
+
+Id: interior_emerald_edition
+Group: Accessory Names</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="829440" resname="interior_emerald_edition_uk">
+        <source>Emerald Edition UK</source>
+        <target state="translated">에메랄드 에디션 UK</target>
+        <context-group purpose="information">
+          <context context-type="source">interior_emerald_edition_uk
+
+Id: interior_emerald_edition_uk
+Group: Accessory Names</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
         </context-group>
       </trans-unit>
       <trans-unit id="633935" resname="interior_excellence">
@@ -108213,7 +108561,7 @@ Group: Accessory Names</context>
       </trans-unit>
       <trans-unit id="633973" resname="interior_exclusive_streamspace">
         <source>Exclusive StreamSpace</source>
-        <target state="translated">Exclusive StreamSpace</target>
+        <target state="translated">고급형 스트림스페이스</target>
         <context-group purpose="information">
           <context context-type="source">interior_exclusive_streamspace
 
@@ -108225,7 +108573,7 @@ Group: Accessory Names</context>
       </trans-unit>
       <trans-unit id="633975" resname="interior_exclusive_streamspace_uk">
         <source>Exclusive StreamSpace UK</source>
-        <target state="translated">Exclusive StreamSpace UK</target>
+        <target state="translated">고급형 스트림스페이스 UK</target>
         <context-group purpose="information">
           <context context-type="source">interior_exclusive_streamspace_uk
 
@@ -108966,7 +109314,7 @@ Group: Accessory Names</context>
       </trans-unit>
       <trans-unit id="634103" resname="interior_standard_streamspace">
         <source>Standard StreamSpace</source>
-        <target state="translated">일반형 StreamSpace</target>
+        <target state="translated">일반형 스트림스페이스</target>
         <context-group purpose="information">
           <context context-type="source">interior_standard_streamspace
 
@@ -108978,7 +109326,7 @@ Group: Accessory Names</context>
       </trans-unit>
       <trans-unit id="634105" resname="interior_standard_streamspace_uk">
         <source>Standard StreamSpace UK</source>
-        <target state="translated">일반형 StreamSpace UK</target>
+        <target state="translated">일반형 스트림스페이스 UK</target>
         <context-group purpose="information">
           <context context-type="source">interior_standard_streamspace_uk
 
@@ -109690,6 +110038,17 @@ Id: light_lumen_chrom
 Group: Accessory Names</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="829442" resname="light_lumen_chromed">
+        <source>Lumen Chromed</source>
+        <target state="translated">Lumen 크롬</target>
+        <context-group purpose="information">
+          <context context-type="source">light_lumen_chromed
+
+Id: light_lumen_chromed
+Group: Accessory Names</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="683988" resname="light_lumen_mark_i" translate="no">
         <source>Lumen Mark I</source>
         <target state="translated">Lumen Mark I</target>
@@ -109986,6 +110345,17 @@ Id: mirror_camera_painted
 &quot;Camera type accessory (eg. mirror variant)&quot;, &quot;Painted mirror, doorhandle or other accessory&quot; (AutoMerged)
 Group: Accessory Names</context>
           <context context-type="x-crowdin-label">Accessory</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="829444" resname="mirror_camera_painted_plastic">
+        <source>Camera, Painted &amp; Plastic</source>
+        <target state="translated">카메라, 페인트 &amp; 플라스틱</target>
+        <context-group purpose="information">
+          <context context-type="source">mirror_camera_painted_plastic
+
+Id: mirror_camera_painted_plastic
+Group: Accessory Names</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
         </context-group>
       </trans-unit>
       <trans-unit id="828838" resname="mirror_camera_plastic">
@@ -111333,6 +111703,7 @@ Id: p_seats_fabric_lines
 Group: Accessory Names</context>
           <context context-type="x-crowdin-label">1.62 Addition</context>
         </context-group>
+        <note from="JohnnyW" priority="4">The context of this string says &lt;_fabric_lines&gt;, but the string is &lt;Leather, Lines&gt;</note>
       </trans-unit>
       <trans-unit id="828862" resname="p_seats_fabric_orange_gray">
         <source>Fabric, Orange Gray</source>
@@ -113696,6 +114067,17 @@ Group: Accessory Names</context>
           <context context-type="x-crowdin-label">Accessory</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="829446" resname="rdisc_standard_black">
+        <source>Standard Black</source>
+        <target state="translated">일반형 검정</target>
+        <context-group purpose="information">
+          <context context-type="source">rdisc_standard_black
+
+Id: rdisc_standard_black
+Group: Accessory Names</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="634755" resname="rdisc_standard_black_chromed">
         <source>Standard Black Chromed</source>
         <target state="translated">일반형 검정 크롬</target>
@@ -114497,6 +114879,17 @@ Group: Accessory Names</context>
 Id: rhub_vanity_scania
 Group: Accessory Names</context>
           <context context-type="x-crowdin-label">Accessory</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="829448" resname="rnuts_black">
+        <source>Black</source>
+        <target state="translated">검정</target>
+        <context-group purpose="information">
+          <context context-type="source">rnuts_black
+
+Id: rnuts_black
+Group: Accessory Names</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
         </context-group>
       </trans-unit>
       <trans-unit id="634903" resname="rnuts_chrome">
@@ -115449,6 +115842,17 @@ Luxury/Exclusive version of the interior or accesory
 Group: Accessory Names</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="829450" resname="s_panel_exclusive_glossy">
+        <source>Exclusive, Glossy</source>
+        <target state="translated">고급형, 광택</target>
+        <context-group purpose="information">
+          <context context-type="source">s_panel_exclusive_glossy
+
+Id: s_panel_exclusive_glossy
+Group: Accessory Names</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="635073" resname="s_panel_exclusive_truck_of_the_year_2023">
         <source>Exclusive, Truck of the Year 2023</source>
         <target state="translated">고급형, Truck of the Year 2023</target>
@@ -116139,6 +116543,17 @@ Group: Accessory Names</context>
 Id: sideskirt_painted_cover
 Simple painted cover used as small sideskirt or other accessory
 Group: Accessory Names</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="829452" resname="sideskirt_painted_glossy">
+        <source>Painted &amp; Glossy</source>
+        <target state="translated">페인트 &amp; 광택</target>
+        <context-group purpose="information">
+          <context context-type="source">sideskirt_painted_glossy
+
+Id: sideskirt_painted_glossy
+Group: Accessory Names</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
         </context-group>
       </trans-unit>
       <trans-unit id="635195" resname="sideskirt_painted_plastic_cover">
@@ -117116,6 +117531,17 @@ Group: Accessory Names</context>
           <context context-type="x-crowdin-label">Accessory</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="829454" resname="sunshield_black">
+        <source>Black</source>
+        <target state="translated">검정</target>
+        <context-group purpose="information">
+          <context context-type="source">sunshield_black
+
+Id: sunshield_black
+Group: Accessory Names</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="635323" resname="sunshield_individual_lion_s">
         <source>Individual Lion S</source>
         <target state="translated">Individual Lion S</target>
@@ -117147,6 +117573,17 @@ Group: Accessory Names</context>
 Id: sunshield_painted
 Painted mirror, doorhandle or other accessory
 Group: Accessory Names</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="829456" resname="sunshield_painted_glossy">
+        <source>Painted &amp; Glossy</source>
+        <target state="translated">페인트 &amp; 광택</target>
+        <context-group purpose="information">
+          <context context-type="source">sunshield_painted_glossy
+
+Id: sunshield_painted_glossy
+Group: Accessory Names</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
         </context-group>
       </trans-unit>
       <trans-unit id="635329" resname="sunshield_standard" translate="no">
@@ -122261,6 +122698,7 @@ Group: Accessory Names</context>
         <note from="Ricard (rmanenc)" priority="4">More context please. It's like this?
 https://i.imgur.com/jlPkZMX.jpeg</note>
         <note from="Adam Fojtík (morrelo)" priority="4">@rmanenc yes, exactly</note>
+        <note from="Ricard (rmanenc)" priority="4">@morrelo Thanks!!</note>
       </trans-unit>
       <trans-unit id="637923" resname="toy_witchs_compass">
         <source>Witch's Compass</source>
@@ -122388,180 +122826,6 @@ Group: Accessory Names</context>
           <context context-type="x-crowdin-label">Accessory</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="636119" resname="transmission_i_shift_at2612f">
-        <source>I-Shift AT2612F</source>
-        <target state="translated">I-Shift AT2612F</target>
-        <context-group purpose="information">
-          <context context-type="source">transmission_i_shift_at2612f
-
-Id: transmission_i_shift_at2612f
-Group: Accessory Names</context>
-          <context context-type="x-crowdin-label">Accessory</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="636121" resname="transmission_i_shift_at2612f_r">
-        <source>I-Shift AT2612F R</source>
-        <target state="translated">I-Shift AT2612F R</target>
-        <context-group purpose="information">
-          <context context-type="source">transmission_i_shift_at2612f_r
-
-Id: transmission_i_shift_at2612f_r
-Group: Accessory Names</context>
-          <context context-type="x-crowdin-label">Accessory</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="636123" resname="transmission_i_shift_at2812d" translate="no">
-        <source>I-Shift AT2812D</source>
-        <target state="translated">I-Shift AT2812D</target>
-        <context-group purpose="information">
-          <context context-type="source">transmission_i_shift_at2812d
-
-Id: transmission_i_shift_at2812d
-Group: Accessory Names</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="636125" resname="transmission_i_shift_at2812d_r" translate="no">
-        <source>I-Shift AT2812D R</source>
-        <target state="translated">I-Shift AT2812D R</target>
-        <context-group purpose="information">
-          <context context-type="source">transmission_i_shift_at2812d_r
-
-Id: transmission_i_shift_at2812d_r
-Group: Accessory Names</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="636127" resname="transmission_i_shift_at2812g">
-        <source>I-Shift AT2812G</source>
-        <target state="translated">I-Shift AT2812G</target>
-        <context-group purpose="information">
-          <context context-type="source">transmission_i_shift_at2812g
-
-Id: transmission_i_shift_at2812g
-Group: Accessory Names</context>
-          <context context-type="x-crowdin-label">Accessory</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="636129" resname="transmission_i_shift_at2812g_r">
-        <source>I-Shift AT2812G R</source>
-        <target state="translated">I-Shift AT2812G R</target>
-        <context-group purpose="information">
-          <context context-type="source">transmission_i_shift_at2812g_r
-
-Id: transmission_i_shift_at2812g_r
-Group: Accessory Names</context>
-          <context context-type="x-crowdin-label">Accessory</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="636131" resname="transmission_i_shift_ato3512d">
-        <source>I-Shift ATO3512D</source>
-        <target state="translated">I-Shift ATO3512D</target>
-        <context-group purpose="information">
-          <context context-type="source">transmission_i_shift_ato3512d
-
-Id: transmission_i_shift_ato3512d
-Group: Accessory Names</context>
-          <context context-type="x-crowdin-label">Accessory</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="636133" resname="transmission_i_shift_ato3512d_r">
-        <source>I-Shift ATO3512D R</source>
-        <target state="translated">I-Shift ATO3512D R</target>
-        <context-group purpose="information">
-          <context context-type="source">transmission_i_shift_ato3512d_r
-
-Id: transmission_i_shift_ato3512d_r
-Group: Accessory Names</context>
-          <context context-type="x-crowdin-label">Accessory</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="636135" resname="transmission_i_shift_ato3512f">
-        <source>I-Shift ATO3512F</source>
-        <target state="translated">I-Shift ATO3512F</target>
-        <context-group purpose="information">
-          <context context-type="source">transmission_i_shift_ato3512f
-
-Id: transmission_i_shift_ato3512f
-Group: Accessory Names</context>
-          <context context-type="x-crowdin-label">Accessory</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="636137" resname="transmission_i_shift_ato3512f_aso_ulc">
-        <source>I-Shift ATO3512F + ASO-ULC</source>
-        <target state="translated">I-Shift ATO3512F + ASO-ULC</target>
-        <context-group purpose="information">
-          <context context-type="source">transmission_i_shift_ato3512f_aso_ulc
-
-Id: transmission_i_shift_ato3512f_aso_ulc
-Group: Accessory Names</context>
-          <context context-type="x-crowdin-label">Accessory</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="636139" resname="transmission_i_shift_ato3512f_r">
-        <source>I-Shift ATO3512F R</source>
-        <target state="translated">I-Shift ATO3512F R</target>
-        <context-group purpose="information">
-          <context context-type="source">transmission_i_shift_ato3512f_r
-
-Id: transmission_i_shift_ato3512f_r
-Group: Accessory Names</context>
-          <context context-type="x-crowdin-label">Accessory</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="636141" resname="transmission_i_shift_ato3512f_r_aso_ulc">
-        <source>I-Shift ATO3512F R + ASO-ULC</source>
-        <target state="translated">I-Shift ATO3512F R + ASO-ULC</target>
-        <context-group purpose="information">
-          <context context-type="source">transmission_i_shift_ato3512f_r_aso_ulc
-
-Id: transmission_i_shift_ato3512f_r_aso_ulc
-Group: Accessory Names</context>
-          <context context-type="x-crowdin-label">Accessory</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="636143" resname="transmission_i_shift_ato3812g">
-        <source>I-Shift ATO3812G</source>
-        <target state="translated">I-Shift ATO3812G</target>
-        <context-group purpose="information">
-          <context context-type="source">transmission_i_shift_ato3812g
-
-Id: transmission_i_shift_ato3812g
-Group: Accessory Names</context>
-          <context context-type="x-crowdin-label">Accessory</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="636145" resname="transmission_i_shift_ato3812g_aso_ulc">
-        <source>I-Shift ATO3812G + ASO-ULC</source>
-        <target state="translated">I-Shift ATO3812G + ASO-ULC</target>
-        <context-group purpose="information">
-          <context context-type="source">transmission_i_shift_ato3812g_aso_ulc
-
-Id: transmission_i_shift_ato3812g_aso_ulc
-Group: Accessory Names</context>
-          <context context-type="x-crowdin-label">Accessory</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="636147" resname="transmission_i_shift_ato3812g_r">
-        <source>I-Shift ATO3812G R</source>
-        <target state="translated">I-Shift ATO3812G R</target>
-        <context-group purpose="information">
-          <context context-type="source">transmission_i_shift_ato3812g_r
-
-Id: transmission_i_shift_ato3812g_r
-Group: Accessory Names</context>
-          <context context-type="x-crowdin-label">Accessory</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="636149" resname="transmission_i_shift_ato3812g_r_aso_ulc">
-        <source>I-Shift ATO3812G R + ASO-ULC</source>
-        <target state="translated">I-Shift ATO3812G R + ASO-ULC</target>
-        <context-group purpose="information">
-          <context context-type="source">transmission_i_shift_ato3812g_r_aso_ulc
-
-Id: transmission_i_shift_ato3812g_r_aso_ulc
-Group: Accessory Names</context>
-          <context context-type="x-crowdin-label">Accessory</context>
-        </context-group>
-      </trans-unit>
       <trans-unit id="828018" resname="transmission_ishift_at2612f">
         <source>I-Shift AT2612F</source>
         <target state="translated">I-Shift AT2612F</target>
@@ -122573,17 +122837,6 @@ Group: Accessory Names</context>
           <context context-type="x-crowdin-label">1.62 Addition</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="828902" resname="transmission_ishift_at2612f_r">
-        <source>I-Shift AT2612F R</source>
-        <target state="translated">I-Shift AT2612F R</target>
-        <context-group purpose="information">
-          <context context-type="source">transmission_ishift_at2612f_r
-
-Id: transmission_ishift_at2612f_r
-Group: Accessory Names</context>
-          <context context-type="x-crowdin-label">1.62 Addition</context>
-        </context-group>
-      </trans-unit>
       <trans-unit id="828020" resname="transmission_ishift_at2612f_retth">
         <source>I-Shift AT2612F + RET-TH</source>
         <target state="translated">I-Shift AT2612F + RET-TH</target>
@@ -122591,6 +122844,160 @@ Group: Accessory Names</context>
           <context context-type="source">transmission_ishift_at2612f_retth
 
 Id: transmission_ishift_at2612f_retth
+Group: Accessory Names</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="828940" resname="transmission_ishift_at2812d">
+        <source>I-Shift AT2812D</source>
+        <target state="translated">I-Shift AT2812D</target>
+        <context-group purpose="information">
+          <context context-type="source">transmission_ishift_at2812d
+
+Id: transmission_ishift_at2812d
+Group: Accessory Names</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="828942" resname="transmission_ishift_at2812d_r">
+        <source>I-Shift AT2812D R</source>
+        <target state="translated">I-Shift AT2812D R</target>
+        <context-group purpose="information">
+          <context context-type="source">transmission_ishift_at2812d_r
+
+Id: transmission_ishift_at2812d_r
+Group: Accessory Names</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="828944" resname="transmission_ishift_at2812g">
+        <source>I-Shift AT2812G</source>
+        <target state="translated">I-Shift AT2812G</target>
+        <context-group purpose="information">
+          <context context-type="source">transmission_ishift_at2812g
+
+Id: transmission_ishift_at2812g
+Group: Accessory Names</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="828946" resname="transmission_ishift_at2812g_r">
+        <source>I-Shift AT2812G R</source>
+        <target state="translated">I-Shift AT2812G R</target>
+        <context-group purpose="information">
+          <context context-type="source">transmission_ishift_at2812g_r
+
+Id: transmission_ishift_at2812g_r
+Group: Accessory Names</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="828948" resname="transmission_ishift_ato3512d">
+        <source>I-Shift ATO3512D</source>
+        <target state="translated">I-Shift ATO3512D</target>
+        <context-group purpose="information">
+          <context context-type="source">transmission_ishift_ato3512d
+
+Id: transmission_ishift_ato3512d
+Group: Accessory Names</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="828950" resname="transmission_ishift_ato3512d_r">
+        <source>I-Shift ATO3512D R</source>
+        <target state="translated">I-Shift ATO3512D R</target>
+        <context-group purpose="information">
+          <context context-type="source">transmission_ishift_ato3512d_r
+
+Id: transmission_ishift_ato3512d_r
+Group: Accessory Names</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="828952" resname="transmission_ishift_ato3512f">
+        <source>I-Shift ATO3512F</source>
+        <target state="translated">I-Shift ATO3512F</target>
+        <context-group purpose="information">
+          <context context-type="source">transmission_ishift_ato3512f
+
+Id: transmission_ishift_ato3512f
+Group: Accessory Names</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="828954" resname="transmission_ishift_ato3512f_aso_ulc">
+        <source>I-Shift ATO3512F + ASO-ULC</source>
+        <target state="translated">I-Shift ATO3512F + ASO-ULC</target>
+        <context-group purpose="information">
+          <context context-type="source">transmission_ishift_ato3512f_aso_ulc
+
+Id: transmission_ishift_ato3512f_aso_ulc
+Group: Accessory Names</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="828956" resname="transmission_ishift_ato3512f_r">
+        <source>I-Shift ATO3512F R</source>
+        <target state="translated">I-Shift ATO3512F R</target>
+        <context-group purpose="information">
+          <context context-type="source">transmission_ishift_ato3512f_r
+
+Id: transmission_ishift_ato3512f_r
+Group: Accessory Names</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="828958" resname="transmission_ishift_ato3512f_r_aso_ulc">
+        <source>I-Shift ATO3512F R + ASO-ULC</source>
+        <target state="translated">I-Shift ATO3512F R + ASO-ULC</target>
+        <context-group purpose="information">
+          <context context-type="source">transmission_ishift_ato3512f_r_aso_ulc
+
+Id: transmission_ishift_ato3512f_r_aso_ulc
+Group: Accessory Names</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="828960" resname="transmission_ishift_ato3812g">
+        <source>I-Shift ATO3812G</source>
+        <target state="translated">I-Shift ATO3812G</target>
+        <context-group purpose="information">
+          <context context-type="source">transmission_ishift_ato3812g
+
+Id: transmission_ishift_ato3812g
+Group: Accessory Names</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="828962" resname="transmission_ishift_ato3812g_aso_ulc">
+        <source>I-Shift ATO3812G + ASO-ULC</source>
+        <target state="translated">I-Shift ATO3812G + ASO-ULC</target>
+        <context-group purpose="information">
+          <context context-type="source">transmission_ishift_ato3812g_aso_ulc
+
+Id: transmission_ishift_ato3812g_aso_ulc
+Group: Accessory Names</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="828964" resname="transmission_ishift_ato3812g_r">
+        <source>I-Shift ATO3812G R</source>
+        <target state="translated">I-Shift ATO3812G R</target>
+        <context-group purpose="information">
+          <context context-type="source">transmission_ishift_ato3812g_r
+
+Id: transmission_ishift_ato3812g_r
+Group: Accessory Names</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="828966" resname="transmission_ishift_ato3812g_r_aso_ulc">
+        <source>I-Shift ATO3812G R + ASO-ULC</source>
+        <target state="translated">I-Shift ATO3812G R + ASO-ULC</target>
+        <context-group purpose="information">
+          <context context-type="source">transmission_ishift_ato3812g_r_aso_ulc
+
+Id: transmission_ishift_ato3812g_r_aso_ulc
 Group: Accessory Names</context>
           <context context-type="x-crowdin-label">1.62 Addition</context>
         </context-group>
@@ -123488,7 +123895,7 @@ Group: Accessory Names</context>
       </trans-unit>
       <trans-unit id="707098" resname="pj_100_years_edition_day">
         <source>100 Years Edition – Day</source>
-        <target state="translated">100 Years Edition – Day</target>
+        <target state="translated">100주년 에디션 – Day</target>
         <context-group purpose="information">
           <context context-type="source">pj_100_years_edition_day
 
@@ -123498,7 +123905,7 @@ Group: Names of paintjob accessories.</context>
       </trans-unit>
       <trans-unit id="707100" resname="pj_100_years_edition_night">
         <source>100 Years Edition – Night</source>
-        <target state="translated">100 Years Edition – Night</target>
+        <target state="translated">100주년 에디션 – Night</target>
         <context-group purpose="information">
           <context context-type="source">pj_100_years_edition_night
 
@@ -123530,7 +123937,7 @@ Group: Names of paintjob accessories.</context>
       </trans-unit>
       <trans-unit id="828028" resname="pj_30th_czech_anniversary_edition">
         <source>30th Czech Anniversary Edition</source>
-        <target state="translated">체코 30주년 한정판</target>
+        <target state="translated">체코 30주년 에디션</target>
         <context-group purpose="information">
           <context context-type="source">pj_30th_czech_anniversary_edition
 
@@ -123540,6 +123947,8 @@ Group: Names of paintjob accessories.</context>
         </context-group>
         <note from="JohnnyW" priority="4">This string sounds a bit weird and i think i'm missing something here. This would be an anniversary edition paint job for the 30th something something that it's Czech. What is this something something that i don't get?</note>
         <note from="Alexander Tselikov (San_Sany4)" priority="4">@JohnnyW This &quot;something something&quot; is Czech Republic itself. In other words, its independence.</note>
+        <note from="JohnnyW" priority="4">@San_Sany4 But the thing is that the Czech Republic was officially established on the 1st of January 1993.</note>
+        <note from="Alexander Tselikov (San_Sany4)" priority="4">@JohnnyW Well I don't have any better ideas. Maybe it took SCS 3 years to catch up. Or maybe this edition was available 3 years ago on some vehicle but that vehicle was not in SCS's games until now, and now they add it with that edition included.</note>
       </trans-unit>
       <trans-unit id="636303" resname="pj_770_aluminium">
         <source>770 Aluminium</source>
@@ -131353,6 +131762,16 @@ Id: ls_aarhus_denmark</context>
           <context context-type="x-crowdin-label">Geo</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="829458" resname="ls_akureyri_iceland">
+        <source>Akureyri, Iceland</source>
+        <target state="translated">아쿠레이리, 아이슬란드</target>
+        <context-group purpose="information">
+          <context context-type="source">ls_akureyri_iceland
+
+Id: ls_akureyri_iceland</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="637647" resname="ls_alesund_norway">
         <source>Ålesund, Norway</source>
         <target state="translated">올레순, 노르웨이</target>
@@ -131844,6 +132263,16 @@ Id: ls_gothenburg_sweden</context>
           <context context-type="x-crowdin-label">Geo</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="829460" resname="ls_gullfoss_iceland">
+        <source>Gullfoss, Iceland</source>
+        <target state="translated">굴포스, 아이슬란드</target>
+        <context-group purpose="information">
+          <context context-type="source">ls_gullfoss_iceland
+
+Id: ls_gullfoss_iceland</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="637745" resname="ls_h19_furka_pass_switzerland">
         <source>H19 (Furka Pass), Switzerland</source>
         <target state="translated">H19 (푸르카 패스), 스위스</target>
@@ -131864,6 +132293,16 @@ Id: ls_hamburg_germany</context>
           <context context-type="x-crowdin-label">Geo</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="829462" resname="ls_harpa_reykjavik_iceland">
+        <source>Harpa, Reykjavík, Iceland</source>
+        <target state="translated">하르파, 레이캬비크, 아이슬란드</target>
+        <context-group purpose="information">
+          <context context-type="source">ls_harpa_reykjavik_iceland
+
+Id: ls_harpa_reykjavik_iceland</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="637749" resname="ls_helsinki_finland">
         <source>Helsinki, Finland</source>
         <target state="translated">헬싱키, 필란드</target>
@@ -131874,6 +132313,26 @@ Id: ls_helsinki_finland</context>
           <context context-type="x-crowdin-label">Geo</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="829464" resname="ls_horgarsveit_iceland">
+        <source>Hörgársveit, Iceland</source>
+        <target state="translated">회르가르스베이트, 아이슬란드</target>
+        <context-group purpose="information">
+          <context context-type="source">ls_horgarsveit_iceland
+
+Id: ls_horgarsveit_iceland</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="829466" resname="ls_hverir_iceland">
+        <source>Hverir, Iceland</source>
+        <target state="translated">흐베리르, 아이슬란드</target>
+        <context-group purpose="information">
+          <context context-type="source">ls_hverir_iceland
+
+Id: ls_hverir_iceland</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="637751" resname="ls_istanbul_turkey">
         <source>Istanbul, Turkey</source>
         <target state="translated">이스탄불, 튀르키예</target>
@@ -131882,6 +132341,16 @@ Id: ls_helsinki_finland</context>
 
 Id: ls_istanbul_turkey</context>
           <context context-type="x-crowdin-label">Geo</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="829468" resname="ls_jokulsarlon_glacier_iceland">
+        <source>Jökulsárlón Glacier, Iceland</source>
+        <target state="translated">요쿨살론 빙하 호수, 아이슬란드</target>
+        <context-group purpose="information">
+          <context context-type="source">ls_jokulsarlon_glacier_iceland
+
+Id: ls_jokulsarlon_glacier_iceland</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
         </context-group>
       </trans-unit>
       <trans-unit id="637753" resname="ls_kalla_bridges_finland">
@@ -131912,6 +132381,16 @@ Id: ls_kaunas_lithuania</context>
 
 Id: ls_kavala_greece</context>
           <context context-type="x-crowdin-label">Geo</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="829470" resname="ls_kirkjufell_iceland">
+        <source>Kirkjufell, Iceland</source>
+        <target state="translated">키르큐펠, 아이슬란드</target>
+        <context-group purpose="information">
+          <context context-type="source">ls_kirkjufell_iceland
+
+Id: ls_kirkjufell_iceland</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
         </context-group>
       </trans-unit>
       <trans-unit id="637759" resname="ls_kiruna_sweden">
@@ -132015,6 +132494,16 @@ Id: ls_munich_germany</context>
           <context context-type="x-crowdin-label">Geo</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="829472" resname="ls_myrdalshreppur_iceland">
+        <source>Mýrdalshreppur, Iceland</source>
+        <target state="translated">미르달슈레푸르, 아이슬란드</target>
+        <context-group purpose="information">
+          <context context-type="source">ls_myrdalshreppur_iceland
+
+Id: ls_myrdalshreppur_iceland</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="637779" resname="ls_mytilene_lesbos_greece">
         <source>Mytilene, Lesbos, Greece</source>
         <target state="translated">미틸레네, 레스보스, 그리스</target>
@@ -132065,6 +132554,16 @@ Id: ls_o_barco_spain</context>
 
 Id: ls_oddesund_bridge_denmark</context>
           <context context-type="x-crowdin-label">Geo</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="829474" resname="ls_olfusarbru_bridge_iceland">
+        <source>Ölfusárbrú Bridge, Iceland</source>
+        <target state="translated">외을푸사 브리지, 아이슬란드</target>
+        <context-group purpose="information">
+          <context context-type="source">ls_olfusarbru_bridge_iceland
+
+Id: ls_olfusarbru_bridge_iceland</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
         </context-group>
       </trans-unit>
       <trans-unit id="637789" resname="ls_oresundsbron_bridge_tollgate_sweden">
@@ -132252,6 +132751,16 @@ Id: ls_sarajevo_bosnia_and_herzegovina</context>
           <context context-type="x-crowdin-label">Geo</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="829476" resname="ls_seljalandsfoss_iceland">
+        <source>Seljalandsfoss, Iceland</source>
+        <target state="translated">셀랴란드스포스, 아이슬란드</target>
+        <context-group purpose="information">
+          <context context-type="source">ls_seljalandsfoss_iceland
+
+Id: ls_seljalandsfoss_iceland</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="637825" resname="ls_sevilla_spain">
         <source>Sevilla, Spain</source>
         <target state="translated">세비야, 스페인</target>
@@ -132282,6 +132791,16 @@ Id: ls_storeblt_bridge_denmark</context>
           <context context-type="x-crowdin-label">Geo</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="829478" resname="ls_stovarfjorur_fjord_iceland">
+        <source>Stöðvarfjörður Fjord, Iceland</source>
+        <target state="translated">스토드바르피요르두르 피요르드, 아이슬란드</target>
+        <context-group purpose="information">
+          <context context-type="source">ls_stovarfjorur_fjord_iceland
+
+Id: ls_stovarfjorur_fjord_iceland</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="637831" resname="ls_stuttgart_germany">
         <source>Stuttgart, Germany</source>
         <target state="translated">슈투트가르트, 독일</target>
@@ -132290,6 +132809,16 @@ Id: ls_storeblt_bridge_denmark</context>
 
 Id: ls_stuttgart_germany</context>
           <context context-type="x-crowdin-label">Geo</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="829480" resname="ls_stykkisholmur_iceland">
+        <source>Stykkishólmur, Iceland</source>
+        <target state="translated">스티키스홀무르, 아이슬란드</target>
+        <context-group purpose="information">
+          <context context-type="source">ls_stykkisholmur_iceland
+
+Id: ls_stykkisholmur_iceland</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
         </context-group>
       </trans-unit>
       <trans-unit id="637833" resname="ls_svolvr_norway">
