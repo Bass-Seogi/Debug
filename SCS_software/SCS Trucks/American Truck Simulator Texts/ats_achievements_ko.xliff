@@ -1807,7 +1807,7 @@ Achievement name for American Truck Simulator shown on the Steam website (http:/
       </trans-unit>
       <trans-unit id="462497" resname="NEW_ACHIEVEMENT_33_15_DESC">
         <source>Complete excellent delivery of any machinery equipment to the Bull Mountains coal mine, Silane from the silane gas factory and Talc Powder from the talc factory</source>
-        <target state="translated">불스 마운틴 탄광으로 실레인 가스 공장에서 실레인을, 활석 공장에서 활석 분말을 모든 기계 장비를 완벽하게 납품해야합니다</target>
+        <target state="translated">불스 마운틴 탄광으로 실레인 가스 공장에서 실레인을, 활석 공장에서 활석 분말을 모든 기계 장비를 완벽하게 배달해야 합니다</target>
         <context-group purpose="information">
           <context context-type="source">NEW_ACHIEVEMENT_33_15_DESC
 
@@ -3372,7 +3372,7 @@ Achievement name for American Truck Simulator shown on the Steam website (http:/
       </trans-unit>
       <trans-unit id="462697" resname="NEW_ACHIEVEMENT_33_10_DESC">
         <source>Complete 10 excellent cattle deliveries to livestock auctions in Wyoming</source>
-        <target state="translated">가축을 와이오밍의 가축 경매시장까지 훌륭하게 (파손 없이, 벌금 없이, 정시에) 10번 운송하십시오</target>
+        <target state="translated">가축을 와이오밍의 가축 경매시장까지 완벽하게 (파손 없이, 벌금 없이, 정시에) 10번 배달해야 합니다</target>
         <context-group purpose="information">
           <context context-type="source">NEW_ACHIEVEMENT_33_10_DESC
 
@@ -3382,7 +3382,7 @@ Achievement description for American Truck Simulator shown on the Steam website 
       </trans-unit>
       <trans-unit id="462699" resname="NEW_ACHIEVEMENT_33_10_SHORT">
         <source>Complete 10 excellent cattle deliveries to livestock auctions in Wyoming</source>
-        <target state="translated">가축을 와이오밍의 가축 경매시장까지 훌륭하게 (파손 없이, 벌금 없이, 정시에) 10번 운송하십시오</target>
+        <target state="translated">가축을 와이오밍의 가축 경매시장까지 완벽하게 (파손 없이, 벌금 없이, 정시에) 10번 배달해야 합니다</target>
         <context-group purpose="information">
           <context context-type="source">NEW_ACHIEVEMENT_33_10_SHORT
 

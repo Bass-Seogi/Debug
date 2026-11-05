@@ -700,7 +700,7 @@
     "description": "Id: NEW_ACHIEVEMENT_33_15_NAME\nAchievement name for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
   },
   "NEW_ACHIEVEMENT_33_15_DESC": {
-    "message": "불스 마운틴 탄광으로 실레인 가스 공장에서 실레인을, 활석 공장에서 활석 분말을 모든 기계 장비를 완벽하게 납품해야합니다",
+    "message": "불스 마운틴 탄광으로 실레인 가스 공장에서 실레인을, 활석 공장에서 활석 분말을 모든 기계 장비를 완벽하게 배달해야 합니다",
     "description": "Id: NEW_ACHIEVEMENT_33_15_DESC\nAchievement description for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
   },
   "NEW_ACHIEVEMENT_33_15_SHORT": {
@@ -1300,11 +1300,11 @@
     "description": "Id: NEW_ACHIEVEMENT_33_10_NAME\nAchievement name for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
   },
   "NEW_ACHIEVEMENT_33_10_DESC": {
-    "message": "가축을 와이오밍의 가축 경매시장까지 훌륭하게 (파손 없이, 벌금 없이, 정시에) 10번 운송하십시오",
+    "message": "가축을 와이오밍의 가축 경매시장까지 완벽하게 (파손 없이, 벌금 없이, 정시에) 10번 배달해야 합니다",
     "description": "Id: NEW_ACHIEVEMENT_33_10_DESC\nAchievement description for American Truck Simulator shown on the Steam website (http://steamcommunity.com/stats/270880/achievements/). Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone."
   },
   "NEW_ACHIEVEMENT_33_10_SHORT": {
-    "message": "가축을 와이오밍의 가축 경매시장까지 훌륭하게 (파손 없이, 벌금 없이, 정시에) 10번 운송하십시오",
+    "message": "가축을 와이오밍의 가축 경매시장까지 완벽하게 (파손 없이, 벌금 없이, 정시에) 10번 배달해야 합니다",
     "description": "Id: NEW_ACHIEVEMENT_33_10_SHORT\nShort version of achievement description for American Truck Simulator. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit."
   },
   "NEW_ACHIEVEMENT_70_4_NAME": {

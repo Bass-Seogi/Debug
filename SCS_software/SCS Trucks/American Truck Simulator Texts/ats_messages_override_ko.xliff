@@ -5041,6 +5041,7 @@ Because of that, it doesn't match with the translated name and the game shows bo
 
 Reported on forum: https://forum.scssoft.com/viewtopic.php?t=353879</note>
         <note from="Viktor Dobrovolný (Nettle)" priority="4">@San_Sany4 Thanks for investigating this! If it doesn't get resolved on its own (following your report), I'll poke someone from the map department.</note>
+        <note from="Alexander Tselikov (San_Sany4)" priority="4">@Nettle still not fixed in 1.62.0.17, and the bug report topic on the forum not acknowledged.</note>
       </trans-unit>
       <trans-unit id="59118" resname="ats_ehrenberg">
         <source>Ehrenberg</source>

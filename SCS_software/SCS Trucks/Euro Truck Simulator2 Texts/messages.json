@@ -15,13 +15,13 @@
 		"message": "스팀 호환 컨트롤러",
 		"description": "Id: steam_emulated_controller\nName of input device which is emulated by Steam Controler API. It is followed by ID number (e.g. `Steam Emulated Controller 000000123456789A`).\nGroup: Steam Controller UI localization in game"
 	},
-	"europe.mbd": {
-		"message": "유럽",
-		"description": "Id: europe.mbd\nMap names"
-	},
 	"steam_sctrl_action_set_simple": {
 		"message": "심플",
 		"description": "Id: sctrl_action_set_simple\nGroup: Steam Controller UI localizations in Steam client"
+	},
+	"europe.mbd": {
+		"message": "유럽",
+		"description": "Id: europe.mbd\nMap names"
 	},
 	"steam_sctrl_action_set_ui": {
 		"message": "UI",
@@ -31,37 +31,37 @@
 		"message": "잠시만 기다려주십시오 ...",
 		"description": "Id: loading\nText shown on the loading screen."
 	},
-	"steam_sctrl_action_set_layer_default": {
-		"message": "기본값",
-		"description": "Id: sctrl_action_set_layer_default\nGroup: Steam Controller UI localizations in Steam client"
-	},
 	"loading_no_job": {
 		"message": "바람처럼 자유로움",
 		"description": "Id: loading_no_job"
 	},
-	"loading_location_country": {
-		"message": "$COUNTRY$ 어딘가에",
-		"description": "Id: loading_location_country\nMessage shown on loading screen when player location is inside specific country."
+	"steam_sctrl_action_set_layer_default": {
+		"message": "기본값",
+		"description": "Id: sctrl_action_set_layer_default\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"steam_sctrl_action_set_layer_map": {
 		"message": "지도",
 		"description": "Id: sctrl_action_set_layer_map\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"loading_changing_mode": {
-		"message": "옮기기",
-		"description": "Id: loading_changing_mode\nMessage shown on loading screen when player is switching between vehicle modes."
+	"loading_location_country": {
+		"message": "$COUNTRY$ 어딘가에",
+		"description": "Id: loading_location_country\nMessage shown on loading screen when player location is inside specific country."
 	},
 	"steam_sctrl_action_set_layer_truck_config": {
 		"message": "트럭 구성",
 		"description": "Id: sctrl_action_set_layer_truck_config\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"current_job_title": {
-		"message": "현재 배차",
-		"description": "Id: current_job_title"
+	"loading_changing_mode": {
+		"message": "옮기기",
+		"description": "Id: loading_changing_mode\nMessage shown on loading screen when player is switching between vehicle modes."
 	},
 	"steam_sctrl_action_set_layer_walking": {
 		"message": "보행",
 		"description": "Id: sctrl_action_set_layer_walking\nGroup: Steam Controller UI localizations in Steam client"
+	},
+	"current_job_title": {
+		"message": "현재 배차",
+		"description": "Id: current_job_title"
 	},
 	"steam_sctrl_action_set_driving": {
 		"message": "주행",
@@ -71,21 +71,21 @@
 		"message": "바탕화면",
 		"description": "Id: desktop\nIcon label under \"Back to desktop\" button"
 	},
-	"steam_sctrl_action_set_layer_photo_mode": {
-		"message": "포토 모드",
-		"description": "Id: sctrl_action_set_layer_photo_mode\nGroup: Steam Controller UI localizations in Steam client"
-	},
 	"engine_t": {
 		"message": "엔진",
 		"description": "Id: engine_t\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
-	"steam_sctrl_action_set_layer_photo_walk": {
-		"message": "포토 모드 보행",
-		"description": "Id: sctrl_action_set_layer_photo_walk\nGroup: Steam Controller UI localizations in Steam client"
+	"steam_sctrl_action_set_layer_photo_mode": {
+		"message": "포토 모드",
+		"description": "Id: sctrl_action_set_layer_photo_mode\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"engine": {
 		"message": "엔진",
 		"description": "Id: engine\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
+	},
+	"steam_sctrl_action_set_layer_photo_walk": {
+		"message": "포토 모드 보행",
+		"description": "Id: sctrl_action_set_layer_photo_walk\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"steam_sctrl_action_mouse_look": {
 		"message": "마우스 보기",
@@ -135,37 +135,37 @@
 		"message": "캐빈",
 		"description": "Id: cabin\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
-	"steam_sctrl_action_steering": {
-		"message": "조향",
-		"description": "Id: sctrl_action_steering\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
-	},
 	"wheels_t": {
 		"message": "휠",
 		"description": "Id: wheels_t\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
-	"wheels": {
-		"message": "휠",
-		"description": "Id: wheels\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
+	"steam_sctrl_action_steering": {
+		"message": "조향",
+		"description": "Id: sctrl_action_steering\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"steam_sctrl_action_aforward": {
 		"message": "가속/전진",
 		"description": "Id: sctrl_action_aforward\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"interior_t": {
-		"message": "인테리어",
-		"description": "Id: interior_t\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
+	"wheels": {
+		"message": "휠",
+		"description": "Id: wheels\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
 	"steam_sctrl_action_abackward": {
 		"message": "브레이크/후진",
 		"description": "Id: sctrl_action_abackward\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"interior": {
+	"interior_t": {
 		"message": "인테리어",
-		"description": "Id: interior\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
+		"description": "Id: interior_t\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
 	"steam_sctrl_action_clutch": {
 		"message": "클러치",
 		"description": "Id: sctrl_action_clutch\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	},
+	"interior": {
+		"message": "인테리어",
+		"description": "Id: interior\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
 	"steam_sctrl_action_scrol_up": {
 		"message": "스크롤 업",
@@ -175,13 +175,13 @@
 		"message": "액세서리",
 		"description": "Id: accessory_t\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
-	"accessory": {
-		"message": "액세서리",
-		"description": "Id: accessory\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
-	},
 	"steam_sctrl_action_scrol_dwn": {
 		"message": "스크롤 다운",
 		"description": "Id: sctrl_action_scrol_dwn\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	},
+	"accessory": {
+		"message": "액세서리",
+		"description": "Id: accessory\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
 	"steam_sctrl_action_mapzoom_in": {
 		"message": "지도 확대",
@@ -191,13 +191,13 @@
 		"message": "인테리어 액세서리",
 		"description": "Id: in_accessory_t\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
-	"steam_sctrl_action_mapzoom_out": {
-		"message": "지도 축소",
-		"description": "Id: sctrl_action_mapzoom_out\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
-	},
 	"in_accessory": {
 		"message": "인테리어 액세서리",
 		"description": "Id: in_accessory\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
+	},
+	"steam_sctrl_action_mapzoom_out": {
+		"message": "지도 축소",
+		"description": "Id: sctrl_action_mapzoom_out\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"steam_sctrl_action_selectfcs": {
 		"message": "선택",
@@ -207,21 +207,21 @@
 		"message": "순정 색상",
 		"description": "Id: paint_job_t\nHeader of list containing stock colors.\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
-	"steam_sctrl_action_skip": {
-		"message": "건너뛰기",
-		"description": "Id: sctrl_action_skip\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
-	},
 	"paint_job": {
 		"message": "순정 색상",
 		"description": "Id: paint_job\nHeader of list containing stock colors.\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
-	"steam_sctrl_action_j_left": {
-		"message": "왼쪽",
-		"description": "Id: sctrl_action_j_left\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	"steam_sctrl_action_skip": {
+		"message": "건너뛰기",
+		"description": "Id: sctrl_action_skip\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"every_paint_job_t": {
 		"message": "도색",
 		"description": "Id: every_paint_job_t\nHeader of list containing all paint jobs.\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
+	},
+	"steam_sctrl_action_j_left": {
+		"message": "왼쪽",
+		"description": "Id: sctrl_action_j_left\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"steam_sctrl_action_j_right": {
 		"message": "오른쪽",
@@ -247,13 +247,13 @@
 		"message": "차량 디자인",
 		"description": "Id: brand\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
-	"steam_sctrl_action_joy_nav_prv": {
-		"message": "이전 화면",
-		"description": "Id: sctrl_action_joy_nav_prv\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
-	},
 	"basket_t": {
 		"message": "주문",
 		"description": "Id: basket_t\nContent of the basket.\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
+	},
+	"steam_sctrl_action_joy_nav_prv": {
+		"message": "이전 화면",
+		"description": "Id: sctrl_action_joy_nav_prv\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"steam_sctrl_action_joy_nav_nxt": {
 		"message": "다음 화면",
@@ -279,13 +279,13 @@
 		"message": "다음 탭",
 		"description": "Id: sctrl_action_joy_sec_nxt\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"current_vehicle_parameters": {
-		"message": "차량 구성",
-		"description": "Id: current_vehicle_parameters\nHeader inside the vehicle analysis pop-up for vehicle parameters\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
-	},
 	"steam_sctrl_action_shortcut_1": {
 		"message": "바로가기 1",
 		"description": "Id: sctrl_action_shortcut_1\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	},
+	"current_vehicle_parameters": {
+		"message": "차량 구성",
+		"description": "Id: current_vehicle_parameters\nHeader inside the vehicle analysis pop-up for vehicle parameters\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
 	"steam_sctrl_action_shortcut_1h": {
 		"message": "바로가기 1 홀드",
@@ -295,13 +295,13 @@
 		"message": "일반 화물",
 		"description": "Id: normal_cargo\nname of the bar for normal cargo suitability\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
-	"heavy_cargo": {
-		"message": "중량화물",
-		"description": "Id: heavy_cargo\nname of the bar for heavy cargo suitability\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
-	},
 	"steam_sctrl_action_shortcut_2": {
 		"message": "바로가기 2",
 		"description": "Id: sctrl_action_shortcut_2\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	},
+	"heavy_cargo": {
+		"message": "중량화물",
+		"description": "Id: heavy_cargo\nname of the bar for heavy cargo suitability\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
 	"maneuverability": {
 		"message": "기동성",
@@ -311,13 +311,13 @@
 		"message": "바로가기 2 홀드",
 		"description": "Id: sctrl_action_shortcut_2h\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"hill_climbing": {
-		"message": "등판능력",
-		"description": "Id: hill_climbing\nname of the bar for truck's performance to take up on hills, up or down\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
-	},
 	"steam_sctrl_action_shortcut_3": {
 		"message": "바로가기 3",
 		"description": "Id: sctrl_action_shortcut_3\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	},
+	"hill_climbing": {
+		"message": "등판능력",
+		"description": "Id: hill_climbing\nname of the bar for truck's performance to take up on hills, up or down\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
 	"uneven_terrain": {
 		"message": "비포장도로",
@@ -359,13 +359,13 @@
 		"message": "차동 기어비",
 		"description": "Id: differential_ratio\nDifferential Ratio of the gearbox\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
-	"effective_wheel_base": {
-		"message": "유효 축간거리",
-		"description": "Id: effective_wheel_base\ntruck's wheelbase in meters, m\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
-	},
 	"steam_sctrl_action_j_trzoom_in": {
 		"message": "트럭 장면 확대",
 		"description": "Id: sctrl_action_j_trzoom_in\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	},
+	"effective_wheel_base": {
+		"message": "유효 축간거리",
+		"description": "Id: effective_wheel_base\ntruck's wheelbase in meters, m\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
 	"steer_angle": {
 		"message": "조향각도",
@@ -383,13 +383,13 @@
 		"message": "지도 확대",
 		"description": "Id: sctrl_action_j_mapzom_in\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"powered_axles": {
-		"message": "구동 축",
-		"description": "Id: powered_axles\namount of powered axles truck has\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
-	},
 	"steam_sctrl_action_j_mapzom_out": {
 		"message": "지도 축소",
 		"description": "Id: sctrl_action_j_mapzom_out\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	},
+	"powered_axles": {
+		"message": "구동 축",
+		"description": "Id: powered_axles\namount of powered axles truck has\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
 	"liftable_axles": {
 		"message": "가변축",
@@ -399,29 +399,29 @@
 		"message": "스크롤 / 팬",
 		"description": "Id: sctrl_action_j_panscroll\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"axles": {
-		"message": "액슬 개수",
-		"description": "Id: axles\namount of axles truck has\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
-	},
 	"steam_sctrl_action_photo_mode": {
 		"message": "포토 모드",
 		"description": "Id: sctrl_action_photo_mode\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"steam_sctrl_action_phot_z_j_in": {
-		"message": "포토 모드 확대",
-		"description": "Id: sctrl_action_phot_z_j_in\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	"axles": {
+		"message": "액슬 개수",
+		"description": "Id: axles\namount of axles truck has\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
 	"gear_count": {
 		"message": "기어 개수",
 		"description": "Id: gear_count\namount of gears in trucks's transmission\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
-	"steam_sctrl_action_phot_z_j_out": {
-		"message": "포토 모드 축소",
-		"description": "Id: sctrl_action_phot_z_j_out\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	"steam_sctrl_action_phot_z_j_in": {
+		"message": "포토 모드 확대",
+		"description": "Id: sctrl_action_phot_z_j_in\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"power": {
 		"message": "엔진 마력",
 		"description": "Id: power\ntruck's engine power\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
+	},
+	"steam_sctrl_action_phot_z_j_out": {
+		"message": "포토 모드 축소",
+		"description": "Id: sctrl_action_phot_z_j_out\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"steam_sctrl_action_photoup": {
 		"message": "포토 모드 카메라 업",
@@ -447,13 +447,13 @@
 		"message": "포토 모드 촬영",
 		"description": "Id: sctrl_action_photosnap\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"steam_sctrl_action_photosman": {
-		"message": "포토 모드 갤러리 열기",
-		"description": "Id: sctrl_action_photosman\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
-	},
 	"heavy_cargo_tooltip": {
 		"message": "중량화물 및 특수화물 운송 업무에 최적화 됨",
 		"description": "Id: heavy_cargo_tooltip\nTooltip description for the Heavy Cargo bar in Truck Analysis\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
+	},
+	"steam_sctrl_action_photosman": {
+		"message": "포토 모드 갤러리 열기",
+		"description": "Id: sctrl_action_photosman\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"maneuverability_tooltip": {
 		"message": "좁은 공간에서 차량이 움직일 수 있는 능력",
@@ -463,21 +463,21 @@
 		"message": "포토 모드 플레이어 네임 토글",
 		"description": "Id: sctrl_action_photonames\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"hill_climbing_tooltip": {
-		"message": "오르막과 내리막을 더욱 부드럽게 주행하기 위해 최적화된 차량 파워트레인",
-		"description": "Id: hill_climbing_tooltip\nTooltip description for the Hill Traversal bar in Vehicle Analysis\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
-	},
 	"steam_sctrl_action_photo_hctrl": {
 		"message": "포토 모드 컨트롤 윈도우 토글",
 		"description": "Id: sctrl_action_photo_hctrl\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"steam_sctrl_action_photo_opts": {
-		"message": "포토 모드 설정 토글",
-		"description": "Id: sctrl_action_photo_opts\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	"hill_climbing_tooltip": {
+		"message": "오르막과 내리막을 더욱 부드럽게 주행하기 위해 최적화된 차량 파워트레인",
+		"description": "Id: hill_climbing_tooltip\nTooltip description for the Hill Traversal bar in Vehicle Analysis\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
 	},
 	"uneven_terrain_tooltip": {
 		"message": "평탄하지 않고 거친 표면을 지나갈 수 있는 능력",
 		"description": "Id: uneven_terrain_tooltip\nTooltip description for the Uneven Terrain bar in Truck Analysis\nGroup: Names of list categories which might be shown in various shopping screens.\nKeep the uppercased strings in upper case where possible."
+	},
+	"steam_sctrl_action_photo_opts": {
+		"message": "포토 모드 설정 토글",
+		"description": "Id: sctrl_action_photo_opts\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"steam_sctrl_action_photores": {
 		"message": "포토 모드 설정 초기화",
@@ -511,37 +511,37 @@
 		"message": "내 트럭",
 		"description": "Id: truck_t\nTitle of window containing information about truck owned by the player. Please keep in upper case where possible."
 	},
-	"driver_plate_t": {
-		"message": "운전자 닉네임 입력",
-		"description": "Id: driver_plate_t\nTitle of window used to enter text for the driver's plate."
-	},
 	"steam_sctrl_action_simple_context2": {
 		"message": "상황별 2 버튼",
 		"description": "Id: sctrl_action_simple_context2\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"steam_sctrl_action_simple_context3": {
-		"message": "상황별 3 버튼",
-		"description": "Id: sctrl_action_simple_context3\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	"driver_plate_t": {
+		"message": "운전자 닉네임 입력",
+		"description": "Id: driver_plate_t\nTitle of window used to enter text for the driver's plate."
 	},
 	"codriver_plate_t": {
 		"message": "교대 운전자 닉네임 입력",
 		"description": "Id: codriver_plate_t\nTitle of window used to enter text for the co-driver's plate."
 	},
-	"truck_upgrades_t": {
-		"message": "트럭 업그레이드",
-		"description": "Id: truck_upgrades_t\nTitle of the screen. Please keep in upper case where possible.\"\nGroup: Screen showing list of the upgrades."
+	"steam_sctrl_action_simple_context3": {
+		"message": "상황별 3 버튼",
+		"description": "Id: sctrl_action_simple_context3\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"steam_sctrl_action_simple_context4": {
 		"message": "상황별 4 버튼",
 		"description": "Id: sctrl_action_simple_context4\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"steam_sctrl_action_simple_pov1_up": {
-		"message": "Dpad 위쪽 버튼",
-		"description": "Id: sctrl_action_simple_pov1_up\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	"truck_upgrades_t": {
+		"message": "트럭 업그레이드",
+		"description": "Id: truck_upgrades_t\nTitle of the screen. Please keep in upper case where possible.\"\nGroup: Screen showing list of the upgrades."
 	},
 	"trailer_upgrades_t": {
 		"message": "트레일러 업그레이드",
 		"description": "Id: trailer_upgrades_t\nTitle of the screen. Please keep in upper case where possible.\"\nGroup: Screen showing list of the upgrades."
+	},
+	"steam_sctrl_action_simple_pov1_up": {
+		"message": "Dpad 위쪽 버튼",
+		"description": "Id: sctrl_action_simple_pov1_up\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"truck_upgrades": {
 		"message": "트럭 업그레이드",
@@ -551,13 +551,13 @@
 		"message": "Dpad 오른쪽 버튼",
 		"description": "Id: sctrl_action_simple_pov1_right\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"steam_sctrl_action_simple_pov1_down": {
-		"message": "Dpad 아래쪽 버튼",
-		"description": "Id: sctrl_action_simple_pov1_down\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
-	},
 	"trailer_upgrades": {
 		"message": "트레일러 업그레이드",
 		"description": "Id: trailer_upgrades\nThe name of the screen containing trailer upgrades.\nGroup: Screen showing list of the upgrades."
+	},
+	"steam_sctrl_action_simple_pov1_down": {
+		"message": "Dpad 아래쪽 버튼",
+		"description": "Id: sctrl_action_simple_pov1_down\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"new_upgrades_about": {
 		"message": "사용할 수 있는 새로운 업그레이드를 확인하십시오.",
@@ -575,21 +575,21 @@
 		"message": "왼쪽 숄더 버튼",
 		"description": "Id: sctrl_action_simple_lb\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"upgrades_gps": {
-		"message": "GPS를 가장 가까운 정비소로 설정",
-		"description": "Id: upgrades_gps\nButton which sets GPS target to the nearest shop.\nGroup: Screen showing list of the upgrades."
-	},
 	"steam_sctrl_action_simple_rb": {
 		"message": "오른쪽 숄더 버튼",
 		"description": "Id: sctrl_action_simple_rb\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"new_upgrades_notice": {
-		"message": "새 업그레이드가 존재합니다!",
-		"description": "Id: new_upgrades_notice\nShown as icon in corner of screen when new upgrades are available.\nGroup: Screen showing list of the upgrades."
+	"upgrades_gps": {
+		"message": "GPS를 가장 가까운 정비소로 설정",
+		"description": "Id: upgrades_gps\nButton which sets GPS target to the nearest shop.\nGroup: Screen showing list of the upgrades."
 	},
 	"steam_sctrl_action_simple_menu1": {
 		"message": "메뉴 1 버튼",
 		"description": "Id: sctrl_action_simple_menu1\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	},
+	"new_upgrades_notice": {
+		"message": "새 업그레이드가 존재합니다!",
+		"description": "Id: new_upgrades_notice\nShown as icon in corner of screen when new upgrades are available.\nGroup: Screen showing list of the upgrades."
 	},
 	"change_gps_to_service": {
 		"message": "내비게이션이 다른 목적지로 설정되었습니다.<br><br>가장 가까운 업그레이드 상점으로 목적지를 변경하시겠습니까?",
@@ -615,45 +615,45 @@
 		"message": "왼쪽 스틱 X",
 		"description": "Id: sctrl_action_simple_x\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"steam_sctrl_action_simple_y": {
-		"message": "왼쪽 스틱 Y",
-		"description": "Id: sctrl_action_simple_y\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
-	},
 	"truck_service": {
 		"message": "서비스",
 		"description": "Id: truck_service\nIcon allowing player to repair the truck. There is limited space allowing for two lines of 7 'W' characters each.\nGroup: Truck service screen.\nAllows to repair damaged components of the truck."
 	},
-	"vehicle_service_about": {
-		"message": "차량을 정비 또는 수리합니다. 훌륭한 운전자는 자신의 차량을 항상 최상의 상태로 유지합니다.",
-		"description": "Id: vehicle_service_about\nHelp message associated with service icon.\nGroup: Truck service screen.\nAllows to repair damaged components of the truck."
+	"steam_sctrl_action_simple_y": {
+		"message": "왼쪽 스틱 Y",
+		"description": "Id: sctrl_action_simple_y\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"steam_sctrl_action_simple_xy": {
 		"message": "왼쪽 스틱",
 		"description": "Id: sctrl_action_simple_xy\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"damage_t": {
-		"message": "대미지 리포트",
-		"description": "Id: damage_t\nHeader of section displaying status of individual components of the vehicle (engine, transmission, ....). Please keep in upper case where possible. Please keep in upper case where possible.\nGroup: Truck service screen.\nAllows to repair damaged components of the truck."
+	"vehicle_service_about": {
+		"message": "차량을 정비 또는 수리합니다. 훌륭한 운전자는 자신의 차량을 항상 최상의 상태로 유지합니다.",
+		"description": "Id: vehicle_service_about\nHelp message associated with service icon.\nGroup: Truck service screen.\nAllows to repair damaged components of the truck."
 	},
 	"steam_sctrl_action_simple_rx": {
 		"message": "오른쪽 스틱 X",
 		"description": "Id: sctrl_action_simple_rx\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"steam_sctrl_action_simple_ry": {
-		"message": "오른쪽 스틱 Y",
-		"description": "Id: sctrl_action_simple_ry\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	"damage_t": {
+		"message": "대미지 리포트",
+		"description": "Id: damage_t\nHeader of section displaying status of individual components of the vehicle (engine, transmission, ....). Please keep in upper case where possible. Please keep in upper case where possible.\nGroup: Truck service screen.\nAllows to repair damaged components of the truck."
 	},
 	"truck_service_repair_all": {
 		"message": "모두 수리",
 		"description": "Id: truck_service_repair_all\nLabel of checkbox that sets all vehicle accessories to be repaired.\nGroup: Truck service screen.\nAllows to repair damaged components of the truck."
 	},
-	"truck_service_replace_all": {
-		"message": "모두 교체",
-		"description": "Id: truck_service_replace_all\nLabel of checkbox that sets all vehicle accessories to be replaced.\nGroup: Truck service screen.\nAllows to repair damaged components of the truck."
+	"steam_sctrl_action_simple_ry": {
+		"message": "오른쪽 스틱 Y",
+		"description": "Id: sctrl_action_simple_ry\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"steam_sctrl_action_simple_rxy": {
 		"message": "오른쪽 스틱",
 		"description": "Id: sctrl_action_simple_rxy\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	},
+	"truck_service_replace_all": {
+		"message": "모두 교체",
+		"description": "Id: truck_service_replace_all\nLabel of checkbox that sets all vehicle accessories to be replaced.\nGroup: Truck service screen.\nAllows to repair damaged components of the truck."
 	},
 	"vehicle_service_vehicle_t": {
 		"message": "차량 대미지 리포트",
@@ -663,13 +663,13 @@
 		"message": "축 1 X",
 		"description": "Id: sctrl_action_simple_v1x\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"steam_sctrl_action_simple_v1y": {
-		"message": "축 1 Y",
-		"description": "Id: sctrl_action_simple_v1y\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
-	},
 	"truck_service_trailer_t": {
 		"message": "트레일러 대미지 리포트",
 		"description": "Id: truck_service_trailer_t\nHeader of section displaying status of individual components of the trailer. Please keep in upper case where possible.\nGroup: Truck service screen.\nAllows to repair damaged components of the truck."
+	},
+	"steam_sctrl_action_simple_v1y": {
+		"message": "축 1 Y",
+		"description": "Id: sctrl_action_simple_v1y\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"steam_sctrl_action_simple_v1": {
 		"message": "축 1",
@@ -687,21 +687,21 @@
 		"message": "축 2 X",
 		"description": "Id: sctrl_action_simple_v2x\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"steam_sctrl_action_simple_v2y": {
-		"message": "축 2 Y",
-		"description": "Id: sctrl_action_simple_v2y\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
-	},
 	"vehicle_config_t": {
 		"message": "차량 구성",
 		"description": "Id: vehicle_config_t\nTitle of the screen. Please keep in upper case where possible.\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
-	"vehicle_config": {
-		"message": "차량 구성",
-		"description": "Id: vehicle_config\nIcon allowing player to upgrade the vehicle.\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
+	"steam_sctrl_action_simple_v2y": {
+		"message": "축 2 Y",
+		"description": "Id: sctrl_action_simple_v2y\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"steam_sctrl_action_simple_v2": {
 		"message": "축 2",
 		"description": "Id: sctrl_action_simple_v2\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	},
+	"vehicle_config": {
+		"message": "차량 구성",
+		"description": "Id: vehicle_config\nIcon allowing player to upgrade the vehicle.\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
 	"steam_sctrl_action_simple_v3x": {
 		"message": "축 3 X",
@@ -711,13 +711,13 @@
 		"message": "아시다시피, 당신은 차량을 튜닝 및 페인트를 칠하여 좀 더 만족할 수 있을겁니다.",
 		"description": "Id: vehicle_config_about\nHelp message associated with upgrade icon.\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
-	"price": {
-		"message": "가격",
-		"description": "Id: price\nLabel of line with combined price of all new parts in basket.\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
-	},
 	"steam_sctrl_action_simple_v3y": {
 		"message": "축 3 Y",
 		"description": "Id: sctrl_action_simple_v3y\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	},
+	"price": {
+		"message": "가격",
+		"description": "Id: price\nLabel of line with combined price of all new parts in basket.\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
 	"refund": {
 		"message": "환불",
@@ -743,21 +743,21 @@
 		"message": "차량에 배치된 핀을 선택하면 적용할 수 있는 액세서리를 볼 수 있습니다.",
 		"description": "Id: select_pin\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
-	"steam_sctrl_action_simple_v4": {
-		"message": "축 4",
-		"description": "Id: sctrl_action_simple_v4\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
-	},
 	"tc_orig_price": {
 		"message": "원래 가격:",
 		"description": "Id: tc_orig_price\nFollowed by the price of the original configuration of the new truck.\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
-	"tc_extra_price": {
-		"message": "추가 가격:",
-		"description": "Id: tc_extra_price\nFollowed by difference between the new price with all the modifications and the price of the original configuration.\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
+	"steam_sctrl_action_simple_v4": {
+		"message": "축 4",
+		"description": "Id: sctrl_action_simple_v4\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"steam_sctrl_action_simple_lt": {
 		"message": "왼쪽 트리거",
 		"description": "Id: sctrl_action_simple_lt\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	},
+	"tc_extra_price": {
+		"message": "추가 가격:",
+		"description": "Id: tc_extra_price\nFollowed by difference between the new price with all the modifications and the price of the original configuration.\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
 	"tc_new_total": {
 		"message": "새로운 합계:",
@@ -767,21 +767,21 @@
 		"message": "오른쪽 트리거",
 		"description": "Id: sctrl_action_simple_rt\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"steam_sctrl_action_simple_a1": {
-		"message": "트리거 1",
-		"description": "Id: sctrl_action_simple_a1\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
-	},
 	"spare_parts": {
 		"message": "환불된 부품",
 		"description": "Id: spare_parts\nRefunded parts title in the shopping cart\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
-	"refund_t": {
-		"message": "환불",
-		"description": "Id: refund_t\nTitle of dialog box with missing parts refundation\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
+	"steam_sctrl_action_simple_a1": {
+		"message": "트리거 1",
+		"description": "Id: sctrl_action_simple_a1\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"steam_sctrl_action_simple_a2": {
 		"message": "트리거 2",
 		"description": "Id: sctrl_action_simple_a2\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	},
+	"refund_t": {
+		"message": "환불",
+		"description": "Id: refund_t\nTitle of dialog box with missing parts refundation\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
 	"refund_spare_parts_msg": {
 		"message": "누락된 MOD가 감지되었습니다. 영향을 받는 차량 부품을 환불받을 수 있습니다.<br offset=35>'주문 확인'을 클릭하면 환불받을 수 있습니다.<br><color value=@@clr_sel@@>또는<color value=@@clr_txt@@><br>누락된 MOD를 나중에 다시 설치하려면 변경하지 말고 종료하십시오.",
@@ -791,21 +791,21 @@
 		"message": "트리거 3",
 		"description": "Id: sctrl_action_simple_a3\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"steam_sctrl_action_simple_a4": {
-		"message": "트리거 4",
-		"description": "Id: sctrl_action_simple_a4\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
-	},
 	"part_type_aftermarket": {
 		"message": "애프터마켓 부품",
 		"description": "Id: part_type_aftermarket\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
-	"part_type_factory": {
-		"message": "공장 부품",
-		"description": "Id: part_type_factory\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
+	"steam_sctrl_action_simple_a4": {
+		"message": "트리거 4",
+		"description": "Id: sctrl_action_simple_a4\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"steam_sctrl_action_simple_b1": {
 		"message": "버튼 1",
 		"description": "Id: sctrl_action_simple_b1\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	},
+	"part_type_factory": {
+		"message": "공장 부품",
+		"description": "Id: part_type_factory\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
 	"part_type_licensed": {
 		"message": "라이센스 부품",
@@ -815,29 +815,29 @@
 		"message": "버튼 2",
 		"description": "Id: sctrl_action_simple_b2\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"steam_sctrl_action_simple_b3": {
-		"message": "버튼 3",
-		"description": "Id: sctrl_action_simple_b3\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
-	},
 	"overlay_reset_cam": {
 		"message": "카메라 재설정",
 		"description": "Id: overlay_reset_cam\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
-	"steam_sctrl_action_simple_b4": {
-		"message": "버튼 4",
-		"description": "Id: sctrl_action_simple_b4\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	"steam_sctrl_action_simple_b3": {
+		"message": "버튼 3",
+		"description": "Id: sctrl_action_simple_b3\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"overlay_lights": {
 		"message": "라이트",
 		"description": "Id: overlay_lights\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
-	"overlay_fullscreen_activate": {
-		"message": "전체화면",
-		"description": "Id: overlay_fullscreen_activate\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
+	"steam_sctrl_action_simple_b4": {
+		"message": "버튼 4",
+		"description": "Id: sctrl_action_simple_b4\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"steam_sctrl_action_simple_b5": {
 		"message": "버튼 5",
 		"description": "Id: sctrl_action_simple_b5\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	},
+	"overlay_fullscreen_activate": {
+		"message": "전체화면",
+		"description": "Id: overlay_fullscreen_activate\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
 	"overlay_fullscreen_deactivate": {
 		"message": "전체화면 종료",
@@ -847,45 +847,45 @@
 		"message": "버튼 6",
 		"description": "Id: sctrl_action_simple_b6\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"overlay_screenshot": {
-		"message": "스크린샷",
-		"description": "Id: overlay_screenshot\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
-	},
 	"steam_sctrl_action_simple_b7": {
 		"message": "버튼 7",
 		"description": "Id: sctrl_action_simple_b7\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
-	"steam_sctrl_action_simple_b8": {
-		"message": "버튼 8",
-		"description": "Id: sctrl_action_simple_b8\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
+	"overlay_screenshot": {
+		"message": "스크린샷",
+		"description": "Id: overlay_screenshot\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
 	"overlay_att_truck": {
 		"message": "트럭 연결",
 		"description": "Id: overlay_att_truck\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
-	"overlay_det_truck": {
-		"message": "트럭 분리",
-		"description": "Id: overlay_det_truck\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
+	"steam_sctrl_action_simple_b8": {
+		"message": "버튼 8",
+		"description": "Id: sctrl_action_simple_b8\nGroup: Individual bindable actions\nGroup: Steam Controller UI localizations in Steam client"
 	},
 	"steam_decide_steam_input_mode_t": {
 		"message": "스팀 입력 매핑 모드 선택",
 		"description": "Id: decide_steam_input_mode_t\nTitle of the message box.\nGroup: Steam Input mapping mode introduction message box."
 	},
-	"steam_decide_steam_input_mode": {
-		"message": "새로운 <color value=@@clr_sel@@>게임 내 매핑 모드<color value=@@clr_txt@@>를 소개합니다, 이 모드는 전체 게임 내 키 바인딩 구성과 더 나은 버튼 힌트를 지원합니다. 이것은 권장되는 모드입니다.<br><br>스팀 클라이언트를 통해 게임패드 레이아웃을 사용자 지정한 경우 <color value=@@clr_sel@@>스팀 클라이언트 매핑 모드<color value=@@clr_txt@@>를 유지하십시오.<br><br>입력 마법사를 사용하여 옵션에서 언제든지 모드를 변경할 수 있습니다.",
-		"description": "Id: decide_steam_input_mode\nText shown in a message box.\nGroup: Steam Input mapping mode introduction message box."
+	"overlay_det_truck": {
+		"message": "트럭 분리",
+		"description": "Id: overlay_det_truck\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
 	"overlay_att_trailer": {
 		"message": "트레일러 연결",
 		"description": "Id: overlay_att_trailer\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
-	"overlay_det_trailer": {
-		"message": "트레일러 분리",
-		"description": "Id: overlay_det_trailer\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
+	"steam_decide_steam_input_mode": {
+		"message": "새로운 <color value=@@clr_sel@@>게임 내 매핑 모드<color value=@@clr_txt@@>를 소개합니다, 이 모드는 전체 게임 내 키 바인딩 구성과 더 나은 버튼 힌트를 지원합니다. 이것은 권장되는 모드입니다.<br><br>스팀 클라이언트를 통해 게임패드 레이아웃을 사용자 지정한 경우 <color value=@@clr_sel@@>스팀 클라이언트 매핑 모드<color value=@@clr_txt@@>를 유지하십시오.<br><br>입력 마법사를 사용하여 옵션에서 언제든지 모드를 변경할 수 있습니다.",
+		"description": "Id: decide_steam_input_mode\nText shown in a message box.\nGroup: Steam Input mapping mode introduction message box."
 	},
 	"steam_decide_steam_input_mode_keep_advanced": {
 		"message": "스팀 클라이언트 모드 계속하기",
 		"description": "Id: decide_steam_input_mode_keep_advanced\nButton keeping the old advanced mode of Steam Input.\nGroup: Steam Input mapping mode introduction message box."
+	},
+	"overlay_det_trailer": {
+		"message": "트레일러 분리",
+		"description": "Id: overlay_det_trailer\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
 	"steam_decide_steam_input_mode_setup_simple": {
 		"message": "입력 마법사 열기",
@@ -895,53 +895,53 @@
 		"message": "Scroll",
 		"description": "Id: overlay_scroll\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
-	"overlay_pick_color_slot": {
-		"message": "색상 전환",
-		"description": "Id: overlay_pick_color_slot\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
-	},
 	"steam_input_mode": {
 		"message": "스팀 입력 매핑 모드",
 		"description": "Id: steam_input_mode\nLabel of the line.\nGroup: Selection of the Steam Input Mapping Mode\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
-	"overlay_select_color": {
-		"message": "색상 조정",
-		"description": "Id: overlay_select_color\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
+	"overlay_pick_color_slot": {
+		"message": "색상 전환",
+		"description": "Id: overlay_pick_color_slot\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
 	"steam_input_mode_simple": {
 		"message": "게임 내 매핑",
 		"description": "Id: steam_input_mode_simple\nDefault simple in-game layout.\nGroup: Selection of the Steam Input Mapping Mode\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
-	"tooltip_apply_color_to_compatible": {
-		"message": "호환되는 모든 항목에 적용",
-		"description": "Id: tooltip_apply_color_to_compatible\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
+	"overlay_select_color": {
+		"message": "색상 조정",
+		"description": "Id: overlay_select_color\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
 	"steam_input_mode_advanced": {
 		"message": "스팀 클라이언트 매핑",
 		"description": "Id: steam_input_mode_advanced\nAdvanced external layout configured in Steam Client.\nGroup: Selection of the Steam Input Mapping Mode\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
-	"tc_confirm_order": {
-		"message": "현재 설정을 그대로 진행하시겠습니까?<br>총 가격은 <color value=@@clr_sel@@>$CART_PRICE$<color value=@@clr_txt@@>입니다.",
-		"description": "Id: tc_confirm_order\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
+	"tooltip_apply_color_to_compatible": {
+		"message": "호환되는 모든 항목에 적용",
+		"description": "Id: tooltip_apply_color_to_compatible\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
 	"steam_input_mode_op_tooltip": {
 		"message": "@@controller_ps5@@, @@controller_xbox_one@@ 또는 @@controller_steam_deck@@와(과) 같은 게임패드에 대한 모드를 선택하여 스팀 입력 인터페이스를 선택합니다:<br>- \"스팀 클라이언트 매핑\" - 스팀 클라이언트를 통해 구성된 독립형 레이아웃을 사용합니다. 게임 내 버튼 힌트에 대한 지원이 제한적이며 게임 내 바인딩 구성이 없습니다.<br>_ \"게임 내 매핑\" - 범용 단순 레이아웃을 사용합니다. 전체 게임 내 키 바인딩 구성과 더 나은 버튼 힌트를 지원합니다. 이 모드로 전환할 때 입력 마법사를 실행하는 것이 좋습니다. 이것이 권장되는 모드입니다.",
 		"description": "Id: steam_input_mode_op_tooltip\nGroup: Tooltips.\nGroup: Options/Control\nScreen used to configure input related to game controllers (axes, force feedback,..)"
 	},
-	"steam_controller_steam": {
-		"message": "스팀 컨트롤러",
-		"description": "Id: controller_steam\nGroup: Supported controller names."
+	"tc_confirm_order": {
+		"message": "현재 설정을 그대로 진행하시겠습니까?<br>총 가격은 <color value=@@clr_sel@@>$CART_PRICE$<color value=@@clr_txt@@>입니다.",
+		"description": "Id: tc_confirm_order\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
 	"td_confirm": {
 		"message": "현재 설정을 그대로 진행하시겠습니까?",
 		"description": "Id: td_confirm\nGroup: Truck upgrade/configuration screen.\nAllows to add or remove various accessories."
 	},
-	"steam_controller_steam_deck": {
-		"message": "스팀덱",
-		"description": "Id: controller_steam_deck\nGroup: Supported controller names."
+	"steam_controller_steam": {
+		"message": "스팀 컨트롤러",
+		"description": "Id: controller_steam\nGroup: Supported controller names."
 	},
 	"truck_diag_t": {
 		"message": "차량 진단",
 		"description": "Id: truck_diag_t\nTitle of the screen. Please keep in upper case where possible.\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
+	},
+	"steam_controller_steam_deck": {
+		"message": "스팀덱",
+		"description": "Id: controller_steam_deck\nGroup: Supported controller names."
 	},
 	"truck_diag": {
 		"message": "차량 진단",
@@ -951,37 +951,37 @@
 		"message": "스팀 입력 컨트롤러",
 		"description": "Id: controller_steam_fusion\nGroup: Supported controller names."
 	},
-	"vehicle_diag_about": {
-		"message": "차량 및 현재 상태에 대한 정보를 볼 수 있습니다.",
-		"description": "Id: vehicle_diag_about\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
-	},
 	"steam_cloud_synchronization": {
 		"message": "스팀 클라우드 동기화:",
 		"description": "Id: steam_cloud_synchronization\nWhether is steam cloud synchronization active.\nGroup: Profile selection."
 	},
-	"truck_diag_warning": {
-		"message": "차량 상태가 좋지 않습니다. 가능한 빨리 서비스를 받으십시오.",
-		"description": "Id: truck_diag_warning\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
+	"vehicle_diag_about": {
+		"message": "차량 및 현재 상태에 대한 정보를 볼 수 있습니다.",
+		"description": "Id: vehicle_diag_about\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
 	},
 	"steam_new_version_available_steam": {
 		"message": "이전 버전의 게임을 사용하고 있습니다.<br>자동 업데이트를 끄지 않으셨다면 스팀이 자동으로 게임을 업데이트합니다.",
 		"description": "Id: new_version_available_steam\nGroup: News."
 	},
-	"truck_diag_warning_minor_dmg": {
-		"message": "가까운 서비스 센터에서 차량을 수리할 수 있습니다.",
-		"description": "Id: truck_diag_warning_minor_dmg\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
+	"truck_diag_warning": {
+		"message": "차량 상태가 좋지 않습니다. 가능한 빨리 서비스를 받으십시오.",
+		"description": "Id: truck_diag_warning\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
 	},
 	"steam_demo": {
 		"message": "Euro Truck Simulator 2 무료 평가판이 마음에 드셨다면 <LINK URL=@@steam_buy_url@@ COLOR=@@clr_link@@>스팀</LINK>에서 정식 버전을 구입해 주시기 바랍니다!",
 		"description": "Id: steam_demo\nMessage shown on the \"activation\" screen for Steam demo only build."
 	},
-	"steam_sys_no_steam": {
-		"message": "Euro Truck Simulator 2가 스팀 클라이언트에 접근할 수 없습니다. 문제 해결을 위한 제안입니다:\n\n1. 스팀 클라이언트가 실행 중인지 확인하십시오.\n2. 스팀 클라이언트의 버전을 업데이트했는지 확인하십시오.\n3. 자동 업데이트가 활성화되어 있고 게임이 최신 버전으로 업데이트되어 있는지 확인합니다.",
-		"description": "Id: sys_no_steam\nError message shown when the game version distributed over Steam can not communicate with the Steam client.\nGroup: Networking errors"
+	"truck_diag_warning_minor_dmg": {
+		"message": "가까운 서비스 센터에서 차량을 수리할 수 있습니다.",
+		"description": "Id: truck_diag_warning_minor_dmg\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
 	},
 	"truck_diag_tooltip_integrity_wear": {
 		"message": "유지 보수:",
 		"description": "Id: truck_diag_tooltip_integrity_wear\nLabel of integrity wear in tooltip.\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
+	},
+	"steam_sys_no_steam": {
+		"message": "Euro Truck Simulator 2가 스팀 클라이언트에 접근할 수 없습니다. 문제 해결을 위한 제안입니다:\n\n1. 스팀 클라이언트가 실행 중인지 확인하십시오.\n2. 스팀 클라이언트의 버전을 업데이트했는지 확인하십시오.\n3. 자동 업데이트가 활성화되어 있고 게임이 최신 버전으로 업데이트되어 있는지 확인합니다.",
+		"description": "Id: sys_no_steam\nError message shown when the game version distributed over Steam can not communicate with the Steam client.\nGroup: Networking errors"
 	},
 	"truck_diag_tooltip_integrity_wear_note": {
 		"message": "차량 전체에 걸친 체계적 노화와 지속적인 마모 증가를 나타냅니다. 전체 복구로 수정되었습니다.",
@@ -991,13 +991,13 @@
 		"message": "현재 설치된 DLC (다운로드 가능한 콘텐츠) 중 일부는 현재 게임 버전과 호환되지 않으므로 사용할 수 없습니다. 스팀 게임 캐시의 무결성을 확인하십시오.<br><br>호환되지 않는 콘텐츠는 다음과 같습니다:",
 		"description": "Id: incompatible_dlc_steam\nGroup: Message shown when there are DLC packs which are not compatible with the game."
 	},
-	"truck_diag_tooltip_wear_unfixable": {
-		"message": "평균 마모:",
-		"description": "Id: truck_diag_tooltip_wear_unfixable\nLabel of unfixable wear in tooltip.\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
-	},
 	"steam_profile_already_exists": {
 		"message": "동일한 이름의 스팀 프로필이 이미 있으므로 스팀 프로필을 만들 수 없습니다.",
 		"description": "Id: steam_profile_already_exists\nCreate profile screen, cannot create steam profile because of name conflict.\nGroup: Steam cloud."
+	},
+	"truck_diag_tooltip_wear_unfixable": {
+		"message": "평균 마모:",
+		"description": "Id: truck_diag_tooltip_wear_unfixable\nLabel of unfixable wear in tooltip.\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
 	},
 	"truck_diag_tooltip_wear_unfixable_note": {
 		"message": "부품 교체를 통해 수리.",
@@ -1007,21 +1007,21 @@
 		"message": "프로필을 이전할 수 없습니다. 이미 다른 프로필에 동일한 이름이 존재합니다.",
 		"description": "Id: migration_target_profile_already_exists\nEdit screen, cannot migrate profile from/to steam because of name conflict.\nGroup: Steam cloud."
 	},
-	"truck_diag_tooltip_wear": {
-		"message": "평균 대미지:",
-		"description": "Id: truck_diag_tooltip_wear\nLabel of damage in tooltip.\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
-	},
 	"steam_profile_migration_error": {
 		"message": "프로필 이전에 실패하였습니다",
 		"description": "Id: steam_profile_migration_error\nEdit screen, cannot migrate profile because of some internal error.\nGroup: Steam cloud."
 	},
-	"truck_diag_tooltip_wear_note": {
-		"message": "수리 또는 부품 교체를 통해 수리.",
-		"description": "Id: truck_diag_tooltip_wear_note\nExplanation of damage in tooltip.\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
+	"truck_diag_tooltip_wear": {
+		"message": "평균 대미지:",
+		"description": "Id: truck_diag_tooltip_wear\nLabel of damage in tooltip.\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
 	},
 	"steam_cloud_settings_label": {
 		"message": "스팀 클라우드 동기화",
 		"description": "Id: steam_cloud_settings_label\nEdit or create screen checkbox.\nGroup: Steam cloud."
+	},
+	"truck_diag_tooltip_wear_note": {
+		"message": "수리 또는 부품 교체를 통해 수리.",
+		"description": "Id: truck_diag_tooltip_wear_note\nExplanation of damage in tooltip.\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
 	},
 	"steam_load_msg_out_of_steam_intro_has_space": {
 		"message": "스팀 클라우드는 저장하기 위한 공간이 충분히 있습니다.",
@@ -1047,13 +1047,13 @@
 		"message": "공간 초과: <color value=@@clr_red@@>$BYTES$ MB<color value=@@clr_txt@@>",
 		"description": "Id: load_msg_out_of_steam_to_free_bytes\nNumber of Megabytes player has to remove.\nGroup: Steam cloud."
 	},
-	"steam_load_msg_out_of_steam_to_free_files": {
-		"message": "초과된 파일: <color value=@@clr_red@@>$FILES$<color value=@@clr_txt@@>",
-		"description": "Id: load_msg_out_of_steam_to_free_files\nNumber of files player has to remove.\nGroup: Steam cloud."
-	},
 	"wear": {
 		"message": "대미지",
 		"description": "Id: wear\nAccesory damage column table header.\nGroup: Truck diagnostics screen.\nShows damage of individual components of the truck while on the road."
+	},
+	"steam_load_msg_out_of_steam_to_free_files": {
+		"message": "초과된 파일: <color value=@@clr_red@@>$FILES$<color value=@@clr_txt@@>",
+		"description": "Id: load_msg_out_of_steam_to_free_files\nNumber of files player has to remove.\nGroup: Steam cloud."
 	},
 	"truck_diag_action": {
 		"message": "행동",
@@ -1095,13 +1095,13 @@
 		"message": "프로필을 로컬 프로필 형태로 전환하면 해당 프로필은 접속한 스팀 계정과 관계없이 이 컴퓨터에서만 사용할 수 있습니다.",
 		"description": "Id: steam_profile_migration_to_local_warning\nPopup warning when player unchecks the steam cloud checkbox in the profile edit screen.\nGroup: Steam cloud."
 	},
-	"total": {
-		"message": "총 결제 금액:",
-		"description": "Id: total\nFollowed by to total price for the currently selected upgrades or repairs."
-	},
 	"steam_migration_failed": {
 		"message": "프로필 마이그레이션에 실패했습니다. 데이터가 전송되지 않았으며, 시스템은 원본 프로필을 그대로 유지했습니다. 다시 시도해 주십시오.",
 		"description": "Id: migration_failed\nshown during profile type switching (e.g., Steam ↔ non-Steam) if moving save files fails\nGroup: Steam cloud."
+	},
+	"total": {
+		"message": "총 결제 금액:",
+		"description": "Id: total\nFollowed by to total price for the currently selected upgrades or repairs."
 	},
 	"basket": {
 		"message": "주문 보기",
@@ -1146,6 +1146,10 @@
 	"trailer_job_major_change": {
 		"message": "운송 도중 트레일러의 종류, 차체 또는 샤시를 바꿀 수 없습니다! 운송을 끝내고 다시 시도하시기 바랍니다.",
 		"description": "Id: trailer_job_major_change\nShown if user attemps make major change on owned trailer that is currently carrying cargo."
+	},
+	"bus_job_service_refusal": {
+		"message": "업무 수행 중인 코치 서비스를 이용할 수 없습니다.",
+		"description": "Id: bus_job_service_refusal\nShown as message box if user activates a service while on a bus job."
 	},
 	"trailer_configurator_invalid_country": {
 		"message": "선택한 $ACC$은(는) <color value=@@clr_sel@@>$COUNTRIES$<color value=@@clr_txt@@> 이외의 지역에서 설치할 수 없습니다.",
@@ -8931,6 +8935,10 @@
 		"message": "G-포스 미터",
 		"description": "Id: adv_hud_bus_gmeter\nGroup: Adviser Options\nGroup: Route adviser"
 	},
+	"adv_hud_bus_gmeter_op_tooltip": {
+		"message": "주행 중 차량에 작용하는 G-포스를 표시합니다. 부드러운 주행을 유지하는 데 도움을 줍니다.",
+		"description": "Id: adv_hud_bus_gmeter_op_tooltip\nGroup: Adviser Options\nGroup: Route adviser"
+	},
 	"adv_hud_chat": {
 		"message": "채팅",
 		"description": "Id: adv_hud_chat\nWidget name for displaying the convoy chat.\nGroup: Adviser Options\nGroup: Route adviser"
@@ -14415,6 +14423,10 @@
 		"message": "아작시오",
 		"description": "Id: ajaccio\nGroup: Names of cities"
 	},
+	"akureyri": {
+		"message": "아쿠레이리",
+		"description": "Id: akureyri\nGroup: Names of cities"
+	},
 	"albacete": {
 		"message": "알바세테",
 		"description": "Id: albacete\nGroup: Names of cities"
@@ -14555,6 +14567,10 @@
 		"message": "비톨라",
 		"description": "Id: bitola\nGroup: Names of cities"
 	},
+	"blonduos": {
+		"message": "블뢴뒤오스",
+		"description": "Id: blonduos\nGroup: Names of cities"
+	},
 	"bodo": {
 		"message": "보되",
 		"description": "Id: bodo\nGroup: Names of cities"
@@ -14574,6 +14590,10 @@
 	"bordeaux": {
 		"message": "보르도",
 		"description": "Id: bordeaux\nGroup: Names of cities"
+	},
+	"borgarnes": {
+		"message": "보르가르네스",
+		"description": "Id: borgarnes\nGroup: Names of cities"
 	},
 	"borlange": {
 		"message": "볼렝에",
@@ -14602,6 +14622,10 @@
 	"brest": {
 		"message": "브레스트",
 		"description": "Id: brest\nGroup: Names of cities"
+	},
+	"brjanslaekur": {
+		"message": "브리얀슬래쿠르",
+		"description": "Id: brjanslaekur\nGroup: Names of cities"
 	},
 	"brno": {
 		"message": "브르노",
@@ -14767,6 +14791,10 @@
 		"message": "에디르네",
 		"description": "Id: edirne\nGroup: Names of cities"
 	},
+	"egilsstadir": {
+		"message": "에이일스타디르",
+		"description": "Id: egilsstadir\nGroup: Names of cities"
+	},
 	"eindhoven": {
 		"message": "아인트호벤",
 		"description": "Id: eindhoven\nGroup: Names of cities"
@@ -14931,6 +14959,14 @@
 		"message": "히르트스할스",
 		"description": "Id: hirtshals\nGroup: Names of cities"
 	},
+	"hofn": {
+		"message": "회픈",
+		"description": "Id: hofn\nGroup: Names of cities"
+	},
+	"holmavik": {
+		"message": "홀마빅",
+		"description": "Id: holmavik\nGroup: Names of cities"
+	},
 	"honningsvag": {
 		"message": "호닝스버그",
 		"description": "Id: honningsvag\nGroup: Names of cities"
@@ -14946,6 +14982,10 @@
 	"hunedoara": {
 		"message": "후네도아라",
 		"description": "Id: hunedoara\nGroup: Names of cities"
+	},
+	"husavik": {
+		"message": "후사비크",
+		"description": "Id: husavik\nGroup: Names of cities"
 	},
 	"iasi": {
 		"message": "이아시",
@@ -14966,6 +15006,10 @@
 	"ioannina": {
 		"message": "요아니나",
 		"description": "Id: ioannina\nGroup: Names of cities"
+	},
+	"isafjordur": {
+		"message": "이사피외르뒤르",
+		"description": "Id: isafjordur\nGroup: Names of cities"
 	},
 	"istanbul": {
 		"message": "이스탄불",
@@ -15046,6 +15090,10 @@
 	"kavala": {
 		"message": "카발라",
 		"description": "Id: kavala\nGroup: Names of cities"
+	},
+	"keflavik": {
+		"message": "케플라비크",
+		"description": "Id: keflavik\nGroup: Names of cities"
 	},
 	"kiel": {
 		"message": "킬",
@@ -15419,6 +15467,10 @@
 		"message": "오덴세",
 		"description": "Id: odense\nGroup: Names of cities"
 	},
+	"olafsvik": {
+		"message": "올라프스비크",
+		"description": "Id: olafsvik\nGroup: Names of cities"
+	},
 	"olbia": {
 		"message": "올비아",
 		"description": "Id: olbia\nGroup: Names of cities"
@@ -15506,6 +15558,10 @@
 	"patras": {
 		"message": "파트라",
 		"description": "Id: patras\nGroup: Names of cities"
+	},
+	"patreksfjord": {
+		"message": "파트렉스피요르두르",
+		"description": "Id: patreksfjord\nGroup: Names of cities"
 	},
 	"pecs": {
 		"message": "페치",
@@ -15607,6 +15663,10 @@
 		"message": "레시차",
 		"description": "Id: resita\nGroup: Names of cities"
 	},
+	"reykjavik": {
+		"message": "레이캬비크",
+		"description": "Id: reykjavik\nGroup: Names of cities"
+	},
 	"rezekne": {
 		"message": "레제크네",
 		"description": "Id: rezekne\nGroup: Names of cities"
@@ -15699,6 +15759,10 @@
 		"message": "사사리",
 		"description": "Id: sassari\nGroup: Names of cities"
 	},
+	"selfoss": {
+		"message": "셀포스",
+		"description": "Id: selfoss\nGroup: Names of cities"
+	},
 	"setubal": {
 		"message": "세투발",
 		"description": "Id: setubal\nGroup: Names of cities"
@@ -15706,6 +15770,10 @@
 	"sevilla": {
 		"message": "세비야",
 		"description": "Id: sevilla\nGroup: Names of cities"
+	},
+	"seydisfjodur": {
+		"message": "세이디스피외르뒤르",
+		"description": "Id: seydisfjodur\nGroup: Names of cities"
 	},
 	"sheffield": {
 		"message": "셰필드",
@@ -15770,6 +15838,10 @@
 	"strasbourg": {
 		"message": "스트라스부르",
 		"description": "Id: strasbourg\nGroup: Names of cities"
+	},
+	"stykkisholmur": {
+		"message": "스티키스홀무르",
+		"description": "Id: stykkisholmur\nGroup: Names of cities"
 	},
 	"stuttgart": {
 		"message": "슈투트가르트",
@@ -15838,6 +15910,14 @@
 	"thessaloniki": {
 		"message": "테살로니키",
 		"description": "Id: thessaloniki\nGroup: Names of cities"
+	},
+	"thorlakshofn": {
+		"message": "토를락쇼프",
+		"description": "Id: thorlakshofn\nGroup: Names of cities"
+	},
+	"thorshofn": {
+		"message": "토르스하븐",
+		"description": "Id: thorshofn\nGroup: Names of cities"
 	},
 	"timisoara": {
 		"message": "티미쇼아라",
@@ -15962,6 +16042,10 @@
 	"vigo": {
 		"message": "비고",
 		"description": "Id: vigo\nGroup: Names of cities"
+	},
+	"vik": {
+		"message": "비크이뮈르달",
+		"description": "Id: vik\nGroup: Names of cities"
 	},
 	"villa_san_giovanni": {
 		"message": "빌라 산 조반니",
@@ -23880,11 +23964,11 @@
 		"description": "Id: bus_current_passengers\nGroup: Bus job stop cutscene screen."
 	},
 	"bus_leaving_passengers": {
-		"message": "하차중인 승객",
+		"message": "하차 승객 만족도",
 		"description": "Id: bus_leaving_passengers\nGroup: Bus job stop cutscene screen."
 	},
 	"bus_entering_passengers": {
-		"message": "승차 승객",
+		"message": "승객의 기분",
 		"description": "Id: bus_entering_passengers\nGroup: Bus job stop cutscene screen."
 	},
 	"bus_stop_cutscene_satisfaction_change_label": {
@@ -40883,6 +40967,10 @@
 		"message": "원단, 레드",
 		"description": "Id: p_seats_fabric_red\nGroup: Accessory Names"
 	},
+	"p_seats_fabric_waves": {
+		"message": "원단, 웨이브",
+		"description": "Id: p_seats_fabric_waves\nGroup: Accessory Names"
+	},
 	"p_seats_leather_black": {
 		"message": "가죽, 검정",
 		"description": "Id: p_seats_leather_black\nGroup: Accessory Names"
@@ -48694,5 +48782,397 @@
 	"ls_zuidas_amsterdam_netherlands": {
 		"message": "주이다스, 암스테르담, 네덜란드",
 		"description": "Id: ls_zuidas_amsterdam_netherlands"
+	},
+	"at_cut_grossglockner_desc": {
+		"message": "오스트리아에서 가장 높은 산인 그로스글로크너는 해발 3,798미터로 알프스 산맥 위에 우뚝 솟아 있습니다. 36개의 급커브가 있는 48km 길이의 고산도로와 오스트리아 및 동부 알프스에서 가장 긴 빙하인 파스테르체로 유명합니다.<br><br>사하라 사막의 모래가 수천 킬로미터 북쪽으로 불어오면 때때로 알프스 산길의 눈이 밝은 노란색이나 주황색으로 변합니다.",
+		"description": "Id: at_cut_grossglockner_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"at_cut_schonbrunn_desc": {
+		"message": "합스부르크 왕가의 여름 별궁이었던 쇤브룬 궁전은 유네스코 세계유산이자 유럽에서 가장 훌륭한 바로크 양식 건축물 중 하나입니다.<br><br>1752년에 설립된 이곳의 동물원은 현재까지 중단 없이 운영되고 있는 세계에서 가장 오래된 동물원입니다.",
+		"description": "Id: at_cut_schonbrunn_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"at_cut_worthersee_desc": {
+		"message": "마지막 빙하기에 형성된 뵈르터 호수는 맑고 미네랄이 풍부한 물을 자랑하는, 터키석처럼 아름다운 보석 같은 호수입니다.<br><br>전설에 따르면 호수 아래로 마을 전체와 그곳의 교회가 가라앉았다고 하며, 오늘날에도 현지인들은 물속에서 종소리가 울리는 것을 들을 수 있다고 말합니다.",
+		"description": "Id: at_cut_worthersee_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"de_cut_ettal_desc": {
+		"message": "에탈 수도원은 바이에른 알프스에 위치한 베네딕토회 수도원으로, 1330년 바이에른의 황제 루트비히 4세가 설립했습니다.<br><br>전설에 따르면, 루트비히의 말이 그 자리에서 세 번 무릎을 꿇었는데, 그는 이를 그곳에 수도원을 세우라는 계시로 받아들였다고 합니다.",
+		"description": "Id: de_cut_ettal_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"de_cut_stuttgart_city_desc": {
+		"message": "건축가 막스 리트만이 설계한 슈투트가르트 국립극장은 1912년 뷔르템베르크 왕국의 왕실 극장으로 문을 열었습니다.<br><br>슈투트가르트는 유럽에서 두 번째로 큰 규모의 광천수 매장지 위에 자리하고 있는데, 이곳의 일부 온천수는 천연 탄산이 풍부하여 마치 샴페인 속에 몸을 담그고 있는 듯한 느낌을 줍니다.",
+		"description": "Id: de_cut_stuttgart_city_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"de_cut_nurnberg_city_desc": {
+		"message": "뉘른베르크는 신성 로마 제국에서 가장 중요한 도시 중 하나였으며, 오늘날에도 놀라울 정도로 방대한 중세 시대 방어 시설로 유명합니다.<br><br>1561년, 겁에 질린 뉘른베르크 주민들은 새벽녘에 빛나는 구체들과 십자가 형태의 물체들이 하늘에서 대규모로 '공중 전투'를 벌이는 광경을 목격했습니다. 이 사건은 목판화로 기록되어 남아 있으며, 오늘날에는 초기 UFO 목격 사례 중 하나로 거론되기도 합니다.",
+		"description": "Id: de_cut_nurnberg_city_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"de_cut_frankfurt_city_desc": {
+		"message": "마인하탄이라는 별칭으로 불리는 프랑크푸르트의 금융 지구 방켄피어텔에는 여러 주요 은행의 본사가 자리하고 있습니다.<br><br>프랑크푸르트에는 12세기까지 거슬러 올라가는, 세계에서 가장 오래된 무역 박람회 중 하나가 있습니다. 오늘날 이곳에서는 매년 가을 세계 최대 규모의 도서전이 열립니다.",
+		"description": "Id: de_cut_frankfurt_city_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"de_cut_rostock_desc": {
+		"message": "로스토크의 노이어 마르크트 광장은 벽돌 고딕 양식의 박공지붕을 얹은 상인 가옥들로 둘러싸여 있으며, 13세기부터 이 도시의 중심 시장 역할을 해왔습니다.<br><br>로스토크에는 600년이 넘은 1419년에 설립된, 발트해 연안에서 가장 오래된 대학이 자리하고 있습니다.",
+		"description": "Id: de_cut_rostock_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"de_cut_duisburg_desc": {
+		"message": "1902년에 초기 르네상스 역사주의 양식으로 완공된 뒤스부르크 시청사는 과거 중세 왕궁이 자리했던 터에 세워졌습니다.<br><br>뒤스부르크는 라인강과 루르강이 만나는 지점에 위치해 있으며, 이곳의 내륙 항구는 세계 최대 규모의 하천 항구입니다.",
+		"description": "Id: de_cut_duisburg_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"de_cut_kassel_desc": {
+		"message": "카셀에 관한 역사적 기록은 913년에 처음 등장하는데, 당시 이곳은 강 위의 다리 옆에 자리한 요새화된 장소로 묘사되어 있습니다.<br><br>카셀이라는 이름 자체는 훨씬 더 오래된 것으로, 게르만 부족인 카티족에서 유래했습니다.",
+		"description": "Id: de_cut_kassel_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"de_cut_berlin_desc": {
+		"message": "1873년에 완공된 베를린의 전승 기념탑은 19세기 프로이센의 군사적 승리를 기념하는 건축물로, 티어가르텐 공원 내에 자리하고 있습니다.<br><br>이 기념탑은 1938~1939년 대규모 도시 재설계 계획의 일환으로 현재 위치인 1.5km 떨어진 곳으로 이전되었으며, 이때 네 번째 단이 추가되면서 높이가 더욱 높아졌습니다.",
+		"description": "Id: de_cut_berlin_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"de_cut_dresden_desc": {
+		"message": "엘베강 인근 노이마르크트에 1743년 완공된 드레스덴의 바로크 양식 프라우엔 교회는 '엘베강의 피렌체' 또는 '독일의 피렌체'라 불리는 이 도시의 건축적 랜드마크 중 하나입니다.<br><br>2009년, 드레스덴은 다리 하나를 건설했다는 이유로 유럽 내에서 유네스코 세계유산 지위를 박탈당한 첫 번째 사례가 되었습니다.",
+		"description": "Id: de_cut_dresden_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"ch_cut_geneve_desc": {
+		"message": "제네바의 제 도 분수는 론강이 제네바 호수에서 빠져나가는 지점 인근에서 호숫물을 최대 140미터 높이까지 쏘아 올립니다.<br><br>1818년부터 제네바에서는 특정 마로니에 나무를 지켜보며 봄이 왔음을 알리는 전통이 이어져 왔습니다. 나무에 첫 잎이 돋아나면 정부 관계자가 봄이 시작되었음을 공식적으로 발표하는데, 이 전통은 오늘날까지도 계속되고 있습니다.",
+		"description": "Id: ch_cut_geneve_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"ch_cut_zurichw_desc": {
+		"message": "취리히 웨스트는 과거 산업 지대였던 곳으로, 1990년대 이후 유리로 된 프라임 타워를 중심으로 트렌디한 지역으로 탈바꿈했습니다.<br><br>취리히 웨스트에서 가장 파격적인 매장은 과거 산업 폐허였던 부지에 19개의 녹슨 선박용 컨테이너를 9층 높이로 쌓아 올려 만들어졌습니다.",
+		"description": "Id: ch_cut_zurichw_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"ch_cut_furka_desc": {
+		"message": "푸르카 고개는 해발 2,429미터의 높은 산길로, 스위스 중부의 우리 주와 발레 주를 연결합니다.<br><br>이 도로의 급커브길은 1964년 영화 골드핑거의 자동차 추격 장면에 등장했으며, 그중 한 커브는 \"제임스 본드 거리\"라는 별명을 가지고 있습니다.",
+		"description": "Id: ch_cut_furka_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"nl_cut_devlieter_desc": {
+		"message": "드 플리터는 아플라우트다이크의 한 구간을 표시하는데, 이 32킬로미터 길이의 제방은 주이더제를 차단해 아이셀호를 형성했습니다.<br><br>드 플리터 인근의 조수 수로와 주변 와덴해의 물은 역사상 약 500척에서 1,000척에 이르는 선박을 삼켜버렸습니다.",
+		"description": "Id: nl_cut_devlieter_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"nl_cut_eindhoven_desc": {
+		"message": "에인트호번은 네덜란드 노르트브라반트에 위치한 도시로, 전자 대기업 필립스의 발상지이자 오랜 기간 본사가 있던 곳으로 알려져 있습니다.<br><br>필립스는 1891년에 그곳에서 전구를 생산하기 시작하며, 아인트호벤에 \"빛의 도시\"라는 별명을 안겨주었습니다.",
+		"description": "Id: nl_cut_eindhoven_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"nl_cut_groningen_desc": {
+		"message": "흐로닝언은 네덜란드 북부에 위치한 활기찬 대학 도시로, 우뚝 솟은 마르티니토렌 교회 첨탑이 도시의 상징입니다.<br><br>지역 주민들은 마르티니토렌을 애정 어린 마음으로 \"d'Olle Grieze\", 즉 \"늙은 회색 탑\"이라고 부릅니다. 이 탑은 번개에 맞아 두 개의 전임 탑이 사라진 후 세 번째로 세워진 탑입니다.",
+		"description": "Id: nl_cut_groningen_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"be_cut_ardennes_desc": {
+		"message": "라 로슈 앙 아르덴은 우르트 강의 굽이 위에 위치한 중세 성터가 자리한 벨기에의 작은 마을입니다.",
+		"description": "Id: be_cut_ardennes_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"be_cut_antwerp_desc": {
+		"message": "앤트워프는 벨기에에서 두 번째로 큰 도시이자 1447년부터 세계 다이아몬드 무역의 중심지로 알려진 역사적인 항구입니다.<br><br>전 세계 원석 다이아몬드의 약 80~90%가 매년 앤트워프 다이아몬드 쿼터를 통과합니다.",
+		"description": "Id: be_cut_antwerp_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"fr_cut_brest_desc": {
+		"message": "브레스트 마리나는 1631년 리슐리외 추기경이 프랑스 해군 기지로 바꾼 역사적인 항구 안에 위치해 있습니다.<br><br>브레스트의 마리나는 해양 경주의 주요 거점으로, 엘리트 선수들이 대서양을 횡단하거나 세계에서 가장 어려운 요트 기록에 도전하기 전에 모이는 곳입니다.",
+		"description": "Id: fr_cut_brest_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"fr_cut_marseille_desc": {
+		"message": "마르세유 구항은 기원전 600년경 그리스 정착민들이 마살리아를 세운 이래로 도시의 천연 항구 역할을 해왔습니다.<br><br>유럽에서 가장 오래도록 계속 운영되고 있는 항구 중 하나입니다.",
+		"description": "Id: fr_cut_marseille_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"fr_cut_peyrat_desc": {
+		"message": "페이라르르샤토는 리무쟁의 밀레바슈 고원에 있는 연못 옆에 자리한 오트비엔 주의 작은 마을입니다.<br><br>밀레바슈 고원이라는 독특한 이름은 한때 그곳에서 풀을 뜯던 '천 마리의 소'에서 유래했거나, 고원 곳곳에 흩어져 있는 수많은 자연 샘을 뜻하는 옛 단어에서 왔다는 설이 있는데, 정확히 어느 쪽인지는 아무도 확신하지 못합니다!",
+		"description": "Id: fr_cut_peyrat_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"fr_cut_rousse_desc": {
+		"message": "일루르스는 코르시카 북서부 발라뉴 지역에 위치한 해안 도시로, 1758년 파스콸레 파올리가 세웠습니다.<br><br>파올리는 코르시카 사람들이 경쟁 상대인 제노바인이 지배하는 칼비 항구에 의존하지 않고 무역할 수 있도록 항구를 건설했습니다.",
+		"description": "Id: fr_cut_rousse_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"fr_cut_serre_desc": {
+		"message": "세르퐁송 호수는 1955년부터 1960년 사이에 뒤랑스 강을 막아 만들어진 오트알프 지역의 거대한 저수지입니다.<br><br>세르퐁송 호수는 거의 3,000헥타르에 달할 정도로 커서 '산속의 바다'라는 별명을 가지고 있으며, 작은 섬 위에 외롭게 자리한 단 하나의 예배당이 저수지 수면 바로 위로 살짝 솟아 있습니다.",
+		"description": "Id: fr_cut_serre_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"fr_cut_usse_desc": {
+		"message": "우세 성은 15세기에서 17세기 사이에 지어진, 이전 바이킹 요새 위에 세워진 루아르 계곡의 동화 같은 성입니다.<br><br>작가 샤를 페로는 17세기에 『잠자는 숲속의 미녀』를 쓸 때 이 백색 첨탑에서 영감을 받았다고 전해집니다.",
+		"description": "Id: fr_cut_usse_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"it_cut_bari_desc": {
+		"message": "바리 항구는 이탈리아 아드리아 해안에 위치해 있으며 오랫동안 유럽과 발칸 반도를 잇는 관문 역할을 해왔습니다.<br><br>서기 847년부터 871년까지 바리는 이탈리아 본토에 세워진 유일한 단명한 이슬람 토후국의 수도였습니다.",
+		"description": "Id: it_cut_bari_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"it_cut_etna_desc": {
+		"message": "시칠리아 동해안에 위치한 에트나 산은 유럽에서 가장 높은 활화산이자 지구상에서 가장 활발한 화산 중 하나입니다.<br><br>이 이름은 흔히 그리스어 아이트네에서 유래한 것으로, \"나는 태운다\"라는 뜻의 아이토'에서 비롯되었습니다.",
+		"description": "Id: it_cut_etna_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"it_cut_neapol_desc": {
+		"message": "고대 그리스 정착지인 네아폴리스 시기에 세워진 나폴리 항구는 이탈리아에서 가장 오래되고 분주한 항구 중 하나입니다.<br><br>오늘날 나폴리 항구 옆 지하철역을 파던 중, 고고학자들이 헬레니즘 및 로마 시대에 속하는 고대 항구와 일곱 척의 난파선을 발견했습니다.",
+		"description": "Id: it_cut_neapol_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"it_cut_sassari_desc": {
+		"message": "사르데냐 사사리에 위치한 산타 마리아 디 베틀렘 교회는 12세기에 그 기원을 둔 프란체스코회 단지입니다.<br><br>매년 8월, 사사리의 길드들은 수백 킬로그램에 달하는 거대한 나무 \"양초\"를 촛불 축제 기간에 교회로 옮기며, 흑사병과 관련된 오래된 서원을 다시 이어갑니다.",
+		"description": "Id: it_cut_sassari_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"it_cut_taranto_desc": {
+		"message": "타란토는 이오니아 해에 위치한 이탈리아 남부의 도시로, 기원전 706년경 스파르타 식민자들이 그리스 도시 타라스로 세웠습니다.<br><br>타란토의 산업 만에는 번성하는 돌고래 개체군이 서식하고 있으며, 그중에는 지중해 어디에서도 볼 수 없는 유전적 특성을 지닌 줄무늬 돌고래도 포함되어 있습니다.",
+		"description": "Id: it_cut_taranto_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"it_cut_villa_san_giovanni_desc": {
+		"message": "빌라 산 조반니는 이탈리아 본토에 위치한 칼라브리아의 도시이자 메시나 해협을 건너 시칠리아로 가는 주요 페리 터미널입니다.<br><br>빌라 산 조반니는 다섯 개의 경쟁 마을을 통합한 비단 사업가 로코 안토니오 카라치올로가 세웠습니다. 나폴리의 페르디난도 4세 왕은 1791년에 이 새로운 도시에 공식적으로 이름을 붙였습니다.",
+		"description": "Id: it_cut_villa_san_giovanni_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"balt_cut_castles_desc": {
+		"message": "헤르만 성은 13세기에 덴마크인들에 의해 세워졌으며, 이후 리보니아 기사단에 의해 재건되었습니다. 이반 3세는 1492년에 모스크바의 서부 국경을 방어하기 위해 이반고로드 요새를 세웠습니다.",
+		"description": "Id: balt_cut_castles_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"balt_cut_convent_desc": {
+		"message": "1447년 프스코프 북쪽에서 성 유프로시누스에 의해 세워졌으며, 그것은 교육의 유명한 중심지로 성장했습니다.",
+		"description": "Id: balt_cut_convent_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"balt_cut_daugavpils_desc": {
+		"message": "라트비아에서 두 번째로 큰 도시는 1275년 리보니아 기사단이 다우가바 강가에 세운 디나부르크 성에서 발전했습니다.<br><br>이 도시는 1920년 다우가브필스로 이름이 바뀌기 전까지 디나부르크, 보리스오글렙스크, 드빈스크 등 최소 네 번의 이름을 거쳤습니다.",
+		"description": "Id: balt_cut_daugavpils_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"balt_cut_klaipeda_desc": {
+		"message": "리투아니아의 유일한 주요 항구 도시인 클라이페다는 1250년대에 튜턴 기사단의 한 분파인 리보니아 기사단에 의해 세워졌습니다.<br><br>약 500년 동안 이 도시는 리투아니아 국가의 지배를 받지 않았으며, 1923년 반란 이후에야 리투아니아의 일부가 되었습니다.",
+		"description": "Id: balt_cut_klaipeda_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"balt_cut_riga_power_plant_desc": {
+		"message": "1966년부터 1975년 사이에 다우가바 강에 건설된 이 댐은 도레스 살라 섬의 절반을 물에 잠기게 하여 저수지를 만들었습니다.<br><br>댐 꼭대기는 공공 도로 역할을 하며, 한때 그 위를 지나던 건설 시대의 철도는 나중에 철거되었습니다.",
+		"description": "Id: balt_cut_riga_power_plant_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"balt_cut_valmiera_desc": {
+		"message": "발미에라에 위치한 비드제메 올림픽 센터는 약 2,900제곱미터 규모의 다목적 경기장으로, 농구와 플로어볼 경기가 열립니다.<br><br>발미에라 출신의 경기보행자 야니스 달린시는 1932년 로스앤젤레스 올림픽에서 독립 라트비아의 첫 여름 올림픽 메달인 50킬로미터 경기 은메달을 획득했으며, 현재 그 도시의 경기장은 그의 이름을 따서 명명되었습니다.",
+		"description": "Id: balt_cut_valmiera_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"blke_cut_cerna_voda_desc": {
+		"message": "1895년에 완공된 체르나보다의 앙겔 살리니 다리는 한때 4킬로미터가 넘는 유럽에서 가장 긴 다리였습니다.<br><br>후퇴하는 루마니아 군대가 1916년에 다뉴브 다리를 파손하고 보르체아 구간을 파괴했습니다. 두 다리 모두 재건되었고, 1987년에 새로운 교량이 그 자리를 대신했습니다.",
+		"description": "Id: blke_cut_cerna_voda_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"blke_cut_edirne_desc": {
+		"message": "에디르네는 1453년 콘스탄티노플이 정복되기 전까지 거의 한 세기 동안 오스만 제국의 수도 역할을 했습니다.<br><br>14세기부터 이어져 온 에디르네의 커크피나르 올리브유 레슬링 축제는 선수들에게 거의 2톤에 달하는 올리브유를 뿌리며, 가장 오래된 스포츠 대회로 기네스 기록을 보유하고 있습니다.",
+		"description": "Id: blke_cut_edirne_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"blke_cut_orsova_desc": {
+		"message": "오르쇼바는 루마니아 남서부에 위치한 다뉴브 강의 마을로, 체르나 강이 다뉴브 강과 만나는 지점 근처의 철문 협곡 바로 위에 자리잡고 있습니다.<br><br>철문 I 댐 건설로 다뉴브 강 수위가 약 30미터 상승하면서 1970년에 옛 오르쇼바 강이 물에 잠겼습니다. 주민들은 1966년부터 1971년 사이에 더 높은 지대에 새로 조성된 완전히 새로운 마을로 이주했습니다.",
+		"description": "Id: blke_cut_orsova_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"blke_cut_pernik_desc": {
+		"message": "소피아 근처의 석탄 광산 도시 페르니크는 1953년부터 대형 제철소를 운영해 왔습니다.<br><br>이 제철소는 대부분의 강철을 재활용 스크랩으로 생산하며, 이로 인해 지역에서 가장 순환 경제적인 공장 중 하나로 꼽힙니다.",
+		"description": "Id: blke_cut_pernik_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"blke_cut_poiana_viaduct_desc": {
+		"message": "포이아나 테이울이 고가교는 루마니아 네암츠 주 비카즈 호수의 하류를 가로지르는 길이 634미터의 도로 다리입니다.",
+		"description": "Id: blke_cut_poiana_viaduct_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"blke_cut_r73_desc": {
+		"message": "피아트라 크라이울리는 루마니아 카르파티아 산맥에 위치한 길이 25킬로미터의 석회암 능선으로, 1990년부터 국립공원으로 보호받고 있습니다.<br><br>이름은 \"왕의 바위\"라는 뜻이며, 이 공원에는 여러 고유 무척추동물 종들이 서식하고 있습니다.",
+		"description": "Id: blke_cut_r73_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"ibe_cut_barcelona_desc": {
+		"message": "바르셀로나는 로마 시대의 정착지인 바르치노에서 시작되었으며, 그 고대 유적들이 지금도 현대 도시의 거리 아래에 남아 있습니다.<br><br>바르셀로나의 9개 유네스코 세계문화유산 중 7곳은 안토니 가우디의 개별 작품으로, 미완성인 사그라다 파밀리아도 포함됩니다.",
+		"description": "Id: ibe_cut_barcelona_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"ibe_cut_ejido_desc": {
+		"message": "알메리아의 캄포 데 달리아스에 위치한 엘 에히도는 세계에서 가장 큰 농업용 온실 밀집 지역 중 하나를 품고 있습니다.<br><br>알메리아의 '플라스틱 바다' 온실은 370제곱킬로미터에 걸쳐 펼쳐져 있으며, 너무 많은 햇빛을 반사해 우주비행사들이 궤도에서 그것들을 구분할 수 있을 정도입니다.",
+		"description": "Id: ibe_cut_ejido_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"ibe_cut_guadiana_desc": {
+		"message": "과디아나 국제대교는 스페인 아야몬테와 포르투갈 카스트로 마림을 국경의 최남단 교차점에서 연결하는 사장교입니다.<br><br>다리를 건너면 시간대 경계도 넘게 되기 때문에, 스페인에서 포르투갈로 가는 여행객들은 두 개의 별도 새해 카운트다운을 경험할 수 있습니다.",
+		"description": "Id: ibe_cut_guadiana_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"ibe_cut_lisboa_desc": {
+		"message": "25 데 아브릴 다리는 리스본과 알마다를 연결하는 타구스 강을 가로지르며, 유럽에서 가장 긴 현수교 중 하나로 꼽힙니다.",
+		"description": "Id: ibe_cut_lisboa_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"ibe_cut_olhao_desc": {
+		"message": "올량은 포르투갈 알가르브 해안에 위치한 백색 도시로, 리아 포르모사 석호로 바로 연결되는 어촌입니다.<br><br>전설에 따르면 1808년에 17명의 올량 어부들이 포르투갈의 망명 중인 왕에게 조국이 자유로워졌다는 소식을 전하기 위해 노출된 배를 타고 브라질까지 항해했다고 합니다.",
+		"description": "Id: ibe_cut_olhao_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"ibe_cut_reservoir_desc": {
+		"message": "레온 주에 있는 바리오스 데 루나 저수지는 1956년 좁은 산골짜기에 루나 강을 막는 댐이 세워지면서 만들어졌습니다.<br><br>저수지는 현재 계곡을 따라 약 40킬로미터에 걸쳐 펼쳐진 물속에 16개의 마을과 정착지를 잠기게 하고 있습니다.",
+		"description": "Id: ibe_cut_reservoir_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"ibe_cut_santander_desc": {
+		"message": "산탄데르 항구는 시내 중심가에서 도보로 갈 수 있는 거리에 있습니다.<br><br>기원전 19년 칸타브리아 전쟁 이후 로마인들이 세운 산탄데르의 보호받는 항구는 광물 수출 중심지로 시작해, 도시가 성장함에 따라 함께 발전했습니다.",
+		"description": "Id: ibe_cut_santander_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"ibe_cut_zaragoza_desc": {
+		"message": "유럽에서 가장 큰 쇼핑 및 레저 단지 중 하나로, 20만 평방미터가 넘는 면적을 자랑합니다.<br><br>인공 호수를 중심으로 조성된 이 개발 단지는 쇼핑센터와 함께 레스토랑, 영화관, 스포츠 시설, 휴양 공간을 결합하고 있습니다.",
+		"description": "Id: ibe_cut_zaragoza_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"sc_cut_mabodalen_desc": {
+		"message": "모브외달렌은 노르웨이 서부 아이드피요르드 근처에 위치한 가파른 빙하가 깎아 만든 계곡으로, 뵈링스포센 폭포가 있는 곳입니다.<br><br>무브외달렌 깊은 곳으로 145미터나 떨어지는 숨 막히는 폭포인 뵈링스포센은 노르웨이를 대표하는 상징적인 폭포로, 그 우렁찬 힘을 보기 위해 많은 방문객이 찾습니다.",
+		"description": "Id: sc_cut_mabodalen_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"sc_cut_stockholm_desc": {
+		"message": "스톡홀름 해안선은 약 3만 개의 섬과 작은 섬들, 그리고 발트해로 뻗어 있는 암초 군도로 이어집니다.<br><br>1965년에 도입된 스톡홀름의 무도색 실버필렌 지하철 차량은 한밤중에 나타나 탑승한 승객을 모두 사라지게 하는 유령 열차라는 도시 전설을 낳았습니다.",
+		"description": "Id: sc_cut_stockholm_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"sc_cut_kalmar_desc": {
+		"message": "칼마르는 스웨덴 남동부에 위치한 역사적인 항구 도시로, 11세기에 처음 기록되었으며 르네상스 양식의 성이 자리하고 있습니다.<br><br>칼마르 성은 역사상 22번의 포위 공격을 견뎌냈지만 단 한 번도 함락된 적이 없습니다.",
+		"description": "Id: sc_cut_kalmar_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"sc_cut_copenhagen_desc": {
+		"message": "코펜하겐은 덴마크의 수도로, 운하와 첨탑, 보행자 거리로 둘러싸인 역사적인 항구를 중심으로 형성되었습니다.<br><br>코펜하겐의 티볼리 정원에는 1914년부터 라이더들을 짜릿하게 해온 유럽에서 가장 오래된 롤러코스터인 로르체바넨이 있습니다.",
+		"description": "Id: sc_cut_copenhagen_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"blkw_cut_durdevica_desc": {
+		"message": "몬테네그로의 두르미토르 국립공원은 험준한 산과 빙하호, 타라 강 협곡으로 유명한 유네스코 세계문화유산입니다. 이곳에는 1940년에 완공되어 강 위로 150미터 이상 솟아오른 다섯 개의 아치로 이루어진 콘크리트 다리가 있습니다.<br><br>오늘날 이곳은 발칸 반도에서 가장 인기 있는 짚라인 명소 중 하나입니다.",
+		"description": "Id: blkw_cut_durdevica_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"blkw_cut_durres_desc": {
+		"message": "기원전 627년에 그리스 식민지 에피담누스로 세워진 두러스는 알바니아에서 가장 오래되고 가장 분주한 항구 도시입니다.<br><br>로마인들은 이곳을 테살로니키까지 이어지는 그들의 주요 도로인 비아 에그나티아의 서쪽 종점으로 삼았습니다.",
+		"description": "Id: blkw_cut_durres_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"blkw_cut_pristina_desc": {
+		"message": "코소보의 수도 프리슈티나는 고대 울피아나 유적 근처에 위치해 있으며 신석기 시대부터 사람이 거주해 왔습니다.<br><br>13세기까지 프리슈티나는 중세 세르비아 국가 내에서 중요한 왕실 및 상업 중심지였으며, 1389년 이후 오스만 제국의 지배가 점차 확립되었습니다.",
+		"description": "Id: blkw_cut_pristina_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"blkw_cut_split_desc": {
+		"message": "스플리트의 해안가는 디오클레티아누스 궁전과 성 도므니우스 대성당의 종탑이 중심을 이룹니다. 옛 도시 전체가 궁전 성벽 안에서 형성되었다.<br><br>로마 황제 디오클레티아누스는 스플리트로 은퇴해 양배추 농사를 너무 진지하게 여겨 왕위를 되찾으라는 권유를 거절하며, 자신의 채소가 더 중요하다고 말했습니다.",
+		"description": "Id: blkw_cut_split_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"blkw_cut_bihac_desc": {
+		"message": "비하치의 역사적인 중심지에는 세인트 앤서니 교회의 현존하는 종탑, 대위탑, 그리고 석조 투르베 영묘가 있습니다. 대위탑은 나중에 오스트리아-헝가리 제국의 감옥으로 사용되었습니다. 그 교회는 1944년 연합군의 폭격으로 대부분 파괴되었습니다.<br><br>세 개 모두 몇 미터 간격으로 서 있으며, 비하치의 기독교, 오스만 제국, 오스트리아-헝가리 제국 시대의 역사를 반영합니다.",
+		"description": "Id: blkw_cut_bihac_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"blkw_cut_sarajevo_desc": {
+		"message": "사라예보에서 가장 오래되고 역사적으로 가장 중요한 부분입니다. 그 중심에는 1462년 총독 이사베그 이사코비치가 세운 사라예보의 오스만 시대 시장 지구인 바슈차르시야가 있습니다.<br><br>사라예보 시청, 즉 비예치니차는 오스트리아-헝가리 시대의 상징적인 건물로, 체코 건축가 카렐 파리크가 신무어 양식으로 설계했습니다.",
+		"description": "Id: blkw_cut_sarajevo_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"blkw_cut_ljubljana_desc": {
+		"message": "슬로베니아의 수도인 류블랴나는 옛 로마 정착지인 에모나 터에 위치한 류블랴니차 강을 따라 형성되었습니다.<br><br>전설에 따르면 제이슨과 아르고호 원정대가 지금의 류블랴나 자리에서 용을 물리쳤다고 하며, 그 용은 여전히 도시 문장에 등장합니다.",
+		"description": "Id: blkw_cut_ljubljana_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"blkw_cut_tirana_desc": {
+		"message": "티라나는 1614년에 오스만 제국의 군주 술레이만 바르지니에 의해 세워졌습니다. 1920년에 알바니아의 임시 수도가 되었고, 1925년에 영구 수도가 되었습니다.<br><br>티라나의 주요 서부 교통 관문 중 하나인 케사 에 카메제스는 수도를 카메즈와 연결하며 북쪽과 서쪽으로 향하는 길을 제공합니다.",
+		"description": "Id: blkw_cut_tirana_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"blkw_cut_prokuplje_desc": {
+		"message": "세르비아 남부 토플리차 구역의 중심지인 프로쿠플예는 로마 시대의 하메움 정착지에서 그 기원을 찾을 수 있습니다.<br><br>이 마을은 중세 시대부터 지역에서 재배되어 온 적포도 품종인 프로쿠팍의 이름이 되었습니다.",
+		"description": "Id: blkw_cut_prokuplje_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"gr_cut_piraeus_desc": {
+		"message": "피레우스는 아테네의 주요 항구이자 지중해에서 가장 큰 여객 항구 중 하나입니다.<br><br>사일로 건물은 원래 곡물을 저장하기 위해 지어졌습니다. 현재는 그리스 해역에서 발굴된 고고학 유물을 전시하는 수중 고고학 박물관으로 용도가 변경되어 운영되고 있습니다.",
+		"description": "Id: gr_cut_piraeus_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"gr_cut_kavala_desc": {
+		"message": "카발라는 기원전 7세기 후반 네아폴리스로 세워진 그리스 북부의 역사적인 항구 도시입니다.<br><br>이 언덕은 적어도 기원전 5세기부터 요새화되어 왔습니다. 현재의 카발라 요새는 주로 오스만 시대의 것으로, 1425년에 이전의 비잔틴 방어 시설 위에 재건되었습니다.",
+		"description": "Id: gr_cut_kavala_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"gr_cut_kalabaka_desc": {
+		"message": "메테오라는 칼라바카 근처 사암 기둥 위에 자리한 유네스코 세계문화유산인 수도원 군락입니다.<br><br>수세기 동안 수도사들은 방문객들을 400미터 높이의 절벽 위로 매달린 밧줄 그물에 태워 올렸고, 그물이 끊어질 때마다 새 것으로 교체한다고 농담을 하곤 했습니다.",
+		"description": "Id: gr_cut_kalabaka_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"gr_cut_beach_desc": {
+		"message": "팔리라키는 로도스 북동부 해안에 위치한 해변 휴양지로, 로도스 타운에서 남쪽으로 약 14킬로미터 떨어져 있으며 긴 모래사장으로 유명합니다.<br><br>팔리라키는 로도스에서 제트스키부터 만 위 높은 곳에서 즐기는 패러세일링까지 다양한 수상 스포츠를 즐길 수 있는 가장 인기 있는 휴양지 중 하나입니다.",
+		"description": "Id: gr_cut_beach_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"gr_cut_lixouri_desc": {
+		"message": "릭소우리는 케팔로니아에서 두 번째로 큰 도시로, 고대 도시 팔레 유적지 근처 팔리키 반도에 세워졌습니다.",
+		"description": "Id: gr_cut_lixouri_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"gr_cut_corinth_desc": {
+		"message": "코린트 운하는 코린트 지협을 가로지르며, 6.4킬로미터 길이의 수로를 통해 에게해와 코린트 만을 연결합니다.<br><br>로마 황제 네로는 서기 67년에 직접 운하 공사를 시작했으며, 이 운하는 1893년에 완공되기까지 거의 1,800년이 걸렸습니다.",
+		"description": "Id: gr_cut_corinth_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"gr_cut_souda_desc": {
+		"message": "크레타 섬 하니아 근처의 수다 만은 지중해에서 가장 크고 깊은 천연 항구 중 하나입니다.<br><br>만 입구에 위치한 소다 섬은 16세기에 베네치아인들이 요새화했습니다. 이 요새는 오스만 군대에 맞서 버텼으며, 1669년 크레타 섬의 나머지 지역이 함락된 지 수십 년이 지난 1715년까지 베네치아의 지배를 유지했습니다.",
+		"description": "Id: gr_cut_souda_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"gr_cut_polyfytos_desc": {
+		"message": "폴리피토스 다리는 코자니 근처 그리스에서 가장 긴 강인 알리아크몬 강에 있는 인공 호수 폴리피토스를 가로지릅니다.<br><br>1975년에 완공된 이 1,372미터 길이의 다리는 저명한 이탈리아 엔지니어 리카르도 모란디가 설계했습니다.",
+		"description": "Id: gr_cut_polyfytos_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"poc_cut_alesund_desc": {
+		"message": "올레순은 노르웨이의 주요 크루즈선 항구 도시입니다.<br><br>이전에 이 마을을 방문했던 독일 황제 빌헬름 2세는 1904년 거의 모든 목조 마을을 파괴한 대화재 이후 재건을 돕기 위해 건축 자재를 실은 해군 함선을 보냈습니다.",
+		"description": "Id: poc_cut_alesund_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"poc_cut_bodo_desc": {
+		"message": "보되는 북극권 바로 북쪽에 위치한 해안 도시로, 2024년에 유럽 문화 수도로 선정되었습니다.",
+		"description": "Id: poc_cut_bodo_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"poc_cut_nordkapp_desc": {
+		"message": "노스 케이프는 마게뢰야 섬에 위치한 해발 307미터의 절벽 고원으로, 대륙 유럽의 최북단 지점으로 널리 알려져 있습니다.<br><br>노스 케이프는 사실 유럽의 최북단 지점이 아니며, 인근의 곶인 크니브스켈로덴이 약 1,450미터 더 북쪽으로 뻗어 있습니다.",
+		"description": "Id: poc_cut_nordkapp_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"poc_cut_santa_desc": {
+		"message": "산타클로스 빌리지는 로바니에미에서 북쪽으로 약 8킬로미터 떨어진 북극권 바로 위에 위치해 있으며 연중 내내 운영됩니다.<br><br>방문객들은 북극권을 표시한 페인트 선 위에 서서 이를 통과했다는 공식 증명서를 받을 수 있습니다.",
+		"description": "Id: poc_cut_santa_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"poc_cut_muotkatakka_desc": {
+		"message": "무오트카타카는 킬피스야르비에서 남쪽으로 약 12킬로미터 떨어진 곳에 위치해 있으며, 핀란드 전체 공공 도로망 중 가장 높은 지점으로 해발 565.8미터입니다.<br><br>이 고개를 넘는 길은 핀란드와 노르웨이를 연결하며, 정상 근처 도로변을 따라 순록들이 흔히 돌아다니는 모습을 볼 수 있습니다.",
+		"description": "Id: poc_cut_muotkatakka_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"poc_cut_farm_desc": {
+		"message": "톰마야르비는 핀란드와 러시아의 동쪽 국경 근처, 북카렐리아에 위치한 숲이 우거진 언덕과 호수로 이루어진 작은 지방 자치체입니다.<br><br>문장에는 모루와 불꽃이 그려져 있어, 한때 이 지역에서 중요한 철 산업이었음을 기념합니다.",
+		"description": "Id: poc_cut_farm_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"poc_cut_viitasaari_desc": {
+		"message": "비이타사리는 중앙 핀란드에 위치한 호수들이 점재한 마을로, 시 행정 구역 내에 약 230개의 호수가 있습니다.<br><br>비이타사리의 여름 음악 축제는 매년 콘서트에 앞서 마을을 가로지르는 트랙터 퍼레이드로 시작됩니다.",
+		"description": "Id: poc_cut_viitasaari_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"poc_cut_lalby_desc": {
+		"message": "롤비는 핀란드 서해안 오스트로보스니아 지역의 크리스티네스타드에 속한 작은 마을입니다.",
+		"description": "Id: poc_cut_lalby_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"poc_cut_kiruna_desc": {
+		"message": "키루나는 스웨덴 최북단 도시로, 세계 최대의 지하 철광산인 키루나바라를 중심으로 형성되었습니다.<br><br>이 철광석 광체는 약 16억 년 전 지하 2킬로미터 깊이에서 분출되었으며, 현재 이 광산은 EU 철광석 공급량의 약 80%를 차지합니다.",
+		"description": "Id: poc_cut_kiruna_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"poc_cut_gavle_desc": {
+		"message": "예블레는 스웨덴 동부 해안, 예스트리클란드의 가블레오른 강 하구에 위치한 항구 도시입니다.<br><br>1966년 이후 매년 대림절마다 도시는 거대한 밀짚 율 염소를 세웠는데, 방화범들이 30번 넘게 이를 불태웠습니다.",
+		"description": "Id: poc_cut_gavle_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"poc_cut_lulea_desc": {
+		"message": "노르보텐 주의 수도인 룰레오는 보스니아 만에 위치해 있으며 1,300개가 넘는 섬으로 이루어진 군도를 포함하고 있습니다.<br><br>한 대형 기술 기업이 룰레오에 거대한 데이터 센터를 지은 이유는 혹독한 북극의 추위가 서버를 위한 무료 자연 냉방 역할을 하기 때문입니다.",
+		"description": "Id: poc_cut_lulea_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"poc_cut_heia_desc": {
+		"message": "트롬스 발스피요르드에 위치한 E6 고속도로의 경치 좋은 휴게소로, 해발 약 240미터에서 산 전망을 감상할 수 있습니다.",
+		"description": "Id: poc_cut_heia_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"poc_cut_svolvaer_desc": {
+		"message": "스볼베르는 오스트보고야 섬에 위치한 노르웨이 로포텐 군도의 가장 큰 마을이자 비공식 수도입니다.",
+		"description": "Id: poc_cut_svolvaer_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"poc_cut_bjornfjell_desc": {
+		"message": "비외른펠은 오포텐 철도의 산악역으로, 나르비크 근처 노르웨이-스웨덴 국경에 위치해 있습니다.<br><br>Bjørnfjell 역은 산 정상에 위치해 있어 연중 대부분 눈으로 덮여 있는 경우가 많으며, 이곳의 철도 노선은 북유럽에서 가장 경치 좋은 기차 여행 중 하나로 꼽힙니다.",
+		"description": "Id: poc_cut_bjornfjell_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"poc_cut_trondheim_desc": {
+		"message": "트론헤임은 약 997년에 카우팡그르라는 이름으로 세워졌으며, 이후 니다로스로 알려지게 되었고 바이킹 시대에 노르웨이의 수도 역할을 했습니다.<br><br>니달로스 대성당은 성인의 무덤 위에 세워졌습니다. 올라브는 세계에서 가장 북쪽에 위치한 중세 고딕 대성당입니다.",
+		"description": "Id: poc_cut_trondheim_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"is_cut_thingvellir_desc": {
+		"message": "싱벨리르 국립공원은 북미판과 유라시아판 사이의 지구대에 자리하고 있습니다. 이곳은 2004년에 유네스코 세계유산으로 지정되었습니다.<br><br>아이슬란드의 의회인 알팅기는 930년 이곳에서 처음으로 야외 회합을 가졌으며, 이는 세계에서 가장 오래된 의회 중 하나가 되었습니다.",
+		"description": "Id: is_cut_thingvellir_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"is_cut_barthastran_desc": {
+		"message": "바르다스트란다르베구르(국도 62)는 넓은 브레이다피외르뒤르만의 북쪽 해안을 따라 남부 웨스트피요르드의 바르다스트론드 해안을 따라갑니다.<br><br>바이킹 흐라프나-플로키 빌게르다르손은 이 해안에서 겨울을 보냈는데, 인근 산에서 유빙으로 가득 찬 피오르드를 내려다본 뒤 이 땅 전체에 아이슬란드라는 이름을 붙였다.",
+		"description": "Id: is_cut_barthastran_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"is_cut_lagoon_desc": {
+		"message": "레이캬네스 반도의 용암 지대에 자리한 이 지열 라군 스파에서는 평균 37~39°C의 우윳빛 푸른 물속에서 휴식을 즐길 수 있습니다.<br><br>이 라군은 인공적으로 조성된 곳으로, 1976년에 가동을 시작한 인근 지열 발전소에서 배출되는 따뜻한 물을 활용하기 위해 만들어졌습니다.",
+		"description": "Id: is_cut_lagoon_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"is_cut_selfoss_desc": {
+		"message": "셀포스는 아이슬란드 남부에서 가장 큰 도시입니다. 이 다리는 1891년에 첫 번째 현수교가 세워진 올푸사 강변에 지어졌습니다.<br><br>2011년부터 셀포스는 아이슬란드 최강의 남자 대회가 열리는 장소 중 하나로, 힘센 거인들이 바위를 들어 올리고 무거운 트럭을 끄는 곳입니다.",
+		"description": "Id: is_cut_selfoss_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"is_cut_seljaland_desc": {
+		"message": "셀랴란드스포스는 아이슬란드 남부에 위치한 높이 60미터의 폭포로, 에이야프얄라요쿨 빙하 화산에서 시작되는 강이 물을 공급합니다.<br><br>폭포 바로 뒤로 이어지는 오솔길이 작은 동굴로 연결되어 있어, 방문객들이 동굴 안에서 폭포를 감상할 수 있습니다.",
+		"description": "Id: is_cut_seljaland_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"is_cut_geyser_desc": {
+		"message": "하우카달루르 지열 지대에 위치한 스트로쿠르는 아이슬란드에서 가장 활발하게 분출하는 간헐천으로, 몇 분마다 분출합니다.<br><br>이웃한 그레이트 가이시르는 전 세계 모든 간헐천의 이름이 되었는데, 이는 아이슬란드어 동사 'geysa'에서 유래했으며 '빠르게 앞으로 나아가다'라는 뜻입니다.",
+		"description": "Id: is_cut_geyser_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"is_cut_gullfoss_desc": {
+		"message": "굴포스, 일명 '황금 폭포'는 흐비타 강에 위치한 폭포로, 11미터와 21미터 높이의 두 단계로 32미터 깊이의 틈새로 떨어집니다.<br><br>외국인 투자자들이 전력 생산을 위해 폭포를 이용하려 하자, 지역 농부의 딸 시그리두르 토마스도티르가 이를 보호하기 위해 캠페인을 벌였습니다. 폭포 위에는 그녀를 기리는 석조 기념비가 있습니다.",
+		"description": "Id: is_cut_gullfoss_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"is_cut_joekul_desc": {
+		"message": "요쿨살론은 광대한 바트나요쿨 빙상에서 분출하는 빙하 빙하인 브레이다메르쿠르요쿨의 상류에 위치한 빙하 석호입니다.<br><br>이 석호는 빙하가 후퇴하면서 1930년대에야 형성되기 시작했으며, 현재 깊이가 280미터가 넘어 아이슬란드에서 가장 깊은 호수입니다.",
+		"description": "Id: is_cut_joekul_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"is_cut_gothafoss_desc": {
+		"message": "고다포스는 아이슬란드 북부의 스캬우판다플료트 강에 위치한 높이 12미터, 너비 30미터의 폭포입니다.<br><br>이름은 보통 '신들의 폭포'로 번역되지만, 폭포에 있는 두 개의 바위가 이교도 우상처럼 생겨서 붙여졌을 수도 있습니다.",
+		"description": "Id: is_cut_gothafoss_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
+	},
+	"is_cut_canyon_desc": {
+		"message": "스투들라길은 아이슬란드 동부의 요쿨달루르 계곡에 위치한 협곡으로, 요클라 강을 따라 높고 육각형 모양의 현무암 기둥들이 늘어서 있습니다.<br><br>이 협곡은 2009년에 완공된 카라흐뉴카르 댐이 강을 낮추기 전까지 물속에 숨겨져 있었고, 2016년 한 사진작가가 공개한 후에야 비로소 유명해졌습니다.",
+		"description": "Id: is_cut_canyon_desc\nGroup: Viewpoint descriptions for Tourist Jobs photo album"
 	}
 }
