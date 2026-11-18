@@ -3802,6 +3802,9 @@ Id: f_splitter
 Group: Various accessory slots or accessory names.</context>
           <context context-type="x-crowdin-label">1.62 Addition</context>
         </context-group>
+        <note from="QL_CZ_P" priority="4">@morrelo Please check the consistency of this translation and choose the most appropriate translation. In TM, I have found &quot;Dělený rozsah&quot;, &quot;Dělení&quot;, &quot;Split&quot; etc.</note>
+        <note from="Adam Fojtík (morrelo)" priority="4">@QL_CZ_P Those are completely unrelated strings.
+&quot;Dělení&quot; or &quot;Dělený rozsah&quot; are for h-shifter layouts, while &quot;Splitr&quot; is a tuning part for cars.</note>
       </trans-unit>
       <trans-unit id="431260" resname="f_turn_light">
         <source>Front Turn Light</source>
@@ -14950,7 +14953,7 @@ Screen used to configure keyboard related options.</context>
       </trans-unit>
       <trans-unit id="24816" resname="o_im_hb_light" translate="no">
         <source>High Beam Headlights</source>
-        <target state="translated">상향 전조등</target>
+        <target state="translated">상향등</target>
         <context-group purpose="information">
           <context context-type="source">o_im_hb_light
 
@@ -25935,7 +25938,7 @@ Group: Route adviser</context>
       </trans-unit>
       <trans-unit id="588859" resname="adv_hud_lgd_high_beam" translate="no">
         <source>High Beam Headlights</source>
-        <target state="translated">상향 전조등</target>
+        <target state="translated">상향등</target>
         <context-group purpose="information">
           <context context-type="source">adv_hud_lgd_high_beam
 
@@ -37547,7 +37550,7 @@ Window for tweaking orientation of the mirrors.</context>
       </trans-unit>
       <trans-unit id="27210" resname="adj_left" translate="no">
         <source>Left</source>
-        <target state="translated">왼쪽</target>
+        <target state="translated">왼쪽 미러</target>
         <context-group purpose="information">
           <context context-type="source">adj_left
 
@@ -37559,7 +37562,7 @@ Window for tweaking orientation of the mirrors.</context>
       </trans-unit>
       <trans-unit id="27212" resname="adj_hood" translate="no">
         <source>Hood</source>
-        <target state="translated">후드</target>
+        <target state="translated">후드 미러</target>
         <context-group purpose="information">
           <context context-type="source">adj_hood
 
@@ -37571,7 +37574,7 @@ Window for tweaking orientation of the mirrors.</context>
       </trans-unit>
       <trans-unit id="27214" resname="adj_right" translate="no">
         <source>Right</source>
-        <target state="translated">오른쪽</target>
+        <target state="translated">오른쪽 미러</target>
         <context-group purpose="information">
           <context context-type="source">adj_right
 
@@ -37583,7 +37586,7 @@ Window for tweaking orientation of the mirrors.</context>
       </trans-unit>
       <trans-unit id="27216" resname="front" translate="no">
         <source>Front</source>
-        <target state="translated">전방</target>
+        <target state="translated">전방 미러</target>
         <context-group purpose="information">
           <context context-type="source">front
 
@@ -37595,7 +37598,7 @@ Window for tweaking orientation of the mirrors.</context>
       </trans-unit>
       <trans-unit id="27218" resname="side" translate="no">
         <source>Side</source>
-        <target state="translated">사이드</target>
+        <target state="translated">사이드 미러</target>
         <context-group purpose="information">
           <context context-type="source">side
 
@@ -37607,7 +37610,7 @@ Window for tweaking orientation of the mirrors.</context>
       </trans-unit>
       <trans-unit id="395246" resname="left_small">
         <source>Left Convex</source>
-        <target state="translated">왼쪽 보조거울</target>
+        <target state="translated">왼쪽 보조미러</target>
         <context-group purpose="information">
           <context context-type="source">left_small
 
@@ -37619,7 +37622,7 @@ Window for tweaking orientation of the mirrors.</context>
       </trans-unit>
       <trans-unit id="395248" resname="right_small">
         <source>Right Convex</source>
-        <target state="translated">오른쪽 보조거울</target>
+        <target state="translated">오른쪽 보조미러</target>
         <context-group purpose="information">
           <context context-type="source">right_small
 
@@ -52284,7 +52287,7 @@ Group: Multiplayer current session.</context>
       </trans-unit>
       <trans-unit id="167476" resname="mp_view_job">
         <source>View and Take the Same Job</source>
-        <target state="translated">살펴본 후 같은 화물 배차받기</target>
+        <target state="translated">살펴본 후 같은 배차받기</target>
         <context-group purpose="information">
           <context context-type="source">mp_view_job
 
@@ -71260,7 +71263,7 @@ Group: Book 1 Scenario 1_05</context>
       </trans-unit>
       <trans-unit id="399880" resname="aca_goal_book1_1_05_low_beam" translate="no">
         <source>Low Beam Lights</source>
-        <target state="translated">하향등 조명</target>
+        <target state="translated">하향등</target>
         <context-group purpose="information">
           <context context-type="source">aca_goal_book1_1_05_low_beam
 
@@ -71390,7 +71393,7 @@ Group: Book 1 Scenario 1_05</context>
       </trans-unit>
       <trans-unit id="399906" resname="aca_msg_book1_1_05_low_beam" translate="no">
         <source>@@aca_msg_book1_1_05_low_beam_img@@&lt;br&gt;Parking lights illuminate the front, side and rear marker lights. They're used when you are parked in poor lighting conditions so that you are visible to other drivers.&lt;font face=/font/big_bold.font&gt;&lt;br&gt;&lt;br&gt;Press @@imv_nrm_light@@ to switch to low beam headlights. &lt;/font&gt;</source>
-        <target state="translated">@@aca_msg_book1_1_05_low_beam_img@@&lt;br&gt;차폭등은 전면, 측면 및 후면 마커등을 비춥니다. 조명이 어두운 곳에 주차했을 때 다른 운전자에게 보이도록 하기 위해 사용됩니다.&lt;font face=/font/big_bold.font&gt;&lt;br&gt;&lt;br&gt;@@imv_nrm_light@@를 눌러 하향 전조등으로 전환합니다. &lt;/font&gt;</target>
+        <target state="translated">@@aca_msg_book1_1_05_low_beam_img@@&lt;br&gt;차폭등은 전면, 측면 및 후면 마커등을 비춥니다. 조명이 어두운 곳에 주차했을 때 다른 운전자에게 보이도록 하기 위해 사용됩니다.&lt;font face=/font/big_bold.font&gt;&lt;br&gt;&lt;br&gt;@@imv_nrm_light@@를 눌러 하향등으로 전환합니다. &lt;/font&gt;</target>
         <context-group purpose="information">
           <context context-type="source">aca_msg_book1_1_05_low_beam
 
@@ -71400,7 +71403,7 @@ Group: Book 1 Scenario 1_05</context>
       </trans-unit>
       <trans-unit id="399908" resname="aca_msg_book1_1_05_high_beam_on" translate="no">
         <source>@@aca_msg_book1_1_05_high_beam_on_img@@&lt;br&gt;Low beam headlights illuminate the road ahead of you and also improve the visibility of your vehicle in poor lighting conditions.&lt;font face=/font/big_bold.font&gt;&lt;br&gt;&lt;br&gt;Use @@imv_nrm_hblight@@ to switch to high beam headlights. &lt;/font&gt;</source>
-        <target state="translated">@@aca_msg_book1_1_05_high_beam_on_img@@&lt;br&gt;하향 전조등은 앞의 도로를 비추고 조명이 어두운 상황에서 차량의 가시성을 높여줍니다.&lt;font face=/font/big_bold.font&gt;&lt;br&gt;&lt;br&gt;@@imv_nrm_hblight@@를 사용하여 상향 전조등으로 전환하십시오. &lt;/font&gt;</target>
+        <target state="translated">@@aca_msg_book1_1_05_high_beam_on_img@@&lt;br&gt;하향등은 앞의 도로를 비추고 조명이 어두운 상황에서 차량의 가시성을 높여줍니다.&lt;font face=/font/big_bold.font&gt;&lt;br&gt;&lt;br&gt;@@imv_nrm_hblight@@를 사용하여 상향등으로 전환하십시오. &lt;/font&gt;</target>
         <context-group purpose="information">
           <context context-type="source">aca_msg_book1_1_05_high_beam_on
 
@@ -88378,6 +88381,7 @@ Id: cor_def_aero_chromed
 Group: Accessory Names</context>
           <context context-type="x-crowdin-label">Accessory</context>
         </context-group>
+        <note from="* ResTed * (_ResTed_)" priority="4">@QL_RU_P There is a typo in approved text (due to incorrect keyboard layout)</note>
       </trans-unit>
       <trans-unit id="624809" resname="cor_def_aero_painted">
         <source>Aero Painted</source>
@@ -90114,6 +90118,7 @@ Id: doortrim_window_trim
 Group: Accessory Names</context>
           <context context-type="x-crowdin-label">Accessory</context>
         </context-group>
+        <note from="QL_RU_P" priority="4">Please provide a picture</note>
       </trans-unit>
       <trans-unit id="625039" resname="drv_plate_standard_plate">
         <source>Standard Plate</source>
@@ -99912,6 +99917,7 @@ Id: interior_fleet
 Group: Accessory Names</context>
           <context context-type="x-crowdin-label">Accessory</context>
         </context-group>
+        <note from="QL_RU_P" priority="4">Please clarify the Fleet interior</note>
       </trans-unit>
       <trans-unit id="626605" resname="interior_grey_diamond_vit">
         <source>Grey Diamond VIT</source>
@@ -108417,7 +108423,7 @@ Group: Accessory Names</context>
       </trans-unit>
       <trans-unit id="627895" resname="steering_w_dragon_flame">
         <source>Dragon Flame</source>
-        <target state="translated">Dragon Flame</target>
+        <target state="translated">드래곤 플레임</target>
         <context-group purpose="information">
           <context context-type="source">steering_w_dragon_flame
 
@@ -108540,7 +108546,7 @@ Group: Accessory Names</context>
       </trans-unit>
       <trans-unit id="627917" resname="steering_w_flames">
         <source>Flames</source>
-        <target state="translated">Flames</target>
+        <target state="translated">불꽃</target>
         <context-group purpose="information">
           <context context-type="source">steering_w_flames
 
@@ -116458,7 +116464,7 @@ Group: Names of paintjob accessories.</context>
       </trans-unit>
       <trans-unit id="683742" resname="pj_divine_flame">
         <source>Divine Flame</source>
-        <target state="translated">Divine Flame</target>
+        <target state="translated">신성한 불꽃</target>
         <context-group purpose="information">
           <context context-type="source">pj_divine_flame
 
@@ -116864,7 +116870,7 @@ Group: Names of paintjob accessories.</context>
       </trans-unit>
       <trans-unit id="629223" resname="pj_flame_on">
         <source>Flame On</source>
-        <target state="translated">Flame On</target>
+        <target state="translated">플레임 온</target>
         <context-group purpose="information">
           <context context-type="source">pj_flame_on
 
@@ -116875,7 +116881,7 @@ Group: Names of paintjob accessories.</context>
       </trans-unit>
       <trans-unit id="629225" resname="pj_flame_red">
         <source>Flame Red</source>
-        <target state="translated">Flame Red</target>
+        <target state="translated">플레임 레드</target>
         <context-group purpose="information">
           <context context-type="source">pj_flame_red
 
@@ -116897,7 +116903,7 @@ Group: Names of paintjob accessories.</context>
       </trans-unit>
       <trans-unit id="629227" resname="pj_flames">
         <source>Flames</source>
-        <target state="translated">Flames</target>
+        <target state="translated">불꽃</target>
         <context-group purpose="information">
           <context context-type="source">pj_flames
 
@@ -116930,7 +116936,7 @@ Group: Names of paintjob accessories.</context>
       </trans-unit>
       <trans-unit id="629233" resname="pj_flowing_flames">
         <source>Flowing Flames</source>
-        <target state="translated">Flowing Flames</target>
+        <target state="translated">흐르는 불꽃</target>
         <context-group purpose="information">
           <context context-type="source">pj_flowing_flames
 
@@ -117488,7 +117494,7 @@ Group: Names of paintjob accessories.</context>
       </trans-unit>
       <trans-unit id="629313" resname="pj_hot_flames">
         <source>Hot Flames</source>
-        <target state="translated">Hot Flames</target>
+        <target state="translated">뜨거운 불꽃</target>
         <context-group purpose="information">
           <context context-type="source">pj_hot_flames
 
@@ -118125,7 +118131,7 @@ Group: Names of paintjob accessories.</context>
       </trans-unit>
       <trans-unit id="629399" resname="pj_midnight_flame">
         <source>Midnight Flame</source>
-        <target state="translated">Midnight Flame</target>
+        <target state="translated">한밤의 불꽃</target>
         <context-group purpose="information">
           <context context-type="source">pj_midnight_flame
 
@@ -119417,7 +119423,7 @@ Group: Names of paintjob accessories.</context>
       </trans-unit>
       <trans-unit id="629607" resname="pj_searing_flames">
         <source>Searing Flames</source>
-        <target state="translated">Searing Flames</target>
+        <target state="translated">타오르는 불꽃</target>
         <context-group purpose="information">
           <context context-type="source">pj_searing_flames
 
@@ -119800,7 +119806,7 @@ Group: Names of paintjob accessories.</context>
       </trans-unit>
       <trans-unit id="629657" resname="pj_sparkle_jade">
         <source>Sparkle Jade</source>
-        <target state="translated">Sparkle Jade</target>
+        <target state="translated">반짝이는 옥</target>
         <context-group purpose="information">
           <context context-type="source">pj_sparkle_jade
 
@@ -120490,6 +120496,7 @@ Group: Names of paintjob accessories.</context>
         <note from="Alexander Tselikov (San_Sany4)" priority="4">Does &quot;nickel&quot; here mean the metal, or the number &quot;5&quot;, commonly called &quot;nickel&quot; in the US?</note>
         <note from="Mads Teland (mads1153)" priority="4">I think this is rather to metal since this is paintjob colour.</note>
         <note from="Alexander Tselikov (San_Sany4)" priority="4">It might be a paintjob with number 555 on it, or depicting something related to that number.</note>
+        <note from="QL_RU_T" priority="4">It is Dodge branded color https://www.readycarpaint.com/products/dodge-pse-sse-triple-nickel-metallic-automotive-spray-paint-100-oem-color-match</note>
       </trans-unit>
       <trans-unit id="629761" resname="pj_tropicana_haze">
         <source>Tropicana Haze</source>
@@ -125791,6 +125798,7 @@ Id: poi_ne1_03
 Group: Nebraska TBs and POIs localization.</context>
           <context context-type="x-crowdin-label">1.62 Addition</context>
         </context-group>
+        <note from="Mads Teland (mads1153)" priority="4">It seems like this is for railroad bridge longer north, but coming to this area with this string seems to be more related to Oregon Trail Veterans Park close by to the road sign, so maybe it should include long one extra &quot;...and Sidney Black Hills Trail&quot; in whole string or change it to &quot;The Oregon Trail&quot; because there is another sign nearby. Like it is now seems to be more confusing with just Camp Clarke Bridge.</note>
       </trans-unit>
       <trans-unit id="828370" resname="poi_ne1_03_desc">
         <source>Henry T. Clarke's 2,000-foot toll bridge crossed the North Platte in 1876, linking the Union Pacific at Sidney to the Black Hills gold camps. At its 1878–79 peak, the trail moved 22 million pounds of freight yearly.</source>

@@ -5204,7 +5204,7 @@
 		"description": "Id: o_im_lights\nGroup: Names of various functionalities.\nGroup: Options/Keyboard\nScreen used to configure keyboard related options."
 	},
 	"o_im_hb_light": {
-		"message": "상향 전조등",
+		"message": "상향등",
 		"description": "Id: o_im_hb_light\nGroup: Names of various functionalities.\nGroup: Options/Keyboard\nScreen used to configure keyboard related options."
 	},
 	"o_im_beacon": {
@@ -8992,7 +8992,7 @@
 		"description": "Id: adv_hud_lgd_low_beam\nGroup: Adviser Legends\nGroup: Route adviser"
 	},
 	"adv_hud_lgd_high_beam": {
-		"message": "상향 전조등",
+		"message": "상향등",
 		"description": "Id: adv_hud_lgd_high_beam\nGroup: Adviser Legends\nGroup: Route adviser"
 	},
 	"adv_hud_lgd_acc": {
@@ -13216,31 +13216,31 @@
 		"description": "Id: mirror_adj_t\nTitle of the window. Please keep in upper case where possible.\nGroup: Mirrors Adjuster\nWindow for tweaking orientation of the mirrors."
 	},
 	"adj_left": {
-		"message": "왼쪽",
+		"message": "왼쪽 미러",
 		"description": "Id: adj_left\nCheckbox selecting left mirror.\nGroup: Mirrors Adjuster\nWindow for tweaking orientation of the mirrors."
 	},
 	"adj_hood": {
-		"message": "후드",
+		"message": "후드 미러",
 		"description": "Id: adj_hood\ncheckbox selecting one of the hood mirrors.\nGroup: Mirrors Adjuster\nWindow for tweaking orientation of the mirrors."
 	},
 	"adj_right": {
-		"message": "오른쪽",
+		"message": "오른쪽 미러",
 		"description": "Id: adj_right\nCheckbox selecting right mirror.\nGroup: Mirrors Adjuster\nWindow for tweaking orientation of the mirrors."
 	},
 	"front": {
-		"message": "전방",
+		"message": "전방 미러",
 		"description": "Id: front\nCheckbox selecting front mirror.\nGroup: Mirrors Adjuster\nWindow for tweaking orientation of the mirrors."
 	},
 	"side": {
-		"message": "사이드",
+		"message": "사이드 미러",
 		"description": "Id: side\nCheckbox selecting side mirror.\nGroup: Mirrors Adjuster\nWindow for tweaking orientation of the mirrors."
 	},
 	"left_small": {
-		"message": "왼쪽 보조거울",
+		"message": "왼쪽 보조미러",
 		"description": "Id: left_small\nCheckbox selecting small mirror on the left side.\nGroup: Mirrors Adjuster\nWindow for tweaking orientation of the mirrors."
 	},
 	"right_small": {
-		"message": "오른쪽 보조거울",
+		"message": "오른쪽 보조미러",
 		"description": "Id: right_small\nCheckbox selecting small mirror on the right side.\nGroup: Mirrors Adjuster\nWindow for tweaking orientation of the mirrors."
 	},
 	"mirror_camera_zoom": {
@@ -18780,7 +18780,7 @@
 		"description": "Id: mp_delivery_type_header\nmax. 20 characters\nGroup: Multiplayer current session."
 	},
 	"mp_view_job": {
-		"message": "살펴본 후 같은 화물 배차받기",
+		"message": "살펴본 후 같은 배차받기",
 		"description": "Id: mp_view_job\nGroup: Multiplayer current session."
 	},
 	"mp_car_quick_job": {
@@ -25900,7 +25900,7 @@
 		"description": "Id: aca_goal_book1_1_05_parking\nGroup: Book 1 Scenario 1_05"
 	},
 	"aca_goal_book1_1_05_low_beam": {
-		"message": "하향등 조명",
+		"message": "하향등",
 		"description": "Id: aca_goal_book1_1_05_low_beam\nGroup: Book 1 Scenario 1_05"
 	},
 	"aca_goal_book1_1_05_high_beam": {
@@ -25952,11 +25952,11 @@
 		"description": "Id: aca_msg_book1_1_05_parking\nGroup: Book 1 Scenario 1_05"
 	},
 	"aca_msg_book1_1_05_low_beam": {
-		"message": "@@aca_msg_book1_1_05_low_beam_img@@<br>차폭등은 전면, 측면 및 후면 마커등을 비춥니다. 조명이 어두운 곳에 주차했을 때 다른 운전자에게 보이도록 하기 위해 사용됩니다.<font face=/font/big_bold.font><br><br>@@imv_nrm_light@@를 눌러 하향 전조등으로 전환합니다. </font>",
+		"message": "@@aca_msg_book1_1_05_low_beam_img@@<br>차폭등은 전면, 측면 및 후면 마커등을 비춥니다. 조명이 어두운 곳에 주차했을 때 다른 운전자에게 보이도록 하기 위해 사용됩니다.<font face=/font/big_bold.font><br><br>@@imv_nrm_light@@를 눌러 하향등으로 전환합니다. </font>",
 		"description": "Id: aca_msg_book1_1_05_low_beam\nGroup: Book 1 Scenario 1_05"
 	},
 	"aca_msg_book1_1_05_high_beam_on": {
-		"message": "@@aca_msg_book1_1_05_high_beam_on_img@@<br>하향 전조등은 앞의 도로를 비추고 조명이 어두운 상황에서 차량의 가시성을 높여줍니다.<font face=/font/big_bold.font><br><br>@@imv_nrm_hblight@@를 사용하여 상향 전조등으로 전환하십시오. </font>",
+		"message": "@@aca_msg_book1_1_05_high_beam_on_img@@<br>하향등은 앞의 도로를 비추고 조명이 어두운 상황에서 차량의 가시성을 높여줍니다.<font face=/font/big_bold.font><br><br>@@imv_nrm_hblight@@를 사용하여 상향등으로 전환하십시오. </font>",
 		"description": "Id: aca_msg_book1_1_05_high_beam_on\nGroup: Book 1 Scenario 1_05"
 	},
 	"aca_msg_book1_1_05_high_beam_off": {
@@ -39740,7 +39740,7 @@
 		"description": "Id: steering_w_deluxe_sadle\nGroup: Accessory Names"
 	},
 	"steering_w_dragon_flame": {
-		"message": "Dragon Flame",
+		"message": "드래곤 플레임",
 		"description": "Id: steering_w_dragon_flame\nGroup: Accessory Names"
 	},
 	"steering_w_eagle": {
@@ -39784,7 +39784,7 @@
 		"description": "Id: steering_w_exclusive_wooden_steering_wheel\nGroup: Accessory Names"
 	},
 	"steering_w_flames": {
-		"message": "Flames",
+		"message": "불꽃",
 		"description": "Id: steering_w_flames\nGroup: Accessory Names"
 	},
 	"steering_w_flight": {
@@ -42688,7 +42688,7 @@
 		"description": "Id: pj_divided\nGroup: Names of paintjob accessories."
 	},
 	"pj_divine_flame": {
-		"message": "Divine Flame",
+		"message": "신성한 불꽃",
 		"description": "Id: pj_divine_flame\nGroup: Names of paintjob accessories."
 	},
 	"pj_dolphin_dreams": {
@@ -42836,11 +42836,11 @@
 		"description": "Id: pj_flair\nGroup: Names of paintjob accessories."
 	},
 	"pj_flame_on": {
-		"message": "Flame On",
+		"message": "플레임 온",
 		"description": "Id: pj_flame_on\nGroup: Names of paintjob accessories."
 	},
 	"pj_flame_red": {
-		"message": "Flame Red",
+		"message": "플레임 레드",
 		"description": "Id: pj_flame_red\nGroup: Names of paintjob accessories."
 	},
 	"pj_flame_red_pearl_metallic": {
@@ -42848,7 +42848,7 @@
 		"description": "Id: pj_flame_red_pearl_metallic\nGroup: Names of paintjob accessories."
 	},
 	"pj_flames": {
-		"message": "Flames",
+		"message": "불꽃",
 		"description": "Id: pj_flames\nGroup: Names of paintjob accessories."
 	},
 	"pj_flash_drive": {
@@ -42860,7 +42860,7 @@
 		"description": "Id: pj_flow_glow\nGroup: Names of paintjob accessories."
 	},
 	"pj_flowing_flames": {
-		"message": "Flowing Flames",
+		"message": "흐르는 불꽃",
 		"description": "Id: pj_flowing_flames\nGroup: Names of paintjob accessories."
 	},
 	"pj_flying_colors": {
@@ -43064,7 +43064,7 @@
 		"description": "Id: pj_horses\nGroup: Names of paintjob accessories."
 	},
 	"pj_hot_flames": {
-		"message": "Hot Flames",
+		"message": "뜨거운 불꽃",
 		"description": "Id: pj_hot_flames\nGroup: Names of paintjob accessories."
 	},
 	"pj_hot_pepper_red_metallic": {
@@ -43296,7 +43296,7 @@
 		"description": "Id: pj_midnight_black\nGroup: Names of paintjob accessories."
 	},
 	"pj_midnight_flame": {
-		"message": "Midnight Flame",
+		"message": "한밤의 불꽃",
 		"description": "Id: pj_midnight_flame\nGroup: Names of paintjob accessories."
 	},
 	"pj_midnight_sun": {
@@ -43768,7 +43768,7 @@
 		"description": "Id: pj_seal_team_tribute\nGroup: Names of paintjob accessories."
 	},
 	"pj_searing_flames": {
-		"message": "Searing Flames",
+		"message": "타오르는 불꽃",
 		"description": "Id: pj_searing_flames\nGroup: Names of paintjob accessories."
 	},
 	"pj_selection": {
@@ -43908,7 +43908,7 @@
 		"description": "Id: pj_space_shuttle\nGroup: Names of paintjob accessories."
 	},
 	"pj_sparkle_jade": {
-		"message": "Sparkle Jade",
+		"message": "반짝이는 옥",
 		"description": "Id: pj_sparkle_jade\nGroup: Names of paintjob accessories."
 	},
 	"pj_spectrum_run": {

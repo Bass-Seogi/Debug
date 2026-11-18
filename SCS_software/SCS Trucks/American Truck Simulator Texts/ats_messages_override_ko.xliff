@@ -2170,6 +2170,7 @@ Id: tcn_sabre
 Group: Names of individual trailer, trailer chassis types or trailer virtual company look names. (for trailer listing screen)
 Group: Text deviations for American Truck Simulator. Please, use only terms appropriate for USA (i.e. culture specific nuances, not American English).</context>
         </context-group>
+        <note from="Γιώργος Βαρδ (gg.vardoukelis)" priority="4">What is this referring to?</note>
       </trans-unit>
       <trans-unit id="461203" resname="ats_tn_lodeking_brilliance">
         <source>Lodeking Brilliance</source>
@@ -5234,6 +5235,8 @@ Group: Names of cities</context>
           <context context-type="x-crowdin-label-1">1.61 Addition</context>
           <context context-type="x-crowdin-label-2">Last minute</context>
         </context-group>
+        <note from="mitsumatayariuo" priority="4">While the Japanese spelling for &quot;Pierre&quot; can vary slightly (such as ピーア or ピア), &quot;ピア&quot; is more standard in encyclopedias and SCS's official Japanese blog.
+To keep the city names consistent across the game, I have submitted &quot;フォートピア&quot; to unify it with &quot;Pierre&quot; (ピア).</note>
       </trans-unit>
       <trans-unit id="396780" resname="ats_fort_smith">
         <source>Fort Smith</source>
@@ -6422,6 +6425,8 @@ Id: pierre
 Group: Names of cities</context>
           <context context-type="x-crowdin-label">1.61 Addition</context>
         </context-group>
+        <note from="mitsumatayariuo" priority="4">&quot;Pierre&quot; is locally pronounced like &quot;peer&quot; (ピア), not the French &quot;ピエール&quot;. &quot;ピア&quot; is the standard Japanese spelling used in encyclopedias and SCS's official Japanese blog.
+Also, please unify it with &quot;Fort Pierre&quot; (フォートピア). I have submitted the corrected translation &quot;ピア&quot;.</note>
       </trans-unit>
       <trans-unit id="396790" resname="ats_pine_bluff">
         <source>Pine Bluff</source>

@@ -3203,271 +3203,6 @@ Id: NEW_ACHIEVEMENT_61_9_SHORT
 Short version of achievement description for Euro Truck Simulator 2. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit.</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="829924" resname="ach_land_of_fire_and_ice_name">
-        <source>Land of Fire and Ice</source>
-        <target state="translated">불과 얼음의 땅</target>
-        <context-group purpose="information">
-          <context context-type="source">ach_land_of_fire_and_ice_name
-
-Id: ach_land_of_fire_and_ice_name
-Achievement name for Euro Truck Simulator 2. Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
-          <context context-type="x-crowdin-label">1.62 Addition</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="829926" resname="ach_land_of_fire_and_ice_desc">
-        <source>Discover at least 12 cities in Iceland</source>
-        <target state="translated">아이슬란드의 12개 도시를 방문하십시오</target>
-        <context-group purpose="information">
-          <context context-type="source">ach_land_of_fire_and_ice_desc
-
-Id: ach_land_of_fire_and_ice_desc
-Achievement description for Euro Truck Simulator 2. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
-          <context context-type="x-crowdin-label">1.62 Addition</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="829928" resname="ach_land_of_fire_and_ice_short">
-        <source>Discover at least 12 cities in Iceland</source>
-        <target state="translated">아이슬란드의 12개 도시를 방문하십시오</target>
-        <context-group purpose="information">
-          <context context-type="source">ach_land_of_fire_and_ice_short
-
-Id: ach_land_of_fire_and_ice_short
-Short version of achievement description for Euro Truck Simulator 2. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit.</context>
-          <context context-type="x-crowdin-label">1.62 Addition</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="829930" resname="ach_saga_sights_name">
-        <source>Saga Sights</source>
-        <target state="translated">명소의 역사</target>
-        <context-group purpose="information">
-          <context context-type="source">ach_saga_sights_name
-
-Id: ach_saga_sights_name
-Achievement name for Euro Truck Simulator 2. Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
-          <context context-type="x-crowdin-label">1.62 Addition</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="829932" resname="ach_saga_sights_desc">
-        <source>View cutscenes from at least 8 viewpoints in Iceland</source>
-        <target state="translated">아이슬란드의 8개 뷰포인트의 컷신을 감상하십시오</target>
-        <context-group purpose="information">
-          <context context-type="source">ach_saga_sights_desc
-
-Id: ach_saga_sights_desc
-Achievement description for Euro Truck Simulator 2. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
-          <context context-type="x-crowdin-label">1.62 Addition</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="829934" resname="ach_saga_sights_short">
-        <source>View cutscenes from at least 8 viewpoints in Iceland</source>
-        <target state="translated">아이슬란드의 8개 뷰포인트의 컷신을 감상하십시오</target>
-        <context-group purpose="information">
-          <context context-type="source">ach_saga_sights_short
-
-Id: ach_saga_sights_short
-Short version of achievement description for Euro Truck Simulator 2. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit.</context>
-          <context context-type="x-crowdin-label">1.62 Addition</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="829936" resname="ach_lord_of_the_ringroad_name">
-        <source>Lord of the Ringroad</source>
-        <target state="translated">링로드의 군주</target>
-        <context-group purpose="information">
-          <context context-type="source">ach_lord_of_the_ringroad_name
-
-Id: ach_lord_of_the_ringroad_name
-Achievement name for Euro Truck Simulator 2. Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
-          <context context-type="x-crowdin-label">1.62 Addition</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="829938" resname="ach_lord_of_the_ringroad_desc">
-        <source>Complete 3 excellent deliveries in this order: Reykjavík - Höfn - Akureyri - Reykjavík</source>
-        <target state="translated">레이캬비크 - 회픈 - 아쿠레이리 - 레이캬비크 순서로 3번 완벽하게 배달해야 합니다</target>
-        <context-group purpose="information">
-          <context context-type="source">ach_lord_of_the_ringroad_desc
-
-Id: ach_lord_of_the_ringroad_desc
-Achievement description for Euro Truck Simulator 2. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
-          <context context-type="x-crowdin-label">1.62 Addition</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="829940" resname="ach_lord_of_the_ringroad_short">
-        <source>Complete 3 excellent deliveries in this order: Reykjavík - Höfn - Akureyri - Reykjavík</source>
-        <target state="translated">레이캬비크 - 회픈 - 아쿠레이리 - 레이캬비크 순서로 3번 완벽하게 배달해야 합니다</target>
-        <context-group purpose="information">
-          <context context-type="source">ach_lord_of_the_ringroad_short
-
-Id: ach_lord_of_the_ringroad_short
-Short version of achievement description for Euro Truck Simulator 2. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit.</context>
-          <context context-type="x-crowdin-label">1.62 Addition</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="829942" resname="ach_outrun_the_yule_cat_name">
-        <source>Outrun the Yule Cat</source>
-        <target state="translated">크리스마스 고양이를 따돌리십시오</target>
-        <context-group purpose="information">
-          <context context-type="source">ach_outrun_the_yule_cat_name
-
-Id: ach_outrun_the_yule_cat_name
-Achievement name for Euro Truck Simulator 2. Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
-          <context context-type="x-crowdin-label">1.62 Addition</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="829944" resname="ach_outrun_the_yule_cat_desc">
-        <source>Complete 3 livestock deliveries of sheep to or from 3 different farms in Iceland</source>
-        <target state="translated">아이슬란드의 서로 다른 농장 3곳에서 양을 3회에 걸쳐 배송 또는 수령하십시오</target>
-        <context-group purpose="information">
-          <context context-type="source">ach_outrun_the_yule_cat_desc
-
-Id: ach_outrun_the_yule_cat_desc
-Achievement description for Euro Truck Simulator 2. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
-          <context context-type="x-crowdin-label">1.62 Addition</context>
-        </context-group>
-        <note from="JohnnyW" priority="4">The current cargo name for sheep livestock is &quot;Live Sheep&quot;. Should that be used here, instead of just &quot;sheep&quot;?</note>
-      </trans-unit>
-      <trans-unit id="829946" resname="ach_outrun_the_yule_cat_short">
-        <source>Complete 3 livestock deliveries of sheep to or from 3 different farms in Iceland</source>
-        <target state="translated">아이슬란드의 서로 다른 농장 3곳에서 양을 3회에 걸쳐 배송 또는 수령하십시오</target>
-        <context-group purpose="information">
-          <context context-type="source">ach_outrun_the_yule_cat_short
-
-Id: ach_outrun_the_yule_cat_short
-Short version of achievement description for Euro Truck Simulator 2. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit.</context>
-          <context context-type="x-crowdin-label">1.62 Addition</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="829948" resname="ach_smooth_start_name">
-        <source>Smooth Start</source>
-        <target state="translated">부드러운 시작</target>
-        <context-group purpose="information">
-          <context context-type="source">ach_smooth_start_name
-
-Id: ach_smooth_start_name
-Achievement name for Euro Truck Simulator 2. Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
-          <context context-type="x-crowdin-label">1.62 Addition</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="829950" resname="ach_smooth_start_desc">
-        <source>Complete a coach job with 90% or higher passenger satisfaction</source>
-        <target state="translated">승객 만족도 90% 이상으로 버스 운행 업무를 완료하세요</target>
-        <context-group purpose="information">
-          <context context-type="source">ach_smooth_start_desc
-
-Id: ach_smooth_start_desc
-Achievement description for Euro Truck Simulator 2. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
-          <context context-type="x-crowdin-label">1.62 Addition</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="829952" resname="ach_smooth_start_short">
-        <source>Complete a coach job with 90% or higher passenger satisfaction</source>
-        <target state="translated">승객 만족도 90% 이상으로 버스 운행 업무를 완료하세요</target>
-        <context-group purpose="information">
-          <context context-type="source">ach_smooth_start_short
-
-Id: ach_smooth_start_short
-Short version of achievement description for Euro Truck Simulator 2. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit.</context>
-          <context context-type="x-crowdin-label">1.62 Addition</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="829954" resname="ach_seasoned_traveller_name">
-        <source>Seasoned Traveller</source>
-        <target state="translated">여행 경험이 풍부한 사람</target>
-        <context-group purpose="information">
-          <context context-type="source">ach_seasoned_traveller_name
-
-Id: ach_seasoned_traveller_name
-Achievement name for Euro Truck Simulator 2. Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
-          <context context-type="x-crowdin-label">1.62 Addition</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="829956" resname="ach_seasoned_traveller_desc">
-        <source>Drive a total of 5,000 kilometers in your own vehicle during a coach job</source>
-        <target state="translated">코치 업무 기간 동안 본인 차량으로 총 5,000km를 운전하세요</target>
-        <context-group purpose="information">
-          <context context-type="source">ach_seasoned_traveller_desc
-
-Id: ach_seasoned_traveller_desc
-Achievement description for Euro Truck Simulator 2. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
-          <context context-type="x-crowdin-label">1.62 Addition</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="829958" resname="ach_seasoned_traveller_short">
-        <source>Drive a total of 5,000 kilometers in your own vehicle during a coach job</source>
-        <target state="translated">코치 업무 기간 동안 본인 차량으로 총 5,000km를 운전하세요</target>
-        <context-group purpose="information">
-          <context context-type="source">ach_seasoned_traveller_short
-
-Id: ach_seasoned_traveller_short
-Short version of achievement description for Euro Truck Simulator 2. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit.</context>
-          <context context-type="x-crowdin-label">1.62 Addition</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="829960" resname="ach_multitalented_driver_name">
-        <source>Multitalented Driver</source>
-        <target state="translated">다재다능한 운전기사</target>
-        <context-group purpose="information">
-          <context context-type="source">ach_multitalented_driver_name
-
-Id: ach_multitalented_driver_name
-Achievement name for Euro Truck Simulator 2. Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
-          <context context-type="x-crowdin-label">1.62 Addition</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="829962" resname="ach_multitalented_driver_desc">
-        <source>Spend at least one skill point in each coach skill</source>
-        <target state="translated">코치의 각 스킬에 최소 1포인트씩 투자하세요</target>
-        <context-group purpose="information">
-          <context context-type="source">ach_multitalented_driver_desc
-
-Id: ach_multitalented_driver_desc
-Achievement description for Euro Truck Simulator 2. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
-          <context context-type="x-crowdin-label">1.62 Addition</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="829964" resname="ach_multitalented_driver_short">
-        <source>Spend at least one skill point in each coach skill</source>
-        <target state="translated">코치의 각 스킬에 최소 1포인트씩 투자하세요</target>
-        <context-group purpose="information">
-          <context context-type="source">ach_multitalented_driver_short
-
-Id: ach_multitalented_driver_short
-Short version of achievement description for Euro Truck Simulator 2. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit.</context>
-          <context context-type="x-crowdin-label">1.62 Addition</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="829966" resname="ach_rule_of_threes_name">
-        <source>Rule of Threes</source>
-        <target state="translated">3의 법칙</target>
-        <context-group purpose="information">
-          <context context-type="source">ach_rule_of_threes_name
-
-Id: ach_rule_of_threes_name
-Achievement name for Euro Truck Simulator 2. Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
-          <context context-type="x-crowdin-label">1.62 Addition</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="829968" resname="ach_rule_of_threes_desc">
-        <source>Complete 3 consecutive jobs of at least 300 kilometers each with 100% satisfaction</source>
-        <target state="translated">각각 최소 300km 이상의 거리를 주행하는 작업을 3회 연속으로 100% 만족도로 완료하세요</target>
-        <context-group purpose="information">
-          <context context-type="source">ach_rule_of_threes_desc
-
-Id: ach_rule_of_threes_desc
-Achievement description for Euro Truck Simulator 2. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
-          <context context-type="x-crowdin-label">1.62 Addition</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="829970" resname="ach_rule_of_threes_short">
-        <source>Complete 3 consecutive jobs of at least 300 kilometers each with 100% satisfaction</source>
-        <target state="translated">각각 최소 300km 이상의 거리를 주행하는 작업을 3회 연속으로 100% 만족도로 완료하세요</target>
-        <context-group purpose="information">
-          <context context-type="source">ach_rule_of_threes_short
-
-Id: ach_rule_of_threes_short
-Short version of achievement description for Euro Truck Simulator 2. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit.</context>
-          <context context-type="x-crowdin-label">1.62 Addition</context>
-        </context-group>
-      </trans-unit>
       <trans-unit id="294" resname="achievement_sc_deliver_marinas_NAME">
         <source>Sailor</source>
         <target state="translated">선원</target>
@@ -3669,6 +3404,280 @@ Suffix for achievement descriptions for Euro Truck Simulator 2 shown on the Stea
 
 Id: ach_coaches_dlc_suffix
 Suffix for achievement descriptions for Euro Truck Simulator 2 shown on the Steam website (http://steamcommunity.com/stats/227300/achievements/). Appended to every description requiring given DLC/module.</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="829924" resname="NEW_ACHIEVEMENT_61_11_NAME">
+        <source>Land of Fire and Ice</source>
+        <target state="translated">불과 얼음의 땅</target>
+        <context-group purpose="information">
+          <context context-type="source">ach_land_of_fire_and_ice_name
+
+Id: ach_land_of_fire_and_ice_name
+Achievement name for Euro Truck Simulator 2. Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="829926" resname="NEW_ACHIEVEMENT_61_11_DESC">
+        <source>Discover at least 12 cities in Iceland</source>
+        <target state="translated">아이슬란드의 12개 도시를 방문하십시오</target>
+        <context-group purpose="information">
+          <context context-type="source">ach_land_of_fire_and_ice_desc
+
+Id: ach_land_of_fire_and_ice_desc
+Achievement description for Euro Truck Simulator 2. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="829928" resname="NEW_ACHIEVEMENT_61_11_SHORT">
+        <source>Discover at least 12 cities in Iceland</source>
+        <target state="translated">아이슬란드의 12개 도시를 방문하십시오</target>
+        <context-group purpose="information">
+          <context context-type="source">ach_land_of_fire_and_ice_short
+
+Id: ach_land_of_fire_and_ice_short
+Short version of achievement description for Euro Truck Simulator 2. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit.</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="829930" resname="NEW_ACHIEVEMENT_61_12_NAME">
+        <source>Saga Sights</source>
+        <target state="translated">명소의 역사</target>
+        <context-group purpose="information">
+          <context context-type="source">ach_saga_sights_name
+
+Id: ach_saga_sights_name
+Achievement name for Euro Truck Simulator 2. Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="829932" resname="NEW_ACHIEVEMENT_61_12_DESC">
+        <source>View cutscenes from at least 8 viewpoints in Iceland</source>
+        <target state="translated">아이슬란드의 8개 뷰포인트의 컷신을 감상하십시오</target>
+        <context-group purpose="information">
+          <context context-type="source">ach_saga_sights_desc
+
+Id: ach_saga_sights_desc
+Achievement description for Euro Truck Simulator 2. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="829934" resname="NEW_ACHIEVEMENT_61_12_SHORT">
+        <source>View cutscenes from at least 8 viewpoints in Iceland</source>
+        <target state="translated">아이슬란드의 8개 뷰포인트의 컷신을 감상하십시오</target>
+        <context-group purpose="information">
+          <context context-type="source">ach_saga_sights_short
+
+Id: ach_saga_sights_short
+Short version of achievement description for Euro Truck Simulator 2. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit.</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="829936" resname="NEW_ACHIEVEMENT_61_13_NAME">
+        <source>Lord of the Ringroad</source>
+        <target state="translated">링로드의 군주</target>
+        <context-group purpose="information">
+          <context context-type="source">ach_lord_of_the_ringroad_name
+
+Id: ach_lord_of_the_ringroad_name
+Achievement name for Euro Truck Simulator 2. Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="829938" resname="NEW_ACHIEVEMENT_61_13_DESC">
+        <source>Complete 3 excellent deliveries in this order: Reykjavík - Höfn - Akureyri - Reykjavík</source>
+        <target state="translated">레이캬비크 - 회픈 - 아퀴레이리 - 레이캬비크 순서로 3번 완벽하게 배달해야 합니다</target>
+        <context-group purpose="information">
+          <context context-type="source">ach_lord_of_the_ringroad_desc
+
+Id: ach_lord_of_the_ringroad_desc
+Achievement description for Euro Truck Simulator 2. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="829940" resname="NEW_ACHIEVEMENT_61_13_SHORT">
+        <source>Complete 3 excellent deliveries in this order: Reykjavík - Höfn - Akureyri - Reykjavík</source>
+        <target state="translated">레이캬비크 - 회픈 - 아퀴레이리 - 레이캬비크 순서로 3번 완벽하게 배달해야 합니다</target>
+        <context-group purpose="information">
+          <context context-type="source">ach_lord_of_the_ringroad_short
+
+Id: ach_lord_of_the_ringroad_short
+Short version of achievement description for Euro Truck Simulator 2. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit.</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="829942" resname="NEW_ACHIEVEMENT_61_14_NAME">
+        <source>Outrun the Yule Cat</source>
+        <target state="translated">크리스마스 고양이를 따돌리십시오</target>
+        <context-group purpose="information">
+          <context context-type="source">ach_outrun_the_yule_cat_name
+
+Id: ach_outrun_the_yule_cat_name
+Achievement name for Euro Truck Simulator 2. Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="829944" resname="NEW_ACHIEVEMENT_61_14_DESC">
+        <source>Complete 3 livestock deliveries of sheep to or from 3 different farms in Iceland</source>
+        <target state="translated">아이슬란드의 서로 다른 농장 3곳에서 양을 3회에 걸쳐 배송 또는 수령하십시오</target>
+        <context-group purpose="information">
+          <context context-type="source">ach_outrun_the_yule_cat_desc
+
+Id: ach_outrun_the_yule_cat_desc
+Achievement description for Euro Truck Simulator 2. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+        <note from="JohnnyW" priority="4">The current cargo name for sheep livestock is &quot;Live Sheep&quot;. Should that be used here, instead of just &quot;sheep&quot;?</note>
+        <note from="QL_CZ_P" priority="4">@morrelo Quick question for Czech.
+
+Source: The original wording uses the &quot;to or from&quot; construction.
+
+Expected: I've rephrased the Czech translation to make it sound more natural while preserving both possible directions of transport (origin or destination).
+
+Would you like us to apply this approach to similar strings throughout the game, or is the original construction intentional and should therefore be preserved?</note>
+        <note from="Adam Fojtík (morrelo)" priority="4">@QL_CZ_P While it sounds more natural, for an achievement description it's a bit too lengthy (and we still need the 100-characters-max variant anyways). I would rather use the original construction.</note>
+      </trans-unit>
+      <trans-unit id="829946" resname="NEW_ACHIEVEMENT_61_14_SHORT">
+        <source>Complete 3 livestock deliveries of sheep to or from 3 different farms in Iceland</source>
+        <target state="translated">아이슬란드의 서로 다른 농장 3곳에서 양을 3회에 걸쳐 배송 또는 수령하십시오</target>
+        <context-group purpose="information">
+          <context context-type="source">ach_outrun_the_yule_cat_short
+
+Id: ach_outrun_the_yule_cat_short
+Short version of achievement description for Euro Truck Simulator 2. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit.</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+        <note from="Adam Fojtík (morrelo)" priority="4">@QL_CZ_P Please check the comments in ach_outrun_the_yule_cat_desc, you also omitted the 100-character limit.</note>
+      </trans-unit>
+      <trans-unit id="829948" resname="NEW_ACHIEVEMENT_61_15_NAME">
+        <source>Smooth Start</source>
+        <target state="translated">부드러운 시작</target>
+        <context-group purpose="information">
+          <context context-type="source">ach_smooth_start_name
+
+Id: ach_smooth_start_name
+Achievement name for Euro Truck Simulator 2. Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="829950" resname="NEW_ACHIEVEMENT_61_15_DESC">
+        <source>Complete a coach job with 90% or higher passenger satisfaction</source>
+        <target state="translated">승객 만족도 90% 이상으로 버스 운행 업무를 완료하세요</target>
+        <context-group purpose="information">
+          <context context-type="source">ach_smooth_start_desc
+
+Id: ach_smooth_start_desc
+Achievement description for Euro Truck Simulator 2. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="829952" resname="NEW_ACHIEVEMENT_61_15_SHORT">
+        <source>Complete a coach job with 90% or higher passenger satisfaction</source>
+        <target state="translated">승객 만족도 90% 이상으로 버스 운행 업무를 완료하세요</target>
+        <context-group purpose="information">
+          <context context-type="source">ach_smooth_start_short
+
+Id: ach_smooth_start_short
+Short version of achievement description for Euro Truck Simulator 2. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit.</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="829954" resname="NEW_ACHIEVEMENT_61_16_NAME">
+        <source>Seasoned Traveller</source>
+        <target state="translated">여행 경험이 풍부한 사람</target>
+        <context-group purpose="information">
+          <context context-type="source">ach_seasoned_traveller_name
+
+Id: ach_seasoned_traveller_name
+Achievement name for Euro Truck Simulator 2. Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="829956" resname="NEW_ACHIEVEMENT_61_16_DESC">
+        <source>Drive a total of 5,000 kilometers in your own vehicle during a coach job</source>
+        <target state="translated">코치 업무 기간 동안 본인 차량으로 총 5,000km를 운전하세요</target>
+        <context-group purpose="information">
+          <context context-type="source">ach_seasoned_traveller_desc
+
+Id: ach_seasoned_traveller_desc
+Achievement description for Euro Truck Simulator 2. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="829958" resname="NEW_ACHIEVEMENT_61_16_SHORT">
+        <source>Drive a total of 5,000 kilometers in your own vehicle during a coach job</source>
+        <target state="translated">코치 업무 기간 동안 본인 차량으로 총 5,000km를 운전하세요</target>
+        <context-group purpose="information">
+          <context context-type="source">ach_seasoned_traveller_short
+
+Id: ach_seasoned_traveller_short
+Short version of achievement description for Euro Truck Simulator 2. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit.</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="829960" resname="NEW_ACHIEVEMENT_61_17_NAME">
+        <source>Multitalented Driver</source>
+        <target state="translated">다재다능한 운전기사</target>
+        <context-group purpose="information">
+          <context context-type="source">ach_multitalented_driver_name
+
+Id: ach_multitalented_driver_name
+Achievement name for Euro Truck Simulator 2. Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="829962" resname="NEW_ACHIEVEMENT_61_17_DESC">
+        <source>Spend at least one skill point in each coach skill</source>
+        <target state="translated">코치의 각 스킬에 최소 1포인트씩 투자하세요</target>
+        <context-group purpose="information">
+          <context context-type="source">ach_multitalented_driver_desc
+
+Id: ach_multitalented_driver_desc
+Achievement description for Euro Truck Simulator 2. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="829964" resname="NEW_ACHIEVEMENT_61_17_SHORT">
+        <source>Spend at least one skill point in each coach skill</source>
+        <target state="translated">코치의 각 스킬에 최소 1포인트씩 투자하세요</target>
+        <context-group purpose="information">
+          <context context-type="source">ach_multitalented_driver_short
+
+Id: ach_multitalented_driver_short
+Short version of achievement description for Euro Truck Simulator 2. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit.</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="829966" resname="NEW_ACHIEVEMENT_61_18_NAME">
+        <source>Rule of Threes</source>
+        <target state="translated">3의 법칙</target>
+        <context-group purpose="information">
+          <context context-type="source">ach_rule_of_threes_name
+
+Id: ach_rule_of_threes_name
+Achievement name for Euro Truck Simulator 2. Must fit within 44 characters. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="829968" resname="NEW_ACHIEVEMENT_61_18_DESC">
+        <source>Complete 3 consecutive jobs of at least 300 kilometers each with 100% satisfaction</source>
+        <target state="translated">각각 최소 300km 이상의 거리를 주행하는 작업을 3회 연속으로 100% 만족도로 완료하세요</target>
+        <context-group purpose="information">
+          <context context-type="source">ach_rule_of_threes_desc
+
+Id: ach_rule_of_threes_desc
+Achievement description for Euro Truck Simulator 2. Use the same units as in the English version. Translation can be something corresponding to the idea of the original title in your language or culture. The titles usually have somewhat satirical tone.</context>
+          <context context-type="x-crowdin-label">1.62 Addition</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="829970" resname="NEW_ACHIEVEMENT_61_18_SHORT">
+        <source>Complete 3 consecutive jobs of at least 300 kilometers each with 100% satisfaction</source>
+        <target state="translated">각각 최소 300km 이상의 거리를 주행하는 작업을 3회 연속으로 100% 만족도로 완료하세요</target>
+        <context-group purpose="information">
+          <context context-type="source">ach_rule_of_threes_short
+
+Id: ach_rule_of_threes_short
+Short version of achievement description for Euro Truck Simulator 2. Must fit within 100 characters. If the translation of the standard description already fits, this one can be identical. Otherwise it must be translated and shortened to fit.</context>
           <context context-type="x-crowdin-label">1.62 Addition</context>
         </context-group>
       </trans-unit>
